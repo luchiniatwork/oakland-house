@@ -1,0 +1,11 @@
+{
+  "name": "oakland-house",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "listings/tools"
+  ],
+  "scripts": {
+    "validate": "bun listings/tools/validate.mjs"
+  }
+}

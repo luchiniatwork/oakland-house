@@ -1,0 +1,20 @@
+{
+  "lockfileVersion": 2,
+  "configVersion": 1,
+  "workspaces": {
+    "": {
+      "name": "oakland-house",
+    },
+    "listings/tools": {
+      "name": "listing-tools",
+      "dependencies": {
+        "zod": "^3.23.8",
+      },
+    },
+  },
+  "packages": {
+    "listing-tools": ["listing-tools@workspace:listings/tools"],
+
+    "zod": ["zod@3.25.76", "", {}, "sha512-gzUt/qt81nXsFGKIFcC3YnfEAx5NkunCfnDlvuBSSFS02bcXu4Lmea0AFIUwbLWxWPx3d9p8S5QoaujKcNQxcQ=="],
+  }
+}
