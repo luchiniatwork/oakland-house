@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "slug": "6833-snake",
+  "source": {
+    "url": "https://www.compass.com/homedetails/6833-Snake-Rd-Oakland-CA-94611/1R7GNI_pid/",
+    "mirrorOf": null,
+    "fetchedAt": "2026-10-15T07:38:17Z"
+  },
+  "listing": {
+    "address": "6833 Snake Rd, Oakland, CA 94611",
+    "price": 1675000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2023,
+    "pricePerSqft": 828,
+    "lotAc": 0.22,
+    "dom": 8,
+    "status": "Sold (closed 2026-10-08 at $1,675,000; listed $899,000 2026-08-27, pending 2026-09-04; +86.4% over ask)",
+    "fhsz": "Very High FHSZ (presumptive) — 94611 Montclair hills, Snake Rd corridor inside/near the 1991 Oakland firestorm footprint; verify on CAL FIRE map; always raise insurance-availability flag for Oakland hills zips",
+    "coords": [37.8356171, -122.201897],
+    "elevationFt": 1118.4,
+    "style": "Contemporary / mid-century post-and-beam (1967), two-story on downhill lot plus street-level garage; dark-stained shingle + T1-11 wood siding",
+    "description": "Stunning mid-century hideaway perched in one of the Bay Area's most coveted urban forests, offering a rare blend of architectural artistry & natural serenity. A wall of glass frames sweeping, unobstructed 180-degree views of Oakland, Emeryville, San Francisco, Marin, Alcatraz & both the Golden Gate & Bay Bridges. Original, organic architecture shines throughout w/ an open floorplan, dramatic exposed beams & a striking cedar accent wall that greets you upon entry, filling the space w/ the warm scent of natural wood. Recently updated kitchen features leathered stone counters & stainless appliances, surrounded by the home's natural materials & character. Thoughtfully designed two-level living offers wonderful separation of space, w/ wrap-around decks on both levels inviting you to soak in bay views from sunrise to sunset. Majestic trees frame the property on all sides for a true sense of retreat, just minutes from everyday convenience. Large two-car garage adds practicality, while the location delivers the best of both worlds: moments from hiking & biking trails & the shops & restaurants of Montclair Village. Quick access to Hwy 13 places San Francisco, Lamorinda & the 580 corridor all within easy reach. More than a home, this is a retreat you'll never want to leave."
+  },
+  "scores": {
+    "view": {
+      "score": 4.5,
+      "note": "Real living-level bay/city views on BOTH levels (p_02, p_16, p_31, p_44), west-facing sunset (p_01), telephotos verify GG + Bay + Richmond-San Rafael bridges (p_50, p_51, p_49); partly tree-filtered at eye level — not the 'unobstructed 180°' marketing claims."
+    },
+    "natural_light": {
+      "score": 4.5,
+      "note": "Full west glass wall + sliders, skylights (p_04, p_07), bright open plan (p_02, p_16); lower bedrooms still get sliders and real light (p_33, p_35, p_37); no dark rooms seen."
+    },
+    "character": {
+      "score": 5,
+      "note": "Authentic 1967 MCM: post-and-beam vaulted ceilings, cedar accent wall (p_03, p_06), slab wood doors (p_40), black steel rails, glass walls (p_02, p_16); reads architect-designed, not tract."
+    },
+    "kitchen": {
+      "score": 4,
+      "note": "Recent tasteful reno: leathered dark counters, green tile, NXR 5-burner gas range + hood (p_13, p_14), garden window over farmhouse sink (p_12), island/bar (p_09, p_10); compact 10x8.5 footprint and value-tier appliances hold it below 5."
+    },
+    "privacy": {
+      "score": 3,
+      "note": "View side is a private tree canyon, but side neighbors sit ~30-40 ft away with direct sightlines onto decks (p_28, p_29) and the house hangs below the street (p_26, p_52); kitchen/deck activity visible to uphill neighbors."
+    },
+    "layout_flow": {
+      "score": 4,
+      "note": "Open living-dining-kitchen around a central stair (p_07, p_15), decks wrap three sides (p_53 floor plan), 2+2 beds over two levels; daily life means stairs (entry at main level, garage at street above, primary suite below)."
+    },
+    "primary_suite": {
+      "score": 3.5,
+      "note": "True en-suite reads as the lower-level bedroom w/ slider + view (p_37, p_40, p_41 bath via slab door, p_46 laundry adjacent) per floor plan's basement ENS (p_53); main-level bedrooms are smaller and share the hall bath (p_22)."
+    },
+    "outdoor_space": {
+      "score": 4.5,
+      "note": "Two stacked wraparound decks (~80+ linear ft total, p_01, p_20, p_26, p_43, p_44), dining + lounge zones, redwoods piercing the deck (p_01, p_28); no usable ground-level yard (steep lot)."
+    },
+    "condition": {
+      "score": 4,
+      "note": "Interiors renovated to a high standard (kitchen, both baths p_22/p_41, floors, laundry w/ new LG pair p_46); exterior cladding is older T1-11 + stained shakes (p_30, p_52), deck joists/skylights/flat garage-roof sections uninspected; systems age unknown."
+    },
+    "lot_usability": {
+      "score": 2,
+      "note": "0.22 ac but a steep triangular downhill parcel (p_47 drone, p_53 site plan): usable outdoor = decks only; brushy slope below decks (p_43); no flat lawn, no ADU pad."
+    }
+  },
+  "weightedTotal": 4,
+  "verdict": "A genuine architectural view house: 1967 post-and-beam MCM with real two-level bay-to-Golden-Gate views, wraparound decks, and a recently renovated interior — trading a usable yard, side privacy, and fire-hardened construction for treetop living on a steep, below-street lot in the Very High fire zone. The market agreed violently: it closed at $1.675M, 86% over the $899K bait price. As a comp it sets the ceiling for the buyer's view-quality benchmark near Snake Rd; as a target, anything similar hitting the market will require a same-week decision and an insurance quote before offer.",
+  "flags": [
+    "🔴 SOLD 2026-10-08 at $1,675,000 — +86.4% over the $899,000 list; not an active opportunity, treat as a market/quality benchmark comp",
+    "🔥 Very High FHSZ (presumptive) + combustible envelope: wood decks on both levels, wood shingle/T1-11 siding, wood decks over dry brushy slope (p_43); INSURANCE QUOTE BEFORE OFFER is mandatory",
+    "🌲 Vegetation at structure: mature redwood grows through deck cutout (p_01, p_17), eucalyptus+grove across canyon (p_27), dry grass/broom slope below lower deck (p_43)",
+    "🏠 Downhill house below street w/ decks on tall posts (p_47, p_52): inspect deck ledgers, posts, and foundation/drainage; seismic bolts unknown",
+    "🪟 Skylights (p_04, p_07) + low-slope/mansard shake roof + flat garage-top section (p_05, p_52): leak points; roof age unknown",
+    "📍 Census geocoder disagrees with page coords by ~237 ft (geocoder 37.835049,-122.202297 at 1,100 ft elev vs Compass parcel 37.835617,-122.201897 at 1,118 ft) — trust parcel pin, verify on county GIS",
+    "⚠️ Marketing overreach: 'unobstructed 180°' and a 'Waterfront' amenity tag are not supported — views are real but tree-framed (p_02, p_16, p_31)"
+  ],
+  "positives": [
+    "Living-level views verified from BOTH floors (p_16, p_31, p_44) — not just drone shots; sunset faces the deck (p_01)",
+    "Authentic MCM architecture: post-and-beam, cedar wall, glass walls (p_02, p_03, p_06)",
+    "Recently renovated kitchen (p_09-p_15) and two baths (p_22, p_41, p_42) to a coherent, non-flip standard",
+    "4 real bedrooms per floor plan — all windowed, all w/ closets (p_53); no office fudge",
+    "Full-house deck system wraps 3 sides on main level (p_53), plus lower deck — exceptional indoor-outdoor flow",
+    "New LG laundry room w/ patterned tile + folding counter (p_46)",
+    "2-car garage at street + package/walk path (p_52); Montclair Village + Hwy 13 close (area amenity)"
+  ],
+  "orientationInference": "View side faces W to WNW across the canyon toward the bay (sunset over bay in p_01; deck/bridge telephotos p_49-p_51; floor-plan N arrow puts balcony on the west side, street/garage east). Afternoon sun, tree-filtered; morning light from the street side. Inference from photos + plan, not verified in person.",
+  "photos": [
+    { "file": "photos/p_01.jpg", "note": "Twilight main deck: big redwood through deck cutout, cable rail, sunset over distant bay/city — west-facing view side confirmed; wood deck in FHSZ" },
+    { "file": "photos/p_02.jpg", "note": "Living room wall of glass: post-and-beam vaulted ceiling, tree-framed bay view at eye level, sliders to deck; midday bright" },
+    { "file": "photos/p_03.jpg", "note": "Living room reverse: cedar accent wall, open stairwell w/ steel rail down, possible mini-split head high on wall, light oak floors" },
+    { "file": "photos/p_04.jpg", "note": "Living wide from glass wall: entry door, skylight in flat beamed ceiling, stairwell opening, bright daylight" },
+    { "file": "photos/p_05.jpg", "note": "Twilight exterior: 3-level downhill profile, dark shake mansard bands, glowing glass, neighbors 15-25 ft each side, huge redwoods crowding the house; flat garage-roof section visible" },
+    { "file": "photos/p_06.jpg", "note": "Cedar wall vignette: window reveals neighbor's shingled house ~35 ft away — side-privacy limit from living area" },
+    { "file": "photos/p_07.jpg", "note": "Living toward kitchen: open plan, beams, skylight, dark cabinetry beyond; good flow entry-to-kitchen" },
+    { "file": "photos/p_08.jpg", "note": "Dining + kitchen: window over sink faces green side slope + neighbor fence; garden window w/ plants" },
+    { "file": "photos/p_09.jpg", "note": "Kitchen: dark green-gray shaker cabs, green tile splash, leathered dark counters, island w/ stools, stainless fridge/range" },
+    { "file": "photos/p_10.jpg", "note": "Kitchen full run: 30\" gas range + hood, dishwasher, island w/ leathered stone; compact but efficient galley" },
+    { "file": "photos/p_11.jpg", "note": "Dining nook: lantern pendant, slider/window onto side greenery; warm and bright" },
+    { "file": "photos/p_12.jpg", "note": "Sink detail: garden window shelves w/ potted plants, farmhouse sink, quality faucet, leathered counter texture visible" },
+    { "file": "photos/p_13.jpg", "note": "Kitchen from window side: angled full-height glazing, glass-front uppers, pro-style 5-burner gas range" },
+    { "file": "photos/p_14.jpg", "note": "Range close-up: NXR hood + NXR 5-burner range (value-tier pro style), zellige-look green tile" },
+    { "file": "photos/p_15.jpg", "note": "Dining back to living: continuous open plan, cedar wall, slider to deck — indoor-outdoor linkage verified" },
+    { "file": "photos/p_16.jpg", "note": "Cathedral living shot: beam rhythm, glass wall with REAL bay + hills view at living level, deck chairs beyond, kitchen right" },
+    { "file": "photos/p_17.jpg", "note": "Sofa vignette: massive redwood trunk immediately outside glass; bay glimpse left; vegetation touches envelope" },
+    { "file": "photos/p_18.jpg", "note": "Bedroom (main level): slider to wraparound deck, view into uphill dry-needle slope + tree trunks; vaulted beams; moderate-bright" },
+    { "file": "photos/p_19.jpg", "note": "Same bedroom reverse: door frames living room + bay beyond — main-level bed shares living sightlines; deck access" },
+    { "file": "photos/p_20.jpg", "note": "Long side deck: dry slope + leaf litter below, leaning oaks, neighbor decks/umbrella ~30-40 ft; cable rail, narrow 4-5 ft run" },
+    { "file": "photos/p_21.jpg", "note": "Bedroom wall of louvered closets, beam ceiling, warm oak floor — good storage" },
+    { "file": "photos/p_22.jpg", "note": "Main bath: renovated — teal wall, frameless glass walk-in shower w/ rain head + bench, stone-look tile, transom window" },
+    { "file": "photos/p_23.jpg", "note": "Bedroom 2 (main level): flat ceiling, small casement window onto deck/woods, desk corner; moderate light" },
+    { "file": "photos/p_24.jpg", "note": "Bedroom 2 detail: window beside bed onto deck rail + trees; cozy scale" },
+    { "file": "photos/p_25.jpg", "note": "Bedroom 2 reverse: window shows street/driveway uphill w/ parked car — house sits below road; louvered closets, door to living" },
+    { "file": "photos/p_26.jpg", "note": "Daytime deck exterior: wraparound deck, glass reflections, street + parked SUV visible uphill; neighbor w/ orange umbrella ~30 ft" },
+    { "file": "photos/p_27.jpg", "note": "Deck view along facade: tree canyon w/ eucalyptus on far slope, rooftops below, faint bay on horizon left; houses stacked above" },
+    { "file": "photos/p_28.jpg", "note": "Deck corner vs neighbor: redwood trunks through deck, neighbor's brown-shake house ~40-50 ft across gap" },
+    { "file": "photos/p_29.jpg", "note": "Neighbor proximity: aging shake roof house w/ window facing this deck ~35 ft — mutual sightlines" },
+    { "file": "photos/p_30.jpg", "note": "Main-level deck dining run: dark-stained T1-11 siding, slider row, loungers at end; long usable deck" },
+    { "file": "photos/p_31.jpg", "note": "Daylight deck money shot: wide hills view to distant bay/shore at railing level, dining table — living-level view verified" },
+    { "file": "photos/p_32.jpg", "note": "Lower level entry: oak stairs down, cedar wall w/ tall window, doorway to bedroom 3 w/ slider + green view; bright stairwell" },
+    { "file": "photos/p_33.jpg", "note": "Lower bedroom 3: roomy, slider to lower deck, desk corner, white dresser; real light" },
+    { "file": "photos/p_34.jpg", "note": "Bedroom 3 desk vignette: slider w/ redwood trunk + bay sliver, picnic table on lower deck" },
+    { "file": "photos/p_35.jpg", "note": "Lower bedroom staged w/ two twins: wide slider + deck, tree-framed bay view from LOWER level — views not only upstairs" },
+    { "file": "photos/p_36.jpg", "note": "Same room reverse: dresser, monstera, door to lower hall; consistent finish" },
+    { "file": "photos/p_37.jpg", "note": "Lower large bedroom: long slider + deck, green canyon + bay sliver, flat ceiling; primary-suite scale" },
+    { "file": "photos/p_38.jpg", "note": "Same bed detail: clerestory slot beside bed + slider; calm" },
+    { "file": "photos/p_39.jpg", "note": "Same room: full-wall sliding closet doors, deck beyond — big storage" },
+    { "file": "photos/p_40.jpg", "note": "Lower bedroom toward ENS: wood slab door open to en-suite bath; dresser, art; reads as the true primary suite (lower level)" },
+    { "file": "photos/p_41.jpg", "note": "Ensuite bath: marble-look tile, tub/shower combo w/ glass, med cabinet, wood vanity; renovated" },
+    { "file": "photos/p_42.jpg", "note": "Bath niche detail: stacked mosaic shelf, modern chrome valve — finish quality solid" },
+    { "file": "photos/p_43.jpg", "note": "Lower deck under main deck: exposed joists overhead, dry broom/grass slope directly below — fuel near decks; potted cactus" },
+    { "file": "photos/p_44.jpg", "note": "Lower deck view end: full bay panorama again from lower level — two view floors confirmed" },
+    { "file": "photos/p_45.jpg", "note": "Lower deck chair vignette toward trees + across-canyon homes" },
+    { "file": "photos/p_46.jpg", "note": "Laundry room: new LG ThinQ pair, patterned cement-look tile, folding counter, shelves — recently done" },
+    { "file": "photos/p_47.jpg", "note": "DRONE over house: dark-shake 3-level house center, redwood canopy by decks, terraced VINEYARD across canyon, dense hillside housing + tall conifers everywhere (area context)" },
+    { "file": "photos/p_48.jpg", "note": "DRONE high shot: SF skyline faint left, bay + Marin headlands, sea of trees below — altitude-flattered but directionally honest vs deck views" },
+    { "file": "photos/p_49.jpg", "note": "Telephoto: Richmond-San Rafael Bridge + San Pablo Bay + Marin hills over redwood tops — north span of the panorama" },
+    { "file": "photos/p_50.jpg", "note": "Telephoto: both Bay Bridge spans, Port of Oakland, Alcatraz — center span; tree frame at top" },
+    { "file": "photos/p_51.jpg", "note": "Telephoto: Golden Gate + Bay Bridge + port cranes in one frame — 'both bridges' claim verified, though zoomed beyond naked-eye feel" },
+    { "file": "photos/p_52.jpg", "note": "Twilight street approach: 2-car garage w/ wood door AT STREET, house steps down below road, glowing interiors, shake mansard roof, for-sale sign" },
+    { "file": "photos/p_53.jpg", "note": "Floor plan: main level = 2 beds/1 bath + open living + wrap deck; lower 'basement' = 2 beds + ENS + laundry + deck; garage at street above; 2,023 sf; triangular lot" }
+  ],
+  "crosschecks": [
+    { "check": "Marketing claims vs photos", "result": "Mostly verified: glass wall + beams + cedar (p_02, p_03), updated kitchen (p_09-p_15), wrap decks both levels (p_20, p_43), 'both bridges' verified by telephoto (p_50, p_51). Overstated: 'unobstructed 180°' — views are real but tree-framed at eye level; 'Waterfront' amenity tag is false (hillside, ~3 mi from shore); drone shot p_48 flatters beyond deck reality but is corroborated by deck shots p_31/p_44. Honest listing overall with normal agent adjectives." },
+    { "check": "Geocoder vs page coords", "result": "FLAG: Census (37.8350493, -122.2022966) vs Compass parcel (37.8356171, -122.201897) are ~237 ft apart; elevations 1,100 ft vs 1,118 ft. 237 ft > 150 ft threshold. Parcel pin kept as canonical; likely geocoder snapped to street segment centroid." },
+    { "check": "Elevation / micro-market", "result": "1,118 ft on Snake Rd, Montclair Hills — ~120 ft above the 6401-snake reference comp (998 ft) and 2.5x its size (2,023 sf vs 1,379 sf); closed $1.675M = $828/sf vs that listing's $998K ask ($724/sf). Neighbors on street sold for $2.1M (4bd/3ba, 2,110 sf, verified) and $1.35M (3bd/2ba, 2,002 sf) per Compass nearby-sales data — ~$790-995/sf band; this close is in-band, not an outlier." },
+    { "check": "Orientation", "result": "View side W-WNW: sunset-over-bay deck shot (p_01), bridge telephotos (p_49-p_51), floor-plan north arrow places balcony west, driveway/garage east (p_53). Afternoon sun, tree-filtered. Labeled inference — photo+plan corroboration, not compass-verified." },
+    { "check": "FHSZ / insurance", "result": "94611 Montclair = Very High FHSZ (presumptive); Snake Rd corridor inside/near the 1991 firestorm footprint; wood decks + shake siding + steep brushy lot compound exposure. Insurance-availability flag raised; FAIR Plan risk real. Verify designation on the CAL FIRE FHSZ map before any comparable offer." },
+    { "check": "Amenity claims", "result": "Montclair Village ~1.5 mi downhill — plausible 'minutes' claim (area amenity, not property feature); Hwy 13 access immediate (Snake Rd parallels it). 'Hiking & biking trails' = Sibley/Huckleberry preserves ~2 mi up-ridge — plausibly minutes by car. Vineyard across canyon visible in drone shot (p_47) is a nice surprise, uncredited in copy." },
+    { "check": "Bed/bath count legitimacy", "result": "Legitimate 4bd: floor plan (p_53) shows 2 beds main level + 2 beds lower level, all windowed w/ closets; photos corroborate 4 distinct staged bedrooms (p_18/23, p_33-35, p_37-40). 2 full baths only (main hall + lower ENS) — 4bd/2ba is bath-scarce at $1.7M; only bedroom adjacency quirk is the ENS sitting off the lower-level suite." },
+    { "check": "Photo provenance", "result": "Compass/ColdwellBanker/realtor mirror galleries collapsed to 1 photo post-sale; full 53-photo set recovered from listing agent's own site (cushrealestate.com) incl. floor plan; Zillow claims 55 (incl. 2 cropped variants not recovered). 53/53 downloaded; no missing-photo confidence penalty beyond the 2 uncorroborated variants." }
+  ]
+}
