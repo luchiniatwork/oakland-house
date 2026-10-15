@@ -1,0 +1,15 @@
+# 5924 Balboa Dr — Cross-check table
+
+| Check | Result |
+|---|---|
+| Marketing claims vs photos | **Mostly verified, three named oversells.** Confirmed: treetop canyon setting (p_31–34), renovated oak/quartz kitchen (p_14–19), two renovated baths (p_26, p_30), dual-pane windows, 2023-era comp roof (p_37, p_44). Oversold: "light-filled" (living room + bedrooms are lamp-dependent, p_07–12, p_21–24); "incredible views from the shower" (bath window = sky + treetops only, p_30); "parking pad" (reserved curbside street pads, no driveway/garage, p_39–40). Dishonest-by-feed: amenity tag "Waterfront" — flat false. Drone bay/SF horizons (p_41–44) are altitude-only, not living-level views. |
+| Geocoder vs page coords | **Flag (borderline):** Census geocoder (37.831417, -122.200771) vs Compass pin (37.8310157, -122.2005893) disagree by ~155 ft, just past the ~150 ft threshold; both resolve to the same Balboa Dr hillside (parcel-centroid vs rooftop offset). |
+| Elevation / micro-market | 984.6 ft EPQS at page coords (1007.2 ft at geocoder coords — consistent with slope). Montclair Hills. Priced 22% below reference comp 6401 Snake Rd ($998k, wt 4.2) — also smaller (923 vs 1379 sf) and no bay view. Own history: sold $962,500 Feb-2023; now $699k after prior list/withdraw cycles at $895k/$849k in earlier MLS runs. |
+| Orientation | Corroborated: drone bearings put the downhill canyon toward the Oakland/SF bay skyline (p_41–43); dusk shots show sunset glow through that same tree line (p_37–38). Deck/canyon side ≈ W–SW, afternoon sun filtered by canopy (inference). |
+| FHSZ / insurance | **Very High FHSZ (presumptive)** — 94611 Montclair, inside 1991 Oakland firestorm footprint (verify on CAL FIRE viewer). Insurance-availability flag raised: expect FAIR Plan + wrap policy; heavy eucalyptus canopy raises mitigation/defensible-space cost. |
+| Amenity claims | "Minutes from Montclair Village, cafés, shops, trails" — plausible and credited as **area amenity**: village ~0.5–0.7 mi downhill on Moraga Ave; Sibley/Huckleberry/Redwood trails nearby. No onsite amenity fabrication. |
+| Bed/bath count legitimacy | **Legitimate 2bd/2ba:** floor plan (p_45–46) shows two real bedrooms (11'2"×11'9", 14'10"×10'9") each with window + closet, two full baths. No "office as bedroom" fudge. Discrepancy: measured 890 sf vs marketed 923 sf. |
+| Power lines (buyer-sensitive) | **Flag:** lattice high-voltage transmission towers + cleared corridor immediately downhill of the lot (p_41–44); distribution lines also at street (p_01, p_39). Verify easement/setback and EMF comfort on site. |
+| Foundation / roof / windows (buyer-sensitive) | **Stilt/post-and-pier confirmed:** tall braced timber posts under downhill half + cantilevered deck (p_36–37) — structural inspection + permit pull recommended. Positives: pitched comp roof (no flat roof), no jalousie windows in any photo, no adjacent scaffolding/construction. |
+
+**Artifact trail:** raw page + full-res photos at `/tmp/analyze-listing/5924-balboa/`; canonical bundle at `listings/5924-balboa/`.
