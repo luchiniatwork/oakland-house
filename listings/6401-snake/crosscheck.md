@@ -1,0 +1,12 @@
+# Cross-check table — 6401 Snake Rd, Oakland, CA 94611
+
+| Check | Result |
+|---|---|
+| Marketing claims vs photos | **Mostly verified, honest listing.** "Sweeping panoramic views" confirmed at living level — SF + Bay Bridge + GG + Richmond bridges from great-room glass wall and full-width deck (p_03, p_04, p_11, p_27, p_28). "2 Bedrooms + Office/Bonus Room" is accurate — office marketed as office, not a fake 3rd bedroom (p_21, p_22). "Double-pane windows" only partially true — original jalousie louvered windows remain in the living room (p_10). "Freshly painted inside and out / refinished bamboo and maple floors" confirmed (p_05, p_08, p_16). p_26 is a drone-altitude pano wider than the real deck view — the only marketing stretch, and the living-level view backs the claim anyway. |
+| Geocoder vs page coords | **Agree.** Page: (37.8331644, -122.2076161); Census geocoder: (37.8328899, -122.2075679) — ~101 ft apart, within the 150 ft tolerance. |
+| Elevation / micro-market | **997.8 ft (USGS EPQS)** — near-ridge Montclair, upper Snake Rd view corridor. That altitude over the canyon explains the unobstructed panorama and the W-WNW sunset exposure. |
+| Orientation | **Corroborated.** SF skyline, both bridges and Marin headlands in frame plus two sunset exposures (p_03, p_28) = view side faces W-WNW; afternoon/evening sun on the deck; canyon views to the SE at the dining end (p_25). Inference from photos + map. |
+| FHSZ / insurance | **Very High FHSZ (presumptive)** — 94611 Montclair, inside the 1991 Oakland firestorm footprint. Insurance availability flag raised: quote insurance (incl. FAIR Plan fallback) before relying on this house. Wood siding + large wood deck + dry grass slope below (p_02, p_13) raise mitigation cost. |
+| Amenity claims | "Redwood Regional Park nearby" — plausible: Snake Rd runs to Skyline Blvd park entrances (~1–2 mi). Credited as an area amenity, not a property feature. No drone-village shots in this set. |
+| Bed/bath count legitimacy | **Real 2-bed + honest office.** Lower bedroom 2 has a window and full closet wall (p_19, p_20). The office/bonus room has a window but sits partly under the main deck with a high horizontal window (p_21, p_22) — correctly marketed as office/bonus, not a bedroom fudge. 2 full baths confirmed (p_18, p_23). |
+| Price / DOM sanity | $998k / 1,379 sqft = $724/sf. Premium to the saved comp 7094 Pinehaven ($795k, 3.4 score, no bay view) is explained by the living-level panorama + finished lower level; pending after 12 DOM corroborates market pricing. |

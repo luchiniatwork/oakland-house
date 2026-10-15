@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "slug": "6401-snake",
+  "source": {
+    "url": "https://www.compass.com/homedetails/6401-Snake-Rd-Oakland-CA-94611/1QOHKQ_pid/",
+    "mirrorOf": null,
+    "fetchedAt": "2026-10-15T01:56:00Z"
+  },
+  "listing": {
+    "address": "6401 Snake Rd, Oakland, CA 94611",
+    "price": 998000,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1379,
+    "pricePerSqft": 724,
+    "lotAc": 0.13,
+    "dom": 12,
+    "status": "Pending",
+    "fhsz": "Very High FHSZ (presumptive) \u2014 94611 Montclair, inside 1991 Oakland firestorm footprint; verify insurance availability",
+    "coords": [
+      37.8331644,
+      -122.2076161
+    ],
+    "elevationFt": 997.8,
+    "style": "Mid-Century Modern, post-and-beam (built 1954)",
+    "description": "Sweeping panoramic views! 2 Bedrooms + Office/Bonus Room | 2 Bathrooms | 2-Car Garage  Perched high in the coveted Montclair hills, this sleek Mid-Century Modern retreat pairs clean architectural lines with truly breathtaking Bay views. From the moment you enter, floor-to-ceiling glass frames a spectacular panorama encompassing the San Francisco\u2013Oakland Bay Bridge, Golden Gate Bridge and Richmond\u2013San Rafael Bridge, along with Angel Island, Mt. Tamalpais and the Marin hills. The light-filled, open-concept main level is designed around the view, with a spacious living room featuring an electric fireplace and home theater, dining area and modern kitchen flowing effortlessly to an expansive deck spanning the width of the home. It\u2019s an extraordinary setting for entertaining, dining alfresco or watching unforgettable sunsets over the Bay. The primary ensuite is on the upper level, with an additional bedroom, office/bonus room and laundry downstairs. A second, private shaded deck and fenced rear yard provide additional outdoor living space. Freshly painted inside and out, the home features beautifully refinished bamboo and maple wood floors, double-pane windows, quality finishes and appliances, a two-car garage with new automatic door, easy driveway access and ample guest parking. A private front garden and peaceful hillside setting create a wonderful sense of retreat, while Redwood Regional Park and miles of hiking and biking trails are nearby. A special Mid-Century home where architecture, privacy, indoor-outdoor living and extraordinary Bay Area views come together."
+  },
+  "scores": {
+    "view": {
+      "score": 5.0,
+      "note": "True living-level 3-bridge bay panorama (SF, Bay, GG, Richmond bridges) from great-room glass wall and full-width deck \u2014 p_03, p_04, p_11, p_27, p_28; p_26 is drone-altitude only"
+    },
+    "natural_light": {
+      "score": 4.0,
+      "note": "Floor-to-ceiling glass on entire view side + kitchen skylights + strong afternoon sun patches (p_09, p_11, p_14); lower level relies on smaller/high windows (p_19, p_22)"
+    },
+    "character": {
+      "score": 4.0,
+      "note": "Authentic 1954 post-and-beam MCM: open-beam ceilings, board-and-batten, glass walls, chartreuse door (p_01, p_05, p_09, p_11, p_17)"
+    },
+    "kitchen": {
+      "score": 4.0,
+      "note": "Updated white shaker + black counters, peninsula, skylights, wall oven; opens to dining/deck (p_11, p_14, p_16); Frigidaire = mid-tier appliances"
+    },
+    "privacy": {
+      "score": 3.5,
+      "note": "Private entry courtyard + fenced rear (p_05-p_07), canyon-side deck; but close uphill neighbor overlooks rear deck (p_02, p_12) and another house ~15-20 ft to the side (p_12)"
+    },
+    "layout_flow": {
+      "score": 4.0,
+      "note": "Open LDK main level flows to full-width deck (p_11, p_13); primary on main level; bed 2 + office/laundry below via interior stair (p_08, p_19-p_22)"
+    },
+    "primary_suite": {
+      "score": 4.5,
+      "note": "View-side primary w/ 3 glass doors to deck, open-beam ceiling, updated ensuite w/ generous storage (p_17, p_18)"
+    },
+    "outdoor_space": {
+      "score": 4.5,
+      "note": "Expansive composite main deck spanning house width + second shaded lower deck + fenced rear yard + private front courtyard (p_05, p_13, p_24, p_25)"
+    },
+    "condition": {
+      "score": 4.0,
+      "note": "Freshly painted in/out, refinished bamboo/maple floors, double-pane windows, new garage door (p_01, p_08, p_16); flat roof age unknown, jalousie windows remain (p_10)"
+    },
+    "lot_usability": {
+      "score": 3.0,
+      "note": "0.13 ac hillside lot; usable flat area is decks + small fenced rear yard; much of lot is sloped/dry grass below deck (p_02)"
+    }
+  },
+  "weightedTotal": 4.2,
+  "verdict": "This house is the view trade: you give up square footage (1,379 sqft), hillside lot usability, and fire-zone peace of mind for a genuine living-level panoramic bay view most $1M Oakland hills listings only fake with drone shots. The 1954 post-and-beam bones, refreshed finishes, huge west-facing deck, and view-side primary suite deliver exactly the architecture + indoor-outdoor + light the brief calls for \u2014 at the cost of a flat roof, jalousie windows, power lines at the deck line, and Very High FHSZ insurance exposure. It pended in 12 days for a reason.",
+  "flags": [
+    "\ud83d\udd25 Very High FHSZ (presumptive) \u2014 94611 Montclair, inside 1991 Oakland firestorm footprint; expect insurance shopping/FAIR Plan; get quotes before removing contingencies",
+    "\ud83c\udfe0 Flat composition roof (p_01, p_02) \u2014 age/condition unknown; pooling risk, budget inspection + eventual re-roof",
+    "\ud83e\udeb5 Stilt/post-supported deck + hillside foundation on slope (p_02, p_24) \u2014 seismic/retaining inspection warranted",
+    "\ud83e\ude9f Jalousie louvered windows in living room (p_10) \u2014 leaky, security + fire-ember concerns",
+    "\u26a1 Power pole + lines adjacent to view-side deck (p_02, p_12, p_13) \u2014 EMF/aesthetic concern, lines cross the view",
+    "\ud83c\udf32 Wood siding + big wood deck + dry grass slope below (p_02, p_13) \u2014 defensible space work needed in fire country",
+    "\u23f3 Status Pending after 12 DOM \u2014 odds of winning are low; treat as comp data + backup-offer candidates only"
+  ],
+  "positives": [
+    "Verified 3-bridge bay panorama at living level, not drone-only (p_03, p_04, p_11, p_27, p_28)",
+    "Authentic 1954 post-and-beam MCM w/ open-beam ceilings and glass walls (p_09, p_11, p_17)",
+    "Full-width west-facing deck + second shaded deck + fenced yard + private courtyard (p_13, p_24)",
+    "Freshly painted inside/out, refinished bamboo/maple floors, double-pane windows, new garage door",
+    "View-side primary suite w/ deck access and updated ensuite (p_17, p_18)",
+    "2-car garage + driveway + guest parking \u2014 rare convenience on Snake Rd",
+    "Near Redwood Regional Park trailheads"
+  ],
+  "orientationInference": "View side faces W-WNW (SF skyline, both bridges, Marin headlands in frame; sunset shots p_03/p_28 lit from the west) \u2014 afternoon/evening sun on deck, tree-filtered canyon views SE from dining end. Inference from photos + map, not verified in person.",
+  "photos": [
+    {
+      "file": "photos/p_01.jpg",
+      "note": "Street/drone view: 1954 post-and-beam MCM, FLAT composition roof, 2-car garage, slat fence, wooded canyon hills behind \u2014 flat roof flagged"
+    },
+    {
+      "file": "photos/p_02.jpg",
+      "note": "Rear aerial: full-width wood deck on tall posts over slope; uphill neighbor close above; POWER LINES + pole visible at street side; flat roof confirmed"
+    },
+    {
+      "file": "photos/p_03.jpg",
+      "note": "Sunset panorama: SF skyline, Bay Bridge, GG + Richmond bridges, Marin \u2014 from deck level, west-facing"
+    },
+    {
+      "file": "photos/p_04.jpg",
+      "note": "Daytime deck-level panorama: SF skyline + Bay Bridge + bay to Marin; true living-level view, extraordinary"
+    },
+    {
+      "file": "photos/p_05.jpg",
+      "note": "Front courtyard: board-and-batten freshly painted, chartreuse door, xeriscape/agave, private; clerestory + post-beam"
+    },
+    {
+      "file": "photos/p_06.jpg",
+      "note": "Entry walkway: composite deck path, sliders + big window into bright living area, gate at end; very private"
+    },
+    {
+      "file": "photos/p_07.jpg",
+      "note": "Front door detail: chartreuse MCM door, board-and-batten, covered entry, crisp condition"
+    },
+    {
+      "file": "photos/p_08.jpg",
+      "note": "Entry foyer: refinished bamboo floors, black metal stair rail down, view-side window"
+    },
+    {
+      "file": "photos/p_09.jpg",
+      "note": "Living room: white open-beam ceiling, sun patches on floor, picture window to deck \u2014 bright afternoon light"
+    },
+    {
+      "file": "photos/p_10.jpg",
+      "note": "Living room other end: JALOUSIE louvered windows (flagged), fireplace, mini-split AC head, sun stripe \u2014 light good"
+    },
+    {
+      "file": "photos/p_11.jpg",
+      "note": "Dining+kitchen: floor-to-ceiling glass w/ sliders to full-width deck, hills+bay view; open-beam ceiling; strong indoor-outdoor flow"
+    },
+    {
+      "file": "photos/p_12.jpg",
+      "note": "Deck looking back: sliders w/ view reflections; power pole above roofline right; neighbor house ~15-20 ft beyond fence; wood siding in fire country"
+    },
+    {
+      "file": "photos/p_13.jpg",
+      "note": "Full-width main deck: lounge + dining sets, retaining wall/planter right, POWER POLE + lines at deck level (flagged), canyon view"
+    },
+    {
+      "file": "photos/p_14.jpg",
+      "note": "Kitchen: white shaker cabs, black counters, two flush skylights, pendants, peninsula; morning sun stripes \u2014 updated mid-tier"
+    },
+    {
+      "file": "photos/p_15.jpg",
+      "note": "Kitchen sink window: looks to upslope planted hillside + neighbor structure above; partially tree-filtered, decent privacy"
+    },
+    {
+      "file": "photos/p_16.jpg",
+      "note": "Kitchen fridge/oven wall: Frigidaire wall oven (mid-tier), panel-front fridge, opens to living room"
+    },
+    {
+      "file": "photos/p_17.jpg",
+      "note": "Primary bedroom: open-beam ceiling, 3 view-side glass doors to deck, mirrored closet wall, jute rug over wood floor \u2014 bright, view-facing"
+    },
+    {
+      "file": "photos/p_18.jpg",
+      "note": "Primary ensuite: updated vanity + tall linen cabs, glass shower w/ stone-look tile, marble-look floor \u2014 clean mid-tier reno"
+    },
+    {
+      "file": "photos/p_19.jpg",
+      "note": "Lower bedroom 2: recessed lights, big closet wall, single horizontal window \u2014 moderate light only"
+    },
+    {
+      "file": "photos/p_20.jpg",
+      "note": "Bedroom 2 reverse: bamboo floors, opens toward office/bonus room; clean refreshed drywall/paint"
+    },
+    {
+      "file": "photos/p_21.jpg",
+      "note": "Office/bonus room: white, one window w/ tree view, desk + chaise \u2014 functional 3rd flex space, honest as office not bedroom"
+    },
+    {
+      "file": "photos/p_22.jpg",
+      "note": "Office window: high horizontal window under deck joists above, greenery + fence beyond \u2014 moderate light, below-grade feel"
+    },
+    {
+      "file": "photos/p_23.jpg",
+      "note": "Lower bath: wall-hung vanity, round mirror, tub/shower w/ slider, b/w tile floor \u2014 updated"
+    },
+    {
+      "file": "photos/p_24.jpg",
+      "note": "Main deck wide: cable rail, lounge set, dining set far end, hills across canyon + bay glimpse; partial roof-overhang shade"
+    },
+    {
+      "file": "photos/p_25.jpg",
+      "note": "Deck dining corner: forested canyon hills view, electrical panel on wall behind, slat screen; treetop privacy"
+    },
+    {
+      "file": "photos/p_26.jpg",
+      "note": "Drone-elevated pano: wider than deck view (looks down on surrounding slopes) \u2014 drone-altitude shot, not living-level"
+    },
+    {
+      "file": "photos/p_27.jpg",
+      "note": "Sweeping SF + Bay Bridge + fog pano: consistent with living-level p_04, corroborates west-facing view"
+    },
+    {
+      "file": "photos/p_28.jpg",
+      "note": "Sunset city-lights pano: skyline + bridge lights + Marin \u2014 deck-level dusk view, afternoon/evening sun confirmed"
+    }
+  ],
+  "crosschecks": [
+    {
+      "check": "Marketing claims vs photos",
+      "result": "Verified honest: 'sweeping panoramic views' confirmed at living level (p_04, p_11, p_27); '2-bed + office' accurate \u2014 office has window but is below-deck/half-grade (p_22); 'double-pane windows' partially true \u2014 jalousie originals remain in living room (p_10); 'freshly painted, refinished floors' confirmed (p_05, p_08)"
+    },
+    {
+      "check": "Geocoder vs page coords",
+      "result": "Agree: page (37.8331644, -122.2076161) vs Census geocoder (37.8328899, -122.2075679) \u2014 ~101 ft apart, within 150 ft tolerance"
+    },
+    {
+      "check": "Elevation / micro-market",
+      "result": "USGS EPQS 997.8 ft \u2014 near-top-of-ridge Montclair; explains the unobstructed panorama; comparable to upper Snake Rd view corridor"
+    },
+    {
+      "check": "Orientation",
+      "result": "Photo corroborated: SF/GG/Marin in frame + sunset exposures = W-WNW view side; drone + living-level shots consistent"
+    },
+    {
+      "check": "FHSZ / insurance",
+      "result": "Very High FHSZ (presumptive), 94611 Montclair, 1991 firestorm footprint \u2014 insurance availability flag raised; buyer must quote insurance early"
+    },
+    {
+      "check": "Amenity claims",
+      "result": "Redwood Regional Park 'nearby' \u2014 plausible (Snake Rd leads to Skyline Blvd park entrances ~1-2 mi); credited as area amenity, not property feature"
+    },
+    {
+      "check": "Bed/bath count legitimacy",
+      "result": "Real 2-bed + honest office/bonus: bed 2 has window + closet (p_19, p_20); office/bonus has window but sits under main deck (p_21, p_22) \u2014 marketed correctly as office, not a fake 3rd bedroom"
+    },
+    {
+      "check": "Price/sqft sanity",
+      "result": "$998k / 1,379 sqft = $724/sf; premium to comp 7094 Pinehaven ($795k, no view) is explained by the view + larger finished-out lower level; pended in 12 DOM corroborates pricing"
+    }
+  ]
+}
