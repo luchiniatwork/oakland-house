@@ -1,0 +1,11 @@
+# Cross-check — 15 North Cir, Oakland, CA 94611
+
+| Check | Result |
+|---|---|
+| Marketing claims vs photos | **Mostly verified.** Stained glass (p_04, p_10–11), diagonal flooring (p_05, p_16), German-style flat-panel cabinetry (p_18), Japanese custom walk-in closet (p_44), Manzanita limb + stairwell skylight (p_49), nano-style doors (p_20), IPE decks + lantern lights (p_21–24, p_57), bidet (p_47), cul-de-sac + guest parking (p_52). **Partially contradicted:** "views of Sutro Tower" — a west view corridor exists but is heavily tree-filtered; the tower appears in no gallery photo (p_13, p_22–23). **Not photo-verifiable:** AC, Generac generator. Honest listing; no drone-view inflation. |
+| Geocoder vs page coords | Agree — page (37.8388343, -122.1914111) vs Census (37.8388549, -122.1911142), ~87 ft apart, within 150 ft tolerance. |
+| Elevation / micro-market | 1,345 ft at page coords (1,363 ft at geocoder point) — 2nd-highest of the saved set, after 6773 Wilton (1,448 ft). ~1,912 ft from 33 Eastwood (wt 3.2, $988K); ~5,107 ft from reference comp 6401 Snake (wt 4.2, $998K). At $477/sf it is both the largest (2,410 sf) and the cheapest per sqft in the comp set. |
+| Orientation | W-WNW-facing deck/view side corroborated by sunset through redwoods (p_58), dusk sky behind the rear elevation (p_21–24, p_52) and the SF-landmark (Sutro Tower) claim — **inference**, not measured. |
+| FHSZ / insurance | 94611 Montclair = **Very High FHSZ (presumptive)**, inside the 1991 Oakland firestorm footprint — insurance-availability flag raised. Tree canopy touching roof (p_01, p_03) and dry grass/woodland slopes (p_56, p_59) increase the defensible-space workload. |
+| Amenity claims | Hills Swim & Tennis Club "just down the road" is plausible for this Montclair hills location — credited as **area amenity**, distance not independently verified. Open house Sun Oct 18, 2–4 pm per listing event data. |
+| Bed/bath count legitimacy | 4 beds claimed: primary suite (p_42) + two windowed queen rooms (p_30, p_38) are solid; the 4th is staged as an office with a modest window (p_31) and the beige room's window wall is off-frame (p_51) — **3 solid bedrooms + 1 borderline office-grade**. 2.5 baths matches primary bath + full bath (p_41) + half/guest bath (p_32). |

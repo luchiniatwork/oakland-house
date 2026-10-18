@@ -1,0 +1,359 @@
+{
+ "schemaVersion": 1,
+ "slug": "15-north",
+ "source": {
+  "url": "https://www.compass.com/homedetails/15-North-Cir-Oakland-CA-94611/1R6DJW_pid/",
+  "mirrorOf": null,
+  "fetchedAt": "2026-10-18T02:43:45Z"
+ },
+ "listing": {
+  "address": "15 North Cir, Oakland, CA 94611",
+  "price": 1149000,
+  "beds": 4,
+  "baths": 2.5,
+  "sqft": 2410,
+  "pricePerSqft": 477,
+  "lotAc": 0.15,
+  "dom": 2,
+  "status": "New",
+  "fhsz": "Very High FHSZ (presumptive)",
+  "coords": [
+   37.8388343,
+   -122.1914111
+  ],
+  "elevationFt": 1345.5,
+  "style": "Contemporary, two-story (single-story from street); MLS #41151400",
+  "description": "Fifty years ago, on Valentine’s Day, Raleigh and Estrellita Redus moved into their brand-new house with their son Caleb, then 6, and their daughter Nyjeri, then 3. Estrellita taught at Montclair Elementary School, and she discovered the property while taking students home one day. She was also an artist, and 15 North Circle became her muse. Her personal touches are everywhere: stained glass created by students in a summer class at an Oakland school for the arts, overseen by a visiting professor; flooring laid on the diagonal; a kitchen renovated with an interior designer, featuring cabinetry sourced from Germany; a custom walk-in closet from Japan in the primary suite; and a Manzanita tree limb installed in the stairwell that is illuminated by a skylight they installed. The home offers level entry from the 2-car garage with interior access. The large primary suite on the main level has a luxe bathroom with an oversized shower, dual sinks and cabinetry, a bidet, a custom built-in dresser, and a skylight. The living space off the updated kitchen opens through a nano-style door that seamlessly connects the interior and exterior. Practical upgrades include air conditioning, and a Generac generator. Raleigh loves the generous outdoor space created by the IPE decks, studded with outdoor lights. The property enjoys multiple microclimates, from full sun to shade, and the trees and landscaping, with views of Sutro Tower, create a soothing setting. With ample guest parking on a cul-de-sac of just 3 houses, this property is unique for Montclair living. Just down the road is the Hills Swim and Tennis Club, where the Redus family has been members since 1977 and where it was part of their children’s daily routine. It is hard to say goodbye to a home that’s been part of the family, but 15 North Circle is ready for its second owner. Truly one of one, it is a home full of character, history, and good energy."
+ },
+ "scores": {
+  "view": {
+   "score": 3.0,
+   "note": "Living-level west view is real but tree-filtered ridge/haze (p_13, p_22-23, p_58); Sutro Tower not visible in any gallery shot; honest photography, no drone-view inflation"
+  },
+  "natural_light": {
+   "score": 3.5,
+   "note": "Bright vaulted great room w/ dual sliders + stained-glass clerestories (p_06-13); skylights in kitchen/stair/primary; bedrooms moderate w/ medium windows (p_30-31, p_38); heavy canopy shades site (p_01, p_52)"
+  },
+  "character": {
+   "score": 4.5,
+   "note": "One-of-one artist house: custom stained glass (p_04, p_10-11), post-and-beam wood vault (p_06), Manzanita wall (p_49), bronze dancer pulls (p_50), Japanese pipe closet (p_44), tiled grotto (p_35-36)"
+  },
+  "kitchen": {
+   "score": 4.5,
+   "note": "Designer renovation: Euro flat-panel cabinetry, NXR pro range + slab granite backsplash, skylight, bar seating, garden window (p_16-19); matte-black + SS appliances, not flip-grade"
+  },
+  "privacy": {
+   "score": 4.0,
+   "note": "Cul-de-sac of 3 homes w/ guest parking; wooded buffers; neighbors 50-80 ft through trees (p_21-22, p_53-54); bedroom p_38 window sees an adjacent structure"
+  },
+  "layout_flow": {
+   "score": 4.0,
+   "note": "Open great room-kitchen-deck on main level; primary on main; level garage entry; lower level family room + beds reached by interior stair (p_05, p_26-29); good guest/WFH separation"
+  },
+  "primary_suite": {
+   "score": 4.5,
+   "note": "Large vaulted suite on main: skylight, custom Japanese walk-in closet (p_44), luxe travertine bath w/ dual sinks, oversized shower, bidet, heated towel rail (p_45-48)"
+  },
+  "outdoor_space": {
+   "score": 4.0,
+   "note": "Full-width IPE deck + covered lower deck + tiled grotto + terraced garden paths (p_20-24, p_33-36, p_55-56); generous and varied, all on wooded slope"
+  },
+  "condition": {
+   "score": 3.5,
+   "note": "50-yr single-owner, quality kitchen/bath updates; dated gold mirrored sliders (p_39) + older aluminum windows (p_15, p_32); roof/decks weathered but serviceable (p_03, p_56); generator + AC claimed, not photo-verified"
+  },
+  "lot_usability": {
+   "score": 2.5,
+   "note": "0.15 AC mostly steep woodland + dry grass (p_56, p_59); usable outdoor = decks, grotto, paths; almost no flat yard; slope maintenance required"
+  }
+ },
+ "weightedTotal": 3.8,
+ "verdict": "This house is the privacy-and-character trade: you give up the wide-open bay panorama that comps like 6401 Snake (4.2) deliver, and in exchange get a 2,410-sqft artist-built home with a genuinely renovated designer kitchen, a true main-level primary suite with a luxe bath, cathedral-beam great room wrapped in custom stained glass, and layered outdoor rooms (IPE deck, covered lower deck, tiled grotto) on a wooded cul-de-sac. The costs are Very High fire-zone exposure with tree canopy touching the structure, views that are tree-filtered rather than panoramic, hillside post-supported decks to inspect, and almost no usable flat yard. For a solo buyer who values craft, light, and seclusion over vista, it is one of the more distinctive offerings in the set.",
+ "flags": [
+  "🔥 Very High FHSZ (presumptive, 94611 / 1991 Oakland firestorm footprint) - quote insurance before offer; availability is the deal-breaker check",
+  "🌲 Defensible space: redwood/pine canopy touches roof + deck (p_01, p_03, p_20); dry grass slope + dense woodland on lot (p_56, p_59)",
+  "🪵 Large wood decks + wood siding in fire country; lower deck + downhill edge carried on timber posts/piers w/ diagonal bracing (p_54-56) - verify foundation + deck engineering in inspections",
+  "🪟 ~5 skylights on pitched comp roof (p_03) - not a flat roof (good), but skylight flashings are a maintenance watch",
+  "🔍 'Views of Sutro Tower' not shown in any gallery photo - treat as filtered peek, verify on site; don't pay a view premium",
+  "⚠️ Skylights + wood stove insert (p_26) + older aluminum windows (p_15, p_32) - inspection items"
+ ],
+ "positives": [
+  "Genuine indoor-outdoor flow: twin stacking/nano sliders open the vaulted great room to a full-width IPE deck (p_10, p_20)",
+  "Artist-grade character throughout: custom stained glass, post-and-beam volume, diagonal floors, Japanese pipe closet, bronze dancer pulls, tiled garden grotto",
+  "Designer kitchen renovation: Euro cabinetry, NXR pro range, slab granite backsplash, skylight (p_16-19)",
+  "Main-level primary suite w/ luxe travertine bath: dual sinks, oversized shower, bidet, heated towel rail, custom closet (p_42-48)",
+  "Privacy: cul-de-sac of 3 homes, ample guest parking, wooded buffers on all sides",
+  "Practical upgrades claimed: central AC + Generac generator (valuable in PSPS/fire country)",
+  "No power lines or jalousie windows observed in 59 photos",
+  "High-elevation 1,345 ft W-facing (inferred) ridge setting with sunset light (p_52, p_58)"
+ ],
+ "orientationInference": "View/deck side faces roughly W-WNW - sunset visible directly through redwoods from deck (p_58), pink dusk sky behind rear in twilight shots (p_21-24, p_52) and Sutro Tower (SF, west) claim all consistent; afternoon-evening sun on deck with tree filtering (inference)",
+ "photos": [
+  {
+   "file": "photos/p_01.jpg",
+   "note": "Front at golden hour: single-story ranch profile, 2-car garage, comp-shingle pitched roof, skylights; towering redwoods/pines overhang roof; sunset through trees left (west)"
+  },
+  {
+   "file": "photos/p_02.jpg",
+   "note": "Rear twilight: two-story downhill side, big IPE main deck + lower deck, lantern posts, trees close on all sides; house on slope"
+  },
+  {
+   "file": "photos/p_03.jpg",
+   "note": "Drone overhead dusk: pitched comp roof (not flat) with ~5 skylights; deck wrap, round patio; tree canopy touching roof on uphill side"
+  },
+  {
+   "file": "photos/p_04.jpg",
+   "note": "Craftsman orange front door with custom geometric stained-glass insert + sidelight; wood porch deck; confirms stained-glass claim"
+  },
+  {
+   "file": "photos/p_05.jpg",
+   "note": "Entry foyer: wood-plank ceiling + beam, craftsman lanterns, diagonal wood floor; stair to lower level; collage shows rail + sight lines"
+  },
+  {
+   "file": "photos/p_06.jpg",
+   "note": "Great room: vaulted wood ceiling, stained-glass clerestories (eagle motifs), sliders to deck, granite-surround gas fireplace, ceiling fan; treetop outlook"
+  },
+  {
+   "file": "photos/p_07.jpg",
+   "note": "Living room collage incl. fireplace closeup (granite surround gas insert); deck + ridge trees through sliders"
+  },
+  {
+   "file": "photos/p_08.jpg",
+   "note": "Reverse great-room angle: sofa zone, track lights, bubble pendant, sun patches on wood floor; bright afternoon light"
+  },
+  {
+   "file": "photos/p_09.jpg",
+   "note": "Wide view to kitchen: open plan, breakfast bar w/ teal stools, wrap corner sliders to deck, stained-glass band; strong glazing both sides"
+  },
+  {
+   "file": "photos/p_10.jpg",
+   "note": "Dining zone: twin floor-to-ceiling stacking sliders, 3 stained-glass clerestory panels (eagle, skyline, parrot), deck dining outside"
+  },
+  {
+   "file": "photos/p_11.jpg",
+   "note": "Twilight collage: pastel sky + distant haze/ridge through deck trees; closeups of the 3 custom stained-glass panels"
+  },
+  {
+   "file": "photos/p_12.jpg",
+   "note": "Twilight great room: skylight glow, tree-framed dusk view over deck; living-level view corridor exists but filtered"
+  },
+  {
+   "file": "photos/p_13.jpg",
+   "note": "Daylight dining + deck: water/haze glimpse far-left through trees; wrap deck with outdoor dining; metal railings"
+  },
+  {
+   "file": "photos/p_14.jpg",
+   "note": "Staging detail: table plant/glasses, mirror reflecting bedroom; no analytical content"
+  },
+  {
+   "file": "photos/p_15.jpg",
+   "note": "Window-seat nook with storage drawers looking into dense oak canopy; built-in charm, green privacy"
+  },
+  {
+   "file": "photos/p_16.jpg",
+   "note": "Kitchen from living room: granite bar island, pro hood, window-seat nook, large ceiling skylight; warm sun"
+  },
+  {
+   "file": "photos/p_17.jpg",
+   "note": "Kitchen angle: NXR pro-style gas range, slab granite backsplash, garden window over sink (blue neighbor glimpse); stair rail left"
+  },
+  {
+   "file": "photos/p_18.jpg",
+   "note": "Kitchen full: light Euro flat-panel cabinetry, French-door fridge, pantry wall, skylight, garden window; designer-tier renovation"
+  },
+  {
+   "file": "photos/p_19.jpg",
+   "note": "Kitchen-to-living sight line: open plan, fluted island end-panel, fireplace + dining beyond; bright"
+  },
+  {
+   "file": "photos/p_20.jpg",
+   "note": "From deck: nano/folding door stacks open wide to IPE deck; huge conifer trunk at deck edge; outdoor dining for 8"
+  },
+  {
+   "file": "photos/p_21.jpg",
+   "note": "Deck dusk hero: wrap deck with lounge + dining, house clerestories glowing, pink-blue west sky; neighbor hint upper-right at distance"
+  },
+  {
+   "file": "photos/p_22.jpg",
+   "note": "Deck dining dusk: layered distant ridges through trees over canyon, sunset sky; light posts; neighbor roof mid-right below"
+  },
+  {
+   "file": "photos/p_23.jpg",
+   "note": "Deck lounge dusk: massive pine trunk through deck, filtered bay-haze glimpse center-left, eucalyptus wall opposite"
+  },
+  {
+   "file": "photos/p_24.jpg",
+   "note": "Reverse deck angle: forested on uphill side, no neighbors visible this direction; tree-filtered light"
+  },
+  {
+   "file": "photos/p_25.jpg",
+   "note": "Daylight deck run: full-width sliders, metal rails, neighbor house ~50-60 ft below-left; tall conifers dominate"
+  },
+  {
+   "file": "photos/p_26.jpg",
+   "note": "Lower family room: cork floor, stone wood-stove fireplace wall, sliders to lower deck, game table; updated"
+  },
+  {
+   "file": "photos/p_27.jpg",
+   "note": "Lower family room reverse: sofa + butterfly chairs, slider to lower deck cafe set; decent downhill light"
+  },
+  {
+   "file": "photos/p_28.jpg",
+   "note": "Lower room + WFH desk alcove with glass-block shelving; slider to deck; functional office nook"
+  },
+  {
+   "file": "photos/p_29.jpg",
+   "note": "Lower family room wide: wood stove, game table, desk alcove; spacious multi-use level"
+  },
+  {
+   "file": "photos/p_30.jpg",
+   "note": "Secondary bedroom: queen, wide window with treetop green, carpet, recessed lights; moderate light"
+  },
+  {
+   "file": "photos/p_31.jpg",
+   "note": "Office/4th-bedroom candidate: modest window facing under-deck greenery; staged as office; closet unverified"
+  },
+  {
+   "file": "photos/p_32.jpg",
+   "note": "Half/guest bath: modern vanity, brass fixtures, small frosted slider window; clean, compact"
+  },
+  {
+   "file": "photos/p_33.jpg",
+   "note": "Lower covered deck dusk: full-length, acapulco chairs, cafe set, wire-fenced side area; joist ceiling from upper deck"
+  },
+  {
+   "file": "photos/p_34.jpg",
+   "note": "Lower covered deck daylight: slider from family room, gated side yard; usable shaded outdoor space"
+  },
+  {
+   "file": "photos/p_35.jpg",
+   "note": "Garden grotto: curved stucco wall w/ blue tile panels + mural, built-in bench, pavers, bird-of-paradise, stone terraces; artist-made"
+  },
+  {
+   "file": "photos/p_36.jpg",
+   "note": "Grotto closeup: custom tile mosaic + Mediterranean plantings under oak; one-of-one character"
+  },
+  {
+   "file": "photos/p_37.jpg",
+   "note": "Lower-level entry door: matching orange craftsman stained glass; ground-level access; utility pipe visible"
+  },
+  {
+   "file": "photos/p_38.jpg",
+   "note": "Secondary bedroom (blue): queen, wood floor, ceiling fan; window shows adjacent structure/railing glimpse; bright staging"
+  },
+  {
+   "file": "photos/p_39.jpg",
+   "note": "Same room: dated gold-framed mirrored closet sliders; wood floors; decent light"
+  },
+  {
+   "file": "photos/p_40.jpg",
+   "note": "Laundry closet: stacked LG washer/dryer in tiled hall nook; adjacent to bath"
+  },
+  {
+   "file": "photos/p_41.jpg",
+   "note": "Full bath: double vanity, wet-zone w/ granite-look tile, grab bar, window; updated, aging-in-place touches"
+  },
+  {
+   "file": "photos/p_42.jpg",
+   "note": "Primary suite: vaulted ceiling + beam, clerestory light slots, king bed, barn doors to closet/bath, wide window; bright"
+  },
+  {
+   "file": "photos/p_43.jpg",
+   "note": "Primary suite reverse: frosted-glass barn doors to walk-in closet + bath; wood floors; high slots"
+  },
+  {
+   "file": "photos/p_44.jpg",
+   "note": "Japanese custom walk-in: stainless pipe system, colorful glass disc pulls, mirrored French doors; genuinely bespoke"
+  },
+  {
+   "file": "photos/p_45.jpg",
+   "note": "Primary bath: dual sinks, branch-pull custom cabinetry, skylight, travertine; luxe tier"
+  },
+  {
+   "file": "photos/p_46.jpg",
+   "note": "Primary vanity: double sinks, marble strip counter, arched mirror, glass light bars, warm wood"
+  },
+  {
+   "file": "photos/p_47.jpg",
+   "note": "Primary wet zone: bidet (confirms), heated towel rail, frosted casement window, mosaic floor"
+  },
+  {
+   "file": "photos/p_48.jpg",
+   "note": "Primary shower: travertine, art-tile diamonds, niches, rain head + hand shower, ipe fold-down bench, grab bar"
+  },
+  {
+   "file": "photos/p_49.jpg",
+   "note": "Foyer: Manzanita limb wall sculpture (claim confirmed), carved bird plaque, stair rail, lantern; sight line to deck"
+  },
+  {
+   "file": "photos/p_50.jpg",
+   "note": "Hardware collage: cast-bronze dancer/diver figurative pulls on vanity cabinets; artisan detail"
+  },
+  {
+   "file": "photos/p_51.jpg",
+   "note": "4th? bedroom (beige): queen, vaulted ceiling fan, sconces; no window in frame - window wall unverified"
+  },
+  {
+   "file": "photos/p_52.jpg",
+   "note": "Front dusk: full elevation, garage, big conifers, gravel drive; no power lines visible; skylight on roof"
+  },
+  {
+   "file": "photos/p_53.jpg",
+   "note": "Rear dusk from garden: two-level rear w/ bay windows, both decks lit, rock terraces; neighbor roof far-right ~80-100 ft"
+  },
+  {
+   "file": "photos/p_54.jpg",
+   "note": "Drone-rear dusk: deck-on-deck on posts over slope; diagonal bracing; neighbor top-right ~50-60 ft across gully"
+  },
+  {
+   "file": "photos/p_55.jpg",
+   "note": "Rear elevation: siding planes, bay bump-outs, under-deck posts visible right; grotto below; classic hills hillside build"
+  },
+  {
+   "file": "photos/p_56.jpg",
+   "note": "Rear from below: garage/storage doors at lower tier, dry grass slope + rock terraces (fuel), timber posts + bracing"
+  },
+  {
+   "file": "photos/p_57.jpg",
+   "note": "Craftsman lantern post detail: quality garden lighting on deck"
+  },
+  {
+   "file": "photos/p_58.jpg",
+   "note": "Side deck walkway at sunset: sun setting through redwoods (west), canyon trees; confirms western exposure"
+  },
+  {
+   "file": "photos/p_59.jpg",
+   "note": "Upslope lot: big pine, dry grass, dense woods, stone rings; 0.15 AC mostly sloped woodland; fuel load in fire country"
+  }
+ ],
+ "crosschecks": [
+  {
+   "check": "Marketing claims vs photos",
+   "result": "Mostly verified: stained glass (p_04/p_10-11), diagonal flooring (p_05/p_16), German-style cabinetry (p_18), Japanese custom closet (p_44), Manzanita + skylight (p_49), nano doors (p_20), IPE decks + light posts (p_21-24/p_57), bidet (p_47), cul-de-sac + guest parking (p_52). Partially contradicted: 'views of Sutro Tower' - west view corridor exists but heavily tree-filtered, tower not visible in gallery (p_13/p_22-23). Not photo-verifiable: AC, Generac generator. Honest listing overall, no drone-view inflation."
+  },
+  {
+   "check": "Geocoder vs page coords",
+   "result": "Agree: page (37.8388343, -122.1914111) vs Census (37.8388549, -122.1911142), ~87 ft apart - within 150 ft tolerance"
+  },
+  {
+   "check": "Elevation / micro-market",
+   "result": "1,345 ft (page coords; geocoder point 1,363 ft) - 2nd-highest in comp set after 6773 Wilton (1,448 ft). ~1,912 ft from 33 Eastwood (wt 3.2, $988K); ~5,107 ft from reference comp 6401 Snake (wt 4.2, $998K). At $477/sf it is the largest (2,410 sf) and cheapest-per-foot of the saved set"
+  },
+  {
+   "check": "Orientation",
+   "result": "W-WNW facing deck/view side corroborated by sunset-through-trees (p_58), dusk sky behind house (p_21-24, p_52) and SF-landmark claim - labeled inference"
+  },
+  {
+   "check": "FHSZ / insurance",
+   "result": "94611 Montclair = Very High FHSZ (presumptive), inside 1991 firestorm footprint - insurance availability flag raised; canopy-on-structure + dry slopes increase mitigation workload"
+  },
+  {
+   "check": "Amenity claims",
+   "result": "Hills Swim & Tennis Club 'just down the road' plausible for Montclair hills location - credited as area amenity, distance not independently verified. Open house Sun Oct 18 2-4pm per listing event data"
+  },
+  {
+   "check": "Bed/bath count legitimacy",
+   "result": "4 beds claimed: primary (p_42) + windowed queen rooms (p_30, p_38) are solid; 4th room staged as office w/ modest window (p_31) and beige room's window wall unverified (p_51) - 3 solid bedrooms + 1 borderline office-grade. 2.5 baths matches primary bath + full bath (p_41) + half/guest bath (p_32)"
+  }
+ ]
+}
