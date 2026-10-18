@@ -29,6 +29,11 @@
           ];
 
           shellHook = ''
+            # Red prompt showing the project folder name (nix develop's bash).
+            project_name=$(basename "$PWD")
+            export PS1="\[\e[1;31m\]($project_name) \w \$ \[\e[0m\]"
+            unset project_name
+
             echo "oakland-house dev shell"
             echo "  bun  $(bun --version)   node $(node --version)"
             echo "  deps: bun install   validate: bun run validate listings/<slug>/listing.json"
