@@ -1,6 +1,6 @@
 # Listings
 
-Oakland hills house hunt — one folder per listing, comparisons in [`comparisons/`](comparisons/), validation tooling in [`tools/`](tools/).
+Oakland/Berkeley hills house hunt — one folder per listing, comparisons in [`comparisons/`](comparisons/), validation tooling in [`tools/`](tools/).
 
 ## Folder layout
 
@@ -21,6 +21,9 @@ Each listing folder contains:
 | [`6401-snake/`](6401-snake/) | 4.2 | 6401 Snake Rd | $998,000 | 2/2 | 1,379 | $724 | PENDING |
 | [`6833-snake/`](6833-snake/) | 4.0 | 6833 Snake Rd | $1,675,000 | 4/2 | 2,023 | $828 | SOLD 10/8 (+86% over ask) |
 | [`15-north/`](15-north/) | 3.8 | 15 North Cir | $1,149,000 | 4/2.5 | 2,410 | $477 | |
+| [`5970-rincon/`](5970-rincon/) | 3.8 | 5970 Rincon Dr | $895,000 | 2/1 | 1,192 | $751 | |
+| [`6077-skyline/`](6077-skyline/) | 3.7 | 6077 Skyline Blvd | $1,289,000 | 3/3 | 1,551 | $831 | 48 DOM; $106K cut + fallen escrow |
+| [`1488-summit/`](1488-summit/) | 3.6 | 1488 Summit Rd, Berkeley | $999,999 | 3/2.5 | 1,320 | $758 | teaser price — sold $1.8M '21, expect bidding war |
 | [`6773-wilton/`](6773-wilton/) | 3.5 | 6773 Wilton Dr | $1,099,000 | 3/2 | 1,710 | $643 | |
 | [`6931-pinehaven/`](6931-pinehaven/) | 3.5 | 6931 Pinehaven Rd | $1,049,000 | 4/3.5 | 2,336 | $449 | short sale — see [STRATEGY.md](6931-pinehaven/STRATEGY.md) |
 | [`7094-pinehaven/`](7094-pinehaven/) | 3.4 | 7094 Pinehaven Rd | $795,000 | 3/2 | 1,530 | $520 | |
