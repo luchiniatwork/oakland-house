@@ -33,7 +33,7 @@ Each listing folder contains:
 
 ## Comparisons
 
-All 2-way and multi-way comps are benchmarked against 6401 Snake (top score):
+The 10-15/10-18 comps are benchmarked against 6401 Snake (top score); the 10-26 set compares the active mid-tier listings head-to-head, plus a clearing-price scenario overlay (not a validated comparison):
 
 | Date | Matchup |
 |---|---|
@@ -41,3 +41,5 @@ All 2-way and multi-way comps are benchmarked against 6401 Snake (top score):
 | 2026-10-15 | [6401 Snake vs 6773 Wilton](comparisons/20261015T073306Z-6401-snake-vs-6773-wilton.md) |
 | 2026-10-15 | [6401 Snake vs 6833 Snake](comparisons/20261015T075717Z-6401-snake-vs-6833-snake.md) |
 | 2026-10-18 | [6401 Snake vs 6931 Pinehaven vs 5924 Balboa](comparisons/20261018T022735Z-6401-snake-vs-6931-pinehaven-vs-5924-balboa.md) |
+| 2026-10-26 | [5970 Rincon vs 6077 Skyline vs 7099 Pinehaven](comparisons/20261026T031201Z-5970-rincon-vs-6077-skyline-vs-7099-pinehaven.md) |
+| 2026-10-26 | [Scenario: Rincon/Skyline/Pinehaven clearing prices](comparisons/20261026T032338Z-scenario-rincon-skyline-pinehaven-clearing-prices.md) (overlay, not validated) |
