@@ -26,6 +26,7 @@ Each listing folder contains:
 | [`1488-summit/`](1488-summit/) | 3.6 | 1488 Summit Rd, Berkeley | $999,999 | 3/2.5 | 1,320 | $758 | teaser price — sold $1.8M '21, expect bidding war |
 | [`6773-wilton/`](6773-wilton/) | 3.5 | 6773 Wilton Dr | $1,099,000 | 3/2 | 1,710 | $643 | |
 | [`6931-pinehaven/`](6931-pinehaven/) | 3.5 | 6931 Pinehaven Rd | $1,049,000 | 4/3.5 | 2,336 | $449 | short sale — see [STRATEGY.md](6931-pinehaven/STRATEGY.md) |
+| [`7099-pinehaven/`](7099-pinehaven/) | 3.5 | 7099 Pinehaven Rd | $899,000 | 5/3 | 2,492 | $361 | 6 DOM; 3bd main + detached 2bd ADU |
 | [`7094-pinehaven/`](7094-pinehaven/) | 3.4 | 7094 Pinehaven Rd | $795,000 | 3/2 | 1,530 | $520 | |
 | [`33-eastwood/`](33-eastwood/) | 3.2 | 33 Eastwood Ct | $988,000 | 3/2 | 1,547 | $639 | |
 | [`5924-balboa/`](5924-balboa/) | 3.2 | 5924 Balboa Dr | $699,000 | 2/2 | 923 | $757 | |

@@ -1,0 +1,12 @@
+# Cross-check — 7099 Pinehaven Rd, Oakland, CA 94611
+
+| Check | Result |
+|---|---|
+| Marketing claims vs photos | **Mostly honest, one gap.** Verified: vaulted wood-plank ceilings + exposed beams (p_03, p_09); walls of glass (p_03, p_04); updated kitchen w/ 5-burner gas + chimney hood (p_12–p_14); ADU w/ 2BR + updated bath/kitchen (p_43–p_57); multiple decks (p_07, p_39, p_59, p_63); double-pane windows (black-frame sliders throughout). **Partial:** "panoramic hill views" — living-level view is real green hills but tree-filtered (p_41, p_42); the SF/bay panorama (p_65) exists only at drone altitude — the house itself sits under dense canopy. Drone gap named. |
+| Geocoder vs page coords | **Agree.** Page 37.8447421, -122.2119029 vs Census 37.8446658, -122.2122279 → 98 ft apart (< 150 ft threshold). |
+| Elevation / micro-market | 1,063 ft on the Montclair/Merriewood ridge. **~80 ft across the street from saved comp 7094 Pinehaven** ($795K, 3.4/5): near-perfect A/B — 7094 is a purer, cheaper 1962 MCM; 7099 adds ~sqft + detached ADU for +$104K and much better $/sf ($361). |
+| Orientation | **Corroborated inference:** warm dusk light on deck elevation (p_01, p_07) + SF/bay on the western horizon in drone shot (p_65) + floor-plan compass (p_66) → balcony/deck faces W–WNW; tree-filtered afternoon sun, shaded mornings. |
+| FHSZ / insurance | **Very High FHSZ (presumptive)** — 94611 Montclair, inside 1991 Oakland firestorm footprint. Insurance-availability flag RAISED: quote before offer; eucalyptus grove touching decks/roof (p_08, p_40, p_65) worsens underwriting. Verify zone on CAL FIRE map. |
+| Amenity claims | "One block from public transit, trails, minutes to Montclair Village & Hwy 13" — plausible for Pinehaven off Thornhill (~1.5 mi to village). No drone amenity marketing shots to debunk. Credited as area amenity, not property feature. |
+| Bed/bath count legitimacy | **Legit but bundled.** Real 3BR/2BA main house (floor-plan dims: BR1 15×15 ensuite, BR2 15.3×11.9, BR3 11.6×9.6 — p_66) + real detached 2BR/1BA ADU = 5bd/3ba across **two structures**. No office fudge; buyer should know bedrooms 4–5 are in a separate building. |
+| Extraction-source conflicts | **None.** JSON-LD and `__INITIAL_DATA__` agree on price ($899,000) and sqft (2,492). Beds/baths present only in INITIAL_DATA (5/3), split confirmed by description + floor plan. |
