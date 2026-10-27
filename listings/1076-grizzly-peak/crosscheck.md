@@ -1,0 +1,14 @@
+# Cross-check — 1076 Grizzly Peak Blvd, Berkeley, CA 94708
+
+| Check | Result |
+|---|---|
+| Marketing claims vs photos | **Mostly verified, one overreach.** "Sweeping views of the Bay" verified at living level from deck (p_22, p_24), primary (p_30, p_33) and cottage (p_15). Cottage "Bay views of its own" verified (p_08, p_11). "Beautiful natural light" true on the view side; bedroom 2 + bonus room are moderate (p_36, p_40). **"Waterfront" amenity in JSON-LD is contradicted** — `waterfrontYN=false`; it is a bay *view*. Drone panoramas p_49–p_51 overstate vs living level. Home Energy Score 2 disclosed = candor points. |
+| Geocoder vs page coords | Agree within ~88 ft (Census 37.89271, -122.25762 vs page 37.89247, -122.25757) — under the 150 ft flag threshold. |
+| Elevation / micro-market | 1,047 ft on the Grizzly Peak ridge corridor (Cragmont, Berkeley Hills) — prime view belt. ~1.2 mi from 1488 Summit comp (score 3.6); Tilden Park boundary just east. |
+| Orientation | View side faces **W–WNW** (inference): deck looks to Marin/Angel Island (p_22), SF + both bridges (p_24, p_33); twilight sunsets behind house (p_01, p_52); drone shadows consistent. Afternoon/evening sun on view side, morning light entry side. |
+| FHSZ / insurance | **Very High FHSZ (presumptive)** — Berkeley hills / Grizzly Peak corridor, Berkeley Fire Zone 3; verify on CAL FIRE FHSZ map. Insurance availability + cost flag raised. Area is inside the 1923 Berkeley fire footprint; heavy surrounding canopy (p_48). |
+| Amenity claims | Tilden Park "just up the road" plausible — Grizzly Peak borders Tilden. North Shattuck shops ~2 mi downhill. Carport verified (p_05). "Private Outdoor Space" verified (deck + brick courtyards). "Waterfront" debunked. |
+| Bed/bath count legitimacy | **"3bd/3ba" is an aggregate fudge:** main house 2bd/2ba + separate cottage 1bd/1ba + downstairs bonus with **non-conforming bath** (shower box in the corner, corrugated metal wall — p_42, p_43). The 3rd bedroom is in a separate structure. MLS feeds classify it as *Residential Income – Duplex* (2 units, built 1940). |
+| Sqft confidence | Listed 1,866 sf (assessor) vs floor-plan measured **1,303 main + 369 cottage = 1,672** (p_53, p_54) — ~194 sf gap, likely the non-conforming bonus space. Treat 1,866 as optimistic. |
+| Price signal | Listed $1,049,000 vs last sale $1,235,000 (Oct 2021) — **$186K under prior sale** at list; DOM 0. Motivated pricing or condition-adjusted; watch inspection findings. |
+| Risk-signal inventory | Jalousie windows (p_34, p_40); flat/low-slope roof sections + 2 skylights (p_45, p_46); post/pier deck + downslope foundation (p_47); scaffolding on neighbor (p_41); surface-mounted conduit + corrugated metal wall in bonus (p_42, p_43); vintage baths w/ 3-handle valve (p_35); possible shower-ceiling stain (p_39); no power lines observed in photos. |
