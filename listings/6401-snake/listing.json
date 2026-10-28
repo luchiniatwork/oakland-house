@@ -8,14 +8,14 @@
   },
   "listing": {
     "address": "6401 Snake Rd, Oakland, CA 94611",
-    "price": 998000,
+    "price": 1260000,
     "beds": 2,
     "baths": 2,
     "sqft": 1379,
-    "pricePerSqft": 724,
+    "pricePerSqft": 914,
     "lotAc": 0.13,
     "dom": 12,
-    "status": "Pending",
+    "status": "Sold (closed 2026-10-26 at $1,260,000; listed $998,000 2026-09-24, pending 2026-10-08; +26.3% over ask)",
     "fhsz": "Very High FHSZ (presumptive) \u2014 94611 Montclair, inside 1991 Oakland firestorm footprint; verify insurance availability",
     "coords": [
       37.8331644,
@@ -68,7 +68,7 @@
     }
   },
   "weightedTotal": 4.2,
-  "verdict": "This house is the view trade: you give up square footage (1,379 sqft), hillside lot usability, and fire-zone peace of mind for a genuine living-level panoramic bay view most $1M Oakland hills listings only fake with drone shots. The 1954 post-and-beam bones, refreshed finishes, huge west-facing deck, and view-side primary suite deliver exactly the architecture + indoor-outdoor + light the brief calls for \u2014 at the cost of a flat roof, jalousie windows, power lines at the deck line, and Very High FHSZ insurance exposure. It pended in 12 days for a reason.",
+  "verdict": "This house is the view trade: you give up square footage (1,379 sqft), hillside lot usability, and fire-zone peace of mind for a genuine living-level panoramic bay view most $1M Oakland hills listings only fake with drone shots. The 1954 post-and-beam bones, refreshed finishes, huge west-facing deck, and view-side primary suite deliver exactly the architecture + indoor-outdoor + light the brief calls for \u2014 at the cost of a flat roof, jalousie windows, power lines at the deck line, and Very High FHSZ insurance exposure. It pended in 12 days and closed 2026-10-26 at $1,260,000 (+26.3% over ask) for a reason.",
   "flags": [
     "\ud83d\udd25 Very High FHSZ (presumptive) \u2014 94611 Montclair, inside 1991 Oakland firestorm footprint; expect insurance shopping/FAIR Plan; get quotes before removing contingencies",
     "\ud83c\udfe0 Flat composition roof (p_01, p_02) \u2014 age/condition unknown; pooling risk, budget inspection + eventual re-roof",
@@ -76,7 +76,7 @@
     "\ud83e\ude9f Jalousie louvered windows in living room (p_10) \u2014 leaky, security + fire-ember concerns",
     "\u26a1 Power pole + lines adjacent to view-side deck (p_02, p_12, p_13) \u2014 EMF/aesthetic concern, lines cross the view",
     "\ud83c\udf32 Wood siding + big wood deck + dry grass slope below (p_02, p_13) \u2014 defensible space work needed in fire country",
-    "\u23f3 Status Pending after 12 DOM \u2014 odds of winning are low; treat as comp data + backup-offer candidates only"
+    "🔴 SOLD 2026-10-26 at $1,260,000 — +26.3% over the $998,000 list after 12 DOM; not an active opportunity, treat as a market/quality benchmark comp (close verified via MLS-syndicated broker feeds 2026-10-28)"
   ],
   "positives": [
     "Verified 3-bridge bay panorama at living level, not drone-only (p_03, p_04, p_11, p_27, p_28)",
@@ -234,6 +234,10 @@
     {
       "check": "Price/sqft sanity",
       "result": "$998k / 1,379 sqft = $724/sf; premium to comp 7094 Pinehaven ($795k, no view) is explained by the view + larger finished-out lower level; pended in 12 DOM corroborates pricing"
+    },
+    {
+      "check": "Final sale print",
+      "result": "Closed 2026-10-26 at $1,260,000 ($914/sf) — +26.3% over the $998,000 ask after 12 DOM (listed 2026-09-24, pending 2026-10-08); user-reported close verified 2026-10-28 across multiple MLS-syndicated broker feeds (MLS #41149361); Redfin/Zillow/Compass pages still showed stale Pending status at verification time. price/pricePerSqft fields updated to the closing print, superseding the $724/sf list-price anchor"
     }
   ]
 }

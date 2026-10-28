@@ -19,7 +19,7 @@ Each listing folder contains:
 
 | | Score | Address | Price | Bd/Ba | Sqft | $/sf | Status |
 |---|---|---|---|---|---|---|---|
-| [`6401-snake/`](6401-snake/) | 4.2 | 6401 Snake Rd | $998,000 | 2/2 | 1,379 | $724 | PENDING |
+| [`6401-snake/`](6401-snake/) | 4.2 | 6401 Snake Rd | $1,260,000 | 2/2 | 1,379 | $914 | SOLD 10/26 (+26% over ask) |
 | [`6833-snake/`](6833-snake/) | 4.0 | 6833 Snake Rd | $1,675,000 | 4/2 | 2,023 | $828 | SOLD 10/8 (+86% over ask) |
 | [`15-north/`](15-north/) | 3.8 | 15 North Cir | $1,149,000 | 4/2.5 | 2,410 | $477 | |
 | [`5970-rincon/`](5970-rincon/) | 3.8 | 5970 Rincon Dr | $895,000 | 2/1 | 1,192 | $751 | |
