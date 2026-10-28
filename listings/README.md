@@ -47,3 +47,4 @@ The 10-15/10-18 comps are benchmarked against 6401 Snake (top score); the 10-26 
 | 2026-10-26 | [5970 Rincon vs 6077 Skyline vs 7099 Pinehaven](comparisons/20261026T031201Z-5970-rincon-vs-6077-skyline-vs-7099-pinehaven.md) |
 | 2026-10-26 | [Scenario: Rincon/Skyline/Pinehaven clearing prices](comparisons/20261026T032338Z-scenario-rincon-skyline-pinehaven-clearing-prices.md) (overlay, not validated) |
 | 2026-10-27 | [6077 Skyline vs 1076 Grizzly Peak](comparisons/20261027T165453Z-6077-skyline-vs-1076-grizzly-peak.md) |
+| 2026-10-28 | [6401 Snake vs 6077 Skyline vs 6625 Snake](comparisons/20261028T030907Z-6401-snake-vs-6077-skyline-vs-6625-snake.md) |
