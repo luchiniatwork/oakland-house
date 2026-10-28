@@ -1,346 +1,346 @@
 {
-  "schemaVersion": 1,
-  "slug": "1076-grizzly-peak",
-  "source": {
-    "url": "https://www.compass.com/homedetails/1076-Grizzly-Peak-Blvd-Berkeley-CA-94708/1QWK04_pid/",
-    "mirrorOf": null,
-    "fetchedAt": "2026-10-27T16:47:27Z"
-  },
-  "listing": {
-    "address": "1076 Grizzly Peak Blvd, Berkeley, CA 94708",
-    "price": 1049000,
-    "beds": 3,
-    "baths": 3,
-    "sqft": 1866,
-    "pricePerSqft": 562,
-    "lotAc": 0.1,
-    "dom": 0,
-    "status": "New",
-    "fhsz": "Very High FHSZ (presumptive \u2014 Berkeley hills / Grizzly Peak corridor, Berkeley Fire Zone 3; verify on CAL FIRE map)",
-    "coords": [
-      37.89270854589,
-      -122.257619894365
-    ],
-    "elevationFt": 1047.2,
-    "style": "1940 rustic Berkeley Hills brown-shingle cabin + separate 1bd cottage; MLS classifies as Residential Income - Duplex",
-    "description": "Perched in the Berkeley Hills with sweeping views of the Bay, this rare offering pairs a main residence with separate cottage on one lot. The main house has all the warmth of a classic hillside home, with rich wood paneling, beautiful natural light, and real romantic charm. The main level offers two bedrooms and two bathrooms, and the living and dining areas flow easily into the kitchen, with plenty of built-ins along the way. Step out onto the deck, take in the view, and you'll understand right away why this spot is so special. Downstairs, a flexible bonus space with a non-conforming bath makes a great studio, office, or guest retreat. At street level, the separate one-bedroom cottage has Bay views of its own, along with a full kitchen and bath. It's a wonderful setup for visiting family and friends, creative work, or rental income. Lush plantings and a garden patio surround it all, and a covered carport and extra storage add everyday convenience. Tilden Park is just up the road for weekend hikes, and you're only minutes from downtown Berkeley, the shops and restaurants of North Shattuck, schools, and an easy commute to San Francisco. Opportunities like this don't come along often in the Berkeley Hills. Home Energy Score of 2."
-  },
-  "scores": {
-    "view": {
-      "score": 4.5,
-      "note": "Living-level SF + Bay Bridge + Golden Gate sweep verified from deck (p_22, p_24), primary (p_30, p_33), cottage (p_15); redwood + hedge partially filter (p_33)"
-    },
-    "natural_light": {
-      "score": 3.5,
-      "note": "Bright view side w/ sun patches (p_17, p_21, p_30); bedroom 2 + bonus room moderate, windows face garden/neighbors (p_36, p_38, p_40)"
-    },
-    "character": {
-      "score": 4.5,
-      "note": "1940 brown-shingle cabin: open-beam T&G ceilings, Dutch doors, leaded/stained glass, wood paneling, turquoise fireplace (p_16-p_19, p_28, p_29)"
-    },
-    "kitchen": {
-      "score": 3.0,
-      "note": "Pro-style range but pebble-tile counters, vintage wood-panel fridge, older black dishwasher, 8x11 footprint (p_25-p_28)"
-    },
-    "privacy": {
-      "score": 2.5,
-      "note": "Dense hill fabric: green neighbor ~15-20 ft off bedroom 2 (p_38), bonus room faces shingle neighbor ~12 ft w/ scaffolding (p_41); deck overlooked (p_23)"
-    },
-    "layout_flow": {
-      "score": 3.0,
-      "note": "Living-dining-kitchen linear w/ pass-through + deck sliders (p_20, p_21), but 3rd bed is a separate cottage and bonus bath non-conforming (p_53, p_54)"
-    },
-    "primary_suite": {
-      "score": 3.5,
-      "note": "View-wall primary w/ sitting corner + walk-in closet (p_30-p_33), but baths are vintage hall units, no true ensuite (p_34, p_35, p_39)"
-    },
-    "outdoor_space": {
-      "score": 4.0,
-      "note": "Cable-rail view deck off living (p_22), brick courtyards (p_01, p_02), pergola parking pad (p_05); yard is steep slope"
-    },
-    "condition": {
-      "score": 2.5,
-      "note": "Fresh paint/staging but vintage baths (p_34, p_39), jalousies (p_34, p_40), flat roof sections + skylights (p_45), surface conduit (p_42); Home Energy Score 2"
-    },
-    "lot_usability": {
-      "score": 2.5,
-      "note": "0.10 AC steep downslope; usable = deck + brick courtyards + pad; rest slope/hedge/stairs (p_45-p_47)"
-    }
-  },
-  "weightedTotal": 3.5,
-  "verdict": "This is a view-and-character play, not a turnkey house: a 1940 brown-shingle Berkeley hills cabin with a legitimate SF-to-Golden-Gate living-level view, real rustic soul (beamed ceilings, Dutch doors, leaded glass), and a separate 1bd cottage whose own bay view makes it a credible income/guest unit. The trade: vintage systems throughout (jalousie windows, original baths, mixed-age appliances), flat roof sections with skylights, a non-conforming downstairs, neighbors 12-30 ft away, and Very High FHSZ insurance friction \u2014 priced accordingly at $186K under its 2021 sale. For a solo buyer who ranks view + vibe + flexibility over polish, and who can absorb fire-insurance and permit diligence.",
-  "flags": [
-    "\ud83d\udd25 Very High FHSZ (Berkeley hills / Grizzly Peak corridor) \u2014 insurance availability + cost; get quotes before offer",
-    "\ud83c\udfda\ufe0f Flat/low-slope membrane roof sections + 2 skylights on main house (p_45, p_46)",
-    "\ud83e\ude9f Jalousie windows in hall bath + bonus room (p_34, p_40)",
-    "\ud83c\udfd7\ufe0f Post/pier-supported deck + downslope foundation over slope (p_45, p_47)",
-    "\ud83d\udcd0 Non-conforming downstairs bath/bonus (p_42, p_43); listed 1,866 sf vs 1,672 sf measured on plans (p_53, p_54)",
-    "\ud83d\udc77 Active scaffolding/construction on immediate neighbor (p_41)",
-    "\ud83c\udfd8\ufe0f Neighbors 12-30 ft on uphill/east sides; deck overlooked (p_23, p_38, p_45-p_47)",
-    "\u26a1 Vintage systems: original tile baths, 3-handle tub valve, mixed-age appliances, surface conduit; disclosed Home Energy Score 2/10",
-    "\ud83d\udcb0 Listed $186K under its Oct-2021 sale ($1.235M); MLS duplex/income classification affects financing + appraisal"
+ "schemaVersion": 1,
+ "slug": "1076-grizzly-peak",
+ "source": {
+  "url": "https://www.compass.com/homedetails/1076-Grizzly-Peak-Blvd-Berkeley-CA-94708/1QWK04_pid/",
+  "mirrorOf": null,
+  "fetchedAt": "2026-10-28T04:25:00Z"
+ },
+ "listing": {
+  "address": "1076 Grizzly Peak Blvd, Berkeley, CA 94708",
+  "price": 1049000,
+  "beds": 3,
+  "baths": 3,
+  "sqft": 1866,
+  "pricePerSqft": 562,
+  "lotAc": 0.1,
+  "dom": 1,
+  "status": "New",
+  "fhsz": "Very High FHSZ (presumptive — Berkeley hills / Grizzly Peak corridor, Berkeley Fire Zone 3; verify on CAL FIRE map)",
+  "coords": [
+   37.89270854589,
+   -122.257619894365
   ],
-  "positives": [
-    "Verified living-level SF + Bay Bridge + Golden Gate views from living deck, primary bedroom, AND cottage (p_15, p_22, p_24, p_33)",
-    "Real 1940s Berkeley-hills character: open-beam T&G ceilings, Dutch doors, board-and-batten, leaded/stained glass (p_16-p_19, p_28, p_29)",
-    "Separate 1bd cottage with full kitchen, updated bath, and its own bay view \u2014 income/guest/studio optionality (p_05-p_15)",
-    "True indoor-outdoor flow: French doors + slider to cable-rail view deck (p_17, p_21, p_22)",
-    "Primary bedroom with panoramic view windows, sitting corner, walk-in closet (p_30-p_33)",
-    "Two laundries (upstairs + newer downstairs Samsung stack), carport + extra storage (p_29, p_44, p_05)",
-    "Cottage bath newly updated; whole property freshly staged/painted (p_13, p_14)",
-    "Tilden Park trailheads up the road; North Shattuck ~2 mi downhill"
-  ],
-  "orientationInference": "View side faces W-WNW (SF, both bridges, Marin/Angel Island visible from deck + primary; twilight sunsets p_01, p_52) \u2014 strong afternoon/evening sun on view side, morning light on entry/east. Inference from photos + map, not measured.",
-  "photos": [
-    {
-      "file": "photos/p_01.jpg",
-      "note": "Twilight entry: brown board-and-batten cabin, brick courtyard, Dutch door, sunset sky west"
-    },
-    {
-      "file": "photos/p_02.jpg",
-      "note": "Daylight front: comp-shingle gable roof, concrete chimney, brick patio, flower boxes, wood windows"
-    },
-    {
-      "file": "photos/p_03.jpg",
-      "note": "Panoramic Bay view: SF skyline, Bay + Golden Gate bridges, foreground foliage \u2014 likely garden/deck level"
-    },
-    {
-      "file": "photos/p_04.jpg",
-      "note": "SF view partially framed by redwoods; Berkeley flats below"
-    },
-    {
-      "file": "photos/p_05.jpg",
-      "note": "Street-level cottage: sage board-and-batten, carport pad, 1076/1078 plaque, downslope neighbors"
-    },
-    {
-      "file": "photos/p_06.jpg",
-      "note": "Cottage Dutch door, dual mailboxes (duplex), pergola; bay glimpse from street"
-    },
-    {
-      "file": "photos/p_07.jpg",
-      "note": "Cottage entry: vaulted white beamed ceiling, kitchen pass-through, fresh LVT floor"
-    },
-    {
-      "file": "photos/p_08.jpg",
-      "note": "Cottage living room: bay-view double-hungs, bedroom through cased opening \u2014 cottage view verified"
-    },
-    {
-      "file": "photos/p_09.jpg",
-      "note": "Cottage living reverse: windows on 3 sides, water views, bright"
-    },
-    {
-      "file": "photos/p_10.jpg",
-      "note": "Cottage kitchen: apartment-size white range/fridge, minimal counter, basic but clean"
-    },
-    {
-      "file": "photos/p_11.jpg",
-      "note": "Cottage bedroom: large window w/ big bay + Angel Island view"
-    },
-    {
-      "file": "photos/p_12.jpg",
-      "note": "Cottage bedroom reverse: original stained-wood sliding closet doors retained"
-    },
-    {
-      "file": "photos/p_13.jpg",
-      "note": "Cottage bath: updated tile walk-in shower, black-frame glass, frosted awning window"
-    },
-    {
-      "file": "photos/p_14.jpg",
-      "note": "Cottage bath: original wood door, rain head + handheld, dark vanity"
-    },
-    {
-      "file": "photos/p_15.jpg",
-      "note": "Cottage window: Golden Gate Bridge view over neighbor's roof \u2014 living-level GG verified"
-    },
-    {
-      "file": "photos/p_16.jpg",
-      "note": "Main entry: concrete chimney mass, terracotta tile, open-beam wood ceiling into living room"
-    },
-    {
-      "file": "photos/p_17.jpg",
-      "note": "Main living: vaulted T&G beamed ceiling, wood panel walls, French doors to view deck, sun patches"
-    },
-    {
-      "file": "photos/p_18.jpg",
-      "note": "Living reverse: deck + bay through wood French doors \u2014 indoor-outdoor flow verified"
-    },
-    {
-      "file": "photos/p_19.jpg",
-      "note": "Turquoise painted-brick fireplace wall \u2014 polarizing statement, wood-burning"
-    },
-    {
-      "file": "photos/p_20.jpg",
-      "note": "Dining: kitchen pass-through bar w/ barn slider, built-in credenza wall, wood ceiling"
-    },
-    {
-      "file": "photos/p_21.jpg",
-      "note": "Dining reverse: slider to deck, built-ins, strong afternoon sun"
-    },
-    {
-      "file": "photos/p_22.jpg",
-      "note": "View deck: cable rail, bay to Marin/Angel Island, cedar shingle wall, hedge screen below"
-    },
-    {
-      "file": "photos/p_23.jpg",
-      "note": "Deck reverse: upslope neighbor wall/fence at close range (~20 ft), bay right"
-    },
-    {
-      "file": "photos/p_24.jpg",
-      "note": "Deck-level panorama SF\u2192GG over neighbor rooftops \u2014 living-level sweep verified"
-    },
-    {
-      "file": "photos/p_25.jpg",
-      "note": "Dining\u2192kitchen: pro-style stainless range, pebble-tile counters, rustic barn-door cabinets"
-    },
-    {
-      "file": "photos/p_26.jpg",
-      "note": "Kitchen: pro gas range, barn-door uppers, wood window over sink faces greenery/fence"
-    },
-    {
-      "file": "photos/p_27.jpg",
-      "note": "Kitchen sink wall: older black dishwasher, laundry beyond, compact 8x11 ft footprint"
-    },
-    {
-      "file": "photos/p_28.jpg",
-      "note": "Kitchen back: vintage wood-paneled fridge, leaded-glass back door \u2014 aged appliance"
-    },
-    {
-      "file": "photos/p_29.jpg",
-      "note": "Upstairs laundry nook: white W/D, stained-glass accent window, tile counter"
-    },
-    {
-      "file": "photos/p_30.jpg",
-      "note": "Primary bedroom: wall of picture windows w/ panoramic bay view, ceiling fan, sitting area"
-    },
-    {
-      "file": "photos/p_31.jpg",
-      "note": "Primary reverse: walk-in closet w/ wood shelves, doors to baths"
-    },
-    {
-      "file": "photos/p_32.jpg",
-      "note": "Primary sitting corner: corner windows, minor drywall seam/patch lines visible"
-    },
-    {
-      "file": "photos/p_33.jpg",
-      "note": "Through-window: SF + both bridges, redwood mid-frame partially filters view"
-    },
-    {
-      "file": "photos/p_34.jpg",
-      "note": "Hall bath: vintage tan tile, steel med cabinets, JALOUSIE window \u2014 buyer flag"
-    },
-    {
-      "file": "photos/p_35.jpg",
-      "note": "Hall bath tub: original 3-handle valve, tan 4x4 tile, grab bar \u2014 dated"
-    },
-    {
-      "file": "photos/p_36.jpg",
-      "note": "Bedroom 2: blue paneled walls, corner wood windows to garden, moderate light"
-    },
-    {
-      "file": "photos/p_37.jpg",
-      "note": "Bedroom 2 reverse: floating-vanity bath through cased opening; neighbor deck close outside"
-    },
-    {
-      "file": "photos/p_38.jpg",
-      "note": "Bedroom 2 wide: green neighbor house ~15-20 ft through side windows \u2014 privacy weak uphill"
-    },
-    {
-      "file": "photos/p_39.jpg",
-      "note": "Bath 2: vintage avocado tile stall shower, dual heads, patched/stained ceiling above"
-    },
-    {
-      "file": "photos/p_40.jpg",
-      "note": "Bonus room (downstairs): lattice wood ceiling, striped panels, jalousie window, bay glimpse"
-    },
-    {
-      "file": "photos/p_41.jpg",
-      "note": "Bonus reverse: neighbor shingle house ~12 ft w/ SCAFFOLDING \u2014 construction next door"
-    },
-    {
-      "file": "photos/p_42.jpg",
-      "note": "Bonus toward bath: shower box in room corner, surface conduit, closet bank"
-    },
-    {
-      "file": "photos/p_43.jpg",
-      "note": "Non-conforming bath: wall-hung vintage sink, corrugated metal wall, mini-fridge \u2014 workshop grade"
-    },
-    {
-      "file": "photos/p_44.jpg",
-      "note": "Downstairs laundry: newer blue Samsung stack, brick steps, red-painted floor, rustic"
-    },
-    {
-      "file": "photos/p_45.jpg",
-      "note": "Drone rear: main roof w/ 2 skylights + FLAT membrane sections, deck on posts, cottage right, dense neighbors"
-    },
-    {
-      "file": "photos/p_46.jpg",
-      "note": "Drone street side: roofscape, narrow cracked street, tight hillside fabric, solar neighbor"
-    },
-    {
-      "file": "photos/p_47.jpg",
-      "note": "Drone view side: deck on tall posts over slope (pier/stilt elements), big laurel hedge, stem-wall foundation"
-    },
-    {
-      "file": "photos/p_48.jpg",
-      "note": "High drone: Berkeley hills context, heavy tree canopy, winding streets \u2014 area amenity shot"
-    },
-    {
-      "file": "photos/p_49.jpg",
-      "note": "High drone NW: Richmond-SR Bridge over canopy \u2014 drone-altitude, overstates"
-    },
-    {
-      "file": "photos/p_50.jpg",
-      "note": "High drone: SF + Bay Bridge golden hour \u2014 drone-altitude marketing"
-    },
-    {
-      "file": "photos/p_51.jpg",
-      "note": "High drone: Golden Gate + Angel Island \u2014 drone-altitude marketing"
-    },
-    {
-      "file": "photos/p_52.jpg",
-      "note": "Twilight front: warm windows, brick path, garden gnome \u2014 marketing hero shot"
-    },
-    {
-      "file": "photos/p_53.jpg",
-      "note": "Floor plan main level: living/dining/kitchen + 2bd + bonus wing; measured 1,303 sf"
-    },
-    {
-      "file": "photos/p_54.jpg",
-      "note": "Floor plan cottage: 1bd/1ba + kitchen, measured 369 sf \u2014 total measured 1,672 vs listed 1,866"
-    }
-  ],
-  "crosschecks": [
-    {
-      "check": "Marketing claims vs photos",
-      "result": "Mostly honest: 'sweeping views' verified at living level (p_22, p_24, p_33); cottage 'Bay views of its own' verified (p_08, p_11, p_15); 'beautiful natural light' true on view side only. Overreach: JSON-LD lists 'Waterfront' amenity \u2014 contradicted (waterfrontYN=false; bay VIEW, not waterfront); drone panoramas p_49-p_51 overstate. Home Energy Score 2 disclosed = candor."
-    },
-    {
-      "check": "Geocoder vs page coords",
-      "result": "Agree within ~88 ft (geocoder 37.89271, -122.25762 vs page 37.89247, -122.25757) \u2014 under 150 ft threshold, OK"
-    },
-    {
-      "check": "Elevation / micro-market",
-      "result": "1,047 ft on Grizzly Peak ridge corridor (Cragmont/Berkeley Hills) \u2014 premium view belt; ~1.2 mi NE of 1488 Summit comp (3.6), Tilden Park boundary nearby"
-    },
-    {
-      "check": "Orientation",
-      "result": "Photo + drone corroborate W-WNW view side: deck shots toward Marin/Angel Island (p_22), SF/GG (p_24, p_33), twilight sunsets (p_01, p_52) \u2014 labeled inference"
-    },
-    {
-      "check": "FHSZ / insurance",
-      "result": "Very High FHSZ (presumptive \u2014 Berkeley hills, City Fire Zone 3; verify on CAL FIRE map). Insurance availability/cost flag raised; 1923 Berkeley fire footprint area"
-    },
-    {
-      "check": "Amenity claims",
-      "result": "Tilden Park 'just up the road' plausible (Grizzly Peak borders Tilden east); North Shattuck shops ~2 mi downhill; carport verified (p_05); 'Private Outdoor Space' verified (deck + courtyards); 'Waterfront' debunked"
-    },
-    {
-      "check": "Bed/bath count legitimacy",
-      "result": "3bd/3ba = main 2bd/2ba + cottage 1bd/1ba + bonus room w/ NON-CONFORMING bath. 3rd bedroom is in a separate structure; not a single-roof 3bd. MLS feeds classify as Residential Income - Duplex (2 units, 1940)"
-    },
-    {
-      "check": "Sqft confidence",
-      "result": "Listed 1,866 sf (assessor 3bd/3ba) vs floor-plan measured 1,303 main + 369 cottage = 1,672 (p_53, p_54) \u2014 ~194 sf gap, likely non-conforming bonus; treat 1,866 as optimistic"
-    }
-  ]
+  "elevationFt": 1047.2,
+  "style": "1940 rustic Berkeley Hills brown-shingle cabin + separate 1bd cottage; MLS classifies as Residential Income - Duplex",
+  "description": "Perched in the Berkeley Hills with sweeping views of the Bay, this rare offering pairs a main residence with separate cottage on one lot. The main house has all the warmth of a classic hillside home, with rich wood paneling, beautiful natural light, and real romantic charm. The main level offers two bedrooms and two bathrooms, and the living and dining areas flow easily into the kitchen, with plenty of built-ins along the way. Step out onto the deck, take in the view, and you'll understand right away why this spot is so special. Downstairs, a flexible bonus space with a non-conforming bath makes a great studio, office, or guest retreat. At street level, the separate one-bedroom cottage has Bay views of its own, along with a full kitchen and bath. It's a wonderful setup for visiting family and friends, creative work, or rental income. Lush plantings and a garden patio surround it all, and a covered carport and extra storage add everyday convenience. Tilden Park is just up the road for weekend hikes, and you're only minutes from downtown Berkeley, the shops and restaurants of North Shattuck, schools, and an easy commute to San Francisco. Opportunities like this don't come along often in the Berkeley Hills. Home Energy Score of 2."
+ },
+ "scores": {
+  "view": {
+   "score": 4.5,
+   "note": "Living-level SF + Bay Bridge + Golden Gate sweep verified from deck (p_22, p_24), primary (p_30, p_33), cottage (p_15); redwood + hedge partially filter (p_33)"
+  },
+  "natural_light": {
+   "score": 3.5,
+   "note": "Bright view side w/ sun patches (p_17, p_21, p_30); bedroom 2 + bonus room moderate, windows face garden/neighbors (p_36, p_38, p_40)"
+  },
+  "character": {
+   "score": 4.5,
+   "note": "1940 brown-shingle cabin: open-beam T&G ceilings, Dutch doors, leaded/stained glass, wood paneling, turquoise fireplace (p_16-p_19, p_28, p_29)"
+  },
+  "kitchen": {
+   "score": 3.0,
+   "note": "Pro-style range but pebble-tile counters, vintage wood-panel fridge, older black dishwasher, 8x11 footprint (p_25-p_28)"
+  },
+  "privacy": {
+   "score": 2.5,
+   "note": "Dense hill fabric: green neighbor ~15-20 ft off bedroom 2 (p_38), bonus room faces shingle neighbor ~12 ft w/ scaffolding (p_41); deck overlooked (p_23)"
+  },
+  "layout_flow": {
+   "score": 3.0,
+   "note": "Living-dining-kitchen linear w/ pass-through + deck sliders (p_20, p_21), but 3rd bed is a separate cottage and bonus bath non-conforming (p_53, p_54)"
+  },
+  "primary_suite": {
+   "score": 3.5,
+   "note": "View-wall primary w/ sitting corner + walk-in closet (p_30-p_33), but baths are vintage hall units, no true ensuite (p_34, p_35, p_39)"
+  },
+  "outdoor_space": {
+   "score": 4.0,
+   "note": "Cable-rail view deck off living (p_22), brick courtyards (p_01, p_02), pergola parking pad (p_05); yard is steep slope"
+  },
+  "condition": {
+   "score": 2.5,
+   "note": "Fresh paint/staging but vintage baths (p_34, p_39), jalousies (p_34, p_40), flat roof sections + skylights (p_45), surface conduit (p_42); Home Energy Score 2"
+  },
+  "lot_usability": {
+   "score": 2.5,
+   "note": "0.10 AC steep downslope; usable = deck + brick courtyards + pad; rest slope/hedge/stairs (p_45-p_47)"
+  }
+ },
+ "weightedTotal": 3.5,
+ "verdict": "This is a view-and-character play, not a turnkey house: a 1940 brown-shingle Berkeley hills cabin with a legitimate SF-to-Golden-Gate living-level view, real rustic soul (beamed ceilings, Dutch doors, leaded glass), and a separate 1bd cottage whose own bay view makes it a credible income/guest unit. The trade: vintage systems throughout (jalousie windows, original baths, mixed-age appliances), flat roof sections with skylights, a non-conforming downstairs, neighbors 12-30 ft away, and Very High FHSZ insurance friction — priced accordingly at $186K under its 2021 sale. For a solo buyer who ranks view + vibe + flexibility over polish, and who can absorb fire-insurance and permit diligence.",
+ "flags": [
+  "🔥 Very High FHSZ (Berkeley hills / Grizzly Peak corridor) — insurance availability + cost; get quotes before offer",
+  "🏚️ Flat/low-slope membrane roof sections + 2 skylights on main house (p_45, p_46)",
+  "🪟 Jalousie windows in hall bath + bonus room (p_34, p_40)",
+  "🏗️ Post/pier-supported deck + downslope foundation over slope (p_45, p_47)",
+  "📐 Non-conforming downstairs bath/bonus (p_42, p_43); listed 1,866 sf vs 1,672 sf measured on plans (p_53, p_54)",
+  "👷 Active scaffolding/construction on immediate neighbor (p_41)",
+  "🏘️ Neighbors 12-30 ft on uphill/east sides; deck overlooked (p_23, p_38, p_45-p_47)",
+  "⚡ Vintage systems: original tile baths, 3-handle tub valve, mixed-age appliances, surface conduit; disclosed Home Energy Score 2/10",
+  "💰 Listed $186K under its Oct-2021 sale ($1.235M); MLS duplex/income classification affects financing + appraisal"
+ ],
+ "positives": [
+  "Verified living-level SF + Bay Bridge + Golden Gate views from living deck, primary bedroom, AND cottage (p_15, p_22, p_24, p_33)",
+  "Real 1940s Berkeley-hills character: open-beam T&G ceilings, Dutch doors, board-and-batten, leaded/stained glass (p_16-p_19, p_28, p_29)",
+  "Separate 1bd cottage with full kitchen, updated bath, and its own bay view — income/guest/studio optionality (p_05-p_15)",
+  "True indoor-outdoor flow: French doors + slider to cable-rail view deck (p_17, p_21, p_22)",
+  "Primary bedroom with panoramic view windows, sitting corner, walk-in closet (p_30-p_33)",
+  "Two laundries (upstairs + newer downstairs Samsung stack), carport + extra storage (p_29, p_44, p_05)",
+  "Cottage bath newly updated; whole property freshly staged/painted (p_13, p_14)",
+  "Tilden Park trailheads up the road; North Shattuck ~2 mi downhill"
+ ],
+ "orientationInference": "View side faces W-WNW (SF, both bridges, Marin/Angel Island visible from deck + primary; twilight sunsets p_01, p_52) — strong afternoon/evening sun on view side, morning light on entry/east. Inference from photos + map, not measured.",
+ "photos": [
+  {
+   "file": "photos/p_01.jpg",
+   "note": "Twilight entry: brown board-and-batten cabin, brick courtyard, Dutch door, sunset sky west"
+  },
+  {
+   "file": "photos/p_02.jpg",
+   "note": "Daylight front: comp-shingle gable roof, concrete chimney, brick patio, flower boxes, wood windows"
+  },
+  {
+   "file": "photos/p_03.jpg",
+   "note": "Panoramic Bay view: SF skyline, Bay + Golden Gate bridges, foreground foliage — likely garden/deck level"
+  },
+  {
+   "file": "photos/p_04.jpg",
+   "note": "SF view partially framed by redwoods; Berkeley flats below"
+  },
+  {
+   "file": "photos/p_05.jpg",
+   "note": "Street-level cottage: sage board-and-batten, carport pad, 1076/1078 plaque, downslope neighbors"
+  },
+  {
+   "file": "photos/p_06.jpg",
+   "note": "Cottage Dutch door, dual mailboxes (duplex), pergola; bay glimpse from street"
+  },
+  {
+   "file": "photos/p_07.jpg",
+   "note": "Cottage entry: vaulted white beamed ceiling, kitchen pass-through, fresh LVT floor"
+  },
+  {
+   "file": "photos/p_08.jpg",
+   "note": "Cottage living room: bay-view double-hungs, bedroom through cased opening — cottage view verified"
+  },
+  {
+   "file": "photos/p_09.jpg",
+   "note": "Cottage living reverse: windows on 3 sides, water views, bright"
+  },
+  {
+   "file": "photos/p_10.jpg",
+   "note": "Cottage kitchen: apartment-size white range/fridge, minimal counter, basic but clean"
+  },
+  {
+   "file": "photos/p_11.jpg",
+   "note": "Cottage bedroom: large window w/ big bay + Angel Island view"
+  },
+  {
+   "file": "photos/p_12.jpg",
+   "note": "Cottage bedroom reverse: original stained-wood sliding closet doors retained"
+  },
+  {
+   "file": "photos/p_13.jpg",
+   "note": "Cottage bath: updated tile walk-in shower, black-frame glass, frosted awning window"
+  },
+  {
+   "file": "photos/p_14.jpg",
+   "note": "Cottage bath: original wood door, rain head + handheld, dark vanity"
+  },
+  {
+   "file": "photos/p_15.jpg",
+   "note": "Cottage window: Golden Gate Bridge view over neighbor's roof — living-level GG verified"
+  },
+  {
+   "file": "photos/p_16.jpg",
+   "note": "Main entry: concrete chimney mass, terracotta tile, open-beam wood ceiling into living room"
+  },
+  {
+   "file": "photos/p_17.jpg",
+   "note": "Main living: vaulted T&G beamed ceiling, wood panel walls, French doors to view deck, sun patches"
+  },
+  {
+   "file": "photos/p_18.jpg",
+   "note": "Living reverse: deck + bay through wood French doors — indoor-outdoor flow verified"
+  },
+  {
+   "file": "photos/p_19.jpg",
+   "note": "Turquoise painted-brick fireplace wall — polarizing statement, wood-burning"
+  },
+  {
+   "file": "photos/p_20.jpg",
+   "note": "Dining: kitchen pass-through bar w/ barn slider, built-in credenza wall, wood ceiling"
+  },
+  {
+   "file": "photos/p_21.jpg",
+   "note": "Dining reverse: slider to deck, built-ins, strong afternoon sun"
+  },
+  {
+   "file": "photos/p_22.jpg",
+   "note": "View deck: cable rail, bay to Marin/Angel Island, cedar shingle wall, hedge screen below"
+  },
+  {
+   "file": "photos/p_23.jpg",
+   "note": "Deck reverse: upslope neighbor wall/fence at close range (~20 ft), bay right"
+  },
+  {
+   "file": "photos/p_24.jpg",
+   "note": "Deck-level panorama SF→GG over neighbor rooftops — living-level sweep verified"
+  },
+  {
+   "file": "photos/p_25.jpg",
+   "note": "Dining→kitchen: pro-style stainless range, pebble-tile counters, rustic barn-door cabinets"
+  },
+  {
+   "file": "photos/p_26.jpg",
+   "note": "Kitchen: pro gas range, barn-door uppers, wood window over sink faces greenery/fence"
+  },
+  {
+   "file": "photos/p_27.jpg",
+   "note": "Kitchen sink wall: older black dishwasher, laundry beyond, compact 8x11 ft footprint"
+  },
+  {
+   "file": "photos/p_28.jpg",
+   "note": "Kitchen back: vintage wood-paneled fridge, leaded-glass back door — aged appliance"
+  },
+  {
+   "file": "photos/p_29.jpg",
+   "note": "Upstairs laundry nook: white W/D, stained-glass accent window, tile counter"
+  },
+  {
+   "file": "photos/p_30.jpg",
+   "note": "Primary bedroom: wall of picture windows w/ panoramic bay view, ceiling fan, sitting area"
+  },
+  {
+   "file": "photos/p_31.jpg",
+   "note": "Primary reverse: walk-in closet w/ wood shelves, doors to baths"
+  },
+  {
+   "file": "photos/p_32.jpg",
+   "note": "Primary sitting corner: corner windows, minor drywall seam/patch lines visible"
+  },
+  {
+   "file": "photos/p_33.jpg",
+   "note": "Through-window: SF + both bridges, redwood mid-frame partially filters view"
+  },
+  {
+   "file": "photos/p_34.jpg",
+   "note": "Hall bath: vintage tan tile, steel med cabinets, JALOUSIE window — buyer flag"
+  },
+  {
+   "file": "photos/p_35.jpg",
+   "note": "Hall bath tub: original 3-handle valve, tan 4x4 tile, grab bar — dated"
+  },
+  {
+   "file": "photos/p_36.jpg",
+   "note": "Bedroom 2: blue paneled walls, corner wood windows to garden, moderate light"
+  },
+  {
+   "file": "photos/p_37.jpg",
+   "note": "Bedroom 2 reverse: floating-vanity bath through cased opening; neighbor deck close outside"
+  },
+  {
+   "file": "photos/p_38.jpg",
+   "note": "Bedroom 2 wide: green neighbor house ~15-20 ft through side windows — privacy weak uphill"
+  },
+  {
+   "file": "photos/p_39.jpg",
+   "note": "Bath 2: vintage avocado tile stall shower, dual heads, patched/stained ceiling above"
+  },
+  {
+   "file": "photos/p_40.jpg",
+   "note": "Bonus room (downstairs): lattice wood ceiling, striped panels, jalousie window, bay glimpse"
+  },
+  {
+   "file": "photos/p_41.jpg",
+   "note": "Bonus reverse: neighbor shingle house ~12 ft w/ SCAFFOLDING — construction next door"
+  },
+  {
+   "file": "photos/p_42.jpg",
+   "note": "Bonus toward bath: shower box in room corner, surface conduit, closet bank"
+  },
+  {
+   "file": "photos/p_43.jpg",
+   "note": "Non-conforming bath: wall-hung vintage sink, corrugated metal wall, mini-fridge — workshop grade"
+  },
+  {
+   "file": "photos/p_44.jpg",
+   "note": "Downstairs laundry: newer blue Samsung stack, brick steps, red-painted floor, rustic"
+  },
+  {
+   "file": "photos/p_45.jpg",
+   "note": "Drone rear: main roof w/ 2 skylights + FLAT membrane sections, deck on posts, cottage right, dense neighbors"
+  },
+  {
+   "file": "photos/p_46.jpg",
+   "note": "Drone street side: roofscape, narrow cracked street, tight hillside fabric, solar neighbor"
+  },
+  {
+   "file": "photos/p_47.jpg",
+   "note": "Drone view side: deck on tall posts over slope (pier/stilt elements), big laurel hedge, stem-wall foundation"
+  },
+  {
+   "file": "photos/p_48.jpg",
+   "note": "High drone: Berkeley hills context, heavy tree canopy, winding streets — area amenity shot"
+  },
+  {
+   "file": "photos/p_49.jpg",
+   "note": "High drone NW: Richmond-SR Bridge over canopy — drone-altitude, overstates"
+  },
+  {
+   "file": "photos/p_50.jpg",
+   "note": "High drone: SF + Bay Bridge golden hour — drone-altitude marketing"
+  },
+  {
+   "file": "photos/p_51.jpg",
+   "note": "High drone: Golden Gate + Angel Island — drone-altitude marketing"
+  },
+  {
+   "file": "photos/p_52.jpg",
+   "note": "Twilight front: warm windows, brick path, garden gnome — marketing hero shot"
+  },
+  {
+   "file": "photos/p_53.jpg",
+   "note": "Floor plan main level: living/dining/kitchen + 2bd + bonus wing; measured 1,303 sf"
+  },
+  {
+   "file": "photos/p_54.jpg",
+   "note": "Floor plan cottage: 1bd/1ba + kitchen, measured 369 sf — total measured 1,672 vs listed 1,866"
+  }
+ ],
+ "crosschecks": [
+  {
+   "check": "Marketing claims vs photos",
+   "result": "Mostly honest: 'sweeping views' verified at living level (p_22, p_24, p_33); cottage 'Bay views of its own' verified (p_08, p_11, p_15); 'beautiful natural light' true on view side only. Overreach: JSON-LD lists 'Waterfront' amenity — contradicted (waterfrontYN=false; bay VIEW, not waterfront); drone panoramas p_49-p_51 overstate. Home Energy Score 2 disclosed = candor."
+  },
+  {
+   "check": "Geocoder vs page coords",
+   "result": "Agree within ~88 ft (geocoder 37.89271, -122.25762 vs page 37.89247, -122.25757) — under 150 ft threshold, OK"
+  },
+  {
+   "check": "Elevation / micro-market",
+   "result": "1,047 ft on Grizzly Peak ridge corridor (Cragmont/Berkeley Hills) — premium view belt; ~1.2 mi NE of 1488 Summit comp (3.6), Tilden Park boundary nearby"
+  },
+  {
+   "check": "Orientation",
+   "result": "Photo + drone corroborate W-WNW view side: deck shots toward Marin/Angel Island (p_22), SF/GG (p_24, p_33), twilight sunsets (p_01, p_52) — labeled inference"
+  },
+  {
+   "check": "FHSZ / insurance",
+   "result": "Very High FHSZ (presumptive — Berkeley hills, City Fire Zone 3; verify on CAL FIRE map). Insurance availability/cost flag raised; 1923 Berkeley fire footprint area"
+  },
+  {
+   "check": "Amenity claims",
+   "result": "Tilden Park 'just up the road' plausible (Grizzly Peak borders Tilden east); North Shattuck shops ~2 mi downhill; carport verified (p_05); 'Private Outdoor Space' verified (deck + courtyards); 'Waterfront' debunked"
+  },
+  {
+   "check": "Bed/bath count legitimacy",
+   "result": "3bd/3ba = main 2bd/2ba + cottage 1bd/1ba + bonus room w/ NON-CONFORMING bath. 3rd bedroom is in a separate structure; not a single-roof 3bd. MLS feeds classify as Residential Income - Duplex (2 units, 1940)"
+  },
+  {
+   "check": "Sqft confidence",
+   "result": "Listed 1,866 sf (assessor 3bd/3ba) vs floor-plan measured 1,303 main + 369 cottage = 1,672 (p_53, p_54) — ~194 sf gap, likely non-conforming bonus; treat 1,866 as optimistic"
+  }
+ ]
 }

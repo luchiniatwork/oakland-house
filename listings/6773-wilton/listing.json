@@ -1,183 +1,381 @@
 {
-  "schemaVersion": 1,
-  "slug": "6773-wilton",
-  "source": {
-    "url": "https://www.compass.com/homedetails/6773-Wilton-Dr-Oakland-CA-94611/1L829M_pid/",
-    "mirrorOf": null,
-    "fetchedAt": "2026-10-15T07:21:53Z"
-  },
-  "listing": {
-    "address": "6773 Wilton Dr, Oakland, CA 94611",
-    "price": 1099000,
-    "beds": 3,
-    "baths": 2,
-    "sqft": 1710,
-    "pricePerSqft": 643,
-    "lotAc": 0.17,
-    "dom": 14,
-    "status": "Active",
-    "fhsz": "Very High FHSZ (presumptive)",
-    "coords": [37.8250046, -122.1862454],
-    "elevationFt": 1448.2,
-    "style": "Contemporary (1946, rebuilt 2025-26)",
-    "description": "Nestled in the highly sought-after Piedmont Pines, this meticulously rebuilt three-bedroom, two-bathroom residence is surrounded by a serene redwood setting, seamlessly blending modern luxury with thoughtful craftsmanship and open living spaces. Reconstructed from the foundation and framing, the home boasts a brand-new kitchen, bathrooms, plumbing, and roof, complemented by high-quality materials and contemporary finishes throughout. Approximately 450 SF of extra space beyond the main residence offers endless possibilities for a home office, creative studio, fitness area, or storage. For 3D and virual tour, please visit the property website; https://6773wiltondr.com. Open House; October 10th & 11th. from 2:00 to 4:30pm. Offers by Oct. 14th. 2:00pm."
-  },
-  "scores": {
-    "view": {
-      "score": 2.5,
-      "note": "MLS itself declares view: None; living-level outlooks are dense redwood canopy + a distant-hill sliver (p_21, p_25), no bay/water anywhere incl. drone top-down (p_61)"
-    },
-    "natural_light": {
-      "score": 4,
-      "note": "Vaulted glass walls, >=4 skylights, big sun patches across living/dining/den (p_08, p_14, p_16, p_31); lower-level rooms dimmer with high windows (p_62-63)"
-    },
-    "character": {
-      "score": 4,
-      "note": "White-painted post-and-beam T&G vaults, angular clerestory transoms, glass walls, board-form concrete entry wall — MCM-lite done well (p_08, p_23-24, p_06)"
-    },
-    "kitchen": {
-      "score": 4.5,
-      "note": "All-new: flat-panel oak + glass uppers, quartz, 36in 6-burner pro gas range w/ SS hood, handmade-look clay tile to ceiling, island, butler pantry, skylight (p_30-35)"
-    },
-    "privacy": {
-      "score": 2,
-      "note": "Uphill 3-story neighbor overlooks courtyard + breakfast nook ~25-35 ft (p_03, p_07, p_37, p_60); second neighbor close on far side (p_61); BR2 faces fence (p_42)"
-    },
-    "layout_flow": {
-      "score": 4,
-      "note": "True open plan living-dining-kitchen axis with sliders to both courtyard and rear deck (p_13, p_16-19); interior stair to lower suite + bonus (p_46)"
-    },
-    "primary_suite": {
-      "score": 3.5,
-      "note": "Bright corner-window primary on main level into tree canopy (p_38-40); no clearly en-suite bath visible in photos — verify adjacency"
-    },
-    "outdoor_space": {
-      "score": 4,
-      "note": "Four usable zones: entry courtyard w/ fountain (p_01, p_28), rear composite deck (p_18-19), terraced garden paths (p_29), downslope fire-pit pad (p_51-53)"
-    },
-    "condition": {
-      "score": 4.5,
-      "note": "Foundation-up rebuild: new comp roof, windows, plumbing, kitchens/baths (p_06, p_59); garage open-rafter unfinished and raw workshop under house (p_57, p_64)"
-    },
-    "lot_usability": {
-      "score": 3,
-      "note": "0.17 AC hillside: patios/paths are usable but much of the lot is planted slope w/ canopy (p_52-56); no flat lawn; upkeep + defensible-space burden"
-    }
-  },
-  "weightedTotal": 3.5,
-  "verdict": "This is a tree-house, not a view house: a genuinely high-quality foundation-up contemporary rebuild buried in redwood canopy in Piedmont Pines, trading any bay view and real privacy (an uphill 3-story neighbor stares into the courtyard and breakfast nook) for exceptional natural light, open-beam MCM character, and a best-in-class new kitchen. At $1.099M ($643/sf) after a $812K purchase one year ago, you are paying retail for someone else's well-executed rebuild — worth it only if light, character, and turnkey condition outrank views, privacy, and the Very High FHSZ insurance reality of the Oakland hills.",
-  "flags": [
-    "🔥 Very High FHSZ (presumptive) — Piedmont Pines 94611 sits in the 1991 Oakland firestorm footprint; insurance availability/cost must be quoted BEFORE offer (FAIR Plan risk)",
-    "🌲 Redwood canopy directly overhangs the roof and a wood/composite deck on tall posts sits over a dry vegetated slope (p_51, p_53-56) — defensible-space and ember-resistance workload",
-    "👁️ Uphill 3-story shingle neighbor overlooks the entry courtyard, breakfast nook, and garden from ~25-35 ft (p_03, p_07, p_60); BR2 window faces a fence (p_42)",
-    "🛏️ 3rd bedroom + ~450 SF 'extra space' are lower level, partially below grade, part raw workshop (p_62-64); permit status unknown — verify before counting square footage",
-    "🏚️ Garage interior is open-rafter unfinished (p_57) despite 'meticulously rebuilt' marketing; street asphalt cracked (p_58)",
-    "⛰️ House sits below street grade on a hillside; 4+ skylights on the new low-slope comp roof (p_59-60) to keep sealed in fire country"
+ "schemaVersion": 1,
+ "slug": "6773-wilton",
+ "source": {
+  "url": "https://www.compass.com/homedetails/6773-Wilton-Dr-Oakland-CA-94611/1L829M_pid/",
+  "mirrorOf": null,
+  "fetchedAt": "2026-10-28T04:25:00Z"
+ },
+ "listing": {
+  "address": "6773 Wilton Dr, Oakland, CA 94611",
+  "price": 1099000,
+  "beds": 3,
+  "baths": 2,
+  "sqft": 1710,
+  "pricePerSqft": 643,
+  "lotAc": 0.17,
+  "dom": 14,
+  "status": "Pending (went pending 2026-10-15; listed $1,099,000 2026-10-01)",
+  "fhsz": "Very High FHSZ (presumptive)",
+  "coords": [
+   37.8250046,
+   -122.1862454
   ],
-  "positives": [
-    "✨ Foundation-up rebuild per listing: new roof, plumbing, kitchen, baths, windows (verify permits) — effectively new construction in a vintage shell",
-    "🌞 Exceptional main-level natural light: vaulted glass walls, clerestory transoms, 4+ skylights, sun patches in nearly every shot",
-    "🌲 Immersive redwood-canopy outlooks from living, dining, den, and primary bedroom — true tree-house feel despite no vista",
-    "🍳 Kitchen is a genuine quality build: 36in pro gas range w/ vented SS hood, clay tile to ceiling, island, butler pantry (p_30-35)",
-    "🪴 Four distinct outdoor rooms — courtyard, deck, fountain terrace, fire-pit pad — unusually good indoor-outdoor flow for the price band",
-    "📍 Piedmont Pines at ~1,448 ft, 14 DOM, below-street setback keeps road noise out; honest listing (MLS view field says 'None')"
-  ],
-  "orientationInference": "Entry/courtyard side faces ~W-SW — dusk shots (p_03, p_65) show sunset glow through trees over the garage, and afternoon sun floods the living room through the courtyard sliders (p_08, p_10); the glass-wall den/deck side faces the downslope canyon ~E-NE for morning light. Everything tree-filtered. Inference.",
-  "photos": [
-    { "file": "photos/p_01.jpg", "note": "Front courtyard day: white contemporary ranch, new comp hip roof, French doors to paver patio + fountain, mature canopy, neighbor window peeking upper-left" },
-    { "file": "photos/p_02.jpg", "note": "Dusk courtyard: warm interior glow, redwoods silhouetted behind, skylights visible on roofline, path lights on" },
-    { "file": "photos/p_03.jpg", "note": "Dusk entry walkway: bollard lights, sunset afterglow through trees (W sky), uphill 3-story shingle neighbor ~30 ft away overlooking" },
-    { "file": "photos/p_04.jpg", "note": "Street view: house sits below street grade, garage + '6773' marker, new roof + skylights at eye level; giant redwoods; uphill neighbor close" },
-    { "file": "photos/p_05.jpg", "note": "Entry path day shot: French-door courtyard, chim chase + multiple skylights, neighbor shingle wall looms right" },
-    { "file": "photos/p_06.jpg", "note": "Front door: modern dark slab door, covered porch w/ painted T&G ceiling, board-formed concrete accent wall, new fiber-cement siding" },
-    { "file": "photos/p_07.jpg", "note": "Courtyard patio: French doors + entry porch; uphill 3-story neighbor directly overlooks from ~25-35 ft — key privacy hit" },
-    { "file": "photos/p_08.jpg", "note": "Living room: white vaulted open-beam T&G ceiling, sliders to courtyard, sun patches, fluted fireplace surround" },
-    { "file": "photos/p_09.jpg", "note": "Living room reverse: glass slider wall, fluted fireplace w/ black steel doors, dining beyond — very bright" },
-    { "file": "photos/p_10.jpg", "note": "Living room slider to rear deck lounge: trees beyond fence, sunlight streaming in" },
-    { "file": "photos/p_11.jpg", "note": "Living room wide: continuous beam vaults, fireplace left, hall to entry — consistent contemporary finish" },
-    { "file": "photos/p_12.jpg", "note": "Fluted fireplace wall detail, hallway; finish quality above flip grade" },
-    { "file": "photos/p_13.jpg", "note": "Living-to-dining axis: continuous vaulted ceiling, French doors at far end, glass at both ends of the plan" },
-    { "file": "photos/p_14.jpg", "note": "Dining: big window into a sitting nook, skylights along the vault, sputnik chandelier, kitchen range-hood glimpse" },
-    { "file": "photos/p_15.jpg", "note": "Dining wide: kitchen behind (SS hood, wood cabinets), full-height garden windows right, bright" },
-    { "file": "photos/p_16.jpg", "note": "Open-plan panorama: living + dining + nook, big windows into trees, sun patches everywhere — the house's best asset" },
-    { "file": "photos/p_17.jpg", "note": "Dining toward kitchen: dark island w/ wood top, sink window to garden, French doors to courtyard" },
-    { "file": "photos/p_18.jpg", "note": "Rear deck: composite decking, redwoods right at the rail, wood fence, sky through canopy — deck of the den" },
-    { "file": "photos/p_19.jpg", "note": "Deck between wings: two slider walls open to one deck; neighbor roof gable intrudes above left" },
-    { "file": "photos/p_20.jpg", "note": "Den/sitting room: window bank + angular clerestory transoms (MCM geometry), slider to deck, tree outlook" },
-    { "file": "photos/p_21.jpg", "note": "Den window wall: redwoods + oaks fill the glass; property fence close below" },
-    { "file": "photos/p_22.jpg", "note": "Den back toward living/dining: open plan confirmed; slider to deck w/ close perimeter fence" },
-    { "file": "photos/p_23.jpg", "note": "Den sofa wall: wide window to canopy + angular transoms above; sun patches late day" },
-    { "file": "photos/p_24.jpg", "note": "Sputnik chandelier close-up: T&G ceiling + transom detail; renovation finish level visible" },
-    { "file": "photos/p_25.jpg", "note": "Den window outlook: dense redwood/green wall, distant-hill sliver through trunks — the 'view' is trees" },
-    { "file": "photos/p_26.jpg", "note": "Sitting nook w/ French doors to entry courtyard — dual outdoor access from living zone" },
-    { "file": "photos/p_27.jpg", "note": "Courtyard day: chim chase + skylight, redwood canopy directly over the roof (defensible-space note)" },
-    { "file": "photos/p_28.jpg", "note": "Fountain patio: terraced stone retaining walls, mature plantings, fence + uphill neighbor above" },
-    { "file": "photos/p_29.jpg", "note": "Side garden: layered stone terraces, gate uphill, matching shed; garden is the usable 'yard'" },
-    { "file": "photos/p_30.jpg", "note": "Kitchen: flat-panel oak + glass uppers, quartz, wood-shingle accent backsplash, butcher-block island, vaulted ceiling" },
-    { "file": "photos/p_31.jpg", "note": "Kitchen: skylight overhead, sink window into terraced greenery, island w/ arched-panel doors" },
-    { "file": "photos/p_32.jpg", "note": "Kitchen galley looking to dining: skylight, LVP wood-look floors, long sight line through the house" },
-    { "file": "photos/p_33.jpg", "note": "Range wall: 36in 6-burner pro-style gas range, SS chimney hood, handmade clay tile backsplash to ceiling" },
-    { "file": "photos/p_34.jpg", "note": "Butler pantry/buffet: glass-front uppers, built-in microwave, clay tile backsplash — extra prep zone" },
-    { "file": "photos/p_35.jpg", "note": "Sink wall: Thor 4-drawer SS fridge (mid-tier pro brand), window over sink to garden, dishwasher" },
-    { "file": "photos/p_36.jpg", "note": "Breakfast nook: gridded windows into trees, leather chairs, morning-sun position" },
-    { "file": "photos/p_37.jpg", "note": "Nook other window: faces neighbor's shingle wall + fence ~15 ft — the kitchen-table view is the privacy compromise" },
-    { "file": "photos/p_38.jpg", "note": "Primary bedroom: corner windows into canopy, bright, sputnik fixture, queen w/ room to spare" },
-    { "file": "photos/p_39.jpg", "note": "Primary reverse: two tree-facing window runs; fence glimpse through right window" },
-    { "file": "photos/p_40.jpg", "note": "Primary corner-window detail: new white casements, tree canopy fills the glass, sunlit" },
-    { "file": "photos/p_41.jpg", "note": "Bedroom 2: single window to slat fence + shrubs just outside; moderate light; smaller room" },
-    { "file": "photos/p_42.jpg", "note": "Bedroom 2 reverse: window outlook is the fence 6-8 ft away; armoire (staging) — modest secondary bedroom" },
-    { "file": "photos/p_43.jpg", "note": "Bath 1: double quartz vanity, round wood mirrors, bronze fixtures, window w/ blinds, quality" },
-    { "file": "photos/p_44.jpg", "note": "Bath 1 faucet + counter detail: clean renovation spec" },
-    { "file": "photos/p_45.jpg", "note": "Bath 1 shower: fluted marble-look tile, rain head + hand shower, pebble niche, linear drain, frameless glass" },
-    { "file": "photos/p_46.jpg", "note": "Interior stair down to lower level: wood treads, new lighting — lower suite + bonus below" },
-    { "file": "photos/p_47.jpg", "note": "Bedroom 3 (lower level): windows at grade into trees, beamed ceiling, decent light for a lower floor" },
-    { "file": "photos/p_48.jpg", "note": "BR3 reverse: neighbor shingle house visible through window — privacy weaker downstairs too" },
-    { "file": "photos/p_49.jpg", "note": "Bath 2 (lower): walk-in shower w/ pebble floor, barn-slider glass, new vanity — fresh" },
-    { "file": "photos/p_50.jpg", "note": "Bath 2 faucet detail: bronze waterfall fixture, clay subway backsplash" },
-    { "file": "photos/p_51.jpg", "note": "Rear downslope elevation: two stories of glass; round concrete fire-pit pad; dry leaf litter near structure (fire note)" },
-    { "file": "photos/p_52.jpg", "note": "Downslope garden from above: round pad, gravel path, mulched terraced slope, fence line above" },
-    { "file": "photos/p_53.jpg", "note": "Side garden: fire-pit pad among mature trees, deck on wood posts above, dry undergrowth — fire exposure" },
-    { "file": "photos/p_54.jpg", "note": "Rear elevation: cantilevered wood deck on tall posts; concrete stem-wall foundation at base; sloped lot" },
-    { "file": "photos/p_55.jpg", "note": "Under-deck: wood posts on concrete pier footings (deck is post-and-pier; house sits on stem wall), tight side yards" },
-    { "file": "photos/p_56.jpg", "note": "Rear wide: timber steps climb the mulched slope; two-story glass; new dark-trim windows" },
-    { "file": "photos/p_57.jpg", "note": "Garage interior: open-rafter UNFINISHED (exposed roof deck), 2-car door, painted slab, windows both sides" },
-    { "file": "photos/p_58.jpg", "note": "Street: garage + driveway, cracked asphalt (typical hills), new horizontal-slat fence, redwoods" },
-    { "file": "photos/p_59.jpg", "note": "Driveway view down: new multi-plane comp shingle roof, 4+ skylights, board-form chim — roof looks brand new" },
-    { "file": "photos/p_60.jpg", "note": "Elevated view: courtyard + garden; uphill neighbor's windows/decks peer straight down into the patio" },
-    { "file": "photos/p_61.jpg", "note": "Drone top-down: lot fully built out; neighbors ~20-40 ft both sides; canopy over roof; deck + two lower pads; street above left" },
-    { "file": "photos/p_62.jpg", "note": "Lower bonus room (part of ~450 SF extra): high small window near ceiling, exterior door, new LVP + drywall — basement character" },
-    { "file": "photos/p_63.jpg", "note": "Bonus room reverse: one high window, sun patches; usable rec/office space, limited daylight" },
-    { "file": "photos/p_64.jpg", "note": "Unfinished workshop under house: exposed joists, concrete stem wall, workbench, new wiring runs — raw but dry" },
-    { "file": "photos/p_65.jpg", "note": "Dusk entry reprise: sunset afterglow through trees over the garage (W-SW sky), path lights, neighbor above" }
-  ],
-  "crosschecks": [
-    {
-      "check": "Marketing claims vs photos",
-      "result": "Mostly honest. 'Rebuilt from foundation/framing, new kitchen/baths/plumbing/roof' corroborated (p_06, p_30-35, p_43-50, p_59). 'Serene redwood setting' verified (p_21, p_51). 'Three-bedroom' — BR3 is lower-level, partially below grade (p_47-48); '~450 SF extra space' verified as finished bonus + raw workshop (p_62-64), not in the 1,710 SF. MLS view field honestly says 'None'. Deductions: garage left open-rafter (p_57)"
-    },
-    {
-      "check": "Geocoder vs page coords",
-      "result": "Census geocoder (-122.18636, 37.82434) vs page pin (37.82500, -122.18625): 244 ft apart — exceeds 150 ft threshold; typical hill-street interpolation vs rooftop pin; elevations consistent (1,433.6 vs 1,448.2 ft), same hillside"
-    },
-    {
-      "check": "Elevation / micro-market",
-      "result": "~1,448 ft in Piedmont Pines (94611), deep in the Oakland hills canopy belt; prior sale $812K on 2025-10-31, now $1.099M after rebuild — seller is monetizing the renovation"
-    },
-    {
-      "check": "Orientation",
-      "result": "Dusk shots p_03/p_65 show sunset afterglow over the garage from the entry side; afternoon sun floods courtyard-side sliders (p_08/p_10) — courtyard faces ~W-SW; den/deck glass faces the E-NE canyon. Drone top-down (p_61) consistent with downslope canyon orientation. Inference"
-    },
-    {
-      "check": "FHSZ / insurance",
-      "result": "Very High FHSZ (presumptive) — Piedmont Pines 94611, Oakland hills fire-belt; canopy over roof + wood deck over dry slope raise mitigation workload; quote insurance (incl. FAIR Plan delta) before offer"
-    },
-    {
-      "check": "Amenity claims",
-      "result": "No drone-village shots; no view amenity claimed (MLS 'None'). Property website 6773wiltondr.com offers 3D tour; open house Oct 10-11, offers due Oct 14 2pm (passed — still Active at fetch)"
-    },
-    {
-      "check": "Bed/bath count legitimacy",
-      "result": "2 real main-level bedrooms (p_38-42) + 1 lower-level bedroom w/ at-grade windows (p_47-48) = usable 3BR but the lower level's permit status is unknown — count it as '2BR + lower suite' until permits verified; 2 full baths verified (p_43-45, p_49)"
-    }
-  ]
+  "elevationFt": 1448.2,
+  "style": "Contemporary (1946, rebuilt 2025-26)",
+  "description": "Nestled in the highly sought-after Piedmont Pines, this meticulously rebuilt three-bedroom, two-bathroom residence is surrounded by a serene redwood setting, seamlessly blending modern luxury with thoughtful craftsmanship and open living spaces. Reconstructed from the foundation and framing, the home boasts a brand-new kitchen, bathrooms, plumbing, and roof, complemented by high-quality materials and contemporary finishes throughout. Approximately 450 SF of extra space beyond the main residence offers endless possibilities for a home office, creative studio, fitness area, or storage. For 3D and virual tour, please visit the property website; https://6773wiltondr.com. Open House; October 10th & 11th. from 2:00 to 4:30pm. Offers by Oct. 14th. 2:00pm."
+ },
+ "scores": {
+  "view": {
+   "score": 2.5,
+   "note": "MLS itself declares view: None; living-level outlooks are dense redwood canopy + a distant-hill sliver (p_21, p_25), no bay/water anywhere incl. drone top-down (p_61)"
+  },
+  "natural_light": {
+   "score": 4,
+   "note": "Vaulted glass walls, >=4 skylights, big sun patches across living/dining/den (p_08, p_14, p_16, p_31); lower-level rooms dimmer with high windows (p_62-63)"
+  },
+  "character": {
+   "score": 4,
+   "note": "White-painted post-and-beam T&G vaults, angular clerestory transoms, glass walls, board-form concrete entry wall — MCM-lite done well (p_08, p_23-24, p_06)"
+  },
+  "kitchen": {
+   "score": 4.5,
+   "note": "All-new: flat-panel oak + glass uppers, quartz, 36in 6-burner pro gas range w/ SS hood, handmade-look clay tile to ceiling, island, butler pantry, skylight (p_30-35)"
+  },
+  "privacy": {
+   "score": 2,
+   "note": "Uphill 3-story neighbor overlooks courtyard + breakfast nook ~25-35 ft (p_03, p_07, p_37, p_60); second neighbor close on far side (p_61); BR2 faces fence (p_42)"
+  },
+  "layout_flow": {
+   "score": 4,
+   "note": "True open plan living-dining-kitchen axis with sliders to both courtyard and rear deck (p_13, p_16-19); interior stair to lower suite + bonus (p_46)"
+  },
+  "primary_suite": {
+   "score": 3.5,
+   "note": "Bright corner-window primary on main level into tree canopy (p_38-40); no clearly en-suite bath visible in photos — verify adjacency"
+  },
+  "outdoor_space": {
+   "score": 4,
+   "note": "Four usable zones: entry courtyard w/ fountain (p_01, p_28), rear composite deck (p_18-19), terraced garden paths (p_29), downslope fire-pit pad (p_51-53)"
+  },
+  "condition": {
+   "score": 4.5,
+   "note": "Foundation-up rebuild: new comp roof, windows, plumbing, kitchens/baths (p_06, p_59); garage open-rafter unfinished and raw workshop under house (p_57, p_64)"
+  },
+  "lot_usability": {
+   "score": 3,
+   "note": "0.17 AC hillside: patios/paths are usable but much of the lot is planted slope w/ canopy (p_52-56); no flat lawn; upkeep + defensible-space burden"
+  }
+ },
+ "weightedTotal": 3.5,
+ "verdict": "This is a tree-house, not a view house: a genuinely high-quality foundation-up contemporary rebuild buried in redwood canopy in Piedmont Pines, trading any bay view and real privacy (an uphill 3-story neighbor stares into the courtyard and breakfast nook) for exceptional natural light, open-beam MCM character, and a best-in-class new kitchen. At $1.099M ($643/sf) after a $812K purchase one year ago, you are paying retail for someone else's well-executed rebuild — worth it only if light, character, and turnkey condition outrank views, privacy, and the Very High FHSZ insurance reality of the Oakland hills.",
+ "flags": [
+  "🔥 Very High FHSZ (presumptive) — Piedmont Pines 94611 sits in the 1991 Oakland firestorm footprint; insurance availability/cost must be quoted BEFORE offer (FAIR Plan risk)",
+  "🌲 Redwood canopy directly overhangs the roof and a wood/composite deck on tall posts sits over a dry vegetated slope (p_51, p_53-56) — defensible-space and ember-resistance workload",
+  "👁️ Uphill 3-story shingle neighbor overlooks the entry courtyard, breakfast nook, and garden from ~25-35 ft (p_03, p_07, p_60); BR2 window faces a fence (p_42)",
+  "🛏️ 3rd bedroom + ~450 SF 'extra space' are lower level, partially below grade, part raw workshop (p_62-64); permit status unknown — verify before counting square footage",
+  "🏚️ Garage interior is open-rafter unfinished (p_57) despite 'meticulously rebuilt' marketing; street asphalt cracked (p_58)",
+  "⛰️ House sits below street grade on a hillside; 4+ skylights on the new low-slope comp roof (p_59-60) to keep sealed in fire country"
+ ],
+ "positives": [
+  "✨ Foundation-up rebuild per listing: new roof, plumbing, kitchen, baths, windows (verify permits) — effectively new construction in a vintage shell",
+  "🌞 Exceptional main-level natural light: vaulted glass walls, clerestory transoms, 4+ skylights, sun patches in nearly every shot",
+  "🌲 Immersive redwood-canopy outlooks from living, dining, den, and primary bedroom — true tree-house feel despite no vista",
+  "🍳 Kitchen is a genuine quality build: 36in pro gas range w/ vented SS hood, clay tile to ceiling, island, butler pantry (p_30-35)",
+  "🪴 Four distinct outdoor rooms — courtyard, deck, fountain terrace, fire-pit pad — unusually good indoor-outdoor flow for the price band",
+  "📍 Piedmont Pines at ~1,448 ft, 14 DOM, below-street setback keeps road noise out; honest listing (MLS view field says 'None')"
+ ],
+ "orientationInference": "Entry/courtyard side faces ~W-SW — dusk shots (p_03, p_65) show sunset glow through trees over the garage, and afternoon sun floods the living room through the courtyard sliders (p_08, p_10); the glass-wall den/deck side faces the downslope canyon ~E-NE for morning light. Everything tree-filtered. Inference.",
+ "photos": [
+  {
+   "file": "photos/p_01.jpg",
+   "note": "Front courtyard day: white contemporary ranch, new comp hip roof, French doors to paver patio + fountain, mature canopy, neighbor window peeking upper-left"
+  },
+  {
+   "file": "photos/p_02.jpg",
+   "note": "Dusk courtyard: warm interior glow, redwoods silhouetted behind, skylights visible on roofline, path lights on"
+  },
+  {
+   "file": "photos/p_03.jpg",
+   "note": "Dusk entry walkway: bollard lights, sunset afterglow through trees (W sky), uphill 3-story shingle neighbor ~30 ft away overlooking"
+  },
+  {
+   "file": "photos/p_04.jpg",
+   "note": "Street view: house sits below street grade, garage + '6773' marker, new roof + skylights at eye level; giant redwoods; uphill neighbor close"
+  },
+  {
+   "file": "photos/p_05.jpg",
+   "note": "Entry path day shot: French-door courtyard, chim chase + multiple skylights, neighbor shingle wall looms right"
+  },
+  {
+   "file": "photos/p_06.jpg",
+   "note": "Front door: modern dark slab door, covered porch w/ painted T&G ceiling, board-formed concrete accent wall, new fiber-cement siding"
+  },
+  {
+   "file": "photos/p_07.jpg",
+   "note": "Courtyard patio: French doors + entry porch; uphill 3-story neighbor directly overlooks from ~25-35 ft — key privacy hit"
+  },
+  {
+   "file": "photos/p_08.jpg",
+   "note": "Living room: white vaulted open-beam T&G ceiling, sliders to courtyard, sun patches, fluted fireplace surround"
+  },
+  {
+   "file": "photos/p_09.jpg",
+   "note": "Living room reverse: glass slider wall, fluted fireplace w/ black steel doors, dining beyond — very bright"
+  },
+  {
+   "file": "photos/p_10.jpg",
+   "note": "Living room slider to rear deck lounge: trees beyond fence, sunlight streaming in"
+  },
+  {
+   "file": "photos/p_11.jpg",
+   "note": "Living room wide: continuous beam vaults, fireplace left, hall to entry — consistent contemporary finish"
+  },
+  {
+   "file": "photos/p_12.jpg",
+   "note": "Fluted fireplace wall detail, hallway; finish quality above flip grade"
+  },
+  {
+   "file": "photos/p_13.jpg",
+   "note": "Living-to-dining axis: continuous vaulted ceiling, French doors at far end, glass at both ends of the plan"
+  },
+  {
+   "file": "photos/p_14.jpg",
+   "note": "Dining: big window into a sitting nook, skylights along the vault, sputnik chandelier, kitchen range-hood glimpse"
+  },
+  {
+   "file": "photos/p_15.jpg",
+   "note": "Dining wide: kitchen behind (SS hood, wood cabinets), full-height garden windows right, bright"
+  },
+  {
+   "file": "photos/p_16.jpg",
+   "note": "Open-plan panorama: living + dining + nook, big windows into trees, sun patches everywhere — the house's best asset"
+  },
+  {
+   "file": "photos/p_17.jpg",
+   "note": "Dining toward kitchen: dark island w/ wood top, sink window to garden, French doors to courtyard"
+  },
+  {
+   "file": "photos/p_18.jpg",
+   "note": "Rear deck: composite decking, redwoods right at the rail, wood fence, sky through canopy — deck of the den"
+  },
+  {
+   "file": "photos/p_19.jpg",
+   "note": "Deck between wings: two slider walls open to one deck; neighbor roof gable intrudes above left"
+  },
+  {
+   "file": "photos/p_20.jpg",
+   "note": "Den/sitting room: window bank + angular clerestory transoms (MCM geometry), slider to deck, tree outlook"
+  },
+  {
+   "file": "photos/p_21.jpg",
+   "note": "Den window wall: redwoods + oaks fill the glass; property fence close below"
+  },
+  {
+   "file": "photos/p_22.jpg",
+   "note": "Den back toward living/dining: open plan confirmed; slider to deck w/ close perimeter fence"
+  },
+  {
+   "file": "photos/p_23.jpg",
+   "note": "Den sofa wall: wide window to canopy + angular transoms above; sun patches late day"
+  },
+  {
+   "file": "photos/p_24.jpg",
+   "note": "Sputnik chandelier close-up: T&G ceiling + transom detail; renovation finish level visible"
+  },
+  {
+   "file": "photos/p_25.jpg",
+   "note": "Den window outlook: dense redwood/green wall, distant-hill sliver through trunks — the 'view' is trees"
+  },
+  {
+   "file": "photos/p_26.jpg",
+   "note": "Sitting nook w/ French doors to entry courtyard — dual outdoor access from living zone"
+  },
+  {
+   "file": "photos/p_27.jpg",
+   "note": "Courtyard day: chim chase + skylight, redwood canopy directly over the roof (defensible-space note)"
+  },
+  {
+   "file": "photos/p_28.jpg",
+   "note": "Fountain patio: terraced stone retaining walls, mature plantings, fence + uphill neighbor above"
+  },
+  {
+   "file": "photos/p_29.jpg",
+   "note": "Side garden: layered stone terraces, gate uphill, matching shed; garden is the usable 'yard'"
+  },
+  {
+   "file": "photos/p_30.jpg",
+   "note": "Kitchen: flat-panel oak + glass uppers, quartz, wood-shingle accent backsplash, butcher-block island, vaulted ceiling"
+  },
+  {
+   "file": "photos/p_31.jpg",
+   "note": "Kitchen: skylight overhead, sink window into terraced greenery, island w/ arched-panel doors"
+  },
+  {
+   "file": "photos/p_32.jpg",
+   "note": "Kitchen galley looking to dining: skylight, LVP wood-look floors, long sight line through the house"
+  },
+  {
+   "file": "photos/p_33.jpg",
+   "note": "Range wall: 36in 6-burner pro-style gas range, SS chimney hood, handmade clay tile backsplash to ceiling"
+  },
+  {
+   "file": "photos/p_34.jpg",
+   "note": "Butler pantry/buffet: glass-front uppers, built-in microwave, clay tile backsplash — extra prep zone"
+  },
+  {
+   "file": "photos/p_35.jpg",
+   "note": "Sink wall: Thor 4-drawer SS fridge (mid-tier pro brand), window over sink to garden, dishwasher"
+  },
+  {
+   "file": "photos/p_36.jpg",
+   "note": "Breakfast nook: gridded windows into trees, leather chairs, morning-sun position"
+  },
+  {
+   "file": "photos/p_37.jpg",
+   "note": "Nook other window: faces neighbor's shingle wall + fence ~15 ft — the kitchen-table view is the privacy compromise"
+  },
+  {
+   "file": "photos/p_38.jpg",
+   "note": "Primary bedroom: corner windows into canopy, bright, sputnik fixture, queen w/ room to spare"
+  },
+  {
+   "file": "photos/p_39.jpg",
+   "note": "Primary reverse: two tree-facing window runs; fence glimpse through right window"
+  },
+  {
+   "file": "photos/p_40.jpg",
+   "note": "Primary corner-window detail: new white casements, tree canopy fills the glass, sunlit"
+  },
+  {
+   "file": "photos/p_41.jpg",
+   "note": "Bedroom 2: single window to slat fence + shrubs just outside; moderate light; smaller room"
+  },
+  {
+   "file": "photos/p_42.jpg",
+   "note": "Bedroom 2 reverse: window outlook is the fence 6-8 ft away; armoire (staging) — modest secondary bedroom"
+  },
+  {
+   "file": "photos/p_43.jpg",
+   "note": "Bath 1: double quartz vanity, round wood mirrors, bronze fixtures, window w/ blinds, quality"
+  },
+  {
+   "file": "photos/p_44.jpg",
+   "note": "Bath 1 faucet + counter detail: clean renovation spec"
+  },
+  {
+   "file": "photos/p_45.jpg",
+   "note": "Bath 1 shower: fluted marble-look tile, rain head + hand shower, pebble niche, linear drain, frameless glass"
+  },
+  {
+   "file": "photos/p_46.jpg",
+   "note": "Interior stair down to lower level: wood treads, new lighting — lower suite + bonus below"
+  },
+  {
+   "file": "photos/p_47.jpg",
+   "note": "Bedroom 3 (lower level): windows at grade into trees, beamed ceiling, decent light for a lower floor"
+  },
+  {
+   "file": "photos/p_48.jpg",
+   "note": "BR3 reverse: neighbor shingle house visible through window — privacy weaker downstairs too"
+  },
+  {
+   "file": "photos/p_49.jpg",
+   "note": "Bath 2 (lower): walk-in shower w/ pebble floor, barn-slider glass, new vanity — fresh"
+  },
+  {
+   "file": "photos/p_50.jpg",
+   "note": "Bath 2 faucet detail: bronze waterfall fixture, clay subway backsplash"
+  },
+  {
+   "file": "photos/p_51.jpg",
+   "note": "Rear downslope elevation: two stories of glass; round concrete fire-pit pad; dry leaf litter near structure (fire note)"
+  },
+  {
+   "file": "photos/p_52.jpg",
+   "note": "Downslope garden from above: round pad, gravel path, mulched terraced slope, fence line above"
+  },
+  {
+   "file": "photos/p_53.jpg",
+   "note": "Side garden: fire-pit pad among mature trees, deck on wood posts above, dry undergrowth — fire exposure"
+  },
+  {
+   "file": "photos/p_54.jpg",
+   "note": "Rear elevation: cantilevered wood deck on tall posts; concrete stem-wall foundation at base; sloped lot"
+  },
+  {
+   "file": "photos/p_55.jpg",
+   "note": "Under-deck: wood posts on concrete pier footings (deck is post-and-pier; house sits on stem wall), tight side yards"
+  },
+  {
+   "file": "photos/p_56.jpg",
+   "note": "Rear wide: timber steps climb the mulched slope; two-story glass; new dark-trim windows"
+  },
+  {
+   "file": "photos/p_57.jpg",
+   "note": "Garage interior: open-rafter UNFINISHED (exposed roof deck), 2-car door, painted slab, windows both sides"
+  },
+  {
+   "file": "photos/p_58.jpg",
+   "note": "Street: garage + driveway, cracked asphalt (typical hills), new horizontal-slat fence, redwoods"
+  },
+  {
+   "file": "photos/p_59.jpg",
+   "note": "Driveway view down: new multi-plane comp shingle roof, 4+ skylights, board-form chim — roof looks brand new"
+  },
+  {
+   "file": "photos/p_60.jpg",
+   "note": "Elevated view: courtyard + garden; uphill neighbor's windows/decks peer straight down into the patio"
+  },
+  {
+   "file": "photos/p_61.jpg",
+   "note": "Drone top-down: lot fully built out; neighbors ~20-40 ft both sides; canopy over roof; deck + two lower pads; street above left"
+  },
+  {
+   "file": "photos/p_62.jpg",
+   "note": "Lower bonus room (part of ~450 SF extra): high small window near ceiling, exterior door, new LVP + drywall — basement character"
+  },
+  {
+   "file": "photos/p_63.jpg",
+   "note": "Bonus room reverse: one high window, sun patches; usable rec/office space, limited daylight"
+  },
+  {
+   "file": "photos/p_64.jpg",
+   "note": "Unfinished workshop under house: exposed joists, concrete stem wall, workbench, new wiring runs — raw but dry"
+  },
+  {
+   "file": "photos/p_65.jpg",
+   "note": "Dusk entry reprise: sunset afterglow through trees over the garage (W-SW sky), path lights, neighbor above"
+  }
+ ],
+ "crosschecks": [
+  {
+   "check": "Marketing claims vs photos",
+   "result": "Mostly honest. 'Rebuilt from foundation/framing, new kitchen/baths/plumbing/roof' corroborated (p_06, p_30-35, p_43-50, p_59). 'Serene redwood setting' verified (p_21, p_51). 'Three-bedroom' — BR3 is lower-level, partially below grade (p_47-48); '~450 SF extra space' verified as finished bonus + raw workshop (p_62-64), not in the 1,710 SF. MLS view field honestly says 'None'. Deductions: garage left open-rafter (p_57)"
+  },
+  {
+   "check": "Geocoder vs page coords",
+   "result": "Census geocoder (-122.18636, 37.82434) vs page pin (37.82500, -122.18625): 244 ft apart — exceeds 150 ft threshold; typical hill-street interpolation vs rooftop pin; elevations consistent (1,433.6 vs 1,448.2 ft), same hillside"
+  },
+  {
+   "check": "Elevation / micro-market",
+   "result": "~1,448 ft in Piedmont Pines (94611), deep in the Oakland hills canopy belt; prior sale $812K on 2025-10-31, now $1.099M after rebuild — seller is monetizing the renovation"
+  },
+  {
+   "check": "Orientation",
+   "result": "Dusk shots p_03/p_65 show sunset afterglow over the garage from the entry side; afternoon sun floods courtyard-side sliders (p_08/p_10) — courtyard faces ~W-SW; den/deck glass faces the E-NE canyon. Drone top-down (p_61) consistent with downslope canyon orientation. Inference"
+  },
+  {
+   "check": "FHSZ / insurance",
+   "result": "Very High FHSZ (presumptive) — Piedmont Pines 94611, Oakland hills fire-belt; canopy over roof + wood deck over dry slope raise mitigation workload; quote insurance (incl. FAIR Plan delta) before offer"
+  },
+  {
+   "check": "Amenity claims",
+   "result": "No drone-village shots; no view amenity claimed (MLS 'None'). Property website 6773wiltondr.com offers 3D tour; open house Oct 10-11, offers due Oct 14 2pm (passed — still Active at fetch)"
+  },
+  {
+   "check": "Bed/bath count legitimacy",
+   "result": "2 real main-level bedrooms (p_38-42) + 1 lower-level bedroom w/ at-grade windows (p_47-48) = usable 3BR but the lower level's permit status is unknown — count it as '2BR + lower suite' until permits verified; 2 full baths verified (p_43-45, p_49)"
+  }
+ ]
 }

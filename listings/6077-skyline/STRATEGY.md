@@ -12,9 +12,9 @@ Last updated: 2026-10-26.
   Turnkey 2026 flip renovation. Scored **3.7/5**.
 - **The deal:** Flipper bought **$655,000 (Feb 2026)** from the Kirstein trust,
   relisted $1.395M (Jul 14) → withdrawn (Aug 14) → $1.289M (Sep 1) → contingent
-  (Sep 22) → **fallen escrow, back to Active (Sep 28)** → 48+ DOM. Two IDX
-  aggregators show a **further cut to $1,250,000** ~Oct 20–25 (unverified —
-  Zillow/Coldwell still show $1.289M). **Verify current list price first.**
+  (Sep 22) → **fallen escrow, back to Active (Sep 28)** → 56 DOM. **Cut to
+  $1,250,000 on Oct 22 — VERIFIED 2026-10-28 via Compass/EBRD MLS history**
+  (was previously unverified IDX-aggregator signal). $145K total off the Jul ask.
 - **The context (all verified against official records, see web-research.md):**
   - VHFHSZ **confirmed** (City of Oakland GIS; not presumptive)
   - CGS Earthquake-Induced **Landslide Zone of Required Investigation — IN ZONE**

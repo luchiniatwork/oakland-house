@@ -9,5 +9,5 @@
 | FHSZ / insurance | **Very High FHSZ (presumptive)** — 94611 Montclair, inside the 1991 Oakland firestorm footprint; insurance-availability flag raised. Wood siding + overhanging trees + 1,080 ft canyon location increase the mitigation burden. **Quote insurance before offering.** |
 | Amenity claims | No drone/area-amenity shots in the 43-photo set — everything is property-level; nothing inflated to verify. Open house Sat Oct 17 in JSON-LD events. |
 | Bed/bath count legitimacy | **Real 3/2.** Floor plan (p_42): primary 16'9"×11' + WIC (p_16, p_19), bed 2 11'×12'1" (p_22), bed 3 10'9"×11'7" with closet + window (p_27, p_28) — no office fudge. Both baths full: tub/shower combo (p_21) and walk-in shower (p_25). |
-| Extraction source conflicts | **None.** JSON-LD (price $795,000, sqft 1,530, rooms 3) and `__INITIAL_DATA__` (beds 3, baths 2, lot 8,142 SF / 0.19 AC, DOM 7, Active) consistent on every shared field. |
+| Extraction source conflicts | **None.** JSON-LD (price $795,000, sqft 1,530, rooms 3) and `__INITIAL_DATA__` (beds 3, baths 2, lot 8,142 SF / 0.19 AC, DOM 7, Active) consistent on every shared field. **Update 2026-10-28:** went Pending 2026-10-21 per MLS history (verified on Compass, MLS #41150603, 14 DOM at pending). |
 | Photo recovery | 43/43 found and downloaded; all valid JPEGs; downscaled 1024px copies in bundle. |

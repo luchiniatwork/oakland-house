@@ -1,115 +1,310 @@
 {
-  "schemaVersion": 1,
-  "slug": "6931-pinehaven",
-  "source": {
-    "url": "https://www.compass.com/homedetails/6931-Pinehaven-Rd-Oakland-CA-94611/1OXRBC_pid/",
-    "mirrorOf": null,
-    "fetchedAt": "2026-10-18T02:08:20Z"
-  },
-  "listing": {
-    "address": "6931 Pinehaven Rd, Oakland, CA 94611",
-    "price": 1049000,
-    "beds": 4,
-    "baths": 3.5,
-    "sqft": 2336,
-    "pricePerSqft": 449,
-    "lotAc": 0.37,
-    "dom": 1,
-    "status": "New",
-    "fhsz": "Very High FHSZ (presumptive)",
-    "coords": [37.8465363, -122.2100544],
-    "elevationFt": 975.8,
-    "style": "Contemporary (1978), 3+ stories, downslope hillside lot",
-    "description": "Enter into your own private retreat in the Oakland Hills' Thornhill neighborhood. Anchored by an oversized stone fireplace, the light-filled great room sets the tone for elegant leisure, with living areas flowing gracefully from room to room. An abundance of windows welcome in the verdant surroundings throughout the main floor, with a welcoming multi-level deck off the dining area that beckons for morning coffee or impromptu al fresco gatherings. The wonderfully-updated kitchen features stainless steel appliances and a breakfast bar next to a picture-perfect sitting room, while a secluded loft nook overlooks most of the main floor. Direct garage access from this level is an added convenience. Finally, a bedroom with direct exterior access rounds out the main floor's offerings. Downstairs, find an enviable primary suite with updated bath, as well as two more bedrooms, laundry and a remodeled full bath, as well as direct access to the back deck structure. On the lowest level, accessible from the deck, find your bliss with a lounge room, half-bath, and dry sauna room. Perfection."
-  },
-  "scores": {
-    "view": { "score": 2.5, "note": "Forest/eucalyptus immersion only — no bay, city, or ridge vistas in any of 47 photos (p_02, p_08, p_38, p_47); MLS honestly lists View: Forest." },
-    "natural_light": { "score": 4, "note": "Vaulted great room with skylights + sliders (p_02, p_11, p_12), sun patches in kitchen/dining (p_07, p_13), bright primary (p_28); main-floor bedroom relies on high windows (p_20) and lowest level is end-lit only (p_43)." },
-    "character": { "score": 3.5, "note": "1978 contemporary with post-and-beam touches: exposed dark beams, vaulted ceilings, floor-to-ceiling stacked-stone fireplace (p_04, p_11); not pedigree MCM but not generic." },
-    "kitchen": { "score": 4, "note": "Updated white shaker + quartz-look counters + subway tile, Samsung stainless, breakfast bar, corner windows over sink (p_13-p_16); mid-tier appliances, clean flip-grade+ execution." },
-    "privacy": { "score": 3.5, "note": "Canyon/deck side is genuinely secluded in eucalyptus (p_38, p_47); street side has neighbor bridge-driveway in window view (p_18, p_25), upslope house ~40-60 ft (p_10), lattice privacy screen on lower deck (p_38)." },
-    "layout_flow": { "score": 3.5, "note": "Great room/kitchen/dining/deck flow well (p_06, p_17); but 3+ levels means vertical living — bedroom on main, 3 below, lounge/sauna at bottom (p_22, p_25); loft nook overlooks it all (p_24)." },
-    "primary_suite": { "score": 4, "note": "Downstairs suite with big corner windows to trees (p_28), double-vanity bath, walk-in rain shower (p_31, p_32); exterior deck stair passes one window (p_29)." },
-    "outdoor_space": { "score": 4, "note": "Multi-level wood decks with forest immersion, dining space + privacy screen (p_38-p_40), shaded lower patio (p_41); all wood in fire country, no flat yard." },
-    "condition": { "score": 3.5, "note": "Turnkey cohesive renovation — kitchen, all baths, LVP floors, fixtures (p_15, p_31, p_35, p_45); 1978 bones, weathering deck furniture/boards (p_40), short sale implies as-is." },
-    "lot_usability": { "score": 2.5, "note": "0.37 AC but steep downslope — usable area is the deck structure; rest is eucalyptus slope requiring fuel management (p_40, p_47)." }
-  },
-  "weightedTotal": 3.5,
-  "verdict": "This house IS the trade: a big, turnkey, flexible 4-bed tree-house at a distressed short-sale price ($449/sf in a $520+/sf micro-market) in exchange for Very High fire-zone exposure with eucalyptus touching the decks, vertical hillside living, and short-sale process risk. Views are forest immersion, not bay or city — if 'views' means water, this isn't the house; if it means waking up inside a green canyon, it delivers. For a solo technical buyer the 4 real bedrooms + loft office nook + lounge + sauna offer office/guest/gym flexibility almost nothing else at this price does — but insurance availability and lender-approval timeline are the gating items, not the house itself.",
-  "flags": [
-    "🔥 Very High FHSZ (presumptive) — 94611, inside 1991 Oakland firestorm footprint; verify insurance availability/cost BEFORE offer",
-    "🔥 Eucalyptus grove touching decks and structure + dry grassy slopes + wood decks and T1-11 siding (p_08, p_09, p_38-p_42, p_47) — serious fuel load",
-    "💰 SHORT SALE per open-house notes ('Short sale - opportunity knocks.') — lender approval required, long timeline, likely as-is",
-    "📉 Price whiplash: listed $1.095M Feb 2026, raised to $1.4M Mar 2026, withdrawn Jul 2026, relisted $1.049M Oct 16; last sold Oct 2021 for $1.225M — seller underwater",
-    "🔌 Power lines visible at street frontage (p_01)",
-    "🏔️ Hillside 3+-level structure with cantilevered multi-level decks — foundation/drainage/deck-ledger inspection essential; 1978 vintage",
-    "🪟 Skylights present (p_11, p_12, p_22) — ongoing leak-maintenance item"
+ "schemaVersion": 1,
+ "slug": "6931-pinehaven",
+ "source": {
+  "url": "https://www.compass.com/homedetails/6931-Pinehaven-Rd-Oakland-CA-94611/1OXRBC_pid/",
+  "mirrorOf": null,
+  "fetchedAt": "2026-10-28T04:25:00Z"
+ },
+ "listing": {
+  "address": "6931 Pinehaven Rd, Oakland, CA 94611",
+  "price": 1049000,
+  "beds": 4,
+  "baths": 3.5,
+  "sqft": 2336,
+  "pricePerSqft": 449,
+  "lotAc": 0.37,
+  "dom": 12,
+  "status": "Active",
+  "fhsz": "Very High FHSZ (presumptive)",
+  "coords": [
+   37.8465363,
+   -122.2100544
   ],
-  "positives": [
-    "$449/sqft — deep discount to the $520/sf same-street comp (7094 Pinehaven, 3.4/5) and Montclair norms; short-sale pricing",
-    "Turnkey cohesive renovation: kitchen + all 3.5 baths updated, LVP floors, modern fixtures",
-    "4 real bedrooms (all with closets) + loft office nook + lowest-level lounge + sauna room — exceptional flexibility",
-    "Multi-level decks with genuine forest immersion and canyon-side privacy",
-    "Honest marketing: every claimed amenity verified in photos (sauna p_46, decks p_38-p_42, fireplace p_04); zero drone shots, no implied views the house lacks",
-    "Pitched shingle roof (no flat roof), updated windows (no jalousie), 2-car attached garage with direct access"
-  ],
-  "orientationInference": "Deck/canyon side faces roughly W-SW off the downhill side of Pinehaven Rd — afternoon sun filtering through eucalyptus (sun flare in p_38-p_40, bright deck shots consistent with PM light); street side E-NE. Inference from photo light + lot geometry, not verified on site.",
-  "photos": [
-    { "file": "photos/p_01.jpg", "note": "Street elevation: brown contemporary shed-roof, glass garage door, house steps downhill, redwoods at structure, power lines upper left, skylight on lower roof." },
-    { "file": "photos/p_02.jpg", "note": "Great room: vaulted ceiling, stacked-stone fireplace to ceiling, slider to deck, green tree views, LVP floors, bright." },
-    { "file": "photos/p_03.jpg", "note": "Dining: vaulted, sputnik chandelier, big windows/slider with lush foliage views through to living room; very bright." },
-    { "file": "photos/p_04.jpg", "note": "Living room: floor-to-ceiling stone fireplace, corner windows to trees and deck; bright, modern staging." },
-    { "file": "photos/p_05.jpg", "note": "Living room reverse: stone fireplace, built-in niche, slider to deck, greenery from every opening, sun patches." },
-    { "file": "photos/p_06.jpg", "note": "Wide great-room shot: open-plan living/dining/kitchen, multiple deck sliders, stair down at left; light-filled." },
-    { "file": "photos/p_07.jpg", "note": "Kitchen+dining: white shaker, stainless range, breakfast bar, subway tile; slider to deck; strong sun patches." },
-    { "file": "photos/p_08.jpg", "note": "Main deck off dining: gray-painted wood decking, dark rails, bistro set — tall eucalyptus crowding the railing; stairs down." },
-    { "file": "photos/p_09.jpg", "note": "Deck continuation: eucalyptus + dry hillside, neighbor white structure ~30-40 ft at left; wood deck in fire country." },
-    { "file": "photos/p_10.jpg", "note": "Side deck along house: T1-11 siding, big window, vegetation close, upslope neighbor visible through trees ~40-60 ft." },
-    { "file": "photos/p_11.jpg", "note": "Great room reverse: exposed dark beam w/ track lights, skylight, entry, stairs down; post-and-beam character." },
-    { "file": "photos/p_12.jpg", "note": "Dining/entry: two skylights, exposed beams, stair to lower level, kitchen beyond; bright." },
-    { "file": "photos/p_13.jpg", "note": "Kitchen from dining: white shaker, quartz-look counters, pendants over bar, sitting room through doorway; sunny." },
-    { "file": "photos/p_14.jpg", "note": "Kitchen: corner window over sink with green views, open black shelf, white quartz; updated mid-tier." },
-    { "file": "photos/p_15.jpg", "note": "Kitchen working side: Samsung stainless range+hood, dishwasher, marble-look quartz, leafy corner window." },
-    { "file": "photos/p_16.jpg", "note": "Kitchen full view: peninsula layout, generous counters, two windows to greenery; clean and functional." },
-    { "file": "photos/p_17.jpg", "note": "Sightline from kitchen across great room: open flow, beam, skylights, fireplace in distance, sitting room at right." },
-    { "file": "photos/p_18.jpg", "note": "Sitting room: vaulted, wicker pendant — windows face street-side slope and neighbor's bridge-driveway structure." },
-    { "file": "photos/p_19.jpg", "note": "Sitting room reverse: stair to loft nook, doorway to bath, big windows; bright." },
-    { "file": "photos/p_20.jpg", "note": "Main-floor bedroom: vaulted w/ track lights, only two small high windows — moderate light; mirrored closet." },
-    { "file": "photos/p_21.jpg", "note": "Same bedroom reverse: sliding closet doors, exterior-access door; moderate light." },
-    { "file": "photos/p_22.jpg", "note": "Foyer: split-level entry, oak stairs up to loft, skylight, view to fireplace." },
-    { "file": "photos/p_23.jpg", "note": "Loft nook staged as desk space: small window, overlooks main floor — usable WFH perch." },
-    { "file": "photos/p_24.jpg", "note": "Loft nook reverse: overlooks dining/great room, exposed beam, green tree view; borrowed light." },
-    { "file": "photos/p_25.jpg", "note": "Stair hall to lower level: oak treads; sitting-room window again shows neighbor bridge structure." },
-    { "file": "photos/p_26.jpg", "note": "Remodeled full bath: charcoal walls, white gloss vanity, LED bar, window; moody modern." },
-    { "file": "photos/p_27.jpg", "note": "Laundry closet: full-size washer/dryer under sloped ceiling; functional." },
-    { "file": "photos/p_28.jpg", "note": "Primary suite: big corner window wall to trees, pendant lights, spacious; bright green outlook." },
-    { "file": "photos/p_29.jpg", "note": "Primary reverse: mirrored closet; window faces exterior deck stair + trees — minor privacy/flow note." },
-    { "file": "photos/p_30.jpg", "note": "Primary third angle: full mirrored closet wall, reading corner; bright." },
-    { "file": "photos/p_31.jpg", "note": "Primary bath: double gray-shaker vanity, marble-look quartz, black fixtures, large walk-in shower." },
-    { "file": "photos/p_32.jpg", "note": "Primary shower: white subway + dark stone floor, rain head, window, niches; good-quality reno." },
-    { "file": "photos/p_33.jpg", "note": "Bedroom 3: corner window + high ribbon window; corrugated metal neighbor structure visible outside; moderate-bright." },
-    { "file": "photos/p_34.jpg", "note": "Bedroom 3 reverse: mirrored closet, window to grassy upslope; moderate light." },
-    { "file": "photos/p_35.jpg", "note": "Hall bath: teal accent, wood-look vanity, tub/shower with subway tile, black fixtures, high window; updated." },
-    { "file": "photos/p_36.jpg", "note": "Bedroom 4: slider directly to lower deck, exterior stair and trees outside; bright, true indoor-outdoor." },
-    { "file": "photos/p_37.jpg", "note": "Bedroom 4 reverse: closet, sun patches, view to stair hall." },
-    { "file": "photos/p_38.jpg", "note": "Lower deck: dining table, lattice privacy screen, eucalyptus forest at railing, canyon peeks; sunny." },
-    { "file": "photos/p_39.jpg", "note": "Lower deck other angle: T1-11 wall, privacy screen, tree views; spacious and usable." },
-    { "file": "photos/p_40.jpg", "note": "Multi-level deck structure: upper deck + stair to lower, eucalyptus towering, sun flare — wood decks in dense fuel." },
-    { "file": "photos/p_41.jpg", "note": "Lowest patio: under-stair shaded seating, eucalyptus trunk at deck edge, dry slope beyond." },
-    { "file": "photos/p_42.jpg", "note": "Lowest-level entry from deck: door to lounge level, half-bath visible, exposed under-deck joists." },
-    { "file": "photos/p_43.jpg", "note": "Lounge room (lowest level): long flex space, sage walls, wood-slat accent, windows at one end; staged with dumbbells." },
-    { "file": "photos/p_44.jpg", "note": "Lounge reverse: sofa, view to half-bath; cozy media-room feel." },
-    { "file": "photos/p_45.jpg", "note": "Lowest-level half bath: fluted wood vanity, brass fixtures, geometric tile; stylish." },
-    { "file": "photos/p_46.jpg", "note": "Sauna room: cedar sauna cabin with glass door, tile floor, window to trees, mini-fridge — claim verified." },
-    { "file": "photos/p_47.jpg", "note": "Lower deck wide: big eucalyptus at deck edge, dry leaf-litter slope rising behind, dappled sun; fire-fuel context." }
-  ],
-  "crosschecks": [
-    { "check": "Marketing claims vs photos", "result": "Verified honest. Sauna (p_46), multi-level deck (p_38-p_42), stone fireplace (p_04), breakfast bar (p_13), garage direct access (p_01), 'light-filled' (p_02-p_07), 'verdant surroundings' = forest, matching MLS View: Forest. Zero drone shots — no implied bay views. Rare honest listing." },
-    { "check": "Geocoder vs page coords", "result": "Marginal flag: Census (37.84640, -122.21060) vs page (37.84654, -122.21005) = 165 ft apart, just over the 150 ft threshold — hillside parcel centroid vs address interpolation; immaterial for hazard/context purposes." },
-    { "check": "Elevation / micro-market", "result": "975.8 ft in Thornhill (Montclair hills, 94611), near Skyline ridge. Same-street comp: 7094 Pinehaven (saved bundle, 3.4/5) at $795K / $520/sf — this house is bigger (2,336 vs 1,530 sf) and $71/sf cheaper, i.e. short-sale discount is real." },
-    { "check": "Orientation", "result": "Deck side inferred W-SW: afternoon sun flare through eucalyptus in p_38-p_40, bright PM-style deck light; street side E-NE. Consistent with downhill-side lot on Pinehaven. Labeled inference." },
-    { "check": "FHSZ / insurance", "result": "Very High FHSZ (presumptive) — 94611 inside 1991 Oakland firestorm footprint; insurance availability flag raised per Oakland hills policy. Eucalyptus at structure + wood decks/siding raise mitigation burden." },
-    { "check": "Amenity claims", "result": "All verifiable claims confirmed in photos; no drone/village amenity shots to fact-check (gallery is 100% interior + on-property)." },
-    { "check": "Bed/bath count legitimacy", "result": "4 real bedrooms, all with closets: primary (p_28-p_30), deck-slider bedroom (p_36), bedroom 3 (p_33), main-floor bedroom with exterior door (p_20-p_21). Loft marketed honestly as 'nook', not a bedroom. 3.5 baths verified: primary (p_31), hall (p_35), main-floor (p_26), lowest-level half (p_45). No count fudge." }
-  ]
+  "elevationFt": 975.8,
+  "style": "Contemporary (1978), 3+ stories, downslope hillside lot",
+  "description": "Enter into your own private retreat in the Oakland Hills' Thornhill neighborhood. Anchored by an oversized stone fireplace, the light-filled great room sets the tone for elegant leisure, with living areas flowing gracefully from room to room. An abundance of windows welcome in the verdant surroundings throughout the main floor, with a welcoming multi-level deck off the dining area that beckons for morning coffee or impromptu al fresco gatherings. The wonderfully-updated kitchen features stainless steel appliances and a breakfast bar next to a picture-perfect sitting room, while a secluded loft nook overlooks most of the main floor. Direct garage access from this level is an added convenience. Finally, a bedroom with direct exterior access rounds out the main floor's offerings. Downstairs, find an enviable primary suite with updated bath, as well as two more bedrooms, laundry and a remodeled full bath, as well as direct access to the back deck structure. On the lowest level, accessible from the deck, find your bliss with a lounge room, half-bath, and dry sauna room. Perfection."
+ },
+ "scores": {
+  "view": {
+   "score": 2.5,
+   "note": "Forest/eucalyptus immersion only — no bay, city, or ridge vistas in any of 47 photos (p_02, p_08, p_38, p_47); MLS honestly lists View: Forest."
+  },
+  "natural_light": {
+   "score": 4,
+   "note": "Vaulted great room with skylights + sliders (p_02, p_11, p_12), sun patches in kitchen/dining (p_07, p_13), bright primary (p_28); main-floor bedroom relies on high windows (p_20) and lowest level is end-lit only (p_43)."
+  },
+  "character": {
+   "score": 3.5,
+   "note": "1978 contemporary with post-and-beam touches: exposed dark beams, vaulted ceilings, floor-to-ceiling stacked-stone fireplace (p_04, p_11); not pedigree MCM but not generic."
+  },
+  "kitchen": {
+   "score": 4,
+   "note": "Updated white shaker + quartz-look counters + subway tile, Samsung stainless, breakfast bar, corner windows over sink (p_13-p_16); mid-tier appliances, clean flip-grade+ execution."
+  },
+  "privacy": {
+   "score": 3.5,
+   "note": "Canyon/deck side is genuinely secluded in eucalyptus (p_38, p_47); street side has neighbor bridge-driveway in window view (p_18, p_25), upslope house ~40-60 ft (p_10), lattice privacy screen on lower deck (p_38)."
+  },
+  "layout_flow": {
+   "score": 3.5,
+   "note": "Great room/kitchen/dining/deck flow well (p_06, p_17); but 3+ levels means vertical living — bedroom on main, 3 below, lounge/sauna at bottom (p_22, p_25); loft nook overlooks it all (p_24)."
+  },
+  "primary_suite": {
+   "score": 4,
+   "note": "Downstairs suite with big corner windows to trees (p_28), double-vanity bath, walk-in rain shower (p_31, p_32); exterior deck stair passes one window (p_29)."
+  },
+  "outdoor_space": {
+   "score": 4,
+   "note": "Multi-level wood decks with forest immersion, dining space + privacy screen (p_38-p_40), shaded lower patio (p_41); all wood in fire country, no flat yard."
+  },
+  "condition": {
+   "score": 3.5,
+   "note": "Turnkey cohesive renovation — kitchen, all baths, LVP floors, fixtures (p_15, p_31, p_35, p_45); 1978 bones, weathering deck furniture/boards (p_40), short sale implies as-is."
+  },
+  "lot_usability": {
+   "score": 2.5,
+   "note": "0.37 AC but steep downslope — usable area is the deck structure; rest is eucalyptus slope requiring fuel management (p_40, p_47)."
+  }
+ },
+ "weightedTotal": 3.5,
+ "verdict": "This house IS the trade: a big, turnkey, flexible 4-bed tree-house at a distressed short-sale price ($449/sf in a $520+/sf micro-market) in exchange for Very High fire-zone exposure with eucalyptus touching the decks, vertical hillside living, and short-sale process risk. Views are forest immersion, not bay or city — if 'views' means water, this isn't the house; if it means waking up inside a green canyon, it delivers. For a solo technical buyer the 4 real bedrooms + loft office nook + lounge + sauna offer office/guest/gym flexibility almost nothing else at this price does — but insurance availability and lender-approval timeline are the gating items, not the house itself.",
+ "flags": [
+  "🔥 Very High FHSZ (presumptive) — 94611, inside 1991 Oakland firestorm footprint; verify insurance availability/cost BEFORE offer",
+  "🔥 Eucalyptus grove touching decks and structure + dry grassy slopes + wood decks and T1-11 siding (p_08, p_09, p_38-p_42, p_47) — serious fuel load",
+  "💰 SHORT SALE per open-house notes ('Short sale - opportunity knocks.') — lender approval required, long timeline, likely as-is",
+  "📉 Price whiplash: listed $1.095M Feb 2026, raised to $1.4M Mar 2026, withdrawn Jul 2026, relisted $1.049M Oct 16; last sold Oct 2021 for $1.225M — seller underwater",
+  "🔌 Power lines visible at street frontage (p_01)",
+  "🏔️ Hillside 3+-level structure with cantilevered multi-level decks — foundation/drainage/deck-ledger inspection essential; 1978 vintage",
+  "🪟 Skylights present (p_11, p_12, p_22) — ongoing leak-maintenance item"
+ ],
+ "positives": [
+  "$449/sqft — deep discount to the $520/sf same-street comp (7094 Pinehaven, 3.4/5) and Montclair norms; short-sale pricing",
+  "Turnkey cohesive renovation: kitchen + all 3.5 baths updated, LVP floors, modern fixtures",
+  "4 real bedrooms (all with closets) + loft office nook + lowest-level lounge + sauna room — exceptional flexibility",
+  "Multi-level decks with genuine forest immersion and canyon-side privacy",
+  "Honest marketing: every claimed amenity verified in photos (sauna p_46, decks p_38-p_42, fireplace p_04); zero drone shots, no implied views the house lacks",
+  "Pitched shingle roof (no flat roof), updated windows (no jalousie), 2-car attached garage with direct access"
+ ],
+ "orientationInference": "Deck/canyon side faces roughly W-SW off the downhill side of Pinehaven Rd — afternoon sun filtering through eucalyptus (sun flare in p_38-p_40, bright deck shots consistent with PM light); street side E-NE. Inference from photo light + lot geometry, not verified on site.",
+ "photos": [
+  {
+   "file": "photos/p_01.jpg",
+   "note": "Street elevation: brown contemporary shed-roof, glass garage door, house steps downhill, redwoods at structure, power lines upper left, skylight on lower roof."
+  },
+  {
+   "file": "photos/p_02.jpg",
+   "note": "Great room: vaulted ceiling, stacked-stone fireplace to ceiling, slider to deck, green tree views, LVP floors, bright."
+  },
+  {
+   "file": "photos/p_03.jpg",
+   "note": "Dining: vaulted, sputnik chandelier, big windows/slider with lush foliage views through to living room; very bright."
+  },
+  {
+   "file": "photos/p_04.jpg",
+   "note": "Living room: floor-to-ceiling stone fireplace, corner windows to trees and deck; bright, modern staging."
+  },
+  {
+   "file": "photos/p_05.jpg",
+   "note": "Living room reverse: stone fireplace, built-in niche, slider to deck, greenery from every opening, sun patches."
+  },
+  {
+   "file": "photos/p_06.jpg",
+   "note": "Wide great-room shot: open-plan living/dining/kitchen, multiple deck sliders, stair down at left; light-filled."
+  },
+  {
+   "file": "photos/p_07.jpg",
+   "note": "Kitchen+dining: white shaker, stainless range, breakfast bar, subway tile; slider to deck; strong sun patches."
+  },
+  {
+   "file": "photos/p_08.jpg",
+   "note": "Main deck off dining: gray-painted wood decking, dark rails, bistro set — tall eucalyptus crowding the railing; stairs down."
+  },
+  {
+   "file": "photos/p_09.jpg",
+   "note": "Deck continuation: eucalyptus + dry hillside, neighbor white structure ~30-40 ft at left; wood deck in fire country."
+  },
+  {
+   "file": "photos/p_10.jpg",
+   "note": "Side deck along house: T1-11 siding, big window, vegetation close, upslope neighbor visible through trees ~40-60 ft."
+  },
+  {
+   "file": "photos/p_11.jpg",
+   "note": "Great room reverse: exposed dark beam w/ track lights, skylight, entry, stairs down; post-and-beam character."
+  },
+  {
+   "file": "photos/p_12.jpg",
+   "note": "Dining/entry: two skylights, exposed beams, stair to lower level, kitchen beyond; bright."
+  },
+  {
+   "file": "photos/p_13.jpg",
+   "note": "Kitchen from dining: white shaker, quartz-look counters, pendants over bar, sitting room through doorway; sunny."
+  },
+  {
+   "file": "photos/p_14.jpg",
+   "note": "Kitchen: corner window over sink with green views, open black shelf, white quartz; updated mid-tier."
+  },
+  {
+   "file": "photos/p_15.jpg",
+   "note": "Kitchen working side: Samsung stainless range+hood, dishwasher, marble-look quartz, leafy corner window."
+  },
+  {
+   "file": "photos/p_16.jpg",
+   "note": "Kitchen full view: peninsula layout, generous counters, two windows to greenery; clean and functional."
+  },
+  {
+   "file": "photos/p_17.jpg",
+   "note": "Sightline from kitchen across great room: open flow, beam, skylights, fireplace in distance, sitting room at right."
+  },
+  {
+   "file": "photos/p_18.jpg",
+   "note": "Sitting room: vaulted, wicker pendant — windows face street-side slope and neighbor's bridge-driveway structure."
+  },
+  {
+   "file": "photos/p_19.jpg",
+   "note": "Sitting room reverse: stair to loft nook, doorway to bath, big windows; bright."
+  },
+  {
+   "file": "photos/p_20.jpg",
+   "note": "Main-floor bedroom: vaulted w/ track lights, only two small high windows — moderate light; mirrored closet."
+  },
+  {
+   "file": "photos/p_21.jpg",
+   "note": "Same bedroom reverse: sliding closet doors, exterior-access door; moderate light."
+  },
+  {
+   "file": "photos/p_22.jpg",
+   "note": "Foyer: split-level entry, oak stairs up to loft, skylight, view to fireplace."
+  },
+  {
+   "file": "photos/p_23.jpg",
+   "note": "Loft nook staged as desk space: small window, overlooks main floor — usable WFH perch."
+  },
+  {
+   "file": "photos/p_24.jpg",
+   "note": "Loft nook reverse: overlooks dining/great room, exposed beam, green tree view; borrowed light."
+  },
+  {
+   "file": "photos/p_25.jpg",
+   "note": "Stair hall to lower level: oak treads; sitting-room window again shows neighbor bridge structure."
+  },
+  {
+   "file": "photos/p_26.jpg",
+   "note": "Remodeled full bath: charcoal walls, white gloss vanity, LED bar, window; moody modern."
+  },
+  {
+   "file": "photos/p_27.jpg",
+   "note": "Laundry closet: full-size washer/dryer under sloped ceiling; functional."
+  },
+  {
+   "file": "photos/p_28.jpg",
+   "note": "Primary suite: big corner window wall to trees, pendant lights, spacious; bright green outlook."
+  },
+  {
+   "file": "photos/p_29.jpg",
+   "note": "Primary reverse: mirrored closet; window faces exterior deck stair + trees — minor privacy/flow note."
+  },
+  {
+   "file": "photos/p_30.jpg",
+   "note": "Primary third angle: full mirrored closet wall, reading corner; bright."
+  },
+  {
+   "file": "photos/p_31.jpg",
+   "note": "Primary bath: double gray-shaker vanity, marble-look quartz, black fixtures, large walk-in shower."
+  },
+  {
+   "file": "photos/p_32.jpg",
+   "note": "Primary shower: white subway + dark stone floor, rain head, window, niches; good-quality reno."
+  },
+  {
+   "file": "photos/p_33.jpg",
+   "note": "Bedroom 3: corner window + high ribbon window; corrugated metal neighbor structure visible outside; moderate-bright."
+  },
+  {
+   "file": "photos/p_34.jpg",
+   "note": "Bedroom 3 reverse: mirrored closet, window to grassy upslope; moderate light."
+  },
+  {
+   "file": "photos/p_35.jpg",
+   "note": "Hall bath: teal accent, wood-look vanity, tub/shower with subway tile, black fixtures, high window; updated."
+  },
+  {
+   "file": "photos/p_36.jpg",
+   "note": "Bedroom 4: slider directly to lower deck, exterior stair and trees outside; bright, true indoor-outdoor."
+  },
+  {
+   "file": "photos/p_37.jpg",
+   "note": "Bedroom 4 reverse: closet, sun patches, view to stair hall."
+  },
+  {
+   "file": "photos/p_38.jpg",
+   "note": "Lower deck: dining table, lattice privacy screen, eucalyptus forest at railing, canyon peeks; sunny."
+  },
+  {
+   "file": "photos/p_39.jpg",
+   "note": "Lower deck other angle: T1-11 wall, privacy screen, tree views; spacious and usable."
+  },
+  {
+   "file": "photos/p_40.jpg",
+   "note": "Multi-level deck structure: upper deck + stair to lower, eucalyptus towering, sun flare — wood decks in dense fuel."
+  },
+  {
+   "file": "photos/p_41.jpg",
+   "note": "Lowest patio: under-stair shaded seating, eucalyptus trunk at deck edge, dry slope beyond."
+  },
+  {
+   "file": "photos/p_42.jpg",
+   "note": "Lowest-level entry from deck: door to lounge level, half-bath visible, exposed under-deck joists."
+  },
+  {
+   "file": "photos/p_43.jpg",
+   "note": "Lounge room (lowest level): long flex space, sage walls, wood-slat accent, windows at one end; staged with dumbbells."
+  },
+  {
+   "file": "photos/p_44.jpg",
+   "note": "Lounge reverse: sofa, view to half-bath; cozy media-room feel."
+  },
+  {
+   "file": "photos/p_45.jpg",
+   "note": "Lowest-level half bath: fluted wood vanity, brass fixtures, geometric tile; stylish."
+  },
+  {
+   "file": "photos/p_46.jpg",
+   "note": "Sauna room: cedar sauna cabin with glass door, tile floor, window to trees, mini-fridge — claim verified."
+  },
+  {
+   "file": "photos/p_47.jpg",
+   "note": "Lower deck wide: big eucalyptus at deck edge, dry leaf-litter slope rising behind, dappled sun; fire-fuel context."
+  }
+ ],
+ "crosschecks": [
+  {
+   "check": "Marketing claims vs photos",
+   "result": "Verified honest. Sauna (p_46), multi-level deck (p_38-p_42), stone fireplace (p_04), breakfast bar (p_13), garage direct access (p_01), 'light-filled' (p_02-p_07), 'verdant surroundings' = forest, matching MLS View: Forest. Zero drone shots — no implied bay views. Rare honest listing."
+  },
+  {
+   "check": "Geocoder vs page coords",
+   "result": "Marginal flag: Census (37.84640, -122.21060) vs page (37.84654, -122.21005) = 165 ft apart, just over the 150 ft threshold — hillside parcel centroid vs address interpolation; immaterial for hazard/context purposes."
+  },
+  {
+   "check": "Elevation / micro-market",
+   "result": "975.8 ft in Thornhill (Montclair hills, 94611), near Skyline ridge. Same-street comp: 7094 Pinehaven (saved bundle, 3.4/5) at $795K / $520/sf — this house is bigger (2,336 vs 1,530 sf) and $71/sf cheaper, i.e. short-sale discount is real."
+  },
+  {
+   "check": "Orientation",
+   "result": "Deck side inferred W-SW: afternoon sun flare through eucalyptus in p_38-p_40, bright PM-style deck light; street side E-NE. Consistent with downhill-side lot on Pinehaven. Labeled inference."
+  },
+  {
+   "check": "FHSZ / insurance",
+   "result": "Very High FHSZ (presumptive) — 94611 inside 1991 Oakland firestorm footprint; insurance availability flag raised per Oakland hills policy. Eucalyptus at structure + wood decks/siding raise mitigation burden."
+  },
+  {
+   "check": "Amenity claims",
+   "result": "All verifiable claims confirmed in photos; no drone/village amenity shots to fact-check (gallery is 100% interior + on-property)."
+  },
+  {
+   "check": "Bed/bath count legitimacy",
+   "result": "4 real bedrooms, all with closets: primary (p_28-p_30), deck-slider bedroom (p_36), bedroom 3 (p_33), main-floor bedroom with exterior door (p_20-p_21). Loft marketed honestly as 'nook', not a bedroom. 3.5 baths verified: primary (p_31), hall (p_35), main-floor (p_26), lowest-level half (p_45). No count fudge."
+  }
+ ]
 }
