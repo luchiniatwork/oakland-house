@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "slug": "318-capricorn",
+  "source": {
+    "url": "https://www.compass.com/homedetails/318-Capricorn-Ave-Oakland-CA-94611/1PUKS2_pid/",
+    "mirrorOf": null,
+    "fetchedAt": "2026-10-30T18:22:49Z"
+  },
+  "listing": {
+    "address": "318 Capricorn Ave, Oakland, CA 94611",
+    "price": 895000,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1655,
+    "pricePerSqft": 540.79,
+    "lotAc": 0.3,
+    "dom": 0,
+    "status": "New",
+    "fhsz": "Very High FHSZ (presumptive) — inside 1991 Oakland firestorm footprint",
+    "coords": [37.8381812, -122.2169589],
+    "elevationFt": 691.3,
+    "style": "Sea Ranch–inspired contemporary, built 1976 (MLS style: Other; Montclair)",
+    "description": "Set on approximately one-third of an acre just 2 minutes from the 13, in the Oakland Hills, this architecturally distinctive, Sea Ranch–inspired home celebrates the relationship between architecture and nature. Dramatic angles, soaring ceilings, natural wood, and expansive windows create spaces that feel both intimate and expansive, with extraordinary light that shifts throughout the day. Rooted in Northern California's architectural tradition of responding to the landscape rather than imposing upon it, the home embraces its hillside setting. Angular rooflines, varied ceiling heights, and warm natural materials give the interiors a sculptural quality, while skylights and large windows invite the surrounding trees, greenery, and sky into everyday life. The two bedroom, two bathroom home features an open, flowing living and dining area with a wonderful sense of volume and connection between spaces. An updated kitchen and beautifully refreshed bathrooms bring contemporary comfort while respecting the home's architectural character. Southwest-facing windows capture gorgeous afternoon light and the soft pink glow of  sunsets. On rainy days, a fire in the fireplace brings warmth and intimacy to the soaring living spaces, with the surrounding trees and changing weather providing an ever-present connection to nature. Outside, a series of terraced gardens and inviting outdoor spaces extend the living experience into the hillside. Established planting areas offer opportunities to grow vegetables, herbs, and flowers, while decks and garden retreats provide places for dining, entertaining, or quiet contemplation. A private sauna and plunge pool create a wonderful opportunity for relaxation and renewal, surrounded by the beauty and tranquility of the natural setting. A detached, unpermitted structure  offers a separate space for working or creative pursuits. Wildlife is part of the daily experience, from deer and foxes moving through the hillside to hawks overhead and owls calling in the evening. Despite its remarkable privacy, the home is part of a warm, welcoming neighborhood with wonderful longtime neighbors and a genuine sense of community. With its extraordinary light, expressive architecture, natural materials, and deep connection to the landscape, 318 Capricorn offers a distinctive expression of Northern California living."
+  },
+  "scores": {
+    "view": {
+      "score": 2.5,
+      "note": "Living-level views are tree-filtered oaks/bamboo, no water (p_03, p_08, p_09); lone Bay Bridge/bay gallery shot p_49 is likely upper-level or drone telephoto; house sits in a wooded bowl (p_45)."
+    },
+    "natural_light": {
+      "score": 4.5,
+      "note": "Skylights over stairwell/dining (p_06, p_11) and tub (p_32, p_33), SW sunset light (p_05), midday sun patches (p_04, p_08); bedroom 2 borrows light via interior light-well (p_25–p_27)."
+    },
+    "character": {
+      "score": 5.0,
+      "note": "1976 Sea Ranch–style shed contemporary: cedar shingles, beamed wood ceilings, parquet floors, angled rooflines (p_01, p_06, p_11, p_24), stilted treehouse studio (p_40, p_41)."
+    },
+    "kitchen": {
+      "score": 4.5,
+      "note": "Updated: Wolf range (red knobs), white quartz island/counters, artisan green tile, open shelving, wood cabinets; sink faces private upslope garden (p_12–p_15)."
+    },
+    "privacy": {
+      "score": 4.0,
+      "note": "Wooded bowl; kitchen and bedroom windows face own slope/bamboo (p_13, p_20); but neighbor upslope overlooks deck edge behind lattice (p_17), red house above studio (p_41), one primary window faces neighbor's stair (p_21)."
+    },
+    "layout_flow": {
+      "score": 3.0,
+      "note": "Open LDK main level is good (p_11), but 1,655 sf is spread over 4–5 split levels (p_50) with a long exterior stair entry from street (p_01)."
+    },
+    "primary_suite": {
+      "score": 3.5,
+      "note": "12'7\"x11'7\" + walk-in closet + attached 9'4\" den (p_18–p_21, p_31, p_50), but the skylit primary bath is a flight up on the top level, not en suite (p_32, p_50)."
+    },
+    "outdoor_space": {
+      "score": 4.0,
+      "note": "Dining deck off slider (p_09, p_46), barrel sauna + covered plunge pool pad (p_38), terraced planting gardens and studio deck (p_39–p_41)."
+    },
+    "condition": {
+      "score": 4.0,
+      "note": "Quality kitchen/bath updates (p_12, p_22, p_32), staged with disclosed digital alteration (p_02, p_07, p_11); 1976 shell, comp-shingle roof serviceable (p_44), some weathered shingle staining (p_46)."
+    },
+    "lot_usability": {
+      "score": 3.0,
+      "note": "0.30 AC but mostly steep hillside; terraced beds usable (p_39, p_51); upper slope is wild duff/dry grass (p_41, p_45)."
+    }
+  },
+  "weightedTotal": 3.8,
+  "verdict": "This house IS architecture-and-light over view: a sculptural 1976 Sea Ranch–style shed contemporary tucked into a wooded Montclair bowl, with exceptional natural light, a genuinely updated Wolf kitchen and baths, and a rare sauna + plunge-pool + detached-studio compound. The trade-offs are real: no living-level water view despite the marketing's Bay Bridge shot, 1,655 sf sliced across five split levels with the primary bath a flight away from the primary bedroom, a steep mostly-unusable upslope lot, and the full Oakland-hills fire burden — combustible cedar-shingle siding, wood decks, and Very High FHSZ insurance exposure. For a solo buyer working from home who values character, light, and privacy over panorama, it is a strong, honestly-marketed candidate at $541/sf.",
+  "flags": [
+    "🔥 Very High FHSZ (presumptive) + 1991 Oakland firestorm footprint — quote insurance before offering; availability not assured in 94611",
+    "🪵 Combustible cedar-shingle siding + wood decks + vegetation near structure (p_01, p_17, p_46) — hardening/defensible-space work likely needed",
+    "⚡ Overhead utility lines visible at street/front of house (p_01, faint in p_10)",
+    "🪜 Steep lot, long exterior stair entry, 4–5 split levels — stairs are a way of life here (p_01, p_50)",
+    "🏚️ Detached studio/office is unpermitted (disclosed in listing text); it is also stilt/post-founded on the slope (p_40, p_41)",
+    "🛁 Primary bath is not en suite — up a flight on the top level (p_50 floor plan)",
+    "📐 Sqft conflict: MLS/JSON-LD 1,655 vs floor-plan marketing 1,730 'to exterior walls' (p_50)",
+    "🖼️ Several staged photos carry 'digitally altered' disclosure (p_02, p_07, p_11); Bay Bridge gallery shot (p_49) implies a view the living level does not have",
+    "🪟 3+ skylights on a 1976 roofline — leak/maintenance watch item (p_06, p_32, p_44)"
+  ],
+  "positives": [
+    "Rare architectural character at $895k: Sea Ranch–style shed contemporary, beamed wood ceilings, parquet floors (p_01, p_11)",
+    "Exceptional natural light: skylights, clerestories, SW exposure with verified sunset glow (p_05, p_06, p_32)",
+    "Updated kitchen with Wolf range + quartz + artisan tile (p_12–p_15); refreshed baths incl. skylit soaking tub (p_32, p_33)",
+    "Detached studio/office + lower-level family room = genuine WFH separation (p_35–p_37, p_42, p_43)",
+    "Barrel sauna + covered plunge pool + terraced garden compound (p_38–p_41)",
+    "Composition-shingle gabled roof (no flat roof) and modern windows — no jalousie (p_44, p_45)",
+    "Listed at $895,000, below its $910,000 last recorded close price (page data)",
+    "2-car attached garage with EV charger; 4 total parking spaces (page data)",
+    "Honest bed count: marketed as 2BR, den not fudged into a bedroom (p_50)"
+  ],
+  "orientationInference": "View/deck side faces W–SW: marketing claims southwest-facing windows, corroborated by pink-sunset shots (p_05, p_48) and the Bay Bridge (west) glimpse in p_49; afternoon/evening sun, tree-filtered. Inference.",
+  "photos": [
+    { "file": "photos/p_01.jpg", "note": "Street elevation — 3-story cedar-shingle shed contemporary, garage at street, long exterior entry stair, oaks; overhead utility lines visible at left" },
+    { "file": "photos/p_02.jpg", "note": "Living room (disclosed digitally altered) — vaulted beamed wood ceiling, tiled fireplace, tree-view windows" },
+    { "file": "photos/p_03.jpg", "note": "Living/dining wide — post-and-beam ceiling, parquet floor, slider to deck, tree-filtered green views" },
+    { "file": "photos/p_04.jpg", "note": "Living toward kitchen — sun patches on parquet; kitchen windows face upslope stone wall and garden" },
+    { "file": "photos/p_05.jpg", "note": "Dining — tall window with dusk pink sky (SW corroboration), slider to deck seating" },
+    { "file": "photos/p_06.jpg", "note": "Ceiling detail — skylight over stairwell, wood-clad ceilings, interior clerestory windows" },
+    { "file": "photos/p_07.jpg", "note": "Living reverse (digitally altered) — fireplace wall, open stair to upper level" },
+    { "file": "photos/p_08.jpg", "note": "LDK wide — bright midday, tree views on two sides, kitchen breakfast bar" },
+    { "file": "photos/p_09.jpg", "note": "Dining — blue-sky oak view, deck with dining set, stone retaining wall outside" },
+    { "file": "photos/p_10.jpg", "note": "Dining toward slider — faint thin lines through upper-left glass (possible utility lines), dense trees" },
+    { "file": "photos/p_11.jpg", "note": "Wide from dining (digitally altered) — sculptural volume, dining skylight, kitchen with green tile wall" },
+    { "file": "photos/p_12.jpg", "note": "Kitchen — Wolf range with red knobs, green artisan tile, quartz island, upslope garden windows" },
+    { "file": "photos/p_13.jpg", "note": "Kitchen island — wood cabinetry, white quartz, bar seating; private upslope outlook" },
+    { "file": "photos/p_14.jpg", "note": "Kitchen sink run — quartz counters, stainless dishwasher, windows on stone wall/trees" },
+    { "file": "photos/p_15.jpg", "note": "Kitchen to dining — L-shaped counters, tall dining window, parquet floors" },
+    { "file": "photos/p_16.jpg", "note": "Living toward entry — split-level stair, beams, volume over living area" },
+    { "file": "photos/p_17.jpg", "note": "Rear deck + house — weathered shingle siding, deck dining/lounge, terraced stone walls; neighbor upslope behind lattice ~25 ft" },
+    { "file": "photos/p_18.jpg", "note": "Primary bedroom — vaulted ceiling, corner bamboo window; second window faces upslope stone wall" },
+    { "file": "photos/p_19.jpg", "note": "Primary reverse — stair to bath level, tall bamboo window, bright" },
+    { "file": "photos/p_20.jpg", "note": "Primary window detail — dense bamboo grove outside = natural privacy screen" },
+    { "file": "photos/p_21.jpg", "note": "Primary other wall — mirrored closets, desk nook; window faces neighbor's wood stair structure" },
+    { "file": "photos/p_22.jpg", "note": "Bath 1 — dark stacked tile tub surround, marble vanity; tub window faces nearby structure" },
+    { "file": "photos/p_23.jpg", "note": "Bath 1 vanity — marble top, wood-framed mirror, updated fixtures" },
+    { "file": "photos/p_24.jpg", "note": "Bedroom 2 — wood-clad vault, triangular gable windows with oak views, ribbon windows" },
+    { "file": "photos/p_25.jpg", "note": "Bedroom 2 wide — interior light-well ribbon windows share skylight light; sitting area" },
+    { "file": "photos/p_26.jpg", "note": "Bedroom 2 — gable oak windows; long ribbon wall is an interior light well" },
+    { "file": "photos/p_27.jpg", "note": "Bedroom 2 reverse — skylit light well visible above, door to hall" },
+    { "file": "photos/p_28.jpg", "note": "Bedroom 2 nook — small tree-view window, dresser, cozy corner" },
+    { "file": "photos/p_29.jpg", "note": "Bedroom 2 wide — warm wood ceiling, sitting area, gable oak views" },
+    { "file": "photos/p_30.jpg", "note": "Bedroom 2 toward stair — art walls; small window on greenery with glimpse of adjacent structure" },
+    { "file": "photos/p_31.jpg", "note": "Walk-in closet — full wood shelving system, real storage" },
+    { "file": "photos/p_32.jpg", "note": "Bath 2 (primary) — skylight over tub, blue handmade-look tile, wood accent wall, wooded-slope window" },
+    { "file": "photos/p_33.jpg", "note": "Bath 2 tub detail — soaking tub under skylight with canopy view" },
+    { "file": "photos/p_34.jpg", "note": "Bath 2 vanity — wood cabinets, marble/quartz counter, tall oak-view window" },
+    { "file": "photos/p_35.jpg", "note": "Lower-level family room — bright, large tree-view windows, wood floor" },
+    { "file": "photos/p_36.jpg", "note": "Family room reverse — window seat nook, structural post, stair up" },
+    { "file": "photos/p_37.jpg", "note": "Family room third angle — oak-view window seat, open shelving" },
+    { "file": "photos/p_38.jpg", "note": "Side yard — barrel sauna + covered plunge pool on concrete pad, lattice privacy screen, bamboo" },
+    { "file": "photos/p_39.jpg", "note": "Hillside — terraced planting beds, rustic stairs to stilted shingle studio; dry duff slope with stumps" },
+    { "file": "photos/p_40.jpg", "note": "Studio + roofscape — comp-shingle gabled roofs with skylights (not flat), studio on posts, sauna barrel" },
+    { "file": "photos/p_41.jpg", "note": "Studio dusk — stilted over slope, glowing interior; neighbor's red house visible upslope" },
+    { "file": "photos/p_42.jpg", "note": "Studio interior — bright office with slider, arched window, tree views" },
+    { "file": "photos/p_43.jpg", "note": "Studio reverse — vaulted white ceiling, desk zone, leafy outlook" },
+    { "file": "photos/p_44.jpg", "note": "Elevated dusk — whole compound: house, sauna, studio, decks; comp roof with multiple skylights" },
+    { "file": "photos/p_45.jpg", "note": "Drone — wooded-bowl setting, terraced garden rows below, bamboo grove, neighbor roofs through trees" },
+    { "file": "photos/p_46.jpg", "note": "Deck dusk — indoor-outdoor dining flow; shingle siding with dark staining; garden terraces" },
+    { "file": "photos/p_47.jpg", "note": "Rear dusk — angled gable windows glowing, mini-split condenser + utility boxes on wall, stone path to sauna" },
+    { "file": "photos/p_48.jpg", "note": "Sunset drone over studio — pink SW sky, house below; horizon visible only at drone altitude" },
+    { "file": "photos/p_49.jpg", "note": "Gallery view shot — Bay Bridge + bay over rooftops/treetops; likely upper-level or drone telephoto, not a living-level view" },
+    { "file": "photos/p_50.jpg", "note": "Floor plan — claims 1,730 sf 'to exterior walls' vs MLS 1,655; 2BR+den upper, primary bath alone on top level, lower family room, basement, garage, backyard office" },
+    { "file": "photos/p_51.jpg", "note": "Site plan — house/decks/sauna/office on wooded 0.30 AC, exclusive street parking area, lot slopes up from Capricorn Ave" }
+  ],
+  "crosschecks": [
+    { "check": "Marketing claims vs photos", "result": "Mostly honest: Sea Ranch character (p_01, p_11), skylights (p_06, p_32), terraced gardens (p_39), sauna (p_38), plunge pool (p_38), unpermitted structure (disclosed; p_40) all verified. Exceptions: Bay Bridge gallery shot (p_49) implies a water view the tree-filtered living level does not have (p_03, p_08, p_09) — likely drone/upper-level telephoto; 'remarkable privacy' is mostly true but neighbor upslope overlooks the deck edge (p_17, p_41); several photos disclosed as digitally altered (p_02, p_07, p_11)." },
+    { "check": "Geocoder vs page coords", "result": "Agreement: page (37.8381812, -122.2169589) vs Census (37.8378477, -122.2167033) = ~142 ft apart, under the 150 ft flag threshold." },
+    { "check": "Sqft sources", "result": "JSON-LD and __INITIAL_DATA__ agree at 1,655 sf (recorded); floor-plan marketing doc claims 1,730 sf measured 'to exterior walls' (p_50) — flagged, not used." },
+    { "check": "Elevation / micro-market", "result": "691.3 ft (USGS EPQS) on a wooded Montclair slope off Thornhill, ~2 min to Hwy 13 (plausible). ~306 ft below the 6401 Snake benchmark (997.8 ft) — lower and more sheltered/wooded, consistent with weaker views." },
+    { "check": "Orientation", "result": "Marketing 'southwest-facing' claim corroborated by sunset shots (p_05, p_48) and Bay Bridge (west) in p_49 — view/deck side W–SW, afternoon sun. Inference." },
+    { "check": "FHSZ / insurance", "result": "Very High FHSZ (presumptive) — inside 1991 Oakland firestorm footprint. Insurance-availability flag raised; shingle siding + wood decks increase hardening burden." },
+    { "check": "Amenity claims", "result": "Sauna (barrel, p_38), plunge pool (covered tub, p_38), deck (p_09, p_46), skylights (p_06, p_32), garage + EV charger, fireplace (p_02), forced air all verified in photos/page data. 'Exclusive parking' area shown on site plan (p_51)." },
+    { "check": "Bed/bath count legitimacy", "result": "Honest: marketed 2BR/2BA with real bedrooms (p_18, p_24); upper-level 9'4\" den NOT counted as a bedroom; detached office disclosed as unpermitted. Both baths full and updated (p_22, p_32)." },
+    { "check": "Off-listing photos", "result": "Downloaded set contained 9 images from other listings' carousel cards (p_52–p_60; bridgeMLS/Bay East watermarks, different houses/condos). Excluded from scoring and from the persisted bundle; 51/51 subject-listing media retained." },
+    { "check": "Price history", "result": "Page data shows last recorded close price $910,000 vs $895,000 current list — listed below its last close; date of last close not captured in page data (null)." }
+  ]
+}
