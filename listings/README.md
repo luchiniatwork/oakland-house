@@ -17,12 +17,13 @@ Each listing folder contains:
 
 ## Listings by score
 
-Statuses/DOM re-verified against Compass/MLS on 2026-10-28. Ask = current/last list price; Sold = closing price; $/sf computed on ask (sold rows carry closing $/sf in the Sold cell).
+Statuses/DOM re-verified against Compass/MLS on 2026-10-28 (318 Capricorn added 10/30). Ask = current/last list price; Sold = closing price; $/sf computed on ask (sold rows carry closing $/sf in the Sold cell).
 
 | | Score | Address | Ask | Sold | Bd/Ba | Sqft | $/sf (ask) | Status |
 |---|---|---|---|---|---|---|---|---|
 | [`6401-snake/`](6401-snake/) | 4.2 | 6401 Snake Rd | $998,000 | $1,260,000 ($914/sf) | 2/2 | 1,379 | $724 | SOLD 10/26 (+26% over ask) |
 | [`6833-snake/`](6833-snake/) | 4.0 | 6833 Snake Rd | $899,000 | $1,675,000 ($828/sf) | 4/2 | 2,023 | $444 | SOLD 10/8 (+86% over ask) |
+| [`318-capricorn/`](318-capricorn/) | 3.8 | 318 Capricorn Ave | $895,000 | — | 2/2 | 1,655 | $541 | New, 0 DOM; '76 Sea Ranch–style treehouse + studio; Very High FHSZ/'91 firestorm — quote insurance first |
 | [`15-north/`](15-north/) | 3.8 | 15 North Cir | $1,149,000 | — | 4/2.5 | 2,410 | $477 | 13 DOM |
 | [`5970-rincon/`](5970-rincon/) | 3.8 | 5970 Rincon Dr | $895,000 | — | 2/1 | 1,192 | $751 | 12 DOM |
 | [`6077-skyline/`](6077-skyline/) | 3.7 | 6077 Skyline Blvd | $1,250,000 | — | 3/3 | 1,551 | $806 | flip — see [STRATEGY.md](6077-skyline/STRATEGY.md); 56 DOM; 2nd cut 10/22 ($145K off Jul ask) + fallen escrow |
@@ -38,7 +39,7 @@ Statuses/DOM re-verified against Compass/MLS on 2026-10-28. Ask = current/last l
 
 ## Comparisons
 
-The 10-15/10-18 comps are benchmarked against 6401 Snake (top score); the 10-26 set compares the active mid-tier listings head-to-head, plus a clearing-price scenario overlay (not a validated comparison); the 10-27 comp pits 6077 Skyline against the new 1076 Grizzly Peak:
+The 10-15/10-18 comps are benchmarked against 6401 Snake (top score); the 10-26 set compares the active mid-tier listings head-to-head, plus a clearing-price scenario overlay (not a validated comparison); the 10-27 comp pits 6077 Skyline against the new 1076 Grizzly Peak; the 10-30 comp pits the new 318 Capricorn against 6077 Skyline (pick: Capricorn):
 
 | Date | Matchup |
 |---|---|
@@ -50,3 +51,4 @@ The 10-15/10-18 comps are benchmarked against 6401 Snake (top score); the 10-26 
 | 2026-10-26 | [Scenario: Rincon/Skyline/Pinehaven clearing prices](comparisons/20261026T032338Z-scenario-rincon-skyline-pinehaven-clearing-prices.md) (overlay, not validated) |
 | 2026-10-27 | [6077 Skyline vs 1076 Grizzly Peak](comparisons/20261027T165453Z-6077-skyline-vs-1076-grizzly-peak.md) |
 | 2026-10-28 | [6401 Snake vs 6077 Skyline vs 6625 Snake](comparisons/20261028T030907Z-6401-snake-vs-6077-skyline-vs-6625-snake.md) |
+| 2026-10-30 | [318 Capricorn vs 6077 Skyline](comparisons/20261030T192618Z-318-capricorn-vs-6077-skyline.md) |
