@@ -39,7 +39,7 @@ Statuses/DOM re-verified against Compass/MLS on 2026-10-30. Ask = current/last l
 
 ## Comparisons
 
-The 10-15/10-18 comps are benchmarked against 6401 Snake (top score); the 10-26 set compares the active mid-tier listings head-to-head, plus a clearing-price scenario overlay (not a validated comparison); the 10-27 comp pits 6077 Skyline against the new 1076 Grizzly Peak; the 10-30 comp pits the new 318 Capricorn against 6077 Skyline (pick: Capricorn):
+The 10-15/10-18 comps are benchmarked against 6401 Snake (top score); the 10-26 set compares the active mid-tier listings head-to-head, plus a clearing-price scenario overlay (not a validated comparison); the 10-27 comp pits 6077 Skyline against the new 1076 Grizzly Peak; the 10-30 comps pit the new 318 Capricorn against 6077 Skyline (pick: Capricorn) and 7099 Pinehaven against the new 6625 Snake (pick: Pinehaven):
 
 | Date | Matchup |
 |---|---|
@@ -52,3 +52,4 @@ The 10-15/10-18 comps are benchmarked against 6401 Snake (top score); the 10-26 
 | 2026-10-27 | [6077 Skyline vs 1076 Grizzly Peak](comparisons/20261027T165453Z-6077-skyline-vs-1076-grizzly-peak.md) |
 | 2026-10-28 | [6401 Snake vs 6077 Skyline vs 6625 Snake](comparisons/20261028T030907Z-6401-snake-vs-6077-skyline-vs-6625-snake.md) |
 | 2026-10-30 | [318 Capricorn vs 6077 Skyline](comparisons/20261030T192618Z-318-capricorn-vs-6077-skyline.md) |
+| 2026-10-30 | [7099 Pinehaven vs 6625 Snake](comparisons/20261030T235117Z-7099-pinehaven-vs-6625-snake.md) |
