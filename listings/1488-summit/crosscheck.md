@@ -9,3 +9,4 @@
 | FHSZ / insurance | Very High FHSZ (presumptive) — Berkeley hills 94708, near the 1923 Berkeley fire footprint; verify on CAL FIRE map. Insurance availability/cost flag raised per hills-zip rule. |
 | Amenity claims | No off-site amenity marketing to debunk; views, gardens, solar, EV charging all photo-verified. Virtual tour (1488summit.com) and Matterport listed but not reviewed. |
 | Bed/bath count legitimacy | Real 3 bedrooms — all windowed with closets and staged beds (bed 2 is small and skylight-lit but legitimate). The separate office is NOT counted as a bedroom — honest count. 2.5 baths match photos: two renovated full baths + powder room. |
+| Status re-check 2026-10-30 | **Price raised +48%**: $999,999 teaser pulled after 14 days; repriced to $1,480,000 on 10/30/2026 ($1,121/sf) per EBRD/MLSListings #ML82064850. Still Active, 14 DOM. No bidding-war-over-teaser outcome; seller pivoted to market-rate ask (still under the $1.8M Nov '21 sale). |

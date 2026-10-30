@@ -1,311 +1,311 @@
 {
- "schemaVersion": 1,
- "slug": "5970-rincon",
- "source": {
-  "url": "https://www.compass.com/homedetails/5970-Rincon-Dr-Oakland-CA-94611/1PRE8K_pid/",
-  "mirrorOf": null,
-  "fetchedAt": "2026-10-28T04:25:00Z"
- },
- "listing": {
-  "address": "5970 Rincon Dr, Oakland, CA 94611",
-  "price": 895000,
-  "beds": 2,
-  "baths": 1,
-  "sqft": 1192,
-  "pricePerSqft": 751,
-  "lotAc": 0.12,
-  "dom": 12,
-  "status": "Active",
-  "fhsz": "Very High FHSZ (presumptive)",
-  "coords": [
-   37.8266814,
-   -122.2046901
+  "schemaVersion": 1,
+  "slug": "5970-rincon",
+  "source": {
+    "url": "https://www.compass.com/homedetails/5970-Rincon-Dr-Oakland-CA-94611/1PRE8K_pid/",
+    "mirrorOf": null,
+    "fetchedAt": "2026-10-30T23:40:00Z"
+  },
+  "listing": {
+    "address": "5970 Rincon Dr, Oakland, CA 94611",
+    "price": 895000,
+    "beds": 2,
+    "baths": 1,
+    "sqft": 1192,
+    "pricePerSqft": 751,
+    "lotAc": 0.12,
+    "dom": 12,
+    "status": "Pending",
+    "fhsz": "Very High FHSZ (presumptive)",
+    "coords": [
+      37.8266814,
+      -122.2046901
+    ],
+    "elevationFt": 882.1,
+    "style": "1938 Cottage (single-story, detached, Montclair)",
+    "description": "Light-filled and inviting, this two-bedroom, one-bath Montclair cottage offers a level-in entry, single-level living, and an open floor plan with filtered Bay views. The updated kitchen features new appliances, a skylight, and an adjoining laundry room, while the primary bedroom includes a walk-in closet. The living room opens to a level garden, creating an easy flow for entertaining, gathering with friends, watching children play, or enjoying a quiet afternoon outside. Friendly neighbors add to the welcoming feel, and the nearby Railroad Trail connects to the shops, restaurants, and cafés of Montclair Village."
+  },
+  "scores": {
+    "view": {
+      "score": 3.0,
+      "note": "Real but filtered W-facing bay/Bay Bridge sliver from living picture window + front yard (p_09, p_39); lattice tower + power lines in view line (p_09, p_40); p_04/p_40 panoramas are drone/telephoto altitude"
+    },
+    "natural_light": {
+      "score": 4.0,
+      "note": "Two kitchen skylights + ~7 roof skylights total (p_14, p_47), large W picture window, corner windows in bed 2 (p_24), French doors; primary bedroom relies on lamps (p_19)"
+    },
+    "character": {
+      "score": 4.0,
+      "note": "1938 cottage: Dutch door w/ art-glass (p_33), artisan teal fireplace tile (p_10), beadboard, cedar WIC (p_22), Spanish tile step edging (p_44), glass-block bath (p_27)"
+    },
+    "kitchen": {
+      "score": 4.5,
+      "note": "Renovated galley: quartz, two-tone shaker, hex-floral backsplash, new SS appliances, twin skylights (p_14-p_18); small footprint and mid-tier Frigidaire hold it from 5"
+    },
+    "privacy": {
+      "score": 3.0,
+      "note": "Courtyard + hedge enclosure feel sheltered (p_30, p_34), but 2-story neighbors ~15 ft on two sides overlook (p_03, p_32, p_43) and bed-2 window faces neighbor wall (p_24)"
+    },
+    "layout_flow": {
+      "score": 4.0,
+      "note": "Single-level, level-in, open living/dining/kitchen sightlines (p_18), primary opens to courtyard (p_41); only 1 shared bath for 2 beds"
+    },
+    "primary_suite": {
+      "score": 3.5,
+      "note": "True WIC (cedar, p_22) + direct courtyard sliders + hot tub outside (p_20) are excellent; NOT en-suite — bath is down the hall (p_23)"
+    },
+    "outdoor_space": {
+      "score": 4.5,
+      "note": "Flagstone courtyard between wings (p_34), covered patio (p_30), level lawn (p_35, p_37), brick front court, citrus + mature garden — rare for the hills"
+    },
+    "condition": {
+      "score": 4.0,
+      "note": "Cohesive kitchen/bath reno, refinished hardwood, comp roof looks serviceable w/ many skylights (inspect); garage raw (p_31); staged/virtual furniture noted (p_01, p_06, p_07)"
+    },
+    "lot_usability": {
+      "score": 4.0,
+      "note": "0.12 AC / 5,340 SF mostly level: courtyard + lawn + garden rooms (p_35-p_37); tiered rear slope small; detached 1-car garage + big driveway (p_31)"
+    }
+  },
+  "weightedTotal": 3.8,
+  "verdict": "A move-in-ready 1938 Montclair cottage whose real trade is scale for setting: only 1,192 sqft, 2bd/1ba and neighbors 15 feet away, in exchange for a genuine (tree- and lattice-tower-filtered) Bay Bridge view from the living room, a rare level garden courtyard, abundant skylight-driven natural light, and tasteful period-preserving renovation. The marketing's big panoramas are drone-altitude — the living-level view is a filtered sliver, charming rather than cinematic. Fire zone, overhanging oaks, and the tower+wire eyesore are the real costs; the courtyard, WIC, and Dutch-door character are the real payoff.",
+  "flags": [
+    "🔥 Very High FHSZ (presumptive) — Montclair 94611, inside/ near the 1991 Oakland firestorm footprint; insurance availability + FAIR Plan fallback must be priced before offer",
+    "⚡ Lattice utility tower + power lines sit directly in the front/picture-window view corridor (p_09, p_11, p_40)",
+    "🌳 Mature oaks/redwoods overhang the roof and dense perimeter vegetation touches the lot edges (p_02, p_36, p_46) — defensible-space work + arborist budget",
+    "🏘️ Close neighbors: 2-story homes ~15–20 ft on two sides; bedroom-2 window faces a neighbor wall (p_24, p_32)",
+    "🛁 Single bath serves both bedrooms — no en-suite; primary relies on lamp light (p_19)",
+    "📸 Several shots stamped 'Digitally Altered' (virtual staging) + drone panoramas oversell the living-level view (p_01, p_04, p_40)",
+    "🏚️ 1938 bones under big trees: ~7 skylights, wood siding, aging fences — ongoing maintenance; garage is raw (p_31, p_42)"
   ],
-  "elevationFt": 882.1,
-  "style": "1938 Cottage (single-story, detached, Montclair)",
-  "description": "Light-filled and inviting, this two-bedroom, one-bath Montclair cottage offers a level-in entry, single-level living, and an open floor plan with filtered Bay views. The updated kitchen features new appliances, a skylight, and an adjoining laundry room, while the primary bedroom includes a walk-in closet. The living room opens to a level garden, creating an easy flow for entertaining, gathering with friends, watching children play, or enjoying a quiet afternoon outside. Friendly neighbors add to the welcoming feel, and the nearby Railroad Trail connects to the shops, restaurants, and cafés of Montclair Village."
- },
- "scores": {
-  "view": {
-   "score": 3.0,
-   "note": "Real but filtered W-facing bay/Bay Bridge sliver from living picture window + front yard (p_09, p_39); lattice tower + power lines in view line (p_09, p_40); p_04/p_40 panoramas are drone/telephoto altitude"
-  },
-  "natural_light": {
-   "score": 4.0,
-   "note": "Two kitchen skylights + ~7 roof skylights total (p_14, p_47), large W picture window, corner windows in bed 2 (p_24), French doors; primary bedroom relies on lamps (p_19)"
-  },
-  "character": {
-   "score": 4.0,
-   "note": "1938 cottage: Dutch door w/ art-glass (p_33), artisan teal fireplace tile (p_10), beadboard, cedar WIC (p_22), Spanish tile step edging (p_44), glass-block bath (p_27)"
-  },
-  "kitchen": {
-   "score": 4.5,
-   "note": "Renovated galley: quartz, two-tone shaker, hex-floral backsplash, new SS appliances, twin skylights (p_14-p_18); small footprint and mid-tier Frigidaire hold it from 5"
-  },
-  "privacy": {
-   "score": 3.0,
-   "note": "Courtyard + hedge enclosure feel sheltered (p_30, p_34), but 2-story neighbors ~15 ft on two sides overlook (p_03, p_32, p_43) and bed-2 window faces neighbor wall (p_24)"
-  },
-  "layout_flow": {
-   "score": 4.0,
-   "note": "Single-level, level-in, open living/dining/kitchen sightlines (p_18), primary opens to courtyard (p_41); only 1 shared bath for 2 beds"
-  },
-  "primary_suite": {
-   "score": 3.5,
-   "note": "True WIC (cedar, p_22) + direct courtyard sliders + hot tub outside (p_20) are excellent; NOT en-suite — bath is down the hall (p_23)"
-  },
-  "outdoor_space": {
-   "score": 4.5,
-   "note": "Flagstone courtyard between wings (p_34), covered patio (p_30), level lawn (p_35, p_37), brick front court, citrus + mature garden — rare for the hills"
-  },
-  "condition": {
-   "score": 4.0,
-   "note": "Cohesive kitchen/bath reno, refinished hardwood, comp roof looks serviceable w/ many skylights (inspect); garage raw (p_31); staged/virtual furniture noted (p_01, p_06, p_07)"
-  },
-  "lot_usability": {
-   "score": 4.0,
-   "note": "0.12 AC / 5,340 SF mostly level: courtyard + lawn + garden rooms (p_35-p_37); tiered rear slope small; detached 1-car garage + big driveway (p_31)"
-  }
- },
- "weightedTotal": 3.8,
- "verdict": "A move-in-ready 1938 Montclair cottage whose real trade is scale for setting: only 1,192 sqft, 2bd/1ba and neighbors 15 feet away, in exchange for a genuine (tree- and lattice-tower-filtered) Bay Bridge view from the living room, a rare level garden courtyard, abundant skylight-driven natural light, and tasteful period-preserving renovation. The marketing's big panoramas are drone-altitude — the living-level view is a filtered sliver, charming rather than cinematic. Fire zone, overhanging oaks, and the tower+wire eyesore are the real costs; the courtyard, WIC, and Dutch-door character are the real payoff.",
- "flags": [
-  "🔥 Very High FHSZ (presumptive) — Montclair 94611, inside/ near the 1991 Oakland firestorm footprint; insurance availability + FAIR Plan fallback must be priced before offer",
-  "⚡ Lattice utility tower + power lines sit directly in the front/picture-window view corridor (p_09, p_11, p_40)",
-  "🌳 Mature oaks/redwoods overhang the roof and dense perimeter vegetation touches the lot edges (p_02, p_36, p_46) — defensible-space work + arborist budget",
-  "🏘️ Close neighbors: 2-story homes ~15–20 ft on two sides; bedroom-2 window faces a neighbor wall (p_24, p_32)",
-  "🛁 Single bath serves both bedrooms — no en-suite; primary relies on lamp light (p_19)",
-  "📸 Several shots stamped 'Digitally Altered' (virtual staging) + drone panoramas oversell the living-level view (p_01, p_04, p_40)",
-  "🏚️ 1938 bones under big trees: ~7 skylights, wood siding, aging fences — ongoing maintenance; garage is raw (p_31, p_42)"
- ],
- "positives": [
-  "Genuine W-facing Bay Bridge/bay sliver visible from the living-room picture window at sunset (p_09, p_39) — verified at house level, not just by drone",
-  "Exceptional outdoor package for the hills: sheltered flagstone courtyard, covered patio, level lawn, mature garden (p_30-p_38)",
-  "Renovated kitchen w/ twin skylights, quartz, new SS appliances (p_14-p_17) — no work needed",
-  "True cedar-lined walk-in closet + primary slider to private courtyard w/ hot tub (p_20-p_22)",
-  "Single-level, level-in living; only 4 DOM; $751/sf is in-line for updated Montclair cottages",
-  "Detached garage + large driveway (3 total spaces) — rare parking utility on a hills street",
-  "~0.5 mi southeast of 6401 Snake Rd (the 4.2 reference comp) at 116 ft lower elevation — same micro-market feel, friendlier terrain"
- ],
- "orientationInference": "Front/view side faces W–WNW toward the bay (sunset shots p_03, p_09, p_39, p_40; SF/Bay Bridge landmarks sit due W); living room + front patio get afternoon/evening sun, rear courtyard reads morning-lit (p_35) — INFERENCE from dusk light + drone horizon + map",
- "photos": [
-  {
-   "file": "photos/p_01.jpg",
-   "note": "Front dusk exterior: 1938 white lap-siding cottage, comp-shingle roof w/ ~6 skylights, brick patio; DIGITALLY ALTERED (staged); oaks over roof"
-  },
-  {
-   "file": "photos/p_02.jpg",
-   "note": "Daylight aerial front: pitched shingle roof + skylights; big oaks touching/overhanging structure; overhead wire at cypress; uphill neighbors"
-  },
-  {
-   "file": "photos/p_03.jpg",
-   "note": "Drone dusk over cul-de-sac: bay glow at drone altitude only; 2-story neighbor ~15-20 ft; dry slope vegetation beside lot"
-  },
-  {
-   "file": "photos/p_04.jpg",
-   "note": "Telephoto/drone sunset panorama: SF skyline, Bay Bridge, port cranes — altitude shot, NOT the living-level view"
-  },
-  {
-   "file": "photos/p_05.jpg",
-   "note": "Covered entry porch, paneled door, large picture window w/ transom; bright, clean approach"
-  },
-  {
-   "file": "photos/p_06.jpg",
-   "note": "Entry/living: hardwood, white beamed ceiling, teal-tile fireplace, French doors to garden, Dutch door; digitally staged"
-  },
-  {
-   "file": "photos/p_07.jpg",
-   "note": "Living wide: open to dining, brick hearth, French doors to green courtyard, sun patches; staged (altered stamp)"
-  },
-  {
-   "file": "photos/p_08.jpg",
-   "note": "Living reverse toward picture window: filtered bay glimpse through divided-light transom; kitchen beyond dining"
-  },
-  {
-   "file": "photos/p_09.jpg",
-   "note": "KEY: dusk sliver-bay sunset through living picture window — lattice tower + power line cut across the view line"
-  },
-  {
-   "file": "photos/p_10.jpg",
-   "note": "Fireplace close-up: artisan teal tile w/ tree motifs, gas insert, terra-cotta hearth, vertical beadboard — character"
-  },
-  {
-   "file": "photos/p_11.jpg",
-   "note": "Living wide reverse (daylight): picture window view dominated by lattice tower + neighbor house; bright interior"
-  },
-  {
-   "file": "photos/p_12.jpg",
-   "note": "Dining: corner multi-pane windows, greenery, bench table; strong daylight; kitchen visible at left"
-  },
-  {
-   "file": "photos/p_13.jpg",
-   "note": "Dining→kitchen sightline: two-tone cabinets, refreshed pass-through; sun patches on hardwood"
-  },
-  {
-   "file": "photos/p_14.jpg",
-   "note": "Galley kitchen w/ TWO skylights: quartz, two-tone shaker, hex-floral tile, new SS appliances, window over sink"
-  },
-  {
-   "file": "photos/p_15.jpg",
-   "note": "Sink run: green shaker lowers, undermount sink, gooseneck faucet; window into tree canopy (no view, pleasant)"
-  },
-  {
-   "file": "photos/p_16.jpg",
-   "note": "Sink detail: white penny-hex tile w/ flower inlays; Frigidaire dishwasher (mid-tier); quartz counters"
-  },
-  {
-   "file": "photos/p_17.jpg",
-   "note": "Range detail: SS gas range + vented hood, floral hex backsplash; staged; renovation quality semi-custom"
-  },
-  {
-   "file": "photos/p_18.jpg",
-   "note": "Kitchen wide reverse: skylight glow, long sightline to dining/picture window; cohesive reno, hardwood throughout"
-  },
-  {
-   "file": "photos/p_19.jpg",
-   "note": "Primary bedroom: queen, louvered WIC doors, recessed + drum lights; window hidden by hanging — relies on lamp light"
-  },
-  {
-   "file": "photos/p_20.jpg",
-   "note": "Primary reverse: louvered-shutter glass doors open to private courtyard w/ hot tub visible; hardwood"
-  },
-  {
-   "file": "photos/p_21.jpg",
-   "note": "Primary third angle: sliders to courtyard + citrus tree; direct indoor-outdoor link; evening light"
-  },
-  {
-   "file": "photos/p_22.jpg",
-   "note": "Walk-in closet: cedar-lined walls, dual rods, built-ins — marketing 'walk-in closet' VERIFIED"
-  },
-  {
-   "file": "photos/p_23.jpg",
-   "note": "Hall: floor-to-ceiling louvered built-in storage; sightlines to emerald-tile bath + bedroom 2"
-  },
-  {
-   "file": "photos/p_24.jpg",
-   "note": "Bedroom 2: corner multi-pane windows, decent daylight; view is neighbor's 2-story wall ~12-15 ft away; REAL bedroom"
-  },
-  {
-   "file": "photos/p_25.jpg",
-   "note": "Bedroom 2 reverse: floor-to-ceiling built-in wardrobe wall, desk niche, hardwood; clean"
-  },
-  {
-   "file": "photos/p_26.jpg",
-   "note": "Bath: walk-in shower, emerald glazed tile, tiled bench, glass-block window, wood vanity, terracotta floor"
-  },
-  {
-   "file": "photos/p_27.jpg",
-   "note": "Shower detail: arched niche, glass block, chrome fixtures, bench — above-average tile work"
-  },
-  {
-   "file": "photos/p_28.jpg",
-   "note": "Vanity/toilet zone: wood vanity, framed mirror, terracotta floor; hall w/ louvered storage beyond"
-  },
-  {
-   "file": "photos/p_29.jpg",
-   "note": "Laundry: LG front-loads, ceiling-height cabinets, folding counter, window w/ green view — genuine laundry room"
-  },
-  {
-   "file": "photos/p_30.jpg",
-   "note": "Covered rear patio + lawn: brick pavers, outdoor sectional, lattice gate; level, usable, sheltered yard"
-  },
-  {
-   "file": "photos/p_31.jpg",
-   "note": "Detached garage interior: exposed rafters, painted plank walls, concrete floor — raw but functional 1-car + bench space"
-  },
-  {
-   "file": "photos/p_32.jpg",
-   "note": "Backyard from lawn: flagstone + brick, citrus, Dutch door; 2-story NEIGHBOR house overlooks from ~15 ft right"
-  },
-  {
-   "file": "photos/p_33.jpg",
-   "note": "Dutch door charm shot: 4-pane glass, artisan sconce, shiplap; ties entry to covered patio"
-  },
-  {
-   "file": "photos/p_34.jpg",
-   "note": "Flagstone courtyard between wings: outdoor dining, painted chimney, citrus canopy, French doors; sheltered + sunny"
-  },
-  {
-   "file": "photos/p_35.jpg",
-   "note": "Backyard garden: lush tiered beds, flagstone path, palms/yucca; DENSE perimeter vegetation = fire fuel note"
-  },
-  {
-   "file": "photos/p_36.jpg",
-   "note": "Courtyard wider: covered patio w/ sectional, chimney, lawn; towering redwoods + oaks overhead (shade + fuel)"
-  },
-  {
-   "file": "photos/p_37.jpg",
-   "note": "Yard across lawn toward garage + covered breezeway; big level lawn; spigot; mature trees"
-  },
-  {
-   "file": "photos/p_38.jpg",
-   "note": "Courtyard reverse midday: brick path, covered porch, tall redwoods; neighbor roof peeks over wing"
-  },
-  {
-   "file": "photos/p_39.jpg",
-   "note": "VIEW: Bay Bridge tower + water at dusk through trees from yard level; wires in frame — filtered but REAL"
-  },
-  {
-   "file": "photos/p_40.jpg",
-   "note": "Sunset over bay w/ San Mateo hills; power line crosses frame; likely drone-elevated; confirms W exposure"
-  },
-  {
-   "file": "photos/p_41.jpg",
-   "note": "Dusk courtyard: primary bedroom slider opens directly onto flagstone dining court; excellent flow"
-  },
-  {
-   "file": "photos/p_42.jpg",
-   "note": "Dusk backyard: lawn, brick path, tall cypress; aged/leaning wood fence; lush privacy screen (also fuel)"
-  },
-  {
-   "file": "photos/p_43.jpg",
-   "note": "Courtyard dusk wide: chimney, citrus, outbuilding wing; neighbor 2-story above back fence"
-  },
-  {
-   "file": "photos/p_44.jpg",
-   "note": "Courtyard detail: tile-edged step, Dutch door, lanterns, planters; Spanish-cottage character at dusk"
-  },
-  {
-   "file": "photos/p_45.jpg",
-   "note": "Courtyard reverse: garage access door w/ pet door, Adirondack, shingle eaves; tidy"
-  },
-  {
-   "file": "photos/p_46.jpg",
-   "note": "Dusk aerial front: house nestled under big oaks, hillside fuel all around, close neighbors both sides"
-  },
-  {
-   "file": "photos/p_47.jpg",
-   "note": "Dusk aerial closer: ~7 roof skylights, front brick court, neighbor deck ~15 ft right; trees overhang roof"
-  }
- ],
- "crosschecks": [
-  {
-   "check": "Marketing claims vs photos",
-   "result": "Mostly honest. 'Filtered Bay views' verified (p_09, p_39) though drone panoramas (p_04, p_40) oversell; 'light-filled' verified (skylights p_14, sun patches p_12); 'walk-in closet' verified (p_22); 'level garden' verified (p_35-p_37); 'nearby Railroad Trail' plausible per map. Note: 'Digitally Altered Image' stamps (p_01, p_06, p_07) = virtual staging."
-  },
-  {
-   "check": "Geocoder vs page coords",
-   "result": "Agreement: page (37.8266814, -122.2046901) vs Census geocoder (37.8267614, -122.2049171) = 72 ft apart, under 150 ft threshold"
-  },
-  {
-   "check": "Elevation / micro-market",
-   "result": "882 ft (USGS EPQS). Same Montclair bowl as reference comp 6401 Snake Rd (997.8 ft), 0.48 mi NW — slightly lower/gentler terrain"
-  },
-  {
-   "check": "Orientation",
-   "result": "W-WNW view side corroborated by dusk window shot (p_09), yard-level Bay Bridge shot (p_39), drone horizon (p_03) and sunset panoramas; rear courtyard morning-lit — inference"
-  },
-  {
-   "check": "FHSZ / insurance",
-   "result": "94611 Montclair = Very High FHSZ (presumptive), in/near 1991 firestorm footprint — insurance availability flag raised; verify quotes + defensible-space status"
-  },
-  {
-   "check": "Amenity claims",
-   "result": "Railroad Trail → Montclair Village: plausible (Rincon Dr sits ~0.5 mi above the village); hot tub in courtyard (p_20) is a real on-property amenity; no village/park drone-shot aggrandizement found"
-  },
-  {
-   "check": "Bed/bath count legitimacy",
-   "result": "Real 2nd bedroom: corner windows, built-in wardrobe, full door (p_24, p_25) — no office fudge. Single full bath confirmed (p_26-p_28)"
-  }
- ]
+  "positives": [
+    "Genuine W-facing Bay Bridge/bay sliver visible from the living-room picture window at sunset (p_09, p_39) — verified at house level, not just by drone",
+    "Exceptional outdoor package for the hills: sheltered flagstone courtyard, covered patio, level lawn, mature garden (p_30-p_38)",
+    "Renovated kitchen w/ twin skylights, quartz, new SS appliances (p_14-p_17) — no work needed",
+    "True cedar-lined walk-in closet + primary slider to private courtyard w/ hot tub (p_20-p_22)",
+    "Single-level, level-in living; only 4 DOM; $751/sf is in-line for updated Montclair cottages",
+    "Detached garage + large driveway (3 total spaces) — rare parking utility on a hills street",
+    "~0.5 mi southeast of 6401 Snake Rd (the 4.2 reference comp) at 116 ft lower elevation — same micro-market feel, friendlier terrain"
+  ],
+  "orientationInference": "Front/view side faces W–WNW toward the bay (sunset shots p_03, p_09, p_39, p_40; SF/Bay Bridge landmarks sit due W); living room + front patio get afternoon/evening sun, rear courtyard reads morning-lit (p_35) — INFERENCE from dusk light + drone horizon + map",
+  "photos": [
+    {
+      "file": "photos/p_01.jpg",
+      "note": "Front dusk exterior: 1938 white lap-siding cottage, comp-shingle roof w/ ~6 skylights, brick patio; DIGITALLY ALTERED (staged); oaks over roof"
+    },
+    {
+      "file": "photos/p_02.jpg",
+      "note": "Daylight aerial front: pitched shingle roof + skylights; big oaks touching/overhanging structure; overhead wire at cypress; uphill neighbors"
+    },
+    {
+      "file": "photos/p_03.jpg",
+      "note": "Drone dusk over cul-de-sac: bay glow at drone altitude only; 2-story neighbor ~15-20 ft; dry slope vegetation beside lot"
+    },
+    {
+      "file": "photos/p_04.jpg",
+      "note": "Telephoto/drone sunset panorama: SF skyline, Bay Bridge, port cranes — altitude shot, NOT the living-level view"
+    },
+    {
+      "file": "photos/p_05.jpg",
+      "note": "Covered entry porch, paneled door, large picture window w/ transom; bright, clean approach"
+    },
+    {
+      "file": "photos/p_06.jpg",
+      "note": "Entry/living: hardwood, white beamed ceiling, teal-tile fireplace, French doors to garden, Dutch door; digitally staged"
+    },
+    {
+      "file": "photos/p_07.jpg",
+      "note": "Living wide: open to dining, brick hearth, French doors to green courtyard, sun patches; staged (altered stamp)"
+    },
+    {
+      "file": "photos/p_08.jpg",
+      "note": "Living reverse toward picture window: filtered bay glimpse through divided-light transom; kitchen beyond dining"
+    },
+    {
+      "file": "photos/p_09.jpg",
+      "note": "KEY: dusk sliver-bay sunset through living picture window — lattice tower + power line cut across the view line"
+    },
+    {
+      "file": "photos/p_10.jpg",
+      "note": "Fireplace close-up: artisan teal tile w/ tree motifs, gas insert, terra-cotta hearth, vertical beadboard — character"
+    },
+    {
+      "file": "photos/p_11.jpg",
+      "note": "Living wide reverse (daylight): picture window view dominated by lattice tower + neighbor house; bright interior"
+    },
+    {
+      "file": "photos/p_12.jpg",
+      "note": "Dining: corner multi-pane windows, greenery, bench table; strong daylight; kitchen visible at left"
+    },
+    {
+      "file": "photos/p_13.jpg",
+      "note": "Dining→kitchen sightline: two-tone cabinets, refreshed pass-through; sun patches on hardwood"
+    },
+    {
+      "file": "photos/p_14.jpg",
+      "note": "Galley kitchen w/ TWO skylights: quartz, two-tone shaker, hex-floral tile, new SS appliances, window over sink"
+    },
+    {
+      "file": "photos/p_15.jpg",
+      "note": "Sink run: green shaker lowers, undermount sink, gooseneck faucet; window into tree canopy (no view, pleasant)"
+    },
+    {
+      "file": "photos/p_16.jpg",
+      "note": "Sink detail: white penny-hex tile w/ flower inlays; Frigidaire dishwasher (mid-tier); quartz counters"
+    },
+    {
+      "file": "photos/p_17.jpg",
+      "note": "Range detail: SS gas range + vented hood, floral hex backsplash; staged; renovation quality semi-custom"
+    },
+    {
+      "file": "photos/p_18.jpg",
+      "note": "Kitchen wide reverse: skylight glow, long sightline to dining/picture window; cohesive reno, hardwood throughout"
+    },
+    {
+      "file": "photos/p_19.jpg",
+      "note": "Primary bedroom: queen, louvered WIC doors, recessed + drum lights; window hidden by hanging — relies on lamp light"
+    },
+    {
+      "file": "photos/p_20.jpg",
+      "note": "Primary reverse: louvered-shutter glass doors open to private courtyard w/ hot tub visible; hardwood"
+    },
+    {
+      "file": "photos/p_21.jpg",
+      "note": "Primary third angle: sliders to courtyard + citrus tree; direct indoor-outdoor link; evening light"
+    },
+    {
+      "file": "photos/p_22.jpg",
+      "note": "Walk-in closet: cedar-lined walls, dual rods, built-ins — marketing 'walk-in closet' VERIFIED"
+    },
+    {
+      "file": "photos/p_23.jpg",
+      "note": "Hall: floor-to-ceiling louvered built-in storage; sightlines to emerald-tile bath + bedroom 2"
+    },
+    {
+      "file": "photos/p_24.jpg",
+      "note": "Bedroom 2: corner multi-pane windows, decent daylight; view is neighbor's 2-story wall ~12-15 ft away; REAL bedroom"
+    },
+    {
+      "file": "photos/p_25.jpg",
+      "note": "Bedroom 2 reverse: floor-to-ceiling built-in wardrobe wall, desk niche, hardwood; clean"
+    },
+    {
+      "file": "photos/p_26.jpg",
+      "note": "Bath: walk-in shower, emerald glazed tile, tiled bench, glass-block window, wood vanity, terracotta floor"
+    },
+    {
+      "file": "photos/p_27.jpg",
+      "note": "Shower detail: arched niche, glass block, chrome fixtures, bench — above-average tile work"
+    },
+    {
+      "file": "photos/p_28.jpg",
+      "note": "Vanity/toilet zone: wood vanity, framed mirror, terracotta floor; hall w/ louvered storage beyond"
+    },
+    {
+      "file": "photos/p_29.jpg",
+      "note": "Laundry: LG front-loads, ceiling-height cabinets, folding counter, window w/ green view — genuine laundry room"
+    },
+    {
+      "file": "photos/p_30.jpg",
+      "note": "Covered rear patio + lawn: brick pavers, outdoor sectional, lattice gate; level, usable, sheltered yard"
+    },
+    {
+      "file": "photos/p_31.jpg",
+      "note": "Detached garage interior: exposed rafters, painted plank walls, concrete floor — raw but functional 1-car + bench space"
+    },
+    {
+      "file": "photos/p_32.jpg",
+      "note": "Backyard from lawn: flagstone + brick, citrus, Dutch door; 2-story NEIGHBOR house overlooks from ~15 ft right"
+    },
+    {
+      "file": "photos/p_33.jpg",
+      "note": "Dutch door charm shot: 4-pane glass, artisan sconce, shiplap; ties entry to covered patio"
+    },
+    {
+      "file": "photos/p_34.jpg",
+      "note": "Flagstone courtyard between wings: outdoor dining, painted chimney, citrus canopy, French doors; sheltered + sunny"
+    },
+    {
+      "file": "photos/p_35.jpg",
+      "note": "Backyard garden: lush tiered beds, flagstone path, palms/yucca; DENSE perimeter vegetation = fire fuel note"
+    },
+    {
+      "file": "photos/p_36.jpg",
+      "note": "Courtyard wider: covered patio w/ sectional, chimney, lawn; towering redwoods + oaks overhead (shade + fuel)"
+    },
+    {
+      "file": "photos/p_37.jpg",
+      "note": "Yard across lawn toward garage + covered breezeway; big level lawn; spigot; mature trees"
+    },
+    {
+      "file": "photos/p_38.jpg",
+      "note": "Courtyard reverse midday: brick path, covered porch, tall redwoods; neighbor roof peeks over wing"
+    },
+    {
+      "file": "photos/p_39.jpg",
+      "note": "VIEW: Bay Bridge tower + water at dusk through trees from yard level; wires in frame — filtered but REAL"
+    },
+    {
+      "file": "photos/p_40.jpg",
+      "note": "Sunset over bay w/ San Mateo hills; power line crosses frame; likely drone-elevated; confirms W exposure"
+    },
+    {
+      "file": "photos/p_41.jpg",
+      "note": "Dusk courtyard: primary bedroom slider opens directly onto flagstone dining court; excellent flow"
+    },
+    {
+      "file": "photos/p_42.jpg",
+      "note": "Dusk backyard: lawn, brick path, tall cypress; aged/leaning wood fence; lush privacy screen (also fuel)"
+    },
+    {
+      "file": "photos/p_43.jpg",
+      "note": "Courtyard dusk wide: chimney, citrus, outbuilding wing; neighbor 2-story above back fence"
+    },
+    {
+      "file": "photos/p_44.jpg",
+      "note": "Courtyard detail: tile-edged step, Dutch door, lanterns, planters; Spanish-cottage character at dusk"
+    },
+    {
+      "file": "photos/p_45.jpg",
+      "note": "Courtyard reverse: garage access door w/ pet door, Adirondack, shingle eaves; tidy"
+    },
+    {
+      "file": "photos/p_46.jpg",
+      "note": "Dusk aerial front: house nestled under big oaks, hillside fuel all around, close neighbors both sides"
+    },
+    {
+      "file": "photos/p_47.jpg",
+      "note": "Dusk aerial closer: ~7 roof skylights, front brick court, neighbor deck ~15 ft right; trees overhang roof"
+    }
+  ],
+  "crosschecks": [
+    {
+      "check": "Marketing claims vs photos",
+      "result": "Mostly honest. 'Filtered Bay views' verified (p_09, p_39) though drone panoramas (p_04, p_40) oversell; 'light-filled' verified (skylights p_14, sun patches p_12); 'walk-in closet' verified (p_22); 'level garden' verified (p_35-p_37); 'nearby Railroad Trail' plausible per map. Note: 'Digitally Altered Image' stamps (p_01, p_06, p_07) = virtual staging."
+    },
+    {
+      "check": "Geocoder vs page coords",
+      "result": "Agreement: page (37.8266814, -122.2046901) vs Census geocoder (37.8267614, -122.2049171) = 72 ft apart, under 150 ft threshold"
+    },
+    {
+      "check": "Elevation / micro-market",
+      "result": "882 ft (USGS EPQS). Same Montclair bowl as reference comp 6401 Snake Rd (997.8 ft), 0.48 mi NW — slightly lower/gentler terrain"
+    },
+    {
+      "check": "Orientation",
+      "result": "W-WNW view side corroborated by dusk window shot (p_09), yard-level Bay Bridge shot (p_39), drone horizon (p_03) and sunset panoramas; rear courtyard morning-lit — inference"
+    },
+    {
+      "check": "FHSZ / insurance",
+      "result": "94611 Montclair = Very High FHSZ (presumptive), in/near 1991 firestorm footprint — insurance availability flag raised; verify quotes + defensible-space status"
+    },
+    {
+      "check": "Amenity claims",
+      "result": "Railroad Trail → Montclair Village: plausible (Rincon Dr sits ~0.5 mi above the village); hot tub in courtyard (p_20) is a real on-property amenity; no village/park drone-shot aggrandizement found"
+    },
+    {
+      "check": "Bed/bath count legitimacy",
+      "result": "Real 2nd bedroom: corner windows, built-in wardrobe, full door (p_24, p_25) — no office fudge. Single full bath confirmed (p_26-p_28)"
+    }
+  ]
 }

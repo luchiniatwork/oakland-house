@@ -11,3 +11,5 @@
 | Bed/bath count legitimacy | **Real 3BR/2BA.** Measured floorplan (p_51): top level = primary 14'x17' + bedroom 11'x13' + bedroom 10'x16' + baths 9'x5' + 13'x5' + laundry 7'x10'. No office fudge. JSON-LD `numberOfRooms: "3"` = bedrooms; INITIAL_DATA `legalRoomCount: 5` = total rooms — counting convention difference, not a data conflict. |
 
 **Extraction cross-validation:** JSON-LD and `window.__INITIAL_DATA__` agree on price ($988,000), sqft (1,547), baths (2). Beds from INITIAL_DATA (`size.bedrooms: 3`) + floorplan; JSON-LD omits beds. No field conflicts required JSON-LD precedence.
+
+**Status re-check 2026-10-30:** Still Active, 21 DOM, no price changes (MLS #41150850). New fact: **this is a flip** — current seller closed 7/14/2026 at $770,000 (MLSListings #EB41134494) and is asking $988,000, +28% over the July purchase, ~3.5 months later.

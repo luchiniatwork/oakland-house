@@ -1,317 +1,317 @@
 {
- "schemaVersion": 1,
- "slug": "5924-balboa",
- "source": {
-  "url": "https://www.compass.com/homedetails/5924-Balboa-Dr-Oakland-CA-94611/1QNCEQ_pid/",
-  "mirrorOf": null,
-  "fetchedAt": "2026-10-28T04:25:00Z"
- },
- "listing": {
-  "address": "5924 Balboa Dr, Oakland, CA 94611",
-  "price": 699000,
-  "beds": 2,
-  "baths": 2,
-  "sqft": 923,
-  "pricePerSqft": 757,
-  "lotAc": 0.22,
-  "dom": 48,
-  "status": "Active",
-  "fhsz": "Very High FHSZ (presumptive) — 94611 Montclair, inside 1991 Oakland firestorm footprint; verify on CAL FIRE map; insurance-availability flag applies",
-  "coords": [
-   37.8310157,
-   -122.2005893
+  "schemaVersion": 1,
+  "slug": "5924-balboa",
+  "source": {
+    "url": "https://www.compass.com/homedetails/5924-Balboa-Dr-Oakland-CA-94611/1QNCEQ_pid/",
+    "mirrorOf": null,
+    "fetchedAt": "2026-10-30T23:40:00Z"
+  },
+  "listing": {
+    "address": "5924 Balboa Dr, Oakland, CA 94611",
+    "price": 699000,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 923,
+    "pricePerSqft": 757,
+    "lotAc": 0.22,
+    "dom": 50,
+    "status": "Active",
+    "fhsz": "Very High FHSZ (presumptive) — 94611 Montclair, inside 1991 Oakland firestorm footprint; verify on CAL FIRE map; insurance-availability flag applies",
+    "coords": [
+      37.8310157,
+      -122.2005893
+    ],
+    "elevationFt": 984.6,
+    "style": "Ranch (1959 single-level; MLS 'Ranch', feed also tags 'Contemporary')",
+    "description": "A beautifully remodeled retreat in the heart of Montclair Hills. Surrounded by lush greenery, this inviting single-level home offers the perfect blend of privacy, modern updates, and effortless Oakland living—just minutes from Montclair Village, neighborhood cafés, shops, and trails. Step inside to a light-filled, thoughtfully designed interior where contemporary updates create a tranquil sense of home. The remodeled kitchen is the centerpiece, featuring beautiful white oak cabinetry, gorgeous tile backsplash, quartz countertops, and a 5-burner gas range. Two renovated bathrooms - one with incredible views from the shower! , dual-pane windows, stone composite flooring, a wood-burning fireplace, and in-home laundry add to the comfort and functionality. Outside, the house truly comes alive. A beautifully landscaped front courtyard offers a private space to gather, dine, or simply enjoy the peaceful surroundings. The rear deck feels tucked into the treetops and provides an idyllic spot for morning coffee or evening entertaining. A dedicated exterior storage closet beneath the home makes room for all the extras. Major systems—including the electrical, plumbing, and roof—have already been updated (2023), giving the next owner the opportunity to move in and enjoy without taking on a major renovation. Add a parking pad on the street level that allows for at least two car parking and the ease of single-level living, and you have a rare Montclair Hills offering that checks all the boxes. Fresh to market and newly positioned for its next owner—come see why this special home is worth a closer look."
+  },
+  "scores": {
+    "view": {
+      "score": 3,
+      "note": "Living-level view = treetop canyon + forested ridge from dining slider, kitchen sink window, deck (p_13, p_19, p_31, p_35); no bay/water view at living level — SF/bay only in drone shots (p_41–44); bedrooms face upslope rock or canopy (p_21–23, p_27–28)."
+    },
+    "natural_light": {
+      "score": 3,
+      "note": "View-side (kitchen/dining) bright via slider + sink window (p_13, p_15, p_19); living room relies on one window + recessed cans (p_07–12); bedrooms moderate, primary faces rock wall (p_21–23); dense canopy shades whole house (p_34, p_37)."
+    },
+    "character": {
+      "score": 2.5,
+      "note": "1959 ranch shell with painted white brick chimney + fireplace (p_01, p_05, p_07); interior is contemporary flip-style — no post-and-beam, wood ceilings, or glazed gables surviving (p_07–12)."
+    },
+    "kitchen": {
+      "score": 4,
+      "note": "White oak lowers + white uppers w/ lit glass corners, quartz, handmade-look tile backsplash, 5-burner gas + chimney hood, sink window on canyon view (p_14–19); LG WashTower + fridge crowd the kitchen entry zone (p_17–18)."
+    },
+    "privacy": {
+      "score": 3.5,
+      "note": "Canyon deck screened by tall canopy (p_31, p_34); bedrooms face own slope/at-grade rock (p_21–23); but neighbor house ~20–30 ft on street side and uphill structure close (p_04, p_36, p_44); homes visible across canyon (p_35)."
+    },
+    "layout_flow": {
+      "score": 3.5,
+      "note": "Efficient single-level 2/2; living + kitchen/dining split, beds off short hall (p_45–46); laundry stacked in kitchen and second bath door sits in primary zone — workable but not seamless (p_17–18, p_24)."
+    },
+    "primary_suite": {
+      "score": 3,
+      "note": "Fits king + nightstands (p_21–24); small WIC (3'4x4'8, p_46) + slider closet (p_25); shower bath semi-en-suite (p_24, p_26); window faces close-up rock/retaining wall — private but viewless (p_21–23)."
+    },
+    "outdoor_space": {
+      "score": 3.5,
+      "note": "Treetop rear deck w/ canyon view + dappled stone courtyard w/ rock terraces (p_04, p_31–34); two genuinely usable zones; balance of 0.22 ac is steep wooded slope (p_36)."
+    },
+    "condition": {
+      "score": 4,
+      "note": "2023 roof/electrical/plumbing per marketing — new comp roof visible (p_37, p_44); dual-pane windows, renovated baths + kitchen, consistent flip-plus finish (p_16, p_26, p_30); permits not verified."
+    },
+    "lot_usability": {
+      "score": 2,
+      "note": "0.22 ac but hillside: flat usable = courtyard + deck only; remainder is steep eucalyptus/pine slope falling away below stilted deck (p_04, p_36, p_41–44); street-level parking pads, no garage (p_39–40)."
+    }
+  },
+  "weightedTotal": 3.2,
+  "verdict": "A turnkey 2-bed single-level retreat that trades size, a garage, and fire-safety margin for finish and price: strong oak/quartz kitchen and two renovated baths open to a treetop canyon deck, while the whole house sits deep in eucalyptus canopy in the Very High fire zone with a high-voltage transmission corridor just downslope. At $265k below its Feb-2023 purchase ($962.5k), it prices like an insurance/foundation haircut — the bet for a solo buyer is that plug-and-play Montclair at $699k outweighs FAIR-Plan premiums, defensible-space work, and street-pad parking.",
+  "flags": [
+    "🔥 Very High FHSZ (presumptive) — 94611 Montclair hills, inside 1991 firestorm footprint; insurance availability/cost flag — expect CA FAIR Plan territory; get quotes before offering",
+    "⚡ High-voltage transmission line corridor with lattice towers immediately downslope of lot (p_41–44) — verify easement/setback and EMF comfort on site",
+    "🌲 Dense eucalyptus + conifer canopy overhanging roof and deck, bark/needle litter at foundation (p_01, p_34, p_37–38) — ladder fuel; defensible-space work needed",
+    "🏗️ Stilt/post-and-pier downhill construction with tall braced posts under cantilevered wood deck (p_36–37) — wood deck + siding in fire country; inspect post/retrofit quality",
+    "🚗 No garage, no driveway — parking is reserved curbside pads on Balboa Dr (p_39–40)",
+    "🧻 Sqft discrepancy: MLS 923 vs floor-plan measurement 890 sf (p_46) — verify; $/sf moves from $757 to $785",
+    "📉 Priced $263,500 below its own Feb-2023 sale ($962,500) after multiple list/withdraw cycles — understand why (fire zone carrying costs? foundation? motivation)",
+    "🧺 Laundry stack stands in the kitchen entry zone; no dedicated laundry room (p_14, p_17–18)"
   ],
-  "elevationFt": 984.6,
-  "style": "Ranch (1959 single-level; MLS 'Ranch', feed also tags 'Contemporary')",
-  "description": "A beautifully remodeled retreat in the heart of Montclair Hills. Surrounded by lush greenery, this inviting single-level home offers the perfect blend of privacy, modern updates, and effortless Oakland living—just minutes from Montclair Village, neighborhood cafés, shops, and trails. Step inside to a light-filled, thoughtfully designed interior where contemporary updates create a tranquil sense of home. The remodeled kitchen is the centerpiece, featuring beautiful white oak cabinetry, gorgeous tile backsplash, quartz countertops, and a 5-burner gas range. Two renovated bathrooms - one with incredible views from the shower! , dual-pane windows, stone composite flooring, a wood-burning fireplace, and in-home laundry add to the comfort and functionality. Outside, the house truly comes alive. A beautifully landscaped front courtyard offers a private space to gather, dine, or simply enjoy the peaceful surroundings. The rear deck feels tucked into the treetops and provides an idyllic spot for morning coffee or evening entertaining. A dedicated exterior storage closet beneath the home makes room for all the extras. Major systems—including the electrical, plumbing, and roof—have already been updated (2023), giving the next owner the opportunity to move in and enjoy without taking on a major renovation. Add a parking pad on the street level that allows for at least two car parking and the ease of single-level living, and you have a rare Montclair Hills offering that checks all the boxes. Fresh to market and newly positioned for its next owner—come see why this special home is worth a closer look."
- },
- "scores": {
-  "view": {
-   "score": 3,
-   "note": "Living-level view = treetop canyon + forested ridge from dining slider, kitchen sink window, deck (p_13, p_19, p_31, p_35); no bay/water view at living level — SF/bay only in drone shots (p_41–44); bedrooms face upslope rock or canopy (p_21–23, p_27–28)."
-  },
-  "natural_light": {
-   "score": 3,
-   "note": "View-side (kitchen/dining) bright via slider + sink window (p_13, p_15, p_19); living room relies on one window + recessed cans (p_07–12); bedrooms moderate, primary faces rock wall (p_21–23); dense canopy shades whole house (p_34, p_37)."
-  },
-  "character": {
-   "score": 2.5,
-   "note": "1959 ranch shell with painted white brick chimney + fireplace (p_01, p_05, p_07); interior is contemporary flip-style — no post-and-beam, wood ceilings, or glazed gables surviving (p_07–12)."
-  },
-  "kitchen": {
-   "score": 4,
-   "note": "White oak lowers + white uppers w/ lit glass corners, quartz, handmade-look tile backsplash, 5-burner gas + chimney hood, sink window on canyon view (p_14–19); LG WashTower + fridge crowd the kitchen entry zone (p_17–18)."
-  },
-  "privacy": {
-   "score": 3.5,
-   "note": "Canyon deck screened by tall canopy (p_31, p_34); bedrooms face own slope/at-grade rock (p_21–23); but neighbor house ~20–30 ft on street side and uphill structure close (p_04, p_36, p_44); homes visible across canyon (p_35)."
-  },
-  "layout_flow": {
-   "score": 3.5,
-   "note": "Efficient single-level 2/2; living + kitchen/dining split, beds off short hall (p_45–46); laundry stacked in kitchen and second bath door sits in primary zone — workable but not seamless (p_17–18, p_24)."
-  },
-  "primary_suite": {
-   "score": 3,
-   "note": "Fits king + nightstands (p_21–24); small WIC (3'4x4'8, p_46) + slider closet (p_25); shower bath semi-en-suite (p_24, p_26); window faces close-up rock/retaining wall — private but viewless (p_21–23)."
-  },
-  "outdoor_space": {
-   "score": 3.5,
-   "note": "Treetop rear deck w/ canyon view + dappled stone courtyard w/ rock terraces (p_04, p_31–34); two genuinely usable zones; balance of 0.22 ac is steep wooded slope (p_36)."
-  },
-  "condition": {
-   "score": 4,
-   "note": "2023 roof/electrical/plumbing per marketing — new comp roof visible (p_37, p_44); dual-pane windows, renovated baths + kitchen, consistent flip-plus finish (p_16, p_26, p_30); permits not verified."
-  },
-  "lot_usability": {
-   "score": 2,
-   "note": "0.22 ac but hillside: flat usable = courtyard + deck only; remainder is steep eucalyptus/pine slope falling away below stilted deck (p_04, p_36, p_41–44); street-level parking pads, no garage (p_39–40)."
-  }
- },
- "weightedTotal": 3.2,
- "verdict": "A turnkey 2-bed single-level retreat that trades size, a garage, and fire-safety margin for finish and price: strong oak/quartz kitchen and two renovated baths open to a treetop canyon deck, while the whole house sits deep in eucalyptus canopy in the Very High fire zone with a high-voltage transmission corridor just downslope. At $265k below its Feb-2023 purchase ($962.5k), it prices like an insurance/foundation haircut — the bet for a solo buyer is that plug-and-play Montclair at $699k outweighs FAIR-Plan premiums, defensible-space work, and street-pad parking.",
- "flags": [
-  "🔥 Very High FHSZ (presumptive) — 94611 Montclair hills, inside 1991 firestorm footprint; insurance availability/cost flag — expect CA FAIR Plan territory; get quotes before offering",
-  "⚡ High-voltage transmission line corridor with lattice towers immediately downslope of lot (p_41–44) — verify easement/setback and EMF comfort on site",
-  "🌲 Dense eucalyptus + conifer canopy overhanging roof and deck, bark/needle litter at foundation (p_01, p_34, p_37–38) — ladder fuel; defensible-space work needed",
-  "🏗️ Stilt/post-and-pier downhill construction with tall braced posts under cantilevered wood deck (p_36–37) — wood deck + siding in fire country; inspect post/retrofit quality",
-  "🚗 No garage, no driveway — parking is reserved curbside pads on Balboa Dr (p_39–40)",
-  "🧻 Sqft discrepancy: MLS 923 vs floor-plan measurement 890 sf (p_46) — verify; $/sf moves from $757 to $785",
-  "📉 Priced $263,500 below its own Feb-2023 sale ($962,500) after multiple list/withdraw cycles — understand why (fire zone carrying costs? foundation? motivation)",
-  "🧺 Laundry stack stands in the kitchen entry zone; no dedicated laundry room (p_14, p_17–18)"
- ],
- "positives": [
-  "Living-level treetop canyon view from kitchen sink, dining slider and deck (p_13, p_19, p_31) — the daily-use rooms got the view side",
-  "2023 roof, electrical, plumbing per marketing — consistent with new comp roof and clean panels seen in photos (p_37, p_44)",
-  "Pitched composition-shingle roof (no flat roof), modern dual-pane windows, no jalousie windows observed anywhere in 46 photos",
-  "Real 2bd/2ba — floor plan confirms two legitimate bedrooms and two full renovated baths (p_45–46)",
-  "Two usable outdoor zones: canyon-view deck + shaded stone courtyard with rock retaining terraces (p_04, p_31)",
-  "Kitchen quality: white oak cabinetry, quartz, handmade-look tile, 5-burner gas, vented hood (p_14–19)",
-  "Bath 2 has its own window to sky/treetops (p_30) — partial truth to the 'views from the shower' claim",
-  "Single-level living, forced-air gas heat, wood-burning fireplace, smart entry lock (p_05, p_07)"
- ],
- "orientationInference": "View/deck side faces the downhill canyon in the W–SW quadrant: drone frames put downtown Oakland + SF bay bearing beyond the canyon (p_41–43) and dusk shots (p_37–38) catch sunset glow through the same tree line; expect filtered afternoon sun on the deck, shaded interior mornings (inference).",
- "photos": [
-  {
-   "file": "photos/p_01.jpg",
-   "note": "Front, day: single-story stucco, painted white brick chimney, pitched comp roof, wood entry ramp; eucalyptus/pine tower over roof; utility lines at top-left."
-  },
-  {
-   "file": "photos/p_02.jpg",
-   "note": "Same angle at dusk, staged lighting; house set into wooded hillside."
-  },
-  {
-   "file": "photos/p_03.jpg",
-   "note": "Front courtyard side: picture window, stone pavers, wood side deck; dense trees wrap the lot."
-  },
-  {
-   "file": "photos/p_04.jpg",
-   "note": "Stone patio courtyard with stacked rock terraces, dappled shade; neighbor/uphill wood structure visible top-left; usable flat outdoor zone."
-  },
-  {
-   "file": "photos/p_05.jpg",
-   "note": "Entry porch: gray craftsman door + smart lock, taupe stucco, painted brick chimney, clean 2023-look roofline/gutters."
-  },
-  {
-   "file": "photos/p_06.jpg",
-   "note": "Close-up entry: smart deadbolt hardware, fresh stucco/trim — renovated finish tier."
-  },
-  {
-   "file": "photos/p_07.jpg",
-   "note": "Living room: painted gray brick wood-burning fireplace, SPC-look floors, recessed cans; single modest window to courtyard; flat ceiling."
-  },
-  {
-   "file": "photos/p_08.jpg",
-   "note": "Living room reverse: lamp-lit; through front windows a giant eucalyptus trunk sits immediately outside."
-  },
-  {
-   "file": "photos/p_09.jpg",
-   "note": "Living room toward entry: fireplace + window to deck railing and tree trunk; natural light limited on this side."
-  },
-  {
-   "file": "photos/p_10.jpg",
-   "note": "Sofa wall has no window; glimpse to dining nook chair by view window — confirms light gradient from view side inward."
-  },
-  {
-   "file": "photos/p_11.jpg",
-   "note": "Wide living room: one window serving the room; white paint + staging boost brightness."
-  },
-  {
-   "file": "photos/p_12.jpg",
-   "note": "Sectional/bench close-up; doorway to hall/bath zone; interior lamps on at midday."
-  },
-  {
-   "file": "photos/p_13.jpg",
-   "note": "Dining nook: 4-top at the view window — treetop canyon + ridgeline visible; the money window; bright daylight."
-  },
-  {
-   "file": "photos/p_14.jpg",
-   "note": "Kitchen: white oak + white uppers, quartz, tile-to-hood backsplash, 5-burner gas, sink window on trees; LG WashTower in kitchen at left."
-  },
-  {
-   "file": "photos/p_15.jpg",
-   "note": "Kitchen wide w/ dining: slider to rear deck with canyon/tree view; indoor-outdoor flow is here, not in living room."
-  },
-  {
-   "file": "photos/p_16.jpg",
-   "note": "Kitchen detail: chimney hood, handmade-look tile to ceiling, lit glass corner uppers, brass pulls; Samsung 5-burner."
-  },
-  {
-   "file": "photos/p_17.jpg",
-   "note": "Kitchen reverse: WashTower + French-door fridge wall; laundry-in-kitchen layout compromise."
-  },
-  {
-   "file": "photos/p_18.jpg",
-   "note": "W/D stack, fridge, freestanding pantry at hall door; clean but tight zone."
-  },
-  {
-   "file": "photos/p_19.jpg",
-   "note": "Sink window frames canyon/ridgeline + deck lounge to right: kitchen sink faces view, not a neighbor wall."
-  },
-  {
-   "file": "photos/p_20.jpg",
-   "note": "Dining from kitchen: table, pantry cabinet, W/D; room reads as eat-in kitchen hub."
-  },
-  {
-   "file": "photos/p_21.jpg",
-   "note": "Primary bedroom: king bed; window faces stone retaining + rock slope at close range — private, viewless, moderate light."
-  },
-  {
-   "file": "photos/p_22.jpg",
-   "note": "Primary window again on rock outcrop ~6–10 ft away; lamp-dependent."
-  },
-  {
-   "file": "photos/p_23.jpg",
-   "note": "Primary wide: fits king + bench + 2 nightstands; flat ceiling, flush-mount + cans."
-  },
-  {
-   "file": "photos/p_24.jpg",
-   "note": "Primary toward bath: open door to renovated full bath — semi-en-suite arrangement."
-  },
-  {
-   "file": "photos/p_25.jpg",
-   "note": "Primary reverse: double sliding closet doors; second door to bath/hall."
-  },
-  {
-   "file": "photos/p_26.jpg",
-   "note": "Bath 1 (primary zone): glass walk-in shower, subway + deco accent tile, brass rain head/fixtures, wood vanity; no exterior window seen."
-  },
-  {
-   "file": "photos/p_27.jpg",
-   "note": "Bedroom 2: queen bed, wide double window on treetops w/ ridge glimpse — best bedroom window in the house."
-  },
-  {
-   "file": "photos/p_28.jpg",
-   "note": "Bedroom 2 from bed: canopy + distant ridge over the window sill; decent morning light."
-  },
-  {
-   "file": "photos/p_29.jpg",
-   "note": "Bedroom 2 reverse: hall door; simple square room."
-  },
-  {
-   "file": "photos/p_30.jpg",
-   "note": "Bath 2: tub/shower w/ cream tile + window to sky/treetops — partial truth to 'views from the shower'; walnut-tone vanity, bidet seat."
-  },
-  {
-   "file": "photos/p_31.jpg",
-   "note": "Rear deck money shot: canyon treetops + forested ridge; big eucalyptus beside deck; neighbor roofs far below. Wood deck + railing."
-  },
-  {
-   "file": "photos/p_32.jpg",
-   "note": "Deck along house: canyon on left, kitchen slider right; tall eucalyptus grove overhanging eaves."
-  },
-  {
-   "file": "photos/p_33.jpg",
-   "note": "Deck reverse: slider into dining/kitchen, bath windows; neighbor's house visible right through trees (~30+ ft)."
-  },
-  {
-   "file": "photos/p_34.jpg",
-   "note": "Deck end: dense canopy over railing — privacy screen but heavy fuel/leaf load."
-  },
-  {
-   "file": "photos/p_35.jpg",
-   "note": "Straight-out view: wooded canyon, scattered homes 100–300 ft across; thin wire crossing mid-frame; no water visible at living level."
-  },
-  {
-   "file": "photos/p_36.jpg",
-   "note": "Drone-canyon side: house sits on posts over slope; cantilevered wood deck; brown neighbor house close uphill-left; steep bare slope below."
-  },
-  {
-   "file": "photos/p_37.jpg",
-   "note": "Dusk canyon side: tall braced timber posts under deck (stilt/pier signal); conifers crowd right wall; sunset glow through trees on left ~ westerly exposure (inference)."
-  },
-  {
-   "file": "photos/p_38.jpg",
-   "note": "Dusk front: ramp entry, giant eucalyptus flanking house, bark/needle litter at foundation — ladder fuel note."
-  },
-  {
-   "file": "photos/p_39.jpg",
-   "note": "Street: horizontal-board fence + 'RESERVED PARKING 5924' sign; curbside parallel pads are the parking; power pole/lines across street."
-  },
-  {
-   "file": "photos/p_40.jpg",
-   "note": "Street pads again: eucalyptus grove opposite; glimpse of hills WNW."
-  },
-  {
-   "file": "photos/p_41.jpg",
-   "note": "Drone: pin on house; HV lattice TRANSMISSION TOWERS in cleared corridor immediately left/downhill; downtown Oakland + SF bay horizon = drone altitude only."
-  },
-  {
-   "file": "photos/p_42.jpg",
-   "note": "Drone wide: transmission corridor bottom-left descending slope; bay/SF at altitude; dense wooded hillside neighborhood."
-  },
-  {
-   "file": "photos/p_43.jpg",
-   "note": "Drone wider: multiple lattice towers in corridor; cleared grass swath = fuel corridor + easement question to verify."
-  },
-  {
-   "file": "photos/p_44.jpg",
-   "note": "Drone overhead: new comp roof; neighbors on street side ~20–30 ft; house wrapped in canopy."
-  },
-  {
-   "file": "photos/p_45.jpg",
-   "note": "Floor plan (no dims): living + kitchen/dining on right, 2 beds + 2 baths + WIC on left, short hall."
-  },
-  {
-   "file": "photos/p_46.jpg",
-   "note": "Floor plan (dims): measured TOTAL 890 sf vs MLS 923 — flag; living 19'2\"x12'2\", primary 14'10\"x10'9\", WIC 3'4\"x4'8\"; both baths confirmed."
-  }
- ],
- "crosschecks": [
-  {
-   "check": "Marketing claims vs photos",
-   "result": "Mostly honest: canyon/treetop setting, renovated kitchen/baths, dual-pane windows, deck 'in the treetops' all confirmed (p_13–19, p_31, p_45). 'Light-filled' is half-true — bright view side, shaded/lamp-lit living + bedrooms (p_07–12). 'Incredible views from the shower' = oversold: bath window shows sky/treetops (p_30). 'Parking pad' = reserved curbside street pads, no driveway/garage (p_39–40). Feed amenity tag 'Waterfront' is flatly false — MLS feed quirk, named here. Drone bay/SF horizons (p_41–44) are altitude-only views the house does not have at living level."
-  },
-  {
-   "check": "Geocoder vs page coords",
-   "result": "FLAG: Census geocoder (37.831417, -122.200771) vs Compass pin (37.8310157, -122.2005893) disagree by ~155 ft — just over the 150 ft threshold; both land on the same Balboa Dr hillside, likely parcel-centroid vs rooftop offset. Recorded canonical = page pin."
-  },
-  {
-   "check": "Elevation / micro-market",
-   "result": "984.6 ft at page coords (EPQS; geocoder coords give 1007.2 ft — consistent slope). Montclair Hills, minutes downhill to Montclair Village; 22% cheaper than reference comp 6401 Snake Rd ($998k, 2bd/2ba, wt 4.2) but smaller (923 vs 1379 sf) and no bay view."
-  },
-  {
-   "check": "Orientation",
-   "result": "Drone (p_41–43) puts the downhill canyon toward the Oakland/SF bay bearing (W–SW); dusk shots (p_37–38) show sunset glow through the same tree line; corroborated: canyon/deck side faces roughly W–SW, afternoon sun filtered by canopy (inference)."
-  },
-  {
-   "check": "FHSZ / insurance",
-   "result": "Very High FHSZ (presumptive) — 94611 Montclair, inside 1991 Oakland firestorm footprint; verify on CAL FIRE viewer. Insurance availability flag raised: expect FAIR Plan + wrap; get quotes before offer; heavy eucalyptus canopy worsens mitigation cost."
-  },
-  {
-   "check": "Amenity claims",
-   "result": "'Minutes from Montclair Village, cafés, shops, trails' — plausible: village ~0.5–0.7 mi downhill along Moraga Ave; Sibley/Huckleberry/Redwood Regional trails are the credited area amenity, not property features. No fabricated onsite amenity found."
-  },
-  {
-   "check": "Bed/bath count legitimacy",
-   "result": "Legitimate: floor plan (p_45–46) shows two true bedrooms (11'2x11'9, 14'10x10'9) each with window + closet, and two full baths. No office/den fudge. Note sqft: measured 890 vs marketed 923."
-  },
-  {
-   "check": "Power lines",
-   "result": "raised flag: lattice high-voltage transmission towers + cleared corridor immediately downhill of lot (p_41–44); also minor utility lines at street (p_01, p_39). Verify easement/setback distance at property."
-  },
-  {
-   "check": "Foundation / structure signals",
-   "result": "Stilt/post-and-pier: tall braced timber posts carry the downhill half + cantilevered deck (p_36–37); buyer is stilt-sensitive — recommend foundation/structural inspection and permit history pull. Roof is pitched comp (no flat roof); no jalousie windows seen; no scaffolding/construction adjacent."
-  }
- ]
+  "positives": [
+    "Living-level treetop canyon view from kitchen sink, dining slider and deck (p_13, p_19, p_31) — the daily-use rooms got the view side",
+    "2023 roof, electrical, plumbing per marketing — consistent with new comp roof and clean panels seen in photos (p_37, p_44)",
+    "Pitched composition-shingle roof (no flat roof), modern dual-pane windows, no jalousie windows observed anywhere in 46 photos",
+    "Real 2bd/2ba — floor plan confirms two legitimate bedrooms and two full renovated baths (p_45–46)",
+    "Two usable outdoor zones: canyon-view deck + shaded stone courtyard with rock retaining terraces (p_04, p_31)",
+    "Kitchen quality: white oak cabinetry, quartz, handmade-look tile, 5-burner gas, vented hood (p_14–19)",
+    "Bath 2 has its own window to sky/treetops (p_30) — partial truth to the 'views from the shower' claim",
+    "Single-level living, forced-air gas heat, wood-burning fireplace, smart entry lock (p_05, p_07)"
+  ],
+  "orientationInference": "View/deck side faces the downhill canyon in the W–SW quadrant: drone frames put downtown Oakland + SF bay bearing beyond the canyon (p_41–43) and dusk shots (p_37–38) catch sunset glow through the same tree line; expect filtered afternoon sun on the deck, shaded interior mornings (inference).",
+  "photos": [
+    {
+      "file": "photos/p_01.jpg",
+      "note": "Front, day: single-story stucco, painted white brick chimney, pitched comp roof, wood entry ramp; eucalyptus/pine tower over roof; utility lines at top-left."
+    },
+    {
+      "file": "photos/p_02.jpg",
+      "note": "Same angle at dusk, staged lighting; house set into wooded hillside."
+    },
+    {
+      "file": "photos/p_03.jpg",
+      "note": "Front courtyard side: picture window, stone pavers, wood side deck; dense trees wrap the lot."
+    },
+    {
+      "file": "photos/p_04.jpg",
+      "note": "Stone patio courtyard with stacked rock terraces, dappled shade; neighbor/uphill wood structure visible top-left; usable flat outdoor zone."
+    },
+    {
+      "file": "photos/p_05.jpg",
+      "note": "Entry porch: gray craftsman door + smart lock, taupe stucco, painted brick chimney, clean 2023-look roofline/gutters."
+    },
+    {
+      "file": "photos/p_06.jpg",
+      "note": "Close-up entry: smart deadbolt hardware, fresh stucco/trim — renovated finish tier."
+    },
+    {
+      "file": "photos/p_07.jpg",
+      "note": "Living room: painted gray brick wood-burning fireplace, SPC-look floors, recessed cans; single modest window to courtyard; flat ceiling."
+    },
+    {
+      "file": "photos/p_08.jpg",
+      "note": "Living room reverse: lamp-lit; through front windows a giant eucalyptus trunk sits immediately outside."
+    },
+    {
+      "file": "photos/p_09.jpg",
+      "note": "Living room toward entry: fireplace + window to deck railing and tree trunk; natural light limited on this side."
+    },
+    {
+      "file": "photos/p_10.jpg",
+      "note": "Sofa wall has no window; glimpse to dining nook chair by view window — confirms light gradient from view side inward."
+    },
+    {
+      "file": "photos/p_11.jpg",
+      "note": "Wide living room: one window serving the room; white paint + staging boost brightness."
+    },
+    {
+      "file": "photos/p_12.jpg",
+      "note": "Sectional/bench close-up; doorway to hall/bath zone; interior lamps on at midday."
+    },
+    {
+      "file": "photos/p_13.jpg",
+      "note": "Dining nook: 4-top at the view window — treetop canyon + ridgeline visible; the money window; bright daylight."
+    },
+    {
+      "file": "photos/p_14.jpg",
+      "note": "Kitchen: white oak + white uppers, quartz, tile-to-hood backsplash, 5-burner gas, sink window on trees; LG WashTower in kitchen at left."
+    },
+    {
+      "file": "photos/p_15.jpg",
+      "note": "Kitchen wide w/ dining: slider to rear deck with canyon/tree view; indoor-outdoor flow is here, not in living room."
+    },
+    {
+      "file": "photos/p_16.jpg",
+      "note": "Kitchen detail: chimney hood, handmade-look tile to ceiling, lit glass corner uppers, brass pulls; Samsung 5-burner."
+    },
+    {
+      "file": "photos/p_17.jpg",
+      "note": "Kitchen reverse: WashTower + French-door fridge wall; laundry-in-kitchen layout compromise."
+    },
+    {
+      "file": "photos/p_18.jpg",
+      "note": "W/D stack, fridge, freestanding pantry at hall door; clean but tight zone."
+    },
+    {
+      "file": "photos/p_19.jpg",
+      "note": "Sink window frames canyon/ridgeline + deck lounge to right: kitchen sink faces view, not a neighbor wall."
+    },
+    {
+      "file": "photos/p_20.jpg",
+      "note": "Dining from kitchen: table, pantry cabinet, W/D; room reads as eat-in kitchen hub."
+    },
+    {
+      "file": "photos/p_21.jpg",
+      "note": "Primary bedroom: king bed; window faces stone retaining + rock slope at close range — private, viewless, moderate light."
+    },
+    {
+      "file": "photos/p_22.jpg",
+      "note": "Primary window again on rock outcrop ~6–10 ft away; lamp-dependent."
+    },
+    {
+      "file": "photos/p_23.jpg",
+      "note": "Primary wide: fits king + bench + 2 nightstands; flat ceiling, flush-mount + cans."
+    },
+    {
+      "file": "photos/p_24.jpg",
+      "note": "Primary toward bath: open door to renovated full bath — semi-en-suite arrangement."
+    },
+    {
+      "file": "photos/p_25.jpg",
+      "note": "Primary reverse: double sliding closet doors; second door to bath/hall."
+    },
+    {
+      "file": "photos/p_26.jpg",
+      "note": "Bath 1 (primary zone): glass walk-in shower, subway + deco accent tile, brass rain head/fixtures, wood vanity; no exterior window seen."
+    },
+    {
+      "file": "photos/p_27.jpg",
+      "note": "Bedroom 2: queen bed, wide double window on treetops w/ ridge glimpse — best bedroom window in the house."
+    },
+    {
+      "file": "photos/p_28.jpg",
+      "note": "Bedroom 2 from bed: canopy + distant ridge over the window sill; decent morning light."
+    },
+    {
+      "file": "photos/p_29.jpg",
+      "note": "Bedroom 2 reverse: hall door; simple square room."
+    },
+    {
+      "file": "photos/p_30.jpg",
+      "note": "Bath 2: tub/shower w/ cream tile + window to sky/treetops — partial truth to 'views from the shower'; walnut-tone vanity, bidet seat."
+    },
+    {
+      "file": "photos/p_31.jpg",
+      "note": "Rear deck money shot: canyon treetops + forested ridge; big eucalyptus beside deck; neighbor roofs far below. Wood deck + railing."
+    },
+    {
+      "file": "photos/p_32.jpg",
+      "note": "Deck along house: canyon on left, kitchen slider right; tall eucalyptus grove overhanging eaves."
+    },
+    {
+      "file": "photos/p_33.jpg",
+      "note": "Deck reverse: slider into dining/kitchen, bath windows; neighbor's house visible right through trees (~30+ ft)."
+    },
+    {
+      "file": "photos/p_34.jpg",
+      "note": "Deck end: dense canopy over railing — privacy screen but heavy fuel/leaf load."
+    },
+    {
+      "file": "photos/p_35.jpg",
+      "note": "Straight-out view: wooded canyon, scattered homes 100–300 ft across; thin wire crossing mid-frame; no water visible at living level."
+    },
+    {
+      "file": "photos/p_36.jpg",
+      "note": "Drone-canyon side: house sits on posts over slope; cantilevered wood deck; brown neighbor house close uphill-left; steep bare slope below."
+    },
+    {
+      "file": "photos/p_37.jpg",
+      "note": "Dusk canyon side: tall braced timber posts under deck (stilt/pier signal); conifers crowd right wall; sunset glow through trees on left ~ westerly exposure (inference)."
+    },
+    {
+      "file": "photos/p_38.jpg",
+      "note": "Dusk front: ramp entry, giant eucalyptus flanking house, bark/needle litter at foundation — ladder fuel note."
+    },
+    {
+      "file": "photos/p_39.jpg",
+      "note": "Street: horizontal-board fence + 'RESERVED PARKING 5924' sign; curbside parallel pads are the parking; power pole/lines across street."
+    },
+    {
+      "file": "photos/p_40.jpg",
+      "note": "Street pads again: eucalyptus grove opposite; glimpse of hills WNW."
+    },
+    {
+      "file": "photos/p_41.jpg",
+      "note": "Drone: pin on house; HV lattice TRANSMISSION TOWERS in cleared corridor immediately left/downhill; downtown Oakland + SF bay horizon = drone altitude only."
+    },
+    {
+      "file": "photos/p_42.jpg",
+      "note": "Drone wide: transmission corridor bottom-left descending slope; bay/SF at altitude; dense wooded hillside neighborhood."
+    },
+    {
+      "file": "photos/p_43.jpg",
+      "note": "Drone wider: multiple lattice towers in corridor; cleared grass swath = fuel corridor + easement question to verify."
+    },
+    {
+      "file": "photos/p_44.jpg",
+      "note": "Drone overhead: new comp roof; neighbors on street side ~20–30 ft; house wrapped in canopy."
+    },
+    {
+      "file": "photos/p_45.jpg",
+      "note": "Floor plan (no dims): living + kitchen/dining on right, 2 beds + 2 baths + WIC on left, short hall."
+    },
+    {
+      "file": "photos/p_46.jpg",
+      "note": "Floor plan (dims): measured TOTAL 890 sf vs MLS 923 — flag; living 19'2\"x12'2\", primary 14'10\"x10'9\", WIC 3'4\"x4'8\"; both baths confirmed."
+    }
+  ],
+  "crosschecks": [
+    {
+      "check": "Marketing claims vs photos",
+      "result": "Mostly honest: canyon/treetop setting, renovated kitchen/baths, dual-pane windows, deck 'in the treetops' all confirmed (p_13–19, p_31, p_45). 'Light-filled' is half-true — bright view side, shaded/lamp-lit living + bedrooms (p_07–12). 'Incredible views from the shower' = oversold: bath window shows sky/treetops (p_30). 'Parking pad' = reserved curbside street pads, no driveway/garage (p_39–40). Feed amenity tag 'Waterfront' is flatly false — MLS feed quirk, named here. Drone bay/SF horizons (p_41–44) are altitude-only views the house does not have at living level."
+    },
+    {
+      "check": "Geocoder vs page coords",
+      "result": "FLAG: Census geocoder (37.831417, -122.200771) vs Compass pin (37.8310157, -122.2005893) disagree by ~155 ft — just over the 150 ft threshold; both land on the same Balboa Dr hillside, likely parcel-centroid vs rooftop offset. Recorded canonical = page pin."
+    },
+    {
+      "check": "Elevation / micro-market",
+      "result": "984.6 ft at page coords (EPQS; geocoder coords give 1007.2 ft — consistent slope). Montclair Hills, minutes downhill to Montclair Village; 22% cheaper than reference comp 6401 Snake Rd ($998k, 2bd/2ba, wt 4.2) but smaller (923 vs 1379 sf) and no bay view."
+    },
+    {
+      "check": "Orientation",
+      "result": "Drone (p_41–43) puts the downhill canyon toward the Oakland/SF bay bearing (W–SW); dusk shots (p_37–38) show sunset glow through the same tree line; corroborated: canyon/deck side faces roughly W–SW, afternoon sun filtered by canopy (inference)."
+    },
+    {
+      "check": "FHSZ / insurance",
+      "result": "Very High FHSZ (presumptive) — 94611 Montclair, inside 1991 Oakland firestorm footprint; verify on CAL FIRE viewer. Insurance availability flag raised: expect FAIR Plan + wrap; get quotes before offer; heavy eucalyptus canopy worsens mitigation cost."
+    },
+    {
+      "check": "Amenity claims",
+      "result": "'Minutes from Montclair Village, cafés, shops, trails' — plausible: village ~0.5–0.7 mi downhill along Moraga Ave; Sibley/Huckleberry/Redwood Regional trails are the credited area amenity, not property features. No fabricated onsite amenity found."
+    },
+    {
+      "check": "Bed/bath count legitimacy",
+      "result": "Legitimate: floor plan (p_45–46) shows two true bedrooms (11'2x11'9, 14'10x10'9) each with window + closet, and two full baths. No office/den fudge. Note sqft: measured 890 vs marketed 923."
+    },
+    {
+      "check": "Power lines",
+      "result": "raised flag: lattice high-voltage transmission towers + cleared corridor immediately downhill of lot (p_41–44); also minor utility lines at street (p_01, p_39). Verify easement/setback distance at property."
+    },
+    {
+      "check": "Foundation / structure signals",
+      "result": "Stilt/post-and-pier: tall braced timber posts carry the downhill half + cantilevered deck (p_36–37); buyer is stilt-sensitive — recommend foundation/structural inspection and permit history pull. Roof is pitched comp (no flat roof); no jalousie windows seen; no scaffolding/construction adjacent."
+    }
+  ]
 }

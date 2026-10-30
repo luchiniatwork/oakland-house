@@ -1,325 +1,325 @@
 {
- "schemaVersion": 1,
- "slug": "33-eastwood",
- "source": {
-  "url": "https://www.compass.com/homedetails/33-Eastwood-Ct-Oakland-CA-94611/1PL3TS_pid/",
-  "mirrorOf": null,
-  "fetchedAt": "2026-10-28T04:25:00Z"
- },
- "listing": {
-  "address": "33 Eastwood Ct, Oakland, CA 94611",
-  "price": 988000,
-  "beds": 3,
-  "baths": 2,
-  "sqft": 1547,
-  "pricePerSqft": 639,
-  "lotAc": 0.14,
-  "dom": 18,
-  "status": "Active",
-  "fhsz": "Very High FHSZ (presumptive)",
-  "coords": [
-   37.835280710823,
-   -122.186532936722
+  "schemaVersion": 1,
+  "slug": "33-eastwood",
+  "source": {
+    "url": "https://www.compass.com/homedetails/33-Eastwood-Ct-Oakland-CA-94611/1PL3TS_pid/",
+    "mirrorOf": null,
+    "fetchedAt": "2026-10-30T23:40:00Z"
+  },
+  "listing": {
+    "address": "33 Eastwood Ct, Oakland, CA 94611",
+    "price": 988000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1547,
+    "pricePerSqft": 639,
+    "lotAc": 0.14,
+    "dom": 21,
+    "status": "Active",
+    "fhsz": "Very High FHSZ (presumptive)",
+    "coords": [
+      37.835280710823,
+      -122.186532936722
+    ],
+    "elevationFt": 1087.0,
+    "style": "1970 Contemporary tri-level (Shepherd Canyon / Montclair)",
+    "description": "Welcome to 33 Eastwood Ct, a beautifully updated sanctuary tucked into a quiet cul de sac in the Montclair Hills. Thoughtfully refreshed throughout, this home features new siding, energy-efficient windows, a tankless water heater, Carrier furnace and new appliances. The main entry opens to bright, open living spaces with gleaming hardwood floors and large windows framing peaceful treetop views. A majestic redwood just outside creates a sense of privacy and a beautiful connection to nature. The newly remodeled kitchen offers a functional layout and access to a cozy, private patio ideal for morning coffee, outdoor dining, or relaxed entertaining. All bedrooms are conveniently situated together upstairs. The spacious primary suite enjoys lovely treetop views, an en-suite bathroom, and generous closet space. Another bedroom features sliding-door access to its own peaceful patio, while laundry on this level makes everyday living easy. With a spacious attached two car garage, this move-in ready home blends modern comfort with a tranquil woodland setting, just minutes from the shops and dining of Montclair Village. Welcome Home!"
+  },
+  "scores": {
+    "view": {
+      "score": 2.5,
+      "note": "Treetop/canyon canopy over neighbor rooftops from the window wall (p_08, p_12, p_25); bay/SF visible only at drone altitude (p_48), not from living level; power lines intrude into the view corridor (p_06, p_07)."
+    },
+    "natural_light": {
+      "score": 3.5,
+      "note": "Vaulted white living room with 4-pane window wall + double sliders is genuinely bright (p_09, p_12, p_15); but sink window faces dense magnolia (p_22), bedrooms are moderate (p_24, p_31), and the 3rd bedroom leans on its patio door for light (p_34); tall redwoods filter sun all day."
+    },
+    "character": {
+      "score": 3.5,
+      "note": "1970 shed-roof tri-level with painted post-and-beam + T&G vaulted ceilings and open rafter tails (p_10, p_11, p_16) — MCM-lite bones; full white paint-out and standard flip finishes mute some of it; dated white spindle railing retained (p_14)."
+    },
+    "kitchen": {
+      "score": 4,
+      "note": "Genuinely new mid-range remodel: rift-oak flat fronts, waterfall quartz peninsula, gas slide-in range, SS French-door fridge, glass display uppers, buffet wall (p_16, p_18, p_19, p_21, p_23) — but no visible hood and no tile backsplash, just painted drywall (p_20, p_22)."
+    },
+    "privacy": {
+      "score": 3,
+      "note": "Quiet cul-de-sac + magnolia/redwood green screens help (p_16, p_43); but hillside neighbors sit ~15–40 ft away (p_07, p_40), and a neighbor's elevated deck overlooks the rear patio (p_38, p_40)."
+    },
+    "layout_flow": {
+      "score": 3.5,
+      "note": "Tri-level per floorplan (p_51): living+deck at entry level, kitchen/dining a half-flight up, 3 bedrooms + laundry on top — good vertical separation and direct deck access from living (p_13); stairs everywhere, no single-level living."
+    },
+    "primary_suite": {
+      "score": 3.5,
+      "note": "Corner primary 14'x17' with two treetop windows (p_29, p_31), ensuite shower bath (p_33), and its own 9'x11' patio per floorplan (p_51); storage is double reach-ins, not the 'generous' walk-in marketing implies (p_31)."
+    },
+    "outdoor_space": {
+      "score": 3,
+      "note": "8'x24' view deck off living (p_06, p_49) + walled 16'x14' rear patio (p_37) + primary patio — three usable pads; but deck boards are weathered, the rear patio is shaded/overlooked (p_38, p_39), and the rest of the lot is steep slope (p_41, p_44)."
+    },
+    "condition": {
+      "score": 3,
+      "note": "New siding/windows/kitchen/baths verified in photos (p_02, p_16-p_22, p_27, p_33); tankless WH / Carrier furnace claimed, not visible; flat/low-slope roof shows aging granular surface + many penetrations (p_43, p_46); mossy block retaining walls and weathered deck framing (p_41, p_49)."
+    },
+    "lot_usability": {
+      "score": 2,
+      "note": "0.14 AC that's mostly steep dry-grass slope rising behind the house (p_44, p_45); usable area is the driveway, deck, and two small patios; rear walkway is narrow with aging retaining walls (p_41, p_42)."
+    }
+  },
+  "weightedTotal": 3.2,
+  "verdict": "A refreshed 1970 tri-level treehouse in Montclair's Shepherd Canyon that trades big views for canopy immersion: you get a bright vaulted post-and-beam living room, three real upstairs bedrooms, a genuinely new kitchen, and two-and-a-half outdoor pads for $639/sf — and in exchange you underwrite Very High fire-zone insurance risk, overhead power lines, an aging flat roof, a post-supported deck, and a steep lot you can barely use. It is a turnkey charmer for a buyer who wants the redwood-wrapped hills under $1M and will do the fire/roof/retaining-wall inspections, not a view property and not a low-risk one.",
+  "flags": [
+    "🔥 Very High FHSZ (presumptive) — 94611 sits in the 1991 Oakland firestorm footprint: bindable insurance must be quoted before any offer; dense canopy overhanging the roof + dry grass slope behind the house (p_44, p_45, p_46)",
+    "⚡ Multiple overhead power lines cross the front of the house and the deck view corridor (p_03, p_04, p_07, p_43)",
+    "🏚️ Flat/low-slope roof with an aged-looking granulated surface and many penetrations (p_43, p_45, p_46) — roof age/certification is a must-ask",
+    "🪵 Elevated front deck on tall wood posts over the garage (p_02, p_43, p_49) and mossy, visibly aged block retaining walls along the rear walkway (p_41, p_42) — structural + retaining inspection warranted",
+    "🌲 Large redwood within ~10 ft of the deck/structure and tree limbs overhanging the low-slope roof (p_43, p_47, p_50) — defensible-space work needed",
+    "🍳 Gas range on the peninsula with no visible hood or tile backsplash (p_19, p_20, p_22) — ventilation short-cut from the remodel",
+    "👁️ Rear patio is directly overlooked by the uphill neighbor's elevated deck (p_38, p_40) — 'private patio' is only half true"
   ],
-  "elevationFt": 1087.0,
-  "style": "1970 Contemporary tri-level (Shepherd Canyon / Montclair)",
-  "description": "Welcome to 33 Eastwood Ct, a beautifully updated sanctuary tucked into a quiet cul de sac in the Montclair Hills. Thoughtfully refreshed throughout, this home features new siding, energy-efficient windows, a tankless water heater, Carrier furnace and new appliances. The main entry opens to bright, open living spaces with gleaming hardwood floors and large windows framing peaceful treetop views. A majestic redwood just outside creates a sense of privacy and a beautiful connection to nature. The newly remodeled kitchen offers a functional layout and access to a cozy, private patio ideal for morning coffee, outdoor dining, or relaxed entertaining. All bedrooms are conveniently situated together upstairs. The spacious primary suite enjoys lovely treetop views, an en-suite bathroom, and generous closet space. Another bedroom features sliding-door access to its own peaceful patio, while laundry on this level makes everyday living easy. With a spacious attached two car garage, this move-in ready home blends modern comfort with a tranquil woodland setting, just minutes from the shops and dining of Montclair Village. Welcome Home!"
- },
- "scores": {
-  "view": {
-   "score": 2.5,
-   "note": "Treetop/canyon canopy over neighbor rooftops from the window wall (p_08, p_12, p_25); bay/SF visible only at drone altitude (p_48), not from living level; power lines intrude into the view corridor (p_06, p_07)."
-  },
-  "natural_light": {
-   "score": 3.5,
-   "note": "Vaulted white living room with 4-pane window wall + double sliders is genuinely bright (p_09, p_12, p_15); but sink window faces dense magnolia (p_22), bedrooms are moderate (p_24, p_31), and the 3rd bedroom leans on its patio door for light (p_34); tall redwoods filter sun all day."
-  },
-  "character": {
-   "score": 3.5,
-   "note": "1970 shed-roof tri-level with painted post-and-beam + T&G vaulted ceilings and open rafter tails (p_10, p_11, p_16) — MCM-lite bones; full white paint-out and standard flip finishes mute some of it; dated white spindle railing retained (p_14)."
-  },
-  "kitchen": {
-   "score": 4,
-   "note": "Genuinely new mid-range remodel: rift-oak flat fronts, waterfall quartz peninsula, gas slide-in range, SS French-door fridge, glass display uppers, buffet wall (p_16, p_18, p_19, p_21, p_23) — but no visible hood and no tile backsplash, just painted drywall (p_20, p_22)."
-  },
-  "privacy": {
-   "score": 3,
-   "note": "Quiet cul-de-sac + magnolia/redwood green screens help (p_16, p_43); but hillside neighbors sit ~15–40 ft away (p_07, p_40), and a neighbor's elevated deck overlooks the rear patio (p_38, p_40)."
-  },
-  "layout_flow": {
-   "score": 3.5,
-   "note": "Tri-level per floorplan (p_51): living+deck at entry level, kitchen/dining a half-flight up, 3 bedrooms + laundry on top — good vertical separation and direct deck access from living (p_13); stairs everywhere, no single-level living."
-  },
-  "primary_suite": {
-   "score": 3.5,
-   "note": "Corner primary 14'x17' with two treetop windows (p_29, p_31), ensuite shower bath (p_33), and its own 9'x11' patio per floorplan (p_51); storage is double reach-ins, not the 'generous' walk-in marketing implies (p_31)."
-  },
-  "outdoor_space": {
-   "score": 3,
-   "note": "8'x24' view deck off living (p_06, p_49) + walled 16'x14' rear patio (p_37) + primary patio — three usable pads; but deck boards are weathered, the rear patio is shaded/overlooked (p_38, p_39), and the rest of the lot is steep slope (p_41, p_44)."
-  },
-  "condition": {
-   "score": 3,
-   "note": "New siding/windows/kitchen/baths verified in photos (p_02, p_16-p_22, p_27, p_33); tankless WH / Carrier furnace claimed, not visible; flat/low-slope roof shows aging granular surface + many penetrations (p_43, p_46); mossy block retaining walls and weathered deck framing (p_41, p_49)."
-  },
-  "lot_usability": {
-   "score": 2,
-   "note": "0.14 AC that's mostly steep dry-grass slope rising behind the house (p_44, p_45); usable area is the driveway, deck, and two small patios; rear walkway is narrow with aging retaining walls (p_41, p_42)."
-  }
- },
- "weightedTotal": 3.2,
- "verdict": "A refreshed 1970 tri-level treehouse in Montclair's Shepherd Canyon that trades big views for canopy immersion: you get a bright vaulted post-and-beam living room, three real upstairs bedrooms, a genuinely new kitchen, and two-and-a-half outdoor pads for $639/sf — and in exchange you underwrite Very High fire-zone insurance risk, overhead power lines, an aging flat roof, a post-supported deck, and a steep lot you can barely use. It is a turnkey charmer for a buyer who wants the redwood-wrapped hills under $1M and will do the fire/roof/retaining-wall inspections, not a view property and not a low-risk one.",
- "flags": [
-  "🔥 Very High FHSZ (presumptive) — 94611 sits in the 1991 Oakland firestorm footprint: bindable insurance must be quoted before any offer; dense canopy overhanging the roof + dry grass slope behind the house (p_44, p_45, p_46)",
-  "⚡ Multiple overhead power lines cross the front of the house and the deck view corridor (p_03, p_04, p_07, p_43)",
-  "🏚️ Flat/low-slope roof with an aged-looking granulated surface and many penetrations (p_43, p_45, p_46) — roof age/certification is a must-ask",
-  "🪵 Elevated front deck on tall wood posts over the garage (p_02, p_43, p_49) and mossy, visibly aged block retaining walls along the rear walkway (p_41, p_42) — structural + retaining inspection warranted",
-  "🌲 Large redwood within ~10 ft of the deck/structure and tree limbs overhanging the low-slope roof (p_43, p_47, p_50) — defensible-space work needed",
-  "🍳 Gas range on the peninsula with no visible hood or tile backsplash (p_19, p_20, p_22) — ventilation short-cut from the remodel",
-  "👁️ Rear patio is directly overlooked by the uphill neighbor's elevated deck (p_38, p_40) — 'private patio' is only half true"
- ],
- "positives": [
-  "Bright vaulted post-and-beam living room with a true window wall and double sliders to an 8x24 view deck (p_09, p_11, p_13, p_15)",
-  "Legitimate 3-bed/2-bath top floor per the measured floorplan — primary 14x17 w/ ensuite + private patio, no 'office fudge' (p_51)",
-  "Genuinely new kitchen and both baths; new siding and energy-efficient windows visible in photos (p_16-p_22, p_27, p_33, p_02)",
-  "Quiet cul-de-sac at ~1,090 ft elevation in Shepherd Canyon/Montclair; attached 2-car garage; minutes to Montclair Village (p_47, p_51)",
-  "Treetop views from living room and both front bedrooms are real, not drone-manufactured (p_08, p_12, p_25, p_32)"
- ],
- "orientationInference": "View side (living room window wall + deck) faces roughly W/WNW down the Shepherd Canyon draw — drone shot (p_48) aligns the Bay/SF skyline over the street side, and the canyon drains toward the flats; the rear patios get eastern morning light while the front gets filtered afternoon sun through redwoods. Inference from drone horizon + canyon topography, not measured.",
- "photos": [
-  {
-   "file": "photos/p_01.jpg",
-   "note": "Stylized watercolor rendering of the front (marketing art, not a photo): blue two-story, elevated deck, big redwood, 2-car garage."
-  },
-  {
-   "file": "photos/p_02.jpg",
-   "note": "Front: navy T1-11 siding (new), elevated wood deck on posts over 2-car garage, redwoods adjacent, stone retaining wall."
-  },
-  {
-   "file": "photos/p_03.jpg",
-   "note": "Street view: multiple overhead power lines crossing the front, wood deck, mailbox 33, dense tree envelope."
-  },
-  {
-   "file": "photos/p_04.jpg",
-   "note": "Front elevation: power lines again crossing, retaining wall + dry slope, redwood canopy behind."
-  },
-  {
-   "file": "photos/p_05.jpg",
-   "note": "Covered entry porch with open rafter tails and new lite entry door; forest within feet of the door."
-  },
-  {
-   "file": "photos/p_06.jpg",
-   "note": "Front deck with dining set: giant redwoods nearly touch the railing, weathered deck boards, power lines over the street view."
-  },
-  {
-   "file": "photos/p_07.jpg",
-   "note": "Deck outward view: neighbors ~30–40 ft across the cul-de-sac, more power lines, partial tree screening."
-  },
-  {
-   "file": "photos/p_08.jpg",
-   "note": "Living-level view: treetop canopy over neighbor rooftops; utility pole right; no water/bay sightline."
-  },
-  {
-   "file": "photos/p_09.jpg",
-   "note": "Living room: bright 4-pane window wall, painted beamed/T&G ceiling, hardwood; neighbor roof in the view."
-  },
-  {
-   "file": "photos/p_10.jpg",
-   "note": "Living room reverse: kitchen raised a half-flight behind a dated white spindle railing, open beams."
-  },
-  {
-   "file": "photos/p_11.jpg",
-   "note": "Wide reverse: shed-vaulted painted plank ceiling, sliders to deck, good volume and light."
-  },
-  {
-   "file": "photos/p_12.jpg",
-   "note": "Window wall with clerestory uppers: canopy + neighbor roofs confirm 'treetop views' honestly."
-  },
-  {
-   "file": "photos/p_13.jpg",
-   "note": "Double sliders to deck: indoor-outdoor flow good; power lines visible through the trees."
-  },
-  {
-   "file": "photos/p_14.jpg",
-   "note": "Kitchen level from living: flat-panel oak cabinets, SS fridge, low wall register (forced air)."
-  },
-  {
-   "file": "photos/p_15.jpg",
-   "note": "High-angle living room: main level is the middle story; bright, deck at living level."
-  },
-  {
-   "file": "photos/p_16.jpg",
-   "note": "Dining + kitchen: big green-view window (magnolia privacy screen), new peninsula kitchen, staged."
-  },
-  {
-   "file": "photos/p_17.jpg",
-   "note": "Dining reverse: window wall to deck/trees; old spindle railing vs new kitchen — mixed eras."
-  },
-  {
-   "file": "photos/p_18.jpg",
-   "note": "Kitchen full: oak flat fronts, glass display uppers, quartz waterfall peninsula, pantry; clean mid-range remodel."
-  },
-  {
-   "file": "photos/p_19.jpg",
-   "note": "Kitchen closeup: gas slide-in range on the peninsula, rattan stools — no visible range hood."
-  },
-  {
-   "file": "photos/p_20.jpg",
-   "note": "Sink run: window to dense magnolia (dims the sink side), dishwasher; no jalousie windows."
-  },
-  {
-   "file": "photos/p_21.jpg",
-   "note": "Kitchen wide: peninsula range, slider to private patio behind, open to dining; functional layout confirmed."
-  },
-  {
-   "file": "photos/p_22.jpg",
-   "note": "Sink straight-on: backsplash is plain painted drywall (no tile) — budget-tier finish detail."
-  },
-  {
-   "file": "photos/p_23.jpg",
-   "note": "Buffet/bar cabinet wall with glass uppers matching the kitchen; pantry door; good storage."
-  },
-  {
-   "file": "photos/p_24.jpg",
-   "note": "Bedroom 1: bright wide window to green trees; clean staging; scuffed baseboards visible."
-  },
-  {
-   "file": "photos/p_25.jpg",
-   "note": "Bedroom 1 window closeup: pure treetop outlook — the marketing view claim at its truest."
-  },
-  {
-   "file": "photos/p_26.jpg",
-   "note": "Bedroom 1 reverse: standard reach-in closet with bypass doors; modest storage."
-  },
-  {
-   "file": "photos/p_27.jpg",
-   "note": "Bath 1: remodeled — dark shaker vanity, marble-look quartz, new tub surround + glass slider."
-  },
-  {
-   "file": "photos/p_28.jpg",
-   "note": "Tub/shower closeup: rain head + hand shower, glass mosaic niche, new chrome valve set."
-  },
-  {
-   "file": "photos/p_29.jpg",
-   "note": "Primary bedroom: corner room, two green windows, wide-plank floors, bright and airy."
-  },
-  {
-   "file": "photos/p_30.jpg",
-   "note": "Primary reverse: dresser wall, door to hall; small window toward side trees; moderate-bright."
-  },
-  {
-   "file": "photos/p_31.jpg",
-   "note": "Primary closets: double reach-ins, not a walk-in — 'generous closet space' is overstated."
-  },
-  {
-   "file": "photos/p_32.jpg",
-   "note": "Primary window closeup: tree canopy outlook, blue sky; pleasant."
-  },
-  {
-   "file": "photos/p_33.jpg",
-   "note": "Ensuite bath: walk-in glass shower (no tub), new tile, dark vanity, marble-look top."
-  },
-  {
-   "file": "photos/p_34.jpg",
-   "note": "3rd bedroom: light mainly via its glass door wall; windowless otherwise — 'moderate' light."
-  },
-  {
-   "file": "photos/p_35.jpg",
-   "note": "3rd bedroom sliders to the walled rear patio: private but shaded; floor register confirms forced air."
-  },
-  {
-   "file": "photos/p_36.jpg",
-   "note": "3rd bedroom reverse: desk nook, door to hall, exterior stair visible from patio — walk-out at rear grade."
-  },
-  {
-   "file": "photos/p_37.jpg",
-   "note": "Rear 'private' patio: concrete pad against wood-fenced block retaining wall, string lights, steep dry slope above."
-  },
-  {
-   "file": "photos/p_38.jpg",
-   "note": "Patio reverse: uphill neighbor's red-railed elevated deck looks straight down at this patio — privacy hit."
-  },
-  {
-   "file": "photos/p_39.jpg",
-   "note": "Patio + house wall: exterior meter, T1-11 siding, small bedroom window; gets some sun patches."
-  },
-  {
-   "file": "photos/p_40.jpg",
-   "note": "Patio into bedroom: neighbor house/deck ~15–20 ft away uphill; big conifer leaning over the corner."
-  },
-  {
-   "file": "photos/p_41.jpg",
-   "note": "Rear walkway: mossy aged block retaining wall, mulched slope above; narrow sideyard."
-  },
-  {
-   "file": "photos/p_42.jpg",
-   "note": "Side walkway: shed roofline, old retaining walls, neighbor close uphill — tight hillside siting."
-  },
-  {
-   "file": "photos/p_43.jpg",
-   "note": "Elevated front shot: low-slope/flat roof visible, deck on tall posts with diagonal bracing, lines crossing, dry slope behind."
-  },
-  {
-   "file": "photos/p_44.jpg",
-   "note": "Drone above roof: flat comp roof, dense forest envelope, neighbors close on both sides, dry grass slope rising behind."
-  },
-  {
-   "file": "photos/p_45.jpg",
-   "note": "Drone top-down: flat roof with penetrations/vents; redwoods crowd the NW corner; ladder fuels on the slope."
-  },
-  {
-   "file": "photos/p_46.jpg",
-   "note": "Roof closeup: aged-looking granulated flat/low-slope surface with staining and many penetrations — inspection must."
-  },
-  {
-   "file": "photos/p_47.jpg",
-   "note": "High drone: house nested among tall redwoods/pines on a cul-de-sac curve; dense wooded neighborhood."
-  },
-  {
-   "file": "photos/p_48.jpg",
-   "note": "Panoramic drone: distant Bay/SF skyline visible at altitude only — NOT a living-level view; orients view side W/SW toward the flats."
-  },
-  {
-   "file": "photos/p_49.jpg",
-   "note": "Deck closeup: weathered boards, post-and-beam support; dry brush + neighbor fence above the rear slope."
-  },
-  {
-   "file": "photos/p_50.jpg",
-   "note": "Front elevated: big redwood ~6–8 ft from the deck corner; neighbor roof just below to the right."
-  },
-  {
-   "file": "photos/p_51.jpg",
-   "note": "Floorplan: tri-level — garage (L1), living 17x20 + deck 8x24 (L2), kitchen/dining (L3), 3BR incl. primary 14x17 + 2 baths + laundry (L4); patios 9x11 + 16x14."
-  }
- ],
- "crosschecks": [
-  {
-   "check": "Marketing claims vs photos",
-   "result": "Mostly verified: 'treetop views' (p_08, p_12, p_25), new kitchen (p_16–p_22), new siding/windows (p_02, p_20), 'majestic redwood' (p_02, p_50). Overstated: 'generous closet space' = double reach-ins (p_31); rear 'private patio' is overlooked by the uphill neighbor's deck (p_38, p_40); 'Valley Views' amenity = canopy only — the Bay/SF vista exists only from drone altitude (p_48). Unverifiable from photos: tankless water heater, Carrier furnace, new appliances claims."
-  },
-  {
-   "check": "Geocoder vs page coords",
-   "result": "FLAGGED: Census geocoder pin (37.8352807, -122.1865329) sits ~169 ft NW of the Compass MLS pin (37.8350074, -122.1860619) — just over the 150 ft threshold; both are on the same short cul-de-sac, so this is parcel-pin noise, not a mislocated listing."
-  },
-  {
-   "check": "Elevation / micro-market",
-   "result": "1,087 ft at geocoder pin, 1,125 ft at page pin (USGS EPQS) — true Oakland hills; Shepherd Canyon / Montclair (MLS neighborhood MONTCLAIR); steep terrain confirmed by drone (p_44, p_45)."
-  },
-  {
-   "check": "Orientation",
-   "result": "Drone p_48 aligns the Bay/SF skyline over the street side; canyon drops toward the flats — view side (living wall + deck) faces roughly W/WNW down-canyon (inference); rear patios face the uphill slope with eastern morning light. No dusk shots to corroborate."
-  },
-  {
-   "check": "FHSZ / insurance",
-   "result": "Very High FHSZ (presumptive) for 94611 inside the 1991 Oakland firestorm footprint — insurance availability flagged: quote before offer; photos show dense canopy overhanging the roof, dry grass slope, wood deck + wood T1-11 siding (p_44–p_46)."
-  },
-  {
-   "check": "Amenity claims",
-   "result": "'Minutes from Montclair Village' plausible from the map (Shepherd Canyon corridor, ~1–1.5 mi); drone shots are of the actual neighborhood canopy, no borrowed scenery; cul-de-sac confirmed (p_47)."
-  },
-  {
-   "check": "Bed/bath count legitimacy",
-   "result": "Real 3BR/2BA — measured floorplan (p_51) shows primary 14x17 + bedroom 11x13 + bedroom 10x16 + 2 full baths + laundry 7x10 all on level 4; no office fudge; JSON-LD numberOfRooms '3' matches bedrooms, INITIAL_DATA legalRoomCount 5 counts total rooms — counting convention, not a conflict."
-  }
- ]
+  "positives": [
+    "Bright vaulted post-and-beam living room with a true window wall and double sliders to an 8x24 view deck (p_09, p_11, p_13, p_15)",
+    "Legitimate 3-bed/2-bath top floor per the measured floorplan — primary 14x17 w/ ensuite + private patio, no 'office fudge' (p_51)",
+    "Genuinely new kitchen and both baths; new siding and energy-efficient windows visible in photos (p_16-p_22, p_27, p_33, p_02)",
+    "Quiet cul-de-sac at ~1,090 ft elevation in Shepherd Canyon/Montclair; attached 2-car garage; minutes to Montclair Village (p_47, p_51)",
+    "Treetop views from living room and both front bedrooms are real, not drone-manufactured (p_08, p_12, p_25, p_32)"
+  ],
+  "orientationInference": "View side (living room window wall + deck) faces roughly W/WNW down the Shepherd Canyon draw — drone shot (p_48) aligns the Bay/SF skyline over the street side, and the canyon drains toward the flats; the rear patios get eastern morning light while the front gets filtered afternoon sun through redwoods. Inference from drone horizon + canyon topography, not measured.",
+  "photos": [
+    {
+      "file": "photos/p_01.jpg",
+      "note": "Stylized watercolor rendering of the front (marketing art, not a photo): blue two-story, elevated deck, big redwood, 2-car garage."
+    },
+    {
+      "file": "photos/p_02.jpg",
+      "note": "Front: navy T1-11 siding (new), elevated wood deck on posts over 2-car garage, redwoods adjacent, stone retaining wall."
+    },
+    {
+      "file": "photos/p_03.jpg",
+      "note": "Street view: multiple overhead power lines crossing the front, wood deck, mailbox 33, dense tree envelope."
+    },
+    {
+      "file": "photos/p_04.jpg",
+      "note": "Front elevation: power lines again crossing, retaining wall + dry slope, redwood canopy behind."
+    },
+    {
+      "file": "photos/p_05.jpg",
+      "note": "Covered entry porch with open rafter tails and new lite entry door; forest within feet of the door."
+    },
+    {
+      "file": "photos/p_06.jpg",
+      "note": "Front deck with dining set: giant redwoods nearly touch the railing, weathered deck boards, power lines over the street view."
+    },
+    {
+      "file": "photos/p_07.jpg",
+      "note": "Deck outward view: neighbors ~30–40 ft across the cul-de-sac, more power lines, partial tree screening."
+    },
+    {
+      "file": "photos/p_08.jpg",
+      "note": "Living-level view: treetop canopy over neighbor rooftops; utility pole right; no water/bay sightline."
+    },
+    {
+      "file": "photos/p_09.jpg",
+      "note": "Living room: bright 4-pane window wall, painted beamed/T&G ceiling, hardwood; neighbor roof in the view."
+    },
+    {
+      "file": "photos/p_10.jpg",
+      "note": "Living room reverse: kitchen raised a half-flight behind a dated white spindle railing, open beams."
+    },
+    {
+      "file": "photos/p_11.jpg",
+      "note": "Wide reverse: shed-vaulted painted plank ceiling, sliders to deck, good volume and light."
+    },
+    {
+      "file": "photos/p_12.jpg",
+      "note": "Window wall with clerestory uppers: canopy + neighbor roofs confirm 'treetop views' honestly."
+    },
+    {
+      "file": "photos/p_13.jpg",
+      "note": "Double sliders to deck: indoor-outdoor flow good; power lines visible through the trees."
+    },
+    {
+      "file": "photos/p_14.jpg",
+      "note": "Kitchen level from living: flat-panel oak cabinets, SS fridge, low wall register (forced air)."
+    },
+    {
+      "file": "photos/p_15.jpg",
+      "note": "High-angle living room: main level is the middle story; bright, deck at living level."
+    },
+    {
+      "file": "photos/p_16.jpg",
+      "note": "Dining + kitchen: big green-view window (magnolia privacy screen), new peninsula kitchen, staged."
+    },
+    {
+      "file": "photos/p_17.jpg",
+      "note": "Dining reverse: window wall to deck/trees; old spindle railing vs new kitchen — mixed eras."
+    },
+    {
+      "file": "photos/p_18.jpg",
+      "note": "Kitchen full: oak flat fronts, glass display uppers, quartz waterfall peninsula, pantry; clean mid-range remodel."
+    },
+    {
+      "file": "photos/p_19.jpg",
+      "note": "Kitchen closeup: gas slide-in range on the peninsula, rattan stools — no visible range hood."
+    },
+    {
+      "file": "photos/p_20.jpg",
+      "note": "Sink run: window to dense magnolia (dims the sink side), dishwasher; no jalousie windows."
+    },
+    {
+      "file": "photos/p_21.jpg",
+      "note": "Kitchen wide: peninsula range, slider to private patio behind, open to dining; functional layout confirmed."
+    },
+    {
+      "file": "photos/p_22.jpg",
+      "note": "Sink straight-on: backsplash is plain painted drywall (no tile) — budget-tier finish detail."
+    },
+    {
+      "file": "photos/p_23.jpg",
+      "note": "Buffet/bar cabinet wall with glass uppers matching the kitchen; pantry door; good storage."
+    },
+    {
+      "file": "photos/p_24.jpg",
+      "note": "Bedroom 1: bright wide window to green trees; clean staging; scuffed baseboards visible."
+    },
+    {
+      "file": "photos/p_25.jpg",
+      "note": "Bedroom 1 window closeup: pure treetop outlook — the marketing view claim at its truest."
+    },
+    {
+      "file": "photos/p_26.jpg",
+      "note": "Bedroom 1 reverse: standard reach-in closet with bypass doors; modest storage."
+    },
+    {
+      "file": "photos/p_27.jpg",
+      "note": "Bath 1: remodeled — dark shaker vanity, marble-look quartz, new tub surround + glass slider."
+    },
+    {
+      "file": "photos/p_28.jpg",
+      "note": "Tub/shower closeup: rain head + hand shower, glass mosaic niche, new chrome valve set."
+    },
+    {
+      "file": "photos/p_29.jpg",
+      "note": "Primary bedroom: corner room, two green windows, wide-plank floors, bright and airy."
+    },
+    {
+      "file": "photos/p_30.jpg",
+      "note": "Primary reverse: dresser wall, door to hall; small window toward side trees; moderate-bright."
+    },
+    {
+      "file": "photos/p_31.jpg",
+      "note": "Primary closets: double reach-ins, not a walk-in — 'generous closet space' is overstated."
+    },
+    {
+      "file": "photos/p_32.jpg",
+      "note": "Primary window closeup: tree canopy outlook, blue sky; pleasant."
+    },
+    {
+      "file": "photos/p_33.jpg",
+      "note": "Ensuite bath: walk-in glass shower (no tub), new tile, dark vanity, marble-look top."
+    },
+    {
+      "file": "photos/p_34.jpg",
+      "note": "3rd bedroom: light mainly via its glass door wall; windowless otherwise — 'moderate' light."
+    },
+    {
+      "file": "photos/p_35.jpg",
+      "note": "3rd bedroom sliders to the walled rear patio: private but shaded; floor register confirms forced air."
+    },
+    {
+      "file": "photos/p_36.jpg",
+      "note": "3rd bedroom reverse: desk nook, door to hall, exterior stair visible from patio — walk-out at rear grade."
+    },
+    {
+      "file": "photos/p_37.jpg",
+      "note": "Rear 'private' patio: concrete pad against wood-fenced block retaining wall, string lights, steep dry slope above."
+    },
+    {
+      "file": "photos/p_38.jpg",
+      "note": "Patio reverse: uphill neighbor's red-railed elevated deck looks straight down at this patio — privacy hit."
+    },
+    {
+      "file": "photos/p_39.jpg",
+      "note": "Patio + house wall: exterior meter, T1-11 siding, small bedroom window; gets some sun patches."
+    },
+    {
+      "file": "photos/p_40.jpg",
+      "note": "Patio into bedroom: neighbor house/deck ~15–20 ft away uphill; big conifer leaning over the corner."
+    },
+    {
+      "file": "photos/p_41.jpg",
+      "note": "Rear walkway: mossy aged block retaining wall, mulched slope above; narrow sideyard."
+    },
+    {
+      "file": "photos/p_42.jpg",
+      "note": "Side walkway: shed roofline, old retaining walls, neighbor close uphill — tight hillside siting."
+    },
+    {
+      "file": "photos/p_43.jpg",
+      "note": "Elevated front shot: low-slope/flat roof visible, deck on tall posts with diagonal bracing, lines crossing, dry slope behind."
+    },
+    {
+      "file": "photos/p_44.jpg",
+      "note": "Drone above roof: flat comp roof, dense forest envelope, neighbors close on both sides, dry grass slope rising behind."
+    },
+    {
+      "file": "photos/p_45.jpg",
+      "note": "Drone top-down: flat roof with penetrations/vents; redwoods crowd the NW corner; ladder fuels on the slope."
+    },
+    {
+      "file": "photos/p_46.jpg",
+      "note": "Roof closeup: aged-looking granulated flat/low-slope surface with staining and many penetrations — inspection must."
+    },
+    {
+      "file": "photos/p_47.jpg",
+      "note": "High drone: house nested among tall redwoods/pines on a cul-de-sac curve; dense wooded neighborhood."
+    },
+    {
+      "file": "photos/p_48.jpg",
+      "note": "Panoramic drone: distant Bay/SF skyline visible at altitude only — NOT a living-level view; orients view side W/SW toward the flats."
+    },
+    {
+      "file": "photos/p_49.jpg",
+      "note": "Deck closeup: weathered boards, post-and-beam support; dry brush + neighbor fence above the rear slope."
+    },
+    {
+      "file": "photos/p_50.jpg",
+      "note": "Front elevated: big redwood ~6–8 ft from the deck corner; neighbor roof just below to the right."
+    },
+    {
+      "file": "photos/p_51.jpg",
+      "note": "Floorplan: tri-level — garage (L1), living 17x20 + deck 8x24 (L2), kitchen/dining (L3), 3BR incl. primary 14x17 + 2 baths + laundry (L4); patios 9x11 + 16x14."
+    }
+  ],
+  "crosschecks": [
+    {
+      "check": "Marketing claims vs photos",
+      "result": "Mostly verified: 'treetop views' (p_08, p_12, p_25), new kitchen (p_16–p_22), new siding/windows (p_02, p_20), 'majestic redwood' (p_02, p_50). Overstated: 'generous closet space' = double reach-ins (p_31); rear 'private patio' is overlooked by the uphill neighbor's deck (p_38, p_40); 'Valley Views' amenity = canopy only — the Bay/SF vista exists only from drone altitude (p_48). Unverifiable from photos: tankless water heater, Carrier furnace, new appliances claims."
+    },
+    {
+      "check": "Geocoder vs page coords",
+      "result": "FLAGGED: Census geocoder pin (37.8352807, -122.1865329) sits ~169 ft NW of the Compass MLS pin (37.8350074, -122.1860619) — just over the 150 ft threshold; both are on the same short cul-de-sac, so this is parcel-pin noise, not a mislocated listing."
+    },
+    {
+      "check": "Elevation / micro-market",
+      "result": "1,087 ft at geocoder pin, 1,125 ft at page pin (USGS EPQS) — true Oakland hills; Shepherd Canyon / Montclair (MLS neighborhood MONTCLAIR); steep terrain confirmed by drone (p_44, p_45)."
+    },
+    {
+      "check": "Orientation",
+      "result": "Drone p_48 aligns the Bay/SF skyline over the street side; canyon drops toward the flats — view side (living wall + deck) faces roughly W/WNW down-canyon (inference); rear patios face the uphill slope with eastern morning light. No dusk shots to corroborate."
+    },
+    {
+      "check": "FHSZ / insurance",
+      "result": "Very High FHSZ (presumptive) for 94611 inside the 1991 Oakland firestorm footprint — insurance availability flagged: quote before offer; photos show dense canopy overhanging the roof, dry grass slope, wood deck + wood T1-11 siding (p_44–p_46)."
+    },
+    {
+      "check": "Amenity claims",
+      "result": "'Minutes from Montclair Village' plausible from the map (Shepherd Canyon corridor, ~1–1.5 mi); drone shots are of the actual neighborhood canopy, no borrowed scenery; cul-de-sac confirmed (p_47)."
+    },
+    {
+      "check": "Bed/bath count legitimacy",
+      "result": "Real 3BR/2BA — measured floorplan (p_51) shows primary 14x17 + bedroom 11x13 + bedroom 10x16 + 2 full baths + laundry 7x10 all on level 4; no office fudge; JSON-LD numberOfRooms '3' matches bedrooms, INITIAL_DATA legalRoomCount 5 counts total rooms — counting convention, not a conflict."
+    }
+  ]
 }

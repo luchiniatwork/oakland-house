@@ -10,3 +10,4 @@
 | Amenity claims | Railroad Trail → Montclair Village plausible (~0.5 mi downhill, trail access near). Hot tub visible in primary-bedroom courtyard (p_20) — real on-property amenity. No misleading village/park drone claims detected. |
 | Bed/bath legitimacy | Real 2nd bedroom: corner windows + wall of wardrobe built-ins + full door (p_24, p_25), not an office fudge. One real full bath (p_26–p_28). Primary is NOT en-suite. |
 | Price history sanity | Page data shows prior MLS history entries at $1,150,000 and older $795K/$489K events, with last close date embedded as 2018-07-17 — ordering/attribution is ambiguous in the embedded data; **verify prior-sale price + date in disclosures before using for comp math.** Current ask $895,000 is consistent across JSON-LD and page data. |
+| Status re-check 2026-10-30 | **Pending as of 10/27/2026** (12 DOM, MLS #41151413) — listed 10/15 at $895,000, straight to pending, no price changes. |
