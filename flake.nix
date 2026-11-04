@@ -26,6 +26,7 @@
             jq         # JSON poking
             python3    # JSON-LD / __INITIAL_DATA__ extraction snippets
             file       # image validation
+            git-lfs    # disclosure packages live in the disclosures/ worktree via Git LFS (see docs/git-lfs.md)
           ];
 
           shellHook = ''
