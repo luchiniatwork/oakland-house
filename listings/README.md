@@ -23,7 +23,7 @@ Statuses/DOM re-verified against Compass/MLS on 2026-10-30. Ask = current/last l
 |---|---|---|---|---|---|---|---|---|
 | [`6401-snake/`](6401-snake/) | 4.2 | 6401 Snake Rd | $998,000 | $1,260,000 ($914/sf) | 2/2 | 1,379 | $724 | SOLD 10/26 (+26% over ask) |
 | [`6833-snake/`](6833-snake/) | 4.0 | 6833 Snake Rd | $899,000 | $1,675,000 ($828/sf) | 4/2 | 2,023 | $444 | SOLD 10/8 (+86% over ask) |
-| [`318-capricorn/`](318-capricorn/) | 3.8 | 318 Capricorn Ave | $895,000 | — | 2/2 | 1,655 | $541 | New, 1 DOM; '76 Sea Ranch–style treehouse + studio; Very High FHSZ/'91 firestorm — quote insurance first |
+| [`318-capricorn/`](318-capricorn/) | 3.8 | 318 Capricorn Ave | $895,000 | — | 2/2 | 1,655 | $541 | agent-owned, $835K seller-carryback — see [STRATEGY.md](318-capricorn/STRATEGY.md); 1 DOM; '76 Sea Ranch–style treehouse + studio; FHSZ "NonWildland" per 2025 LRA map but '91 firestorm footprint — quote insurance first |
 | [`15-north/`](15-north/) | 3.8 | 15 North Cir | $1,149,000 | — | 4/2.5 | 2,410 | $477 | PENDING 10/28 (13 DOM) |
 | [`5970-rincon/`](5970-rincon/) | 3.8 | 5970 Rincon Dr | $895,000 | — | 2/1 | 1,192 | $751 | PENDING 10/27 (12 DOM) |
 | [`6077-skyline/`](6077-skyline/) | 3.7 | 6077 Skyline Blvd | $1,250,000 | — | 3/3 | 1,551 | $806 | flip — see [STRATEGY.md](6077-skyline/STRATEGY.md); 59 DOM; 2nd cut 10/22 ($145K off Jul ask) + fallen escrow |
