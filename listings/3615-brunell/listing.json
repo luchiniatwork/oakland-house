@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "slug": "3615-brunell",
+  "source": {
+    "url": "https://www.3615brunell.com/",
+    "mirrorOf": "https://www.compass.com/homedetails/3615-Brunell-Dr-Oakland-CA-94602/1QQMP3_pid/",
+    "fetchedAt": "2026-11-05T06:10:03Z"
+  },
+  "listing": {
+    "address": "3615 Brunell Dr, Oakland, CA 94602",
+    "price": 899000,
+    "beds": 3,
+    "baths": 1.5,
+    "sqft": 1748,
+    "pricePerSqft": 514,
+    "lotAc": 0.1768,
+    "dom": 1,
+    "status": "New/Active (MLS #41152773)",
+    "fhsz": "Very High FHSZ (confirmed via CAL FIRE FHSZ LRA 2025 feature service point query at parcel coords 37.8032,-122.1825); Oakland WUI Fire Area — Zone 0 rules and annual vegetation inspections apply; quote insurance before contingency removal",
+    "coords": [37.8031584, -122.1824887],
+    "elevationFt": 923.7,
+    "style": "1954 mid-century post-and-beam ranch, largely original time capsule",
+    "description": "Mid Century View Home in the Hills. Perched in the Oakland Hills, this distinctive residence blends mid-century character, timeless craftsmanship, and generous proportions. A welcoming front patio leads into an interior rich with architectural detail, including high ceilings, beautiful wood-paneled walls, and original period features that lend warmth and character throughout. At the heart of the home, an expansive living room features a brick fireplace and oversized windows framing impressive views. The main level offers three bedrooms and one and a half baths, along with an original kitchen featuring a dining nook that also takes advantage of the outlook. The lower level adds valuable flexibility with a spacious rumpus room, complete with its own kitchenette and ample storage. With direct access to the outdoors, this versatile space offers possibilities for entertaining, recreation, creative pursuits, or additional gathering space. Set on an expansive lot, the outdoor spaces include a generous patio ideal for dining and entertaining, surrounded by a lush garden setting. Additional features include a one-car garage and convenient access to the shops, restaurants, and neighborhood amenities of Glenview and Montclair. A home with architectural character, remarkable views, and flexible living spaces, offering a wonderful opportunity to enjoy the best of the Oakland Hills. *sq. ft and room count differ from public records"
+  },
+  "scores": {
+    "view": {
+      "score": 4,
+      "note": "Real living-level bay+city panorama from living room (p_16, p_17), dining nook (p_26, p_33), primary bed (p_42), lower family room (p_58) and patio (p_67, p_68) — oak-filtered, neighbor roofs below, zero drone-shot inflation"
+    },
+    "natural_light": {
+      "score": 3.5,
+      "note": "Big view-side window walls + nook corner glass (p_24), skylights (kitchen p_28, hall p_38), clerestory band (p_19); but oak canopy permanently filters and interior hall/baths are modest (p_36, p_44)"
+    },
+    "character": {
+      "score": 5,
+      "note": "Preserved 1954 MCM: post-and-beam T&G ceilings (p_10), brick fireplace core both levels (p_22, p_59), cork floors (p_38), knotty-pine rooms (p_47), live-edge slab doors (p_41, p_43), period pendants (p_21), vintage pink bath (p_44), orange original kitchen (p_30)"
+    },
+    "kitchen": {
+      "score": 2.5,
+      "note": "Original 1954 galley: vintage wall oven + gas cooktop (p_29, p_30), tile counters, orange-painted cabinets, skylight; charming time capsule but functionally dated — a cook will renovate"
+    },
+    "privacy": {
+      "score": 2.5,
+      "note": "Street screening by mature oaks is good (p_02), but neighbor's elevated deck overlooks the patio (p_73, p_82), bed2 window is ~15-20 ft from neighbor (p_49), primary window faces neighbor roof (p_43); view side open over slope"
+    },
+    "layout_flow": {
+      "score": 3.5,
+      "note": "Open living-dining-kitchen spine around brick core (p_22, p_27); 3BR+1.5ba on one level (floorplan p_85); sunken living room with rail (p_09); interior stair to lower family room + kitchenette walk-out (p_53); only one full bath for 3BR"
+    },
+    "primary_suite": {
+      "score": 2.5,
+      "note": "13'3\"x13'8\" vaulted room with bay-glimpse window (p_42) and slab closet doors (p_43), but no ensuite — shares the hall pink bath; 'suite' is a stretch"
+    },
+    "outdoor_space": {
+      "score": 3.5,
+      "note": "View-facing concrete patio with dining (p_67, p_68), front paver terrace (p_04), terraced veggie beds (p_69), flat side yard (p_81); but patio concrete cracked (p_73) and slopes carry dry fuel (p_77, p_78)"
+    },
+    "condition": {
+      "score": 3,
+      "note": "Maintained original: fresh paint, new lower-level LVP; but gravity furnace + exposed wiring in basement (p_64, p_65), vintage appliances (p_30), jalousie door panels (p_35), aging railroad-tie retaining walls (p_79), cracked patio (p_73)"
+    },
+    "lot_usability": {
+      "score": 3,
+      "note": "0.1768 AC hillside: usable patio + side flat + garden terraces (p_67, p_81), but much is steep dry slope with aging timber terracing (p_77, p_82) needing defensible-space work"
+    }
+  },
+  "weightedTotal": 3.4,
+  "verdict": "This house IS the trade: an authentic 1954 post-and-beam time capsule with genuine bay views and a flexible walk-out lower level, in exchange for a fully vintage kitchen and pink bath, one full bathroom for three bedrooms, close neighbors on the uphill side, and real fire-country homework (confirmed Very High FHSZ, dry slopes, flat roof, gravity furnace). For the MCM purist who budgets for systems and defensible space, it's the rare honest listing; for anyone wanting turnkey, it's a project.",
+  "flags": [
+    "🔥 Very High FHSZ CONFIRMED (CAL FIRE LRA 2025 point query) + Oakland WUI Fire Area — insurance availability/cost must be quoted before contingency removal; FAIR Plan possible",
+    "🌲 Fuel load on site: dry duff/mulch slopes (p_77, p_78), shrubs against foundation (p_79), stacked cut wood (p_78), oak canopy over roof — Zone 0/defensible-space work required",
+    "🏚️ Flat/low-slope roof with clerestories (p_01, p_03) — age/membrane condition unknown; verify",
+    "🏗️ Original systems: gravity octopus furnace + exposed wiring in basement (p_64, p_65), vintage wall oven/cooktop (p_30), original pink bath plumbing (p_44)",
+    "🪟 Jalousie/louvered glass panels on laundry exterior door (p_35) — buyer-sensitive item",
+    "⚡ Power lines at street frontage (p_01, p_03)",
+    "👀 Privacy: uphill neighbor's elevated deck overlooks patio (p_73, p_82); bed2/primary windows face neighbors (p_49, p_43)",
+    "📐 Sqft ambiguity: marketed 1,748 vs public records 1,252 (disclosed by agent) — lower-level family room included; verify lower-level permits",
+    "🧱 Aging railroad-tie retaining walls + cracked patio concrete (p_79, p_73) on a hillside lot — drainage/retaining inspection warranted",
+    "🛁 One full bath for 3BR, no ensuite; 1-car garage on a steep hills street"
+  ],
+  "positives": [
+    "Genuine bay + city panorama from living room, dining nook, primary bedroom, lower family room AND patio — all living-level (p_16, p_26, p_42, p_58, p_68); no drone shots in the entire 84-photo set",
+    "Rare preserved 1954 MCM: post-and-beam vaulted ceilings, brick fireplace core on both levels, cork floors, knotty pine, live-edge slab doors, period pendants (p_10, p_22, p_38, p_41)",
+    "Walk-out lower level: 24'5\" family room + vintage kitchenette + second fireplace + 34' workshop/storage (p_53, p_60, p_64) — real flex/ADU-ish space",
+    "Dappled natural light: skylights, clerestory band, corner-glass dining nook with bay view (p_24, p_26, p_28)",
+    "0.1768 AC lot with terraced vegetable garden, two patios, flat side yard (p_67, p_69, p_81)",
+    "Honest marketing: sqft discrepancy asterisked in the description itself; photos match claims",
+    "Woodminster hills location by Joaquin Miller Park; Glenview + Montclair village amenities; open houses scheduled weekend of listing (1 DOM)"
+  ],
+  "orientationInference": "View side faces W-WSW (SF Bay, city flats, peninsula hills in p_68, p_71, p_72); afternoon/evening sun through oak canopy; clerestories + skylights pull morning light from the E — INFERENCE from photo horizons/sun angles + map, not compass-verified",
+  "photos": [
+    { "file": "photos/p_01.jpg", "note": "Street: green MCM ranch, flat roof + clerestory over garage, 1-car garage, mature oaks, power lines upper left" },
+    { "file": "photos/p_02.jpg", "note": "Street reverse: house well screened by oaks/conifers; good street privacy; mulch beds" },
+    { "file": "photos/p_03.jpg", "note": "Front paver patio beside garage; skylight dome + clerestory on flat roof; power lines; dry mulch" },
+    { "file": "photos/p_04.jpg", "note": "Entry walk: exposed rafter tails, dark door, wicker patio set; upslope neighbor visible right" },
+    { "file": "photos/p_05.jpg", "note": "Front patio wide under big oak; horizontal slider windows; roof antenna" },
+    { "file": "photos/p_06.jpg", "note": "Front patio to weathered fence; neighbor roofs over fence through trees; dry slope" },
+    { "file": "photos/p_07.jpg", "note": "Brick entry walk; covered breezeway with translucent roof panels; period character" },
+    { "file": "photos/p_08.jpg", "note": "Entry close-up: dark craftsman door, MCM porch light, brick stoop" },
+    { "file": "photos/p_09.jpg", "note": "Entry reveal: vaulted wood ceiling + beams, cork floor, brick fireplace, picture window with oak" },
+    { "file": "photos/p_10.jpg", "note": "Living room: T&G ceiling, big beams, wood walls with antique-mirror strips, MCM pendant" },
+    { "file": "photos/p_11.jpg", "note": "Living room reverse: brick fireplace, distant ridge/water glimpse right, orange kitchen beyond" },
+    { "file": "photos/p_12.jpg", "note": "Living room to window wall: oak-framed view, dappled light, sofa + jute rug" },
+    { "file": "photos/p_13.jpg", "note": "12-pane window wall: massive oak fills view; city glimpse lower left" },
+    { "file": "photos/p_14.jpg", "note": "Living room full length: raised slate hearth; city view under oak canopy" },
+    { "file": "photos/p_15.jpg", "note": "Fireplace + view window: city spreading below, brick with tile firebox" },
+    { "file": "photos/p_16.jpg", "note": "VIEW: SF Bay + city flatlands through oak from living room — genuine, tree-filtered" },
+    { "file": "photos/p_17.jpg", "note": "VIEW close: bay + far shoreline over downhill neighbor's roof (skylights below)" },
+    { "file": "photos/p_18.jpg", "note": "Rear dining terrace: pavers, sloped garden, bay+city panorama; neighbor roof below" },
+    { "file": "photos/p_19.jpg", "note": "Living room reverse: clerestory band over entry side brings east light" },
+    { "file": "photos/p_20.jpg", "note": "Toward front door: high clerestories, stair rail, bentwood MCM pendant" },
+    { "file": "photos/p_21.jpg", "note": "Detail: teak-veneer MCM pendant + antique-mirror strips on paneling" },
+    { "file": "photos/p_22.jpg", "note": "Open plan: brick chimney core, dining nook with corner windows + globe pendants" },
+    { "file": "photos/p_23.jpg", "note": "Fireplace detail: dark painted firebox, slate hearth; nook tulip table by greenery" },
+    { "file": "photos/p_24.jpg", "note": "Kitchen + nook: original orange cabinets, skylight, sun patches, corner windows" },
+    { "file": "photos/p_25.jpg", "note": "Dining nook: wraparound corner glass, bay glimpse through trees" },
+    { "file": "photos/p_26.jpg", "note": "Nook view close: bay + city from breakfast table — claim verified" },
+    { "file": "photos/p_27.jpg", "note": "From nook across brick core to living room; kitchen run right; open flow" },
+    { "file": "photos/p_28.jpg", "note": "Kitchen galley: tile counters, wood trim, window + skylight over sink, globe pendant" },
+    { "file": "photos/p_29.jpg", "note": "Kitchen: vintage gas cooktop, quilted SS backsplash, pro-style hood; old wall oven right" },
+    { "file": "photos/p_30.jpg", "note": "Kitchen full: original 1954 wall oven with analog dials; long run; nook bay glimpse" },
+    { "file": "photos/p_31.jpg", "note": "Galley length: sink under window+skylight; nook at far end; brick right" },
+    { "file": "photos/p_32.jpg", "note": "Sink wall: double SS sink, 4in white tile counters, greenery window" },
+    { "file": "photos/p_33.jpg", "note": "Nook from kitchen: bay + city panorama through corner windows" },
+    { "file": "photos/p_34.jpg", "note": "Laundry: orange uppers, W/D hookups staged with wire shelf (no machines), vinyl floor" },
+    { "file": "photos/p_35.jpg", "note": "JALOUSIE glass panels on laundry exterior door (buyer flag); hall to bath + bedroom" },
+    { "file": "photos/p_36.jpg", "note": "Laundry reverse: half-bath vanity visible; modest finishes" },
+    { "file": "photos/p_37.jpg", "note": "Half bath: white vanity, ribbed privacy-glass window; clean, simple" },
+    { "file": "photos/p_38.jpg", "note": "Central hall: original cork floors, stair rail, skylight, folk-art mirror on wood wall" },
+    { "file": "photos/p_39.jpg", "note": "Primary bedroom: vaulted ceiling + beams, TWO windows — one to trees, one facing neighbor's house" },
+    { "file": "photos/p_40.jpg", "note": "Primary window: tree-framed view with city glimpse; bright" },
+    { "file": "photos/p_41.jpg", "note": "Primary reverse: live-edge slab door, vaulted ceiling, oak floor; spacious" },
+    { "file": "photos/p_42.jpg", "note": "Primary view: bay + city through oak branches from bed; neighbor roof below" },
+    { "file": "photos/p_43.jpg", "note": "Primary other side: live-edge slab closet doors; window faces neighbor roofline" },
+    { "file": "photos/p_44.jpg", "note": "Full bath: VINTAGE PINK — tile counter, sink, toilet, tub surround; brass faucet; frosted window" },
+    { "file": "photos/p_45.jpg", "note": "Pink bath vanity: white vintage cabinet, pink tile; vinyl floor" },
+    { "file": "photos/p_46.jpg", "note": "Pink tub/shower: original tile + tub, handheld shower; functional" },
+    { "file": "photos/p_47.jpg", "note": "Bedroom 2: full knotty-pine walls + vaulted ceiling; corner windows; street glimpse" },
+    { "file": "photos/p_48.jpg", "note": "Bed2 reverse: pine everywhere; window faces street (car visible); cabin vibe" },
+    { "file": "photos/p_49.jpg", "note": "Bed2: window ~15-20 ft from neighbor's gray house + chimney — privacy weak this side" },
+    { "file": "photos/p_50.jpg", "note": "Bedroom 3: pine accent wall, twin bed, greenery window; vaulted ceiling; real 3rd BR" },
+    { "file": "photos/p_51.jpg", "note": "Bed3 detail: pine paneling, pyracantha window; cozy" },
+    { "file": "photos/p_52.jpg", "note": "Bed3 reverse: closet with sheer curtain instead of doors — budget touch" },
+    { "file": "photos/p_53.jpg", "note": "LOWER LEVEL family room: knotty pine, new LVP floor, kitchenette, orange exterior door" },
+    { "file": "photos/p_54.jpg", "note": "Family room reverse: long room; black louvered panels over windows; flat ceiling" },
+    { "file": "photos/p_55.jpg", "note": "Kitchenette wall: built-in pine cabinets + sink; desk area; greenery window" },
+    { "file": "photos/p_56.jpg", "note": "Family room to SECOND brick fireplace with woodbox cubbies" },
+    { "file": "photos/p_57.jpg", "note": "Family room big window: oak + bay sliver; lower level is bright with view" },
+    { "file": "photos/p_58.jpg", "note": "LOWER-LEVEL VIEW: bay + city from family room window; orange door with privacy glass" },
+    { "file": "photos/p_59.jpg", "note": "Lower fireplace: brick, slate hearth, louvered wood-storage cubbies" },
+    { "file": "photos/p_60.jpg", "note": "Kitchenette: pine cabinets with strap hinges, pegboard, new full-glass exterior door; no stove" },
+    { "file": "photos/p_61.jpg", "note": "Chimney bar: cantilevered wood shelf + stools on brick — period fun" },
+    { "file": "photos/p_62.jpg", "note": "Kitchenette sink wall: laminate counters; view window at end" },
+    { "file": "photos/p_63.jpg", "note": "Kitchenette across to window: oak + distant view; good lower-level light" },
+    { "file": "photos/p_64.jpg", "note": "BASEMENT/WORKSHOP: exposed joists, gravity octopus furnace, concrete floor, exposed wiring" },
+    { "file": "photos/p_65.jpg", "note": "Workshop: vintage workbench, pegboard, old fridge, duct runs; huge storage" },
+    { "file": "photos/p_66.jpg", "note": "Rear patio from lower level: dining set, bay view through oaks, shed; cracked concrete" },
+    { "file": "photos/p_67.jpg", "note": "Patio dining: wide bay+city panorama, string lights, garden beds — great outdoor room" },
+    { "file": "photos/p_68.jpg", "note": "Patio view close: bay, causeway/bridge, city grid, peninsula hills; neighbor roof below" },
+    { "file": "photos/p_69.jpg", "note": "Garden: terraced veggie beds, big oak, bay view; dry mulch between beds (fuel)" },
+    { "file": "photos/p_70.jpg", "note": "Garden SW: wide bay panorama; dry brush/mulch on slope (fuel)" },
+    { "file": "photos/p_71.jpg", "note": "Over neighbor's comp roof: full bay + peninsula — downhill neighbor close vertically" },
+    { "file": "photos/p_72.jpg", "note": "Bay panorama NW: dense shrubbery foreground right (fuel near house)" },
+    { "file": "photos/p_73.jpg", "note": "Patio toward upslope NEIGHBOR: 2-story house + balcony deck looms ~25-30 ft above patio" },
+    { "file": "photos/p_74.jpg", "note": "Rear facade: two-story west elevation, big view windows; exterior stair; neighbor ~20 ft left" },
+    { "file": "photos/p_75.jpg", "note": "Rear facade straight: green siding/stucco, symmetric windows, lower walk-out door" },
+    { "file": "photos/p_76.jpg", "note": "Rear full: flat roof + rafter tails, big glazing; tidy newer paint" },
+    { "file": "photos/p_77.jpg", "note": "Upslope garden: DRY brown duff, railroad-tie terraces, cut logs — fuel load" },
+    { "file": "photos/p_78.jpg", "note": "Upper slope: dry litter, timber steps, stacked branches; neighbor deck top right" },
+    { "file": "photos/p_79.jpg", "note": "House from lower garden: aging tie walls, shrubs at foundation (Zone 0 issue), neighbor left" },
+    { "file": "photos/p_80.jpg", "note": "Garden steps up to house; woodland setting; neighbor deck right through trees" },
+    { "file": "photos/p_81.jpg", "note": "Side/upper yard: flat-ish area, rustic coop/pen, dry litter; tarped structure" },
+    { "file": "photos/p_82.jpg", "note": "From below: timber terraces; NEIGHBOR'S STILTED DECK overlooks lot from east" },
+    { "file": "photos/p_83.jpg", "note": "From lower lot: tiered tie walls; neighbor deck + brick chimney left" },
+    { "file": "photos/p_84.jpg", "note": "Side entry: concrete stair + rail to main level; narrow passage; neighbor wall close" },
+    { "file": "photos/p_85.jpg", "note": "Floor plan: main 3BR/1.5ba + living-dining-kitchen + garage; lower family room 24'5x13'3 + kitchenette + 34' workshop/storage; primary 13'3x13'8" }
+  ],
+  "crosschecks": [
+    { "check": "Marketing claims vs photos", "result": "Verified honest. 'Remarkable views' = real living-level bay/city views (p_16, p_17, p_26, p_42, p_58, p_68); 'original kitchen' accurate (p_28-30); 'wood-paneled walls, high ceilings, brick fireplace, period features' all confirmed (p_10, p_22, p_47); 'lush garden, generous patio' confirmed (p_66-69). Sqft asterisk disclosed in description. No drone shots at all in 84-photo set." },
+    { "check": "Geocoder vs page coords", "result": "Agree: Census geocoder 37.803292,-122.182367 vs MLS/sereno 37.8031584,-122.1824887 — 60 ft apart, under 150 ft threshold" },
+    { "check": "Elevation / micro-market", "result": "923.7 ft (USGS EPQS). Woodminster/Joaquin Miller area of Oakland hills, 94602; above Park Blvd/Glenview, near Joaquin Miller Park open space" },
+    { "check": "Orientation", "result": "View side W-WSW: bay + peninsula-hills horizon (p_68, p_71, p_72) + afternoon sun patches (p_24) corroborate; labeled inference" },
+    { "check": "FHSZ / insurance", "result": "Very High FHSZ CONFIRMED via CAL FIRE FHSZLRA25 feature service point query at parcel coords (FHSZ_Description='Very High'); Oakland WUI Fire Area — Zone 0 + annual inspections; insurance quote mandatory before contingencies" },
+    { "check": "Amenity claims", "result": "'Glenview and Montclair shops/restaurants' plausible: Glenview village (Park Blvd) ~1.5 mi downhill, Montclair village ~2 mi north; Joaquin Miller Park adjacent — credited as area amenities, not property features" },
+    { "check": "Bed/bath count legitimacy", "result": "Real 3 bedrooms (floorplan dims 13'3x13'8, 9'9x12'9, 10'2x9'3 + photos p_39, p_47, p_50); true 1.5 baths (pink full p_44 + half p_37); no office fudge. Lower family room is bonus space, not counted as a bedroom — legit" },
+    { "check": "Sqft conflict", "result": "Marketed 1,748 sf vs public-records 1,252 sf — agent discloses '*sq. ft and room count differ from public records'; delta ≈ finished lower-level family room + kitchenette (~496 sf); verify permits. $514/sf marketed basis, $718/sf public-records basis. Record uses 1,748 (JSON-LD/marketing)" },
+    { "check": "Photo recovery", "result": "84/90 MLS gallery photos downloaded from agent property site (openid CDN), + floor plan; 6-photo gap likely branded/MLS variants — confidence high" },
+    { "check": "Source substitution", "result": "Compass URL blocked by AWS WAF challenge (HTTP 202, x-amzn-waf-action: challenge) from this IP; facts + photos sourced from agent's own property site (3615brunell.com) cross-validated against sereno.com IDX (JSON-LD) and mlslistings.com — sources agree on price/beds/baths/sqft/coords" }
+  ]
+}
