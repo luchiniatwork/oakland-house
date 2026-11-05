@@ -43,7 +43,7 @@ Statuses/DOM re-verified against MLS IDX mirrors (CRMLS/bridgeMLS syncs of 11/3â
 
 ## Comparisons
 
-The 10-15/10-18 comps are benchmarked against 6401 Snake (top score); the 10-26 set compares the active mid-tier listings head-to-head, plus a clearing-price scenario overlay (not a validated comparison); the 10-27 comp pits 6077 Skyline against the new 1076 Grizzly Peak; the 10-30 comps pit the new 318 Capricorn against 6077 Skyline (pick: Capricorn) and 7099 Pinehaven against the new 6625 Snake (pick: Pinehaven):
+The 10-15/10-18 comps are benchmarked against 6401 Snake (top score); the 10-26 set compares the active mid-tier listings head-to-head, plus a clearing-price scenario overlay (not a validated comparison); the 10-27 comp pits 6077 Skyline against the new 1076 Grizzly Peak; the 10-30 comps pit the new 318 Capricorn against 6077 Skyline (pick: Capricorn) and 7099 Pinehaven against the new 6625 Snake (pick: Pinehaven); the 11-05 comp pits 33 Eastwood against 7094 Pinehaven (pick: Pinehaven â€” pending since 10/21, so Eastwood is the actionable active alternative):
 
 | Date | Matchup |
 |---|---|
@@ -57,3 +57,4 @@ The 10-15/10-18 comps are benchmarked against 6401 Snake (top score); the 10-26 
 | 2026-10-28 | [6401 Snake vs 6077 Skyline vs 6625 Snake](comparisons/20261028T030907Z-6401-snake-vs-6077-skyline-vs-6625-snake.md) |
 | 2026-10-30 | [318 Capricorn vs 6077 Skyline](comparisons/20261030T192618Z-318-capricorn-vs-6077-skyline.md) |
 | 2026-10-30 | [7099 Pinehaven vs 6625 Snake](comparisons/20261030T235117Z-7099-pinehaven-vs-6625-snake.md) |
+| 2026-11-05 | [33 Eastwood vs 7094 Pinehaven](comparisons/20261105T064936Z-33-eastwood-vs-7094-pinehaven.md) |
