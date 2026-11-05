@@ -2,8 +2,9 @@
 
 Negotiation playbook for pursuing (or walking from) this agent-owned listing.
 Companion files: `listing.json` (scored record, 3.8/5), `card.txt`,
-`crosscheck.md`, `disclosure-analysis.md` (55-doc package review, 2026-11-03),
-`photos/`. Last updated: 2026-11-03.
+`crosscheck.md`, `disclosure-analysis.md` (56-doc package review, updated 2026-11-05),
+`photos/`. Last updated: 2026-11-05 (package re-export 11/4 added the pest report,
+Duval drainage as-built, coversheet w/ escrow details, seller letter).
 
 ## 0. Situation snapshot
 
@@ -11,13 +12,21 @@ Companion files: `listing.json` (scored record, 3.8/5), `card.txt`,
   (1,730 measured), claimed 0.30 AC up-slope lot (FAQ says 5,340 sf; survey metes
   ≈ 11,000 sf — verify). Character 5.0, light 4.5, no living-level water view,
   4–5 split levels, sauna + plunge + **unpermitted** detached studio. Scored **3.8/5**.
-  Listed **$895,000 ($541/sf)** on 10/29/2026; DOM 5 at this writing.
+  Listed **$895,000 ($541/sf)** on 10/29/2026; DOM 7 at this writing.
+  **Competition intel (11/5, via buyer's agent): 37 disclosure-package requests;
+  seller considering an offer date of 11/7 (day after tomorrow).** 37 requests ≠
+  37 offers — this package self-selects (floods, erosion, carryback, encroachments
+  all disclosed) — but even 3–5 real bids in a +26–86%-over-ask micro-market
+  means plan for competition. The 48-hour window kills pre-inspections; the free
+  gates (insurance quote, agent call, payoff statement) must fire TODAY.
 - **The deal:** Sellers = **Alexandria "Allie" Pembleton (the listing agent
   herself, KW Advisors) + Terry Mason**. Bought **$910K (1/27/2021)** from
-  Southworth (her former landlord) with an **$835,000 seller-carryback** (92% LTV,
-  note held by The Richard R. Southworth Revocable Living Trust, **still of
-  record** on the 7/10/2026 prelim). Listed **below their own 2021 purchase
-  price**. Vacant/staged — they already moved to Elmwood.
+  Southworth (her former landlord — she occupied the house **20+ years** before
+  taking title, per her improvements list) with an **$835,000 seller-carryback**
+  (92% LTV, note held by The Richard R. Southworth Revocable Living Trust,
+  **still of record** on the 7/10/2026 prelim). Listed **below their own 2021
+  purchase price**. Vacant/staged — they already moved to Elmwood. **Escrow
+  pre-opened** at Chicago Title (#FWAC-5852601532); offers via HomeLight.
 - **The context:** 1991 firestorm footprint; NHD says **not** in High/Very High
   FHSZ — **verified** against CAL FIRE's 2025 LRA map (parcel = "NonWildland";
   Very High starts ~0.3 mi E/SE) — but the tax bill carries **WILDFIRE PREV-MM
@@ -27,8 +36,14 @@ Companion files: `listing.json` (scored record, 3.8/5), `card.txt`,
   EBRPD). Sidewalk exempt (cert 10/2/26); PSL sewer cert valid to 4/1/2028.
 - **The disclosure package (full review: `disclosure-analysis.md`):** unusually
   honest in prose (floods, erosion, rats, encroachments, noise, theft all
-  disclosed) but **document-thin where it counts**: the promised pest report is
-  **absent**; permit history reveals **CE2000130 code-enforcement abatement** that
+  disclosed) and the 11/4 re-export closed the two biggest gaps: the **East Bay
+  Structural pest report (10/29/26)** is in — no active termites, priced Section I
+  only **$710**, but **three Section I rot items unpriced "BY OTHERS"** (deck
+  post/framing, stair stringers + porch retaining wall, shingles), pervasive
+  earth-to-wood, and roof/attic/upper eaves/rear structures uninspected — and the
+  **Duval french-drain as-built** is in (protects the below-grade family room;
+  **discharges onto the street**; full billing still missing). Still thin where it
+  counts: permit history reveals **CE2000130 code-enforcement abatement** that
   TDS §C.15 answered "**No**"; **no permits** for the 2026 kitchen/bath plumbing
   work, water heater, AC, EV charger, studio electrical, retaining walls;
   flooding history + a garage **designed to let water pass through**; hillside
@@ -50,11 +65,13 @@ documented-but-unpriced defects.
   cannot take a real discount without bringing cash. If the note has a 5-year
   **balloon (~Jan 2026)**, she is under hard deadline pressure right now.
 - **Vacant + already bought in Elmwood** = two housing payments + certainty
-  preference. Time is her cost.
+  preference. **Escrow pre-opened at Chicago Title** before the first weekend —
+  she built the track for a fast close. Time is her cost.
 - **The package itself thins competition.** Flooding, erosion, rats,
   encroachments, noise, and theft are all disclosed in writing — many buyers
-  will self-select out. The missing pest report reads like a red flag to any
-  careful buyer's agent.
+  will self-select out. (The pest report's arrival removes the "withheld report"
+  talking point, but its contents — unpriced Section I rot, earth-to-wood
+  everywhere, half the structures uninspected — still give careful buyers pause.)
 - **Documented disclosure misses:** CE2000130 vs TDS "No"; SPQ lead-reno "No"
   while a pre-1978 house was fully prepped/painted in 2026 (RRP). She is a
   licensee — these are professional exposure, and she knows it.
@@ -101,7 +118,7 @@ character-money for unpriced risk.
 | Pre-decided line | Value |
 |---|---|
 | Open (no competition) | **$860–875K** w/ full contingencies + fast close |
-| Open (competition likely) | **$895K** ask, tight but intact contingencies |
+| Open (competition likely — **now the base case**: 37 pkg requests, offer date 11/7) | **$895K** ask, tight but intact contingencies |
 | Target close | **$875–930K**, gates clean |
 | Hard ceiling | **$950K** — and only if every §9 gate passes clean |
 | Walk line | >$950K, or any failed §8 trigger |
@@ -116,15 +133,18 @@ hillside stabilization $8–20K (2022 bids $5.8–15.3K, stale) · drainage
 completion (downspouts, regrade, garage trench option) $10–30K · chimney sweep
 + Level II $0.5–1K (repair/insert $3–8K if failed) · electrical punch (bath
 light, AFCI) $1–3K · bath fans $1–2K · beehive-deck railing $2–5K · roof moss/
-maintenance $0.5–2K · misc (hoses, gate valve) $0.5K · **Pest/WDO unknowns:
-$0–30K reserve** · **Windows if truly single-pane: $40–80K optional** ·
+maintenance $0.5–2K · misc (hoses, gate valve) $0.5K · **Pest/WDO:
+$5–20K reserve** (priced Section I only $710; three unpriced BY-OTHERS rot items
++ earth-to-wood corrections; no clearance yet) · **Windows if truly single-pane: $40–80K optional** ·
 Studio: accept as-is, $0 cure, $0 contributory value.
 
 ## 3. Gate 1 — Carryback, title & encroachments (the deal spine)
 
 - [ ] **Beneficiary demand / payoff statement** for the $835K Southworth-trust
   note: current balance, rate, **maturity/balloon date**, arrears or extension
-  agreements. Everything about her flexibility lives in this number.
+  agreements. Everything about her flexibility lives in this number. Escrow is
+  pre-opened at **Chicago Title (#FWAC-5852601532, Cristina Tabada)** — she can
+  produce this in a day.
 - [ ] If balloon matured: is the note in default/extension? A cooperative
   Southworth trustee matters to closing mechanics.
 - [ ] **Order updated prelim** (current one effective 7/10/2026 — stale).
@@ -147,9 +167,13 @@ Studio: accept as-is, $0 cure, $0 contributory value.
 AB 968 doesn't apply (owned >18 months) — but she is a **licensed agent
 disclosing her own home**; professional + statutory duties are fully engaged.
 
-- [ ] **Demand the East Bay Structural pest report** (David Padilla,
-  415.593.6100) — TDS §I + SPQ 5.B both reference it. If it exists and is bad,
-  its absence is a story; if it doesn't exist, commission your own immediately.
+- [ ] ~~Demand the East Bay Structural pest report~~ **Delivered 11/4** (report
+  #26077, 10/29/26). Now demand: **bids for the three unpriced Section I
+  "BY OTHERS" items** (3B, 3G, 6A), **Section I completion + clearance
+  pre-close**, and the **hall-bath work-in-progress** paperwork (who, permit,
+  warranty — it was still underway at inspection). Optional: your own pest
+  inspection of the areas East Bay skipped (roof surface, attic, upper eaves,
+  rear detached decks/walls, studio).
 - [ ] **Permit finals in hand:** RE2402807 (200A panel, finaled 10/2024 ✓ via
   screenshot — get the record), RBC2402586 deck (Inspection Final ✓ — get the
   **special-inspection letters** for epoxy/piers; package has only blank
@@ -164,8 +188,10 @@ disclosing her own home**; professional + statutory duties are fully engaged.
   2 exterior sides painted 2026 — EPA lead-safe certification on file?
 - [ ] **Warranties/docs:** roof warranty (re-roof cert promised manufacturer
   warranty), Advanced Electrical 1-yr workmanship, **Alley Cat rodent warranty
-  transfer in writing** ("through next year"), Duval french-drain full billing
-  + as-built (docs 25/26 are the same invoice twice — where's the rest?).
+  transfer in writing** ("through next year"), **Duval french-drain full billing**
+  (as-built summary delivered 11/4, but docs 27/28 remain the same invoice
+  twice — verified identical — where's the rest of the spend?) + any **permit
+  for the street discharge** of the drain.
 - [ ] **Jarvis deck plans** (incl. kitchen-enlargement + larger-slider options,
   per SPQ 5.B) — future-remodel value, free to ask.
 - [ ] **Furnace/water-heater dates + permits** (FAQ vs permits vs BPG
@@ -202,7 +228,9 @@ date** if competition forces short contingencies.
 2. [ ] **Independent general inspection** — BPG's exclusions are your scope:
     studio (posts, slope, electrical), sauna/plunge equipment, upper-lot
     walls/decks, roof **walked** (BPG used binoculars), garage water paths.
-3. [ ] **Structural pest/WDO** — dry rot history (hall bath floor, posts),
+3. [ ] **Structural pest/WDO follow-up** — seller's 10/29 report is fresh; your
+    scope is what it skipped + priced bids for its BY-OTHERS Section I items:
+    dry rot history (hall bath floor — work in progress at inspection, posts),
     20-yr rat program, wood shingles, moisture paths.
 4. [ ] **Geotech/soils + structural** (~$1–2K): erosion + leaning walls +
     studio posts + seismic package (anchor bolts, T-straps, corner bracing,
@@ -244,7 +272,7 @@ date** if competition forces short contingencies.
 |---|---|
 | Insurance unbindable, or FAIR+DIC > ~$9K/yr | Carrying cost breaks the model — **check first, free** |
 | Geotech: active slope movement or stabilization > ~$50K without full credit | Landslide zone + worsening erosion = compounding, not incremental |
-| Pest/WDO Section 1 > ~$30–40K without cure/credit | Withheld report + rot history + rats — assume why until shown |
+| Pest/WDO Section 1 (incl. unpriced BY-OTHERS bids) > ~$30–40K without cure/credit | Rot history + rats + pervasive earth-to-wood — the $710 priced figure is the floor, not the number |
 | Carryback payoff > workable proceeds (seller can't close clean) | Dead deal regardless of price — learn this early, cheaply |
 | CE2000130 still open, or city flags the studio for removal | Permit/lender/title contamination |
 | Encroachment on 300 Capricorn becomes an active dispute / title refuses any coverage | Unquantifiable legal tail |
@@ -257,7 +285,7 @@ date** if competition forces short contingencies.
 |---|---|
 | 0. Deal facts | Offer date/process known (HomeLight); carryback balance + maturity known; CE2000130 status known |
 | 1. Title/encroachments | Updated prelim clean; survey coverage or encroachment agreements path confirmed |
-| 2. Permits/disclosures | Pest report in hand (or ours done); permit finals delivered; unpermitted stack priced or cured |
+| 2. Permits/disclosures | Pest Section I bids in hand + clearance plan; permit finals delivered; unpermitted stack priced or cured |
 | 3. Insurance | Written bindable quote ≤ budget — **before offering** |
 | 4. Physical | Geotech + drainage + pest + sewer + chimney findings ≤ reserve, or credited |
 | 5. Number | Final ≤ **$930K** target, ≤ **$950K** absolute, gates green |
@@ -272,18 +300,35 @@ file are the record — walking is cheap by design.
 **Pre-offer (free, 1–2 days):**
 1. Call/text the agent (she picks up — it's her house): offer date or
    pre-emptives? Any offers in hand? Her Elmwood close timeline?
-2. Ask for: **pest report**, **CE2000130 closure**, **note balance/balloon**
-   (via escrow benefit statement), her **insurance carrier/premium**, offer
-   date.
+2. Ask for: **Section I pest bids/clearance plan**, **CE2000130 closure**, **note
+   balance/balloon** (benefit statement via the already-open Chicago Title
+   escrow), her **insurance carrier/premium**, offer date.
 3. **Get the insurance quote started the same day.**
 4. Optional but strong: request access for **pre-inspections** (vacant house;
    geotech + pest + drainage before offering = asymmetric information).
+5. **(Added 11/5, offer date 11/7) Pre-book inspectors TODAY, tentatively** —
+   geotech/soils + structural, drainage specialist, sewer scan, Level II chimney,
+   roof walk — slotted for the first week after acceptance. With a 7–10 day
+   inspection contingency in an offer-date scenario, inspector lead time is the
+   binding constraint, not the clock. Cancel if not selected; most will hold a
+   tentative slot for a buyer's agent's call.
+6. **Demands she can't meet by 11/7 become offer conditions.** Fire the three
+   document demands (payoff statement, CE2000130 closure, Section I pest bids +
+   clearance plan) immediately; whatever isn't delivered by the offer date goes
+   into the BMI with a **documents-due-in-3-days** condition (already in the
+   offer structure below).
+7. **If the date slips or it doesn't sell on 11/7, the leverage inverts.** Every
+   disclosed defect (floods, erosion, unpermitted stack, encroachments, ~zero
+   equity) converts from diligence into price. Be prepared to lose at $950K+ —
+   the walk-away discipline is the strategy — and be ready to re-engage hard if
+   it sits.
 
 **Serve a written BMI** (C.A.R. Buyer Material Information request) with the
-full demand list: `disclosure-analysis.md` §1–2 — pest report, CE file, permit
-finals, special-inspection letters, warranties, Duval full billing, Jarvis
-plans, note payoff, insurance history, appliance list, parking explanation,
-furnace/WH dates.
+full demand list: `disclosure-analysis.md` §1–2 — Section I pest bids +
+clearance commitment, CE file, permit finals, special-inspection letters,
+warranties, Duval full billing + street-discharge permit, hall-bath completion
+docs, Jarvis plans, note payoff, insurance history, appliance list, parking
+explanation, furnace/WH dates.
 
 **Offer structure:**
 - **No competition signal:** open **$860–875K**, 21–25 day close (fast = the
@@ -313,14 +358,24 @@ bound in writing; payoff statement reconciled by escrow.
 - [ ] Carryback: balance, rate, **maturity/balloon**, default/extension status?
   (Everything about her flexibility.)
 - [ ] CE2000130: violation, opened ~2020 (pre-her-ownership?), closed?
-- [ ] Pest report: exists? Contents? Why absent from the package?
+- [x] Pest report: exists? Contents? Why absent from the package? → **Resolved
+  11/4:** delivered (EBS #26077, 10/29/26). No active termites; Section I $710
+  priced + 3 unpriced BY-OTHERS rot items; no clearance. New questions: bids for
+  3B/3G/6A? Will she complete Section I pre-close? Hall-bath work (in progress
+  10/29) finished, permitted, warranted?
 - [ ] Her insurance: carrier, premium, renewal/non-renewal history? CLUE?
-- [ ] Offer date / pre-emptive process (HomeLight submission mechanics)?
-- [ ] Competition read: showings traffic, 6625 Snake's trajectory as the
-  same-week alternative?
+- [x] Offer date / pre-emptive process → **11/7 under consideration** (per
+  buyer's agent, 11/5); submission via HomeLight Listing Management. Confirm the
+  exact date/time + whether pre-emptives are entertained TODAY.
+- [x] Competition read → **37 disclosure-package requests** as of 11/5. Expect
+  heavy attrition from the disclosed risk stack; plan for 3–5 serious bids.
+  6625 Snake ($849K, same-day list) remains the alternative — watch its
+  trajectory as the tell for how many losers spill over.
 - [ ] Studio: any city attention ever? Electrical route (permit RE2402807
   scope?) — and is the plunge pool heated?
-- [ ] French drain: full Duval billing, as-built routing, warranty?
+- [ ] French drain: full Duval billing still missing (docs 27/28 = same invoice
+  twice). As-built resolved 11/4: protects below-grade family room, **discharges
+  onto the street** — is that discharge permitted/curb-drained? Warranty?
 - [ ] Furnace/WH install dates + permits (record conflicts)?
 - [ ] Windows: actual glazing inventory?
 - [ ] Roof: 2021 vs 2022 reconciliation + warranty document?
