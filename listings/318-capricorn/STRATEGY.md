@@ -369,8 +369,13 @@ bound in writing; payoff statement reconciled by escrow.
   exact date/time + whether pre-emptives are entertained TODAY.
 - [x] Competition read → **37 disclosure-package requests** as of 11/5. Expect
   heavy attrition from the disclosed risk stack; plan for 3–5 serious bids.
-  6625 Snake ($849K, same-day list) remains the alternative — watch its
-  trajectory as the tell for how many losers spill over.
+  6625 Snake ($849K, same-day list) is **tell-only, no longer the fallback** —
+  visited 11/2026, no joy, renovation-heavy (kitchen relocation $100–175K, no
+  en-suite path, garage lost to office/gym, 4th-bed fudge confirmed): all-in at
+  ask ≈ $985K–1.10M, worse than this house all-in (see
+  `listings/6625-snake/visit-notes.md`). Watch its trajectory purely as the
+  tell for micro-market heat and how many losers spill over; if Capricorn
+  fails a gate or clears $950K, the move is to keep searching, not to settle.
 - [ ] Studio: any city attention ever? Electrical route (permit RE2402807
   scope?) — and is the plunge pool heated?
 - [ ] French drain: full Duval billing still missing (docs 27/28 = same invoice
