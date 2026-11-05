@@ -24,6 +24,7 @@ Statuses/DOM re-verified against MLS IDX mirrors (CRMLS/bridgeMLS syncs of 11/3�
 | | Score | Address | Ask | Sold | Bd/Ba | Sqft | $/sf (ask) | Status |
 |---|---|---|---|---|---|---|---|---|
 | [`6401-snake/`](6401-snake/) | 4.2 | 6401 Snake Rd | $998,000 | $1,260,000 ($914/sf) | 2/2 | 1,379 | $724 | SOLD 10/26 (+26% over ask) |
+| [`6944-snake/`](6944-snake/) | 4.1 | 6944 Snake Rd | $995,000 | — | 4/3 | 2,364 | $421 | New, 0 DOM (listed 11/5, OH 11/7–9); SFAR RESFAR #426174132, fetched via Jina proxy (Compass WAF-blocked); verified panoramic Bay/SF views + rare flat garden; Very High FHSZ (presumptive) — quote insurance first; shared driveway via 58 Hemlock Ln; lower level unphotographed — verify in person; $421/sf vs Snake comps' $828–914/sf closes = list-low/bid-up |
 | [`6833-snake/`](6833-snake/) | 4.0 | 6833 Snake Rd | $899,000 | $1,675,000 ($828/sf) | 4/2 | 2,023 | $444 | SOLD 10/8 (+86% over ask) |
 | [`318-capricorn/`](318-capricorn/) | 3.8 | 318 Capricorn Ave | $895,000 | — | 2/2 | 1,655 | $541 | agent-owned, $835K seller-carryback — see [STRATEGY.md](318-capricorn/STRATEGY.md); 7 DOM (OH 11/7); '76 Sea Ranch–style treehouse + studio; FHSZ "NonWildland" per 2025 LRA map but '91 firestorm footprint — quote insurance first |
 | [`15-north/`](15-north/) | 3.8 | 15 North Cir | $1,149,000 | — | 4/2.5 | 2,410 | $477 | PENDING 10/28 (13 DOM) — still pending per 11/3 CRMLS sync |
