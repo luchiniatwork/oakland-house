@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "slug": "177-diablo",
+  "source": {
+    "url": "https://www.compass.com/homedetails/177-Diablo-Dr-Oakland-CA-94611/2231542125235423913_lid/",
+    "mirrorOf": null,
+    "fetchedAt": "2026-11-05T01:34:00Z"
+  },
+  "listing": {
+    "address": "177 Diablo Dr, Oakland, CA 94611",
+    "price": 950000,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1631,
+    "pricePerSqft": 582,
+    "lotAc": null,
+    "dom": null,
+    "status": "Active",
+    "fhsz": "Very High FHSZ (presumptive)",
+    "coords": [37.846954, -122.199857],
+    "elevationFt": 1493.5,
+    "style": null,
+    "description": null
+  },
+  "scores": {
+    "view": {
+      "score": 2.5,
+      "note": "No listing photos public (p_01 is a 'PRIVATE EXCLUSIVE' placeholder); satellite (p_02, p_03) shows steep S/SW hillside at 1,493 ft near the ridge — wooded/canyon outlook plausible, bay view unverified. Area precedent (7015 Elverton) markets bay/city-light views, but subject pad faces the interior slope."
+    },
+    "natural_light": {
+      "score": 2,
+      "note": "Unscorable from listing media — no interior photos exist publicly (p_01 placeholder). Dense tree canopy adjacent to the parcel on satellite (p_03) raises real shading risk. Defaulted low; flagged, not skipped."
+    },
+    "character": {
+      "score": 2,
+      "note": "Unscorable — zero property photos public; architecture, era, and materials unknown (p_01 is a placeholder graphic). Hills 2/2 stock here ranges from MCM post-and-beam to generic ranch."
+    },
+    "kitchen": {
+      "score": 2,
+      "note": "Unscorable — no photos, no description (login-gated off-MLS listing, p_01)."
+    },
+    "privacy": {
+      "score": 2.5,
+      "note": "Wooded, low-density street with canopy screening (p_02); but the pad sits below the road with downhill neighbors ~15–20 m away (p_03) — typical hills mutual exposure. Partial credit from satellite only."
+    },
+    "layout_flow": {
+      "score": 2,
+      "note": "Unscorable — no floor plan or photos; a 2/2 in ~1,631 sqft (public-record sqft, see crosschecks) is usually efficient but nothing is verifiable (p_01)."
+    },
+    "primary_suite": {
+      "score": 2,
+      "note": "Unscorable — no photos or room-level data public (p_01)."
+    },
+    "outdoor_space": {
+      "score": 2,
+      "note": "Satellite (p_03) shows a mostly bare, sloped pad with canopy at the edges; usable flat outdoor area looks limited and no deck/patio is verifiable. Unverified."
+    },
+    "condition": {
+      "score": 2,
+      "note": "Unscorable — satellite pad reads bare/graded with a possible small structure; age, roof, windows, and maintenance state all unknown (p_03)."
+    },
+    "lot_usability": {
+      "score": 2,
+      "note": "No lot size published (null); terrain is a steep hillside pad with limited flat ground visible (p_03). Usability likely constrained; unverified."
+    }
+  },
+  "weightedTotal": 2.1,
+  "verdict": "This house is a bet on location with zero public evidence behind it: a 2/2 at $950K on a steep, wooded ridge-edge street in Montclair, listed off-MLS as a Compass Private Exclusive with every substantive fact — photos, description, sqft, lot, DOM — hidden behind a login. The trade-off it offers is entry-level hills pricing ($582/sf on public-record sqft, under the $700/sf ask at 25 Diablo) in exchange for unverifiable condition, Very High fire-zone exposure, and a steep pad of unknown usability. It is not a skip — it is a phone call: get the agent's full package before judging.",
+  "flags": [
+    "🔥 Very High FHSZ (presumptive) — 1,493 ft in the Oakland hills wildland interface; 1991 firestorm footprint",
+    "🏦 Insurance availability/cost risk — Oakland hills zip; bindable quote must come before any offer",
+    "🕵️ Off-MLS Compass Private Exclusive — description, sqft, lot size, DOM and ALL property photos login-gated; almost nothing publicly verifiable",
+    "📷 Zero property photos public — the listing's only media is a 'PRIVATE EXCLUSIVE' placeholder graphic; all visual scoring is absence-of-evidence",
+    "🌲 Dense tree canopy adjacent to structure + dry-grass ground fuel on/around parcel (satellite) — defensible-space question",
+    "🏔️ Steep hillside pad; foundation type (stilt/pier common here), slope stability and drainage all unknown",
+    "📊 Compass metadata lists the county as Contra Costa — actual county is Alameda; off-MLS data quality is unvetted, verify everything",
+    "🔎 DOM and list date unknown — only a 'last updated 11/04/2026' stamp is public",
+    "📏 sqft (1,631) is public-record data via a Redfin snippet, NOT from the listing — treat as approximate"
+  ],
+  "positives": [
+    "$950K for a 2/2 in Montclair 94611 is entry-level for the hills — nearby actives run $799K–$1.65M (Movoto)",
+    "~$582/sf on public-record sqft vs $700/sf ask at nearby 25 Diablo Dr (3,370 sqft, 2017 build)",
+    "Ridge-adjacent 1,493 ft elevation on a wooded, low-density street with larger estates nearby",
+    "Schools (per Compass/GreatSchools): Thornhill Elementary 8/10 (1.0 mi), Montera Middle 7/10",
+    "Recall play: private exclusives move quietly — an agent call could surface a below-market 2/2 before it hits MLS"
+  ],
+  "orientationInference": "Satellite + elevation indicate the pad slopes S/SW off Diablo Dr with heavy surrounding canopy — likely a tree-filtered canyon-side outlook rather than a bay view, with afternoon sun on the slope. Inference, LOW confidence: no listing photography, drone shots, or street-level imagery available.",
+  "photos": [
+    {
+      "file": "photos/p_01.jpg",
+      "note": "The listing's ONLY public media — a 'PRIVATE EXCLUSIVE' placeholder graphic, not a property photo; all real listing media is login-gated on this off-MLS Compass Private Exclusive"
+    },
+    {
+      "file": "photos/p_02.jpg",
+      "note": "Satellite context (Esri World Imagery, NOT a listing photo; red box = parcel): steep, heavily wooded hillside, houses clustered along winding Diablo Dr, dry-grass ground fuel between parcels, larger estate compound west"
+    },
+    {
+      "file": "photos/p_03.jpg",
+      "note": "Satellite parcel view (Esri, NOT a listing photo; red box ≈16 m): mostly bare/graded pad with possible small structure, tree canopy close on east and west edges, steep drop to S/SW, downhill neighbors ~15–20 m"
+    }
+  ],
+  "crosschecks": [
+    {
+      "check": "Marketing claims vs photos",
+      "result": "Nothing to verify — no marketing description and no property photos are public (Compass Private Exclusive, login-gated). Only public claims: 2bd/2ba, $950,000, Active. Neither rewarded nor penalized for honesty; flagged as unverifiable."
+    },
+    {
+      "check": "Geocoder vs page coords",
+      "result": "Page coords unavailable ('Map location is unavailable for this listing' — gated). Census TIGER interpolated match (street range 55–199, ±1–2 parcels): 37.846954, -122.199857. Corroborated within ~52 m by MLS-published coords for 25 Diablo Dr (37.8469454, -122.2006101) on the same block. No conflict detectable."
+    },
+    {
+      "check": "Elevation / micro-market",
+      "result": "USGS EPQS: 1,493.5 ft — near ridge top off Skyline/Elverton (Forestland/Montclair hills). Micro-market (Movoto): vacant hillside lots $45K–$750K nearby (fire-zone land), SFRs $799K–$1.65M. 25 Diablo Dr (3/3.5, 3,370 sqft, 2017) asks $2.358M = $700/sf; subject at $582/sf on public-record sqft."
+    },
+    {
+      "check": "Orientation",
+      "result": "No dusk/drone photography exists to corroborate. Satellite slope aspect (S/SW) + 1,493 ft ridge-adjacent elevation → likely tree-filtered canyon-side outlook, afternoon sun. Inference, low confidence."
+    },
+    {
+      "check": "FHSZ / insurance",
+      "result": "94611 (Montclair) is presumptive Very High FHSZ inside the 1991 Oakland firestorm footprint — insurance-availability flag RAISED. At 1,493 ft with dense canopy and dry ground fuel on satellite, treat as highest-tier hazard until the CAL FIRE map and a bindable quote say otherwise."
+    },
+    {
+      "check": "Amenity claims",
+      "result": "None made publicly (gated listing). Compass lists schools: Thornhill Elem 8/10 at 1.0 mi, Montera Middle 7/10 at 1.8 mi, Skyline High 6/10 — plausible for this location."
+    },
+    {
+      "check": "Bed/bath count legitimacy",
+      "result": "2bd/2ba (2 full, 0 half) per JSON-LD AND window.__INITIAL_DATA__ — sources agree. Cannot judge room legitimacy (no photos/floor plan public). Total rooms listed as 4."
+    },
+    {
+      "check": "sqft provenance",
+      "result": "1,631 sqft comes from Redfin public-records data surfaced in search results (Redfin est $1,009,074) — NOT from the gated listing. Recorded with provenance flag; treat as approximate until the agent package or assessor record confirms."
+    },
+    {
+      "check": "Source data quality",
+      "result": "Compass off-MLS manual entry (listing_editor_manual): county field wrongly says 'Contra Costa County' (actual: Alameda); description empty; mediaCompliance hides media as 'Private'. Off-MLS data is agent-entered and unvetted — every fact needs agent/assessor confirmation."
+    },
+    {
+      "check": "Fetch path",
+      "result": "Compass served AWS WAF 202/challenge to curl and to the first fetch attempt; page obtained via Jina reader proxy on the canonical Compass URL (no mirror substitution — mirrorOf null). Movoto/realtor.com/homes.com/realtyhop all blocked or lack the listing (off-MLS)."
+    }
+  ]
+}
