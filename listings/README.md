@@ -14,28 +14,32 @@ Each listing folder contains:
 | `photos/` | Listing photos (`p_NN.jpg`) |
 | `STRATEGY.md` | Pursuit playbook (only where one exists) |
 | `web-research.md` | Supplemental web research (only where one exists) |
+| `disclosure-analysis.md` | Disclosure-package analysis (only where one exists) |
+| `visit-notes.md` | Open-house / tour notes (only where one exists) |
 
 ## Listings by score
 
-Statuses/DOM re-verified against Compass/MLS on 2026-10-30. Ask = current/last list price; Sold = closing price; $/sf computed on ask (sold rows carry closing $/sf in the Sold cell).
+Statuses/DOM re-verified against MLS IDX mirrors (CRMLS/bridgeMLS syncs of 11/3–11/4) on 2026-11-05. Ask = current/last list price; Sold = closing price; $/sf computed on ask (sold rows carry closing $/sf in the Sold cell).
 
 | | Score | Address | Ask | Sold | Bd/Ba | Sqft | $/sf (ask) | Status |
 |---|---|---|---|---|---|---|---|---|
 | [`6401-snake/`](6401-snake/) | 4.2 | 6401 Snake Rd | $998,000 | $1,260,000 ($914/sf) | 2/2 | 1,379 | $724 | SOLD 10/26 (+26% over ask) |
 | [`6833-snake/`](6833-snake/) | 4.0 | 6833 Snake Rd | $899,000 | $1,675,000 ($828/sf) | 4/2 | 2,023 | $444 | SOLD 10/8 (+86% over ask) |
-| [`318-capricorn/`](318-capricorn/) | 3.8 | 318 Capricorn Ave | $895,000 | — | 2/2 | 1,655 | $541 | agent-owned, $835K seller-carryback — see [STRATEGY.md](318-capricorn/STRATEGY.md); 1 DOM; '76 Sea Ranch–style treehouse + studio; FHSZ "NonWildland" per 2025 LRA map but '91 firestorm footprint — quote insurance first |
-| [`15-north/`](15-north/) | 3.8 | 15 North Cir | $1,149,000 | — | 4/2.5 | 2,410 | $477 | PENDING 10/28 (13 DOM) |
-| [`5970-rincon/`](5970-rincon/) | 3.8 | 5970 Rincon Dr | $895,000 | — | 2/1 | 1,192 | $751 | PENDING 10/27 (12 DOM) |
-| [`6077-skyline/`](6077-skyline/) | 3.7 | 6077 Skyline Blvd | $1,250,000 | — | 3/3 | 1,551 | $806 | flip — see [STRATEGY.md](6077-skyline/STRATEGY.md); 59 DOM; 2nd cut 10/22 ($145K off Jul ask) + fallen escrow |
-| [`1488-summit/`](1488-summit/) | 3.6 | 1488 Summit Rd, Berkeley | $1,480,000 | — | 3/2.5 | 1,320 | $1,121 | 14 DOM; teaser pulled — repriced +48% ($999,999 → $1.48M) on 10/30; sold $1.8M '21 |
-| [`1076-grizzly-peak/`](1076-grizzly-peak/) | 3.5 | 1076 Grizzly Peak Blvd, Berkeley | $1,049,000 | — | 3/3* | 1,866 | $562 | 4 DOM; *3rd bd/ba = detached cottage, non-conforming (MLS duplex); $186K under 2021 sale |
-| [`6773-wilton/`](6773-wilton/) | 3.5 | 6773 Wilton Dr | $1,099,000 | — | 3/2 | 1,710 | $643 | PENDING 10/15 (14 DOM) |
-| [`6931-pinehaven/`](6931-pinehaven/) | 3.5 | 6931 Pinehaven Rd | $1,049,000 | — | 4/3.5 | 2,336 | $449 | short sale — see [STRATEGY.md](6931-pinehaven/STRATEGY.md); 14 DOM |
-| [`7099-pinehaven/`](7099-pinehaven/) | 3.5 | 7099 Pinehaven Rd | $899,000 | — | 5/3 | 2,492 | $361 | 10 DOM; 3bd main + detached 2bd ADU; $476K under '20 sale ($1.375M) |
-| [`6625-snake/`](6625-snake/) | 3.4 | 6625 Snake Rd | $849,000 | — | 4/2 | 1,512 | $561 | New, 1 DOM (listed 10/29; OH 11/1 as previously advertised); '59 MCM treehouse, canyon view only; $100K under 2022 sale |
-| [`7094-pinehaven/`](7094-pinehaven/) | 3.4 | 7094 Pinehaven Rd | $795,000 | — | 3/2 | 1,530 | $520 | PENDING 10/21 (14 DOM) |
-| [`33-eastwood/`](33-eastwood/) | 3.2 | 33 Eastwood Ct | $988,000 | — | 3/2 | 1,547 | $639 | 21 DOM; flip — seller paid $770K on 7/14/26 (+28% ask) |
-| [`5924-balboa/`](5924-balboa/) | 3.2 | 5924 Balboa Dr | $699,000 | — | 2/2 | 923 | $757 | 50 DOM |
+| [`318-capricorn/`](318-capricorn/) | 3.8 | 318 Capricorn Ave | $895,000 | — | 2/2 | 1,655 | $541 | agent-owned, $835K seller-carryback — see [STRATEGY.md](318-capricorn/STRATEGY.md); 7 DOM (OH 11/7); '76 Sea Ranch–style treehouse + studio; FHSZ "NonWildland" per 2025 LRA map but '91 firestorm footprint — quote insurance first |
+| [`15-north/`](15-north/) | 3.8 | 15 North Cir | $1,149,000 | — | 4/2.5 | 2,410 | $477 | PENDING 10/28 (13 DOM) — still pending per 11/3 CRMLS sync |
+| [`5970-rincon/`](5970-rincon/) | 3.8 | 5970 Rincon Dr | $895,000 | — | 2/1 | 1,192 | $751 | PENDING 10/27 (12 DOM) — still pending |
+| [`6077-skyline/`](6077-skyline/) | 3.7 | 6077 Skyline Blvd | $1,250,000 | — | 3/3 | 1,551 | $806 | flip — see [STRATEGY.md](6077-skyline/STRATEGY.md); 64 CDOM (IDX 11/4); still $1.25M after 2nd cut 10/22 ($145K off Jul ask) + fallen escrow |
+| [`1488-summit/`](1488-summit/) | 3.6 | 1488 Summit Rd, Berkeley | $1,480,000 | — | 3/2.5 | 1,320 | $1,121 | 19 DOM; teaser pulled — repriced +48% ($999,999 → $1.48M) on 10/30; sold $1.8M '21 |
+| [`1076-grizzly-peak/`](1076-grizzly-peak/) | 3.5 | 1076 Grizzly Peak Blvd, Berkeley | $1,049,000 | — | 3/3* | 1,866 | $562 | PENDING by 11/4 (listed 10/26; ≤9 DOM); *3rd bd/ba = detached cottage, non-conforming (MLS duplex); $186K under 2021 sale |
+| [`6773-wilton/`](6773-wilton/) | 3.5 | 6773 Wilton Dr | $1,099,000 | — | 3/2 | 1,710 | $643 | PENDING 10/15 (14 DOM) — still pending |
+| [`6931-pinehaven/`](6931-pinehaven/) | 3.5 | 6931 Pinehaven Rd | $1,049,000 | — | 4/3.5 | 2,336 | $449 | short sale — see [STRATEGY.md](6931-pinehaven/STRATEGY.md); 20 DOM |
+| [`7099-pinehaven/`](7099-pinehaven/) | 3.5 | 7099 Pinehaven Rd | $899,000 | — | 5/3 | 2,492 | $361 | 16 DOM; 3bd main + detached 2bd ADU; $476K under '20 sale ($1.375M) |
+| [`6625-snake/`](6625-snake/) | 3.4 | 6625 Snake Rd | $849,000 | — | 4/2 | 1,512 | $561 | 7 DOM (OH 11/8) — see [visit-notes.md](6625-snake/visit-notes.md); '59 MCM treehouse, canyon view only; $100K under 2022 sale |
+| [`3615-brunell/`](3615-brunell/) | 3.4 | 3615 Brunell Dr | $899,000 | — | 3/1.5 | 1,748* | $514 | New, 1 DOM (OH 11/7–8); '54 MCM post-and-beam time capsule w/ real bay views; Very High FHSZ confirmed (2025 LRA) — quote insurance first; *marketed sqft vs 1,252 public record (lower level incl., disclosed) |
+| [`7094-pinehaven/`](7094-pinehaven/) | 3.4 | 7094 Pinehaven Rd | $795,000 | — | 3/2 | 1,530 | $520 | PENDING 10/21 (14 DOM) — close scheduled 11/11 |
+| [`33-eastwood/`](33-eastwood/) | 3.2 | 33 Eastwood Ct | $988,000 | — | 3/2 | 1,547 | $639 | 27 DOM; flip — seller paid $770K on 7/14/26 (+28% ask) |
+| [`5924-balboa/`](5924-balboa/) | 3.2 | 5924 Balboa Dr | $699,000 | — | 2/2 | 923 | $757 | 56 DOM |
+| [`177-diablo/`](177-diablo/) | 2.1 | 177 Diablo Dr | $950,000 | — | 2/2 | 1,631* | $582 | off-MLS Compass Private Exclusive — login-gated, 0 public photos, DOM n/a; Very High FHSZ (presumptive) — call the agent; *public-record sqft |
 
 ## Comparisons
 
