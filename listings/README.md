@@ -44,7 +44,7 @@ Statuses/DOM re-verified against MLS IDX mirrors (CRMLS/bridgeMLS syncs of 11/3�
 
 ## Comparisons
 
-The 10-15/10-18 comps are benchmarked against 6401 Snake (top score); the 10-26 set compares the active mid-tier listings head-to-head, plus a clearing-price scenario overlay (not a validated comparison); the 10-27 comp pits 6077 Skyline against the new 1076 Grizzly Peak; the 10-30 comps pit the new 318 Capricorn against 6077 Skyline (pick: Capricorn) and 7099 Pinehaven against the new 6625 Snake (pick: Pinehaven); the 11-05 comp pits 33 Eastwood against 7094 Pinehaven (pick: Pinehaven — pending since 10/21, so Eastwood is the actionable active alternative):
+The 10-15/10-18 comps are benchmarked against 6401 Snake (top score); the 10-26 set compares the active mid-tier listings head-to-head, plus a clearing-price scenario overlay (not a validated comparison); the 10-27 comp pits 6077 Skyline against the new 1076 Grizzly Peak; the 10-30 comps pit the new 318 Capricorn against 6077 Skyline (pick: Capricorn) and 7099 Pinehaven against the new 6625 Snake (pick: Pinehaven); the 11-05 comp pits 33 Eastwood against 7094 Pinehaven (pick: Pinehaven — pending since 10/21, so Eastwood is the actionable active alternative); the second 11-05 comp pits the two highest-scored active listings, 6944 Snake and 318 Capricorn, head-to-head (pick: 6944 Snake — its verified panoramic Bay/SF view beats Capricorn's 5.0 character on the fixed weights, though Capricorn wins on weighted-points-per-$M):
 
 | Date | Matchup |
 |---|---|
@@ -59,3 +59,4 @@ The 10-15/10-18 comps are benchmarked against 6401 Snake (top score); the 10-26 
 | 2026-10-30 | [318 Capricorn vs 6077 Skyline](comparisons/20261030T192618Z-318-capricorn-vs-6077-skyline.md) |
 | 2026-10-30 | [7099 Pinehaven vs 6625 Snake](comparisons/20261030T235117Z-7099-pinehaven-vs-6625-snake.md) |
 | 2026-11-05 | [33 Eastwood vs 7094 Pinehaven](comparisons/20261105T064936Z-33-eastwood-vs-7094-pinehaven.md) |
+| 2026-11-05 | [6944 Snake vs 318 Capricorn](comparisons/20261105T230527Z-6944-snake-vs-318-capricorn.md) |
