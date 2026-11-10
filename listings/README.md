@@ -72,8 +72,9 @@ Small, cheap retreat ≤3h from SF (hard gate), nature, turnkey-STR potential.
 
 ## Comparisons
 
-All comparisons so far are view-house matchups (scores are only
-comparable within a bucket). The 10-15/10-18 comps are benchmarked
+Comparisons run within a bucket only: every matchup below is
+view-house except the 11-10 comp, the first getaway matchup. The
+10-15/10-18 comps are benchmarked
 against 6401 Snake (top score); the 10-26 set compares the active
 mid-tier listings head-to-head, plus a clearing-price scenario overlay
 (not a validated comparison); the 10-27 comp pits 6077 Skyline against
@@ -85,7 +86,12 @@ Eastwood is the actionable active alternative); the second 11-05 comp
 pits the two highest-scored active listings, 6944 Snake and 318
 Capricorn, head-to-head (pick: 6944 Snake — its verified panoramic
 Bay/SF view beats Capricorn's 5.0 character on the fixed weights,
-though Capricorn wins on weighted-points-per-$M):
+though Capricorn wins on weighted-points-per-$M); the 11-10 comp pits
+33940 Jennifer against 32774 Road (pick: 33940 Jennifer — its
+turnkey-furnished $197k tiny-home package on 2.85 gated oak acres
+beats Road's unfurnished $400k cabin on the getaway weights; the whole
+margin lives in the turnkey_airbnb dimension, and both fail the 3h
+gate, so the pick only stands if the buyer relaxes it to ~4h):
 
 | Date | Matchup |
 |---|---|
@@ -101,3 +107,4 @@ though Capricorn wins on weighted-points-per-$M):
 | 2026-10-30 | [7099 Pinehaven vs 6625 Snake](comparisons/20261030T235117Z-7099-pinehaven-vs-6625-snake.md) |
 | 2026-11-05 | [33 Eastwood vs 7094 Pinehaven](comparisons/20261105T064936Z-33-eastwood-vs-7094-pinehaven.md) |
 | 2026-11-05 | [6944 Snake vs 318 Capricorn](comparisons/20261105T230527Z-6944-snake-vs-318-capricorn.md) |
+| 2026-11-10 | [33940 Jennifer vs 32774 Road](comparisons/20261110T183137Z-33940-jennifer-vs-32774-road.md) (getaway) |
