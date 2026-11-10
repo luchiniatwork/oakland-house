@@ -29,8 +29,9 @@ if (!parsed.success) {
 
 const errors = [];
 
-// weighted total must match the fixed weights
-const recomputed = Object.entries(WEIGHTS).reduce(
+// weighted total must match the fixed weights for the record's bucket
+const weights = WEIGHTS[parsed.data.bucket];
+const recomputed = Object.entries(weights).reduce(
   (sum, [dim, w]) => sum + parsed.data.scores[dim].score * w,
   0
 );
@@ -52,4 +53,4 @@ if (errors.length) {
   process.exit(1);
 }
 
-console.log(`VALID: ${target} (weightedTotal ${parsed.data.weightedTotal}, ${parsed.data.photos.length} photos)`);
+console.log(`VALID: ${target} (${parsed.data.bucket}, weightedTotal ${parsed.data.weightedTotal}, ${parsed.data.photos.length} photos)`);

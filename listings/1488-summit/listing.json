@@ -1,5 +1,6 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "bucket": "view-house",
   "slug": "1488-summit",
   "source": {
     "url": "https://www.compass.com/homedetails/1488-Summit-Rd-Berkeley-CA-94708/1PVWWH_pid/",

@@ -3,12 +3,14 @@ description: Compare saved listings side-by-side and rank them
 argument-hint: "<slug, slug, ...> — directory names under listings/"
 ---
 Compare the previously saved listings named by `$ARGUMENTS` and rank
-them for the buyer: a solo technical buyer house-hunting in Lamorinda
-and the Oakland/Berkeley hills; they care about views, natural light,
-architectural character, indoor-outdoor flow, and privacy, and they
-are sensitive to wildfire risk (FHSZ), insurance availability, flat
-roofs, stilt/pier foundations, jalousie windows, and power lines. (The
-full weighting rationale lives in `/me:analyze-listing`.)
+them for the buyer. Every saved listing belongs to exactly one
+**bucket** — `view-house`, `multifamily`, or `getaway` — recorded in
+its `listing.json`, and buckets use different rubrics, so a comparison
+is only ever run WITHIN one bucket (Section 3 enforces this). The
+buyer profile, weighting rationale, and rubric calibration for the
+bucket being compared live in `listings/buckets/<bucket>.md`; the
+canonical weights live in `listings/tools/listing.schema.mjs`
+(`WEIGHTS["<bucket>"]`).
 
 Disk is the only source of truth. This command never fetches listings
 and never compares from memory: it reads validated bundles from
@@ -44,11 +46,23 @@ For each slug:
    If validation fails because zod cannot be resolved, run
    `bun install` at the project root and retry — a fresh clone or
    `jj restore` may not have installed workspace deps yet.
-3. Read the full record: facts, all ten dimension scores with their
-   evidence notes, verdict, flags, positives, orientation inference,
-   per-photo notes, and cross-checks.
+3. Read the full record: `bucket`, the facts (base fields plus the
+   bucket's extra facts), all dimension scores with their evidence
+   notes, verdict, flags, positives, orientation inference, per-photo
+   notes, and cross-checks.
 
-## 3. Photos (tie-breaks only)
+## 3. Bucket gate (NON-NEGOTIABLE)
+
+All resolved records MUST share the same `bucket`. If they do not,
+stop: print each slug with its bucket, and explain that weightedTotals
+from different rubrics are not comparable — a multifamily investment,
+a view-house home, and a remote getaway answer different questions, so
+a single ranking across them would be false precision. Suggest running
+the command once per bucket. Then read the matching overlay
+`listings/buckets/<bucket>.md` — it carries the buyer profile and
+calibration notes the ranking analysis leans on.
+
+## 4. Photos (tie-breaks only)
 
 The per-photo notes in each record usually suffice. When they are too
 thin to break a tie on a specific dimension, you may read the saved
@@ -56,25 +70,29 @@ images — `listings/<slug>/photos/*.jpg` are already downscaled to
 1024px — **maximum 3 per batch**, and cite the filenames you relied
 on. Never hunt for full-res originals; there are none in the bundle.
 
-## 4. Side-by-side table
+## 5. Side-by-side table
 
 One markdown table, one column per listing (ordered by
-`weightedTotal`, best first), fixed row order:
+`weightedTotal`, best first), in this row order:
 
-- address, price, $/sqft, beds/baths, sqft, lot (ac), DOM, status,
-  elevation (ft), FHSZ zone
-- the ten rubric dimensions, in weight order: view, natural_light,
-  character, kitchen, privacy, layout_flow, primary_suite,
-  outdoor_space, condition, lot_usability
+- shared fact rows: address, price, $/sqft, beds/baths, sqft,
+  lot (ac), DOM, status, elevation (ft), FHSZ zone
+- bucket fact rows (from the overlay's "Extra listing facts"):
+  multifamily adds units, occupancy, nearest BART, BART distance (mi);
+  getaway adds drive time from SF (min) and drive origin; view-house
+  adds none
+- the bucket's rubric dimensions in weight order, taken from
+  `WEIGHTS["<bucket>"]` in `listings/tools/listing.schema.mjs` — read
+  the file, do not recall weights from memory
 - `weighted_total`, value (`weightedTotal` ÷ price in $M)
 
 **Bold** the best value in each row. Render nulls as `—` with a
 footnote — never interpolate.
 
-## 5. Ranked analysis
+## 6. Ranked analysis
 
 1. **Ranking** — 1..N: slug, `weightedTotal`, and one sentence naming
-   the trade-off the house is and why it sits at that rank.
+   the trade-off the property is and why it sits at that rank.
 2. **Head-to-head callouts** — for each meaningful pair: which
    dimensions separate them, and what the separator costs (price and
    $/sqft delta).
@@ -85,15 +103,16 @@ footnote — never interpolate.
    was contradicted by its photos; proven dishonesty discounts trust
    in every other field of that record.
 
-## 6. Verdict and sensitivity
+## 7. Verdict and sensitivity
 
 - Overall pick in 2–3 sentences: which listing, for which posture,
   and the single reason it wins.
 - Sensitivity: name the one or two judgment changes that would flip
-  the ranking (e.g. "if the view weight rose from 0.18 to 0.25,
+  the ranking, phrased with THIS bucket's actual dimensions and
+  weights (e.g. "if the `drive_time_sf` weight rose from 0.22 to 0.30,
   `<slug>` overtakes `<slug>`").
 
-## 7. Save the comparison
+## 8. Save the comparison
 
 Write the full report (side-by-side table + ranked analysis +
 verdict) to
@@ -110,3 +129,6 @@ verdict) to
 4. Every comparative claim traces to `listing.json` fields or cited
    photos.
 5. Save the report under `listings/comparisons/` and print the path.
+6. Never compare across buckets (Section 3), and never render a
+   dimension that is not in the record's bucket — the dimension set
+   and weights come from the schema, not from memory.

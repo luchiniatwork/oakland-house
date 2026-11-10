@@ -1,5 +1,6 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "bucket": "view-house",
   "slug": "6944-snake",
   "source": {
     "url": "https://r.jina.ai/https://www.compass.com/homedetails/6944-Snake-Rd-Oakland-CA-94611/1QWURR_pid/",
@@ -17,7 +18,10 @@
     "dom": 0,
     "status": "Active",
     "fhsz": "Very High FHSZ (presumptive)",
-    "coords": [37.8367421, -122.2018697],
+    "coords": [
+      37.8367421,
+      -122.2018697
+    ],
     "elevationFt": 1179.5,
     "style": "Contemporary (1963; marketed as mid-century modern)",
     "description": "Tucked into the Montclair hills, 6944 Snake Rd brings together mid-century modern character, a welcome sense of privacy, and sweeping Bay and SF views. With expansive outlooks on one side and a private, newly landscaped yard on the other, the home offers the best of both worlds: a place to take in spectacular sunsets and city lights, and a sheltered garden retreat for sunny afternoons, outdoor dining, and warm-weather gatherings. Multiple decks and inviting outdoor spaces extend the home's living footprint, creating an effortless connection between indoors and out, with a place to enjoy the setting at virtually any time of day. The main level is designed for connection and entertaining, with a light-filled living room, dining area, and kitchen that flow naturally together. The kitchen opens to the dining area, which connects directly to a deck and yard, making it easy to move between cooking, dining, and relaxing outdoors. Whether hosting friends for dinner, enjoying a morning coffee in the garden, or unwinding on the view deck at sunset, the home's outdoor spaces feel like natural extensions of the interior. The main-level primary suite enjoys its own walk-in closet, full bath, and access to the view deck, bringing the scenery into a more private setting. A second bedroom and full hall bath complete the main level, offering flexibility for guests, family, or a home office. Downstairs, a spacious family room or den with fireplace offers a wonderful counterpoint to the open, social spaces above. Tucked away from the main living areas, it's an ideal retreat for movie nights, quiet evenings, a playroom, or a more intimate place to gather. Two additional bedrooms, a full bath, and a dedicated laundry room with washer and dryer complete this level. A small deck with stairs connects to the backyard, while generous closets, built-in cabinetry, and a large two-car garage provide welcome storage and utility. With its mid-century modern architecture, flexible two-level layout, and seamless connection to the outdoors, this Montclair home offers a distinctive balance of openness and privacy. Montclair Village, freeway access, tennis courts, and an elementary school are all nearby, keeping neighborhood conveniences within easy reach. From sunset views over the Bay to leisurely afternoons in the garden, 6944 Snake Rd is a home that invites you to spread out, settle in, and enjoy every side of its beautiful setting."
@@ -89,36 +93,123 @@
   ],
   "orientationInference": "View side faces W–WNW: SF skyline + Bay Bridge sightline straight through living-room windows (p_18), Mt Tam silhouette from deck (p_21), sunset sky behind the view side in the dusk shot (p_01). Afternoon/evening sun on the view deck; garden side (E–SE) gets morning sun and sheltered afternoon shade. Inference from photos + map, not measured on site.",
   "photos": [
-    { "file": "photos/p_01.jpg", "note": "Dusk rear exterior — gable glass wall glowing warm, wrap deck with lounge seating, bamboo stand left, neighbor gable ~12 ft right; sunset sky confirms west-facing view side" },
-    { "file": "photos/p_02.jpg", "note": "Living room corner windows — panoramic Bay/SF skyline/bridge sightline over city grid, deck rail outside; living-level view verified" },
-    { "file": "photos/p_03.jpg", "note": "Living room wide — bright midday, light wood floor, view windows + deck slider, staged neutrals" },
-    { "file": "photos/p_04.jpg", "note": "Dining + kitchen — white shaker cabinets, island with stone counters, stainless double wall oven + microwave, open flow toward living room and view" },
-    { "file": "photos/p_05.jpg", "note": "Secondary bedroom — slider to small private deck, autumn foliage, neighbor roofline visible ~25 ft through trees" },
-    { "file": "photos/p_06.jpg", "note": "Primary bedroom — wide 3-panel view window with bay glimpse past tree, wood floor, staged king; MLS adds walk-in closet + deck access" },
-    { "file": "photos/p_07.jpg", "note": "Hall bath — gray vanity, quartz-look counter, tub/shower combo with rain-glass slider and window; updated mid-tier" },
-    { "file": "photos/p_08.jpg", "note": "Garden toward house — rare flat lawn (new sod), lemon tree, fresh flower beds, elevated wrap deck above; sheltered and private" },
-    { "file": "photos/p_09.jpg", "note": "Garden side — CMU retaining wall + lattice-topped fence, ivy-covered fence right, white brick chimney, deck stairs down" },
-    { "file": "photos/p_10.jpg", "note": "Deck looking back — gable end + sliders, outdoor sofa, bamboo privacy screen left, neighbor gable ~10 ft right with mossy roof" },
-    { "file": "photos/p_11.jpg", "note": "Deck close to house — dining sliders, neighbor wall/roof proximity again; privacy limited on that side" },
-    { "file": "photos/p_12.jpg", "note": "Deck to garden — stairs down to lawn, terraced upslope with retaining walls, oaks beyond; enclosed private nook" },
-    { "file": "photos/p_13.jpg", "note": "Covered entry — sage-green door + sidelight, gray lap siding, obscure awning window; entry on driveway side" },
-    { "file": "photos/p_14.jpg", "note": "Entry hall — sightline through to living + view, open stairwell to lower level with metal rail, kitchen wall ovens left" },
-    { "file": "photos/p_15.jpg", "note": "Living room from entry — wall of view windows + slider, panoramic bay view, bright wood floor" },
-    { "file": "photos/p_16.jpg", "note": "Living room toward view corner — slider + corner windows, bay + city below; glare-free midday" },
-    { "file": "photos/p_17.jpg", "note": "Living room reverse angle — view windows left, autumn tree through slider, open stair rail right; warm light" },
-    { "file": "photos/p_18.jpg", "note": "View close-up through living room window — SF skyline (Salesforce Tower), Bay, Port of Oakland cranes; due-west sightline proof" },
-    { "file": "photos/p_19.jpg", "note": "Living room view wall — wide slider + windows, panoramic Bay/SF beyond deck rail; bright" },
-    { "file": "photos/p_20.jpg", "note": "Living room from sofa — full view wall, bay panorama + autumn tree; near floor-to-ceiling glass" },
-    { "file": "photos/p_21.jpg", "note": "On-deck along house — stucco side wall, view over rooftops to Bay + Mt Tam (NW); distribution power lines visible in canyon below" }
+    {
+      "file": "photos/p_01.jpg",
+      "note": "Dusk rear exterior — gable glass wall glowing warm, wrap deck with lounge seating, bamboo stand left, neighbor gable ~12 ft right; sunset sky confirms west-facing view side"
+    },
+    {
+      "file": "photos/p_02.jpg",
+      "note": "Living room corner windows — panoramic Bay/SF skyline/bridge sightline over city grid, deck rail outside; living-level view verified"
+    },
+    {
+      "file": "photos/p_03.jpg",
+      "note": "Living room wide — bright midday, light wood floor, view windows + deck slider, staged neutrals"
+    },
+    {
+      "file": "photos/p_04.jpg",
+      "note": "Dining + kitchen — white shaker cabinets, island with stone counters, stainless double wall oven + microwave, open flow toward living room and view"
+    },
+    {
+      "file": "photos/p_05.jpg",
+      "note": "Secondary bedroom — slider to small private deck, autumn foliage, neighbor roofline visible ~25 ft through trees"
+    },
+    {
+      "file": "photos/p_06.jpg",
+      "note": "Primary bedroom — wide 3-panel view window with bay glimpse past tree, wood floor, staged king; MLS adds walk-in closet + deck access"
+    },
+    {
+      "file": "photos/p_07.jpg",
+      "note": "Hall bath — gray vanity, quartz-look counter, tub/shower combo with rain-glass slider and window; updated mid-tier"
+    },
+    {
+      "file": "photos/p_08.jpg",
+      "note": "Garden toward house — rare flat lawn (new sod), lemon tree, fresh flower beds, elevated wrap deck above; sheltered and private"
+    },
+    {
+      "file": "photos/p_09.jpg",
+      "note": "Garden side — CMU retaining wall + lattice-topped fence, ivy-covered fence right, white brick chimney, deck stairs down"
+    },
+    {
+      "file": "photos/p_10.jpg",
+      "note": "Deck looking back — gable end + sliders, outdoor sofa, bamboo privacy screen left, neighbor gable ~10 ft right with mossy roof"
+    },
+    {
+      "file": "photos/p_11.jpg",
+      "note": "Deck close to house — dining sliders, neighbor wall/roof proximity again; privacy limited on that side"
+    },
+    {
+      "file": "photos/p_12.jpg",
+      "note": "Deck to garden — stairs down to lawn, terraced upslope with retaining walls, oaks beyond; enclosed private nook"
+    },
+    {
+      "file": "photos/p_13.jpg",
+      "note": "Covered entry — sage-green door + sidelight, gray lap siding, obscure awning window; entry on driveway side"
+    },
+    {
+      "file": "photos/p_14.jpg",
+      "note": "Entry hall — sightline through to living + view, open stairwell to lower level with metal rail, kitchen wall ovens left"
+    },
+    {
+      "file": "photos/p_15.jpg",
+      "note": "Living room from entry — wall of view windows + slider, panoramic bay view, bright wood floor"
+    },
+    {
+      "file": "photos/p_16.jpg",
+      "note": "Living room toward view corner — slider + corner windows, bay + city below; glare-free midday"
+    },
+    {
+      "file": "photos/p_17.jpg",
+      "note": "Living room reverse angle — view windows left, autumn tree through slider, open stair rail right; warm light"
+    },
+    {
+      "file": "photos/p_18.jpg",
+      "note": "View close-up through living room window — SF skyline (Salesforce Tower), Bay, Port of Oakland cranes; due-west sightline proof"
+    },
+    {
+      "file": "photos/p_19.jpg",
+      "note": "Living room view wall — wide slider + windows, panoramic Bay/SF beyond deck rail; bright"
+    },
+    {
+      "file": "photos/p_20.jpg",
+      "note": "Living room from sofa — full view wall, bay panorama + autumn tree; near floor-to-ceiling glass"
+    },
+    {
+      "file": "photos/p_21.jpg",
+      "note": "On-deck along house — stucco side wall, view over rooftops to Bay + Mt Tam (NW); distribution power lines visible in canyon below"
+    }
   ],
   "crosschecks": [
-    { "check": "Marketing claims vs photos", "result": "Verified/honest: 'sweeping Bay and SF views' confirmed by through-window shots (p_02, p_16, p_18, p_19, p_20); 'private newly landscaped yard' confirmed (p_08, p_09); 'multiple decks' confirmed (p_01, p_10, p_21). Gap: family room, 2 bedrooms, bath, laundry claimed but not photographed — unverified, not contradicted. Description repeats 'sunsets' — consistent with W–WNW facing." },
-    { "check": "Geocoder vs page coords", "result": "Flag: Census geocoder (37.8362194, -122.2018233) vs page coords (37.8367421, -122.2018697) = ~190 ft apart, slightly over the 150 ft threshold. Explained by hillside parcel reached via shared driveway off Hemlock Ln; geocoder interpolates along Snake Rd centerline. Elevation used page coords." },
-    { "check": "Elevation / micro-market", "result": "1,179.5 ft — high in the Montclair hills. ~410 ft from 6833 Snake (sold 2026-10-08 at $1,675,000 = $828/sf, weighted 4.0); ~1,100 ft from 6625 Snake (active $849k); ~2,000 ft from 6401 Snake (sold $1.26M = $914/sf, weighted 4.2). 6944 Snake at $421/sf is roughly half the closing $/sf of its nearest comps — list-low/bid-up pattern in this micro-market." },
-    { "check": "Orientation", "result": "Strong photo corroboration: SF skyline + Bay Bridge through living-room windows = due W (p_18); Mt Tam from deck = NW (p_21); sunset sky behind house in dusk shot (p_01). View side W–WNW, afternoon sun, partially tree-filtered. Labeled inference." },
-    { "check": "FHSZ / insurance", "result": "Very High FHSZ (presumptive) — 94611 Montclair, inside 1991 Oakland firestorm footprint. Insurance-availability flag raised; get a real quote before offer. 1,180 ft elevation + wood decks/siding in fire country." },
-    { "check": "Amenity claims", "result": "Verified as area amenities: Montclair Elementary 0.7 mi (7/10), Montera Middle 1.2 mi, Skyline High 3.4 mi per GreatSchools; Montclair Village/freeway/tennis plausible at this location. No drone amenity shots used in gallery — amenity claims are text-only and modest." },
-    { "check": "Bed/bath count legitimacy", "result": "4bd/3ba agrees across MLS and public record (APN 048E733401301) — not an office fudge on paper. Photos verify 2 of 4 bedrooms (p_05 secondary, p_06 primary); other 2 + family room on lower level unphotographed — verify in person." },
-    { "check": "Extraction source / conflicts", "result": "Compass direct fetch blocked by AWS WAF challenge; facts extracted from Jina-Reader-rendered Compass markdown (single source; no JSON-LD/__INITIAL_DATA__ available). Photo URLs from Jina images-summary; 21/21 downloaded from Compass CDN directly. Record conflict: public record 1 story vs MLS 2 stories." }
+    {
+      "check": "Marketing claims vs photos",
+      "result": "Verified/honest: 'sweeping Bay and SF views' confirmed by through-window shots (p_02, p_16, p_18, p_19, p_20); 'private newly landscaped yard' confirmed (p_08, p_09); 'multiple decks' confirmed (p_01, p_10, p_21). Gap: family room, 2 bedrooms, bath, laundry claimed but not photographed — unverified, not contradicted. Description repeats 'sunsets' — consistent with W–WNW facing."
+    },
+    {
+      "check": "Geocoder vs page coords",
+      "result": "Flag: Census geocoder (37.8362194, -122.2018233) vs page coords (37.8367421, -122.2018697) = ~190 ft apart, slightly over the 150 ft threshold. Explained by hillside parcel reached via shared driveway off Hemlock Ln; geocoder interpolates along Snake Rd centerline. Elevation used page coords."
+    },
+    {
+      "check": "Elevation / micro-market",
+      "result": "1,179.5 ft — high in the Montclair hills. ~410 ft from 6833 Snake (sold 2026-10-08 at $1,675,000 = $828/sf, weighted 4.0); ~1,100 ft from 6625 Snake (active $849k); ~2,000 ft from 6401 Snake (sold $1.26M = $914/sf, weighted 4.2). 6944 Snake at $421/sf is roughly half the closing $/sf of its nearest comps — list-low/bid-up pattern in this micro-market."
+    },
+    {
+      "check": "Orientation",
+      "result": "Strong photo corroboration: SF skyline + Bay Bridge through living-room windows = due W (p_18); Mt Tam from deck = NW (p_21); sunset sky behind house in dusk shot (p_01). View side W–WNW, afternoon sun, partially tree-filtered. Labeled inference."
+    },
+    {
+      "check": "FHSZ / insurance",
+      "result": "Very High FHSZ (presumptive) — 94611 Montclair, inside 1991 Oakland firestorm footprint. Insurance-availability flag raised; get a real quote before offer. 1,180 ft elevation + wood decks/siding in fire country."
+    },
+    {
+      "check": "Amenity claims",
+      "result": "Verified as area amenities: Montclair Elementary 0.7 mi (7/10), Montera Middle 1.2 mi, Skyline High 3.4 mi per GreatSchools; Montclair Village/freeway/tennis plausible at this location. No drone amenity shots used in gallery — amenity claims are text-only and modest."
+    },
+    {
+      "check": "Bed/bath count legitimacy",
+      "result": "4bd/3ba agrees across MLS and public record (APN 048E733401301) — not an office fudge on paper. Photos verify 2 of 4 bedrooms (p_05 secondary, p_06 primary); other 2 + family room on lower level unphotographed — verify in person."
+    },
+    {
+      "check": "Extraction source / conflicts",
+      "result": "Compass direct fetch blocked by AWS WAF challenge; facts extracted from Jina-Reader-rendered Compass markdown (single source; no JSON-LD/__INITIAL_DATA__ available). Photo URLs from Jina images-summary; 21/21 downloaded from Compass CDN directly. Record conflict: public record 1 story vs MLS 2 stories."
+    }
   ]
 }

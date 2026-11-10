@@ -1,5 +1,6 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "bucket": "view-house",
   "slug": "318-capricorn",
   "source": {
     "url": "https://www.compass.com/homedetails/318-Capricorn-Ave-Oakland-CA-94611/1PUKS2_pid/",
@@ -35,7 +36,7 @@
       "note": "Skylights over stairwell/dining (p_06, p_11) and tub (p_32, p_33), SW sunset light (p_05), midday sun patches (p_04, p_08); bedroom 2 borrows light via interior light-well (p_25–p_27)."
     },
     "character": {
-      "score": 5.0,
+      "score": 5,
       "note": "1976 Sea Ranch–style shed contemporary: cedar shingles, beamed wood ceilings, parquet floors, angled rooflines (p_01, p_06, p_11, p_24), stilted treehouse studio (p_40, p_41)."
     },
     "kitchen": {
@@ -43,11 +44,11 @@
       "note": "Updated: Wolf range (red knobs), white quartz island/counters, artisan green tile, open shelving, wood cabinets; sink faces private upslope garden (p_12–p_15)."
     },
     "privacy": {
-      "score": 4.0,
+      "score": 4,
       "note": "Wooded bowl; kitchen and bedroom windows face own slope/bamboo (p_13, p_20); but neighbor upslope overlooks deck edge behind lattice (p_17), red house above studio (p_41), one primary window faces neighbor's stair (p_21)."
     },
     "layout_flow": {
-      "score": 3.0,
+      "score": 3,
       "note": "Open LDK main level is good (p_11), but 1,655 sf is spread over 4–5 split levels (p_50) with a long exterior stair entry from street (p_01)."
     },
     "primary_suite": {
@@ -55,15 +56,15 @@
       "note": "12'7\"x11'7\" + walk-in closet + attached 9'4\" den (p_18–p_21, p_31, p_50), but the skylit primary bath is a flight up on the top level, not en suite (p_32, p_50)."
     },
     "outdoor_space": {
-      "score": 4.0,
+      "score": 4,
       "note": "Dining deck off slider (p_09, p_46), barrel sauna + covered plunge pool pad (p_38), terraced planting gardens and studio deck (p_39–p_41)."
     },
     "condition": {
-      "score": 4.0,
+      "score": 4,
       "note": "Quality kitchen/bath updates (p_12, p_22, p_32), staged with disclosed digital alteration (p_02, p_07, p_11); 1976 shell, comp-shingle roof serviceable (p_44), some weathered shingle staining (p_46)."
     },
     "lot_usability": {
-      "score": 3.0,
+      "score": 3,
       "note": "0.30 AC but mostly steep hillside; terraced beds usable (p_39, p_51); upper slope is wild duff/dry grass (p_41, p_45)."
     }
   },

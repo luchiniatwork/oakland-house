@@ -1,5 +1,6 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "bucket": "view-house",
   "slug": "6077-skyline",
   "source": {
     "url": "https://www.compass.com/homedetails/6077-Skyline-Blvd-Oakland-CA-94611/1QSS8B_pid/",
@@ -31,7 +32,7 @@
       "note": "Verified living-level panorama: SF skyline, Bay Bridge (faint), bay, city-light carpet from living room sliders (p_03/04), primary bedroom (p_22), and deck (p_10/48); eucalyptus canopy crops the bottom edge, freeway corridor intrudes at dusk (p_37) — spectacular but the far icons need a clear day."
     },
     "natural_light": {
-      "score": 4.0,
+      "score": 4,
       "note": "Full-width W-facing glass wall in living room (p_03/04/16), primary corner window + slider (p_22), kitchen skylight (p_17/20); east front patio lights dining in the morning (p_20/21). Uphill bedrooms 2/3 rely on modest bank-facing windows (p_25/26) — moderate there."
     },
     "character": {
@@ -39,11 +40,11 @@
       "note": "1961 MCM bones survive: flat/low roofs with long exposed rafter tails (p_31), glass view wall, covered porch. Interior scrubbed to generic flip-white (p_05/15) with transitional trim (p_14) — character lives in the shell and deck, not the rooms."
     },
     "kitchen": {
-      "score": 4.0,
+      "score": 4,
       "note": "All-new: flat-panel oak cabs, quartz + full-height backsplash, waterfall peninsula, Thor-style gas range + hood, Samsung black-stainless fridge, skylight (p_17-20). Mid-tier flip-grade packages, compact 9'9x11'1 footprint; sink window faces street stairs, not view (p_19)."
     },
     "privacy": {
-      "score": 3.0,
+      "score": 3,
       "note": "View side is canyon-facing and private (p_06/10) and the front patio is enclosed (p_30/32), but bed-3 window sits ~10-15 ft from the neighbor's wall (p_26), the upslope neighbor's deck overlooks the patio (p_44), and the deck overlooks downslope neighbor roofs (p_07/35)."
     },
     "layout_flow": {
@@ -51,7 +52,7 @@
       "note": "Sensible single level (p_49): open living/dining/kitchen spine, ensuite primary on the view side, beds 2/3 down the hall with two more baths; quirks — laundry is a closet, 3rd bath tucks into an odd tiled annex (p_28), entry lands mid-room."
     },
     "primary_suite": {
-      "score": 4.0,
+      "score": 4,
       "note": "Wake-up-to-the-bay room with corner window + slider straight onto the deck (p_22/23) and a large new ensuite (7'3x11'10 on plan p_49); room itself is compact (13'9x10'11)."
     },
     "outdoor_space": {
@@ -63,7 +64,7 @@
       "note": "Turnkey 2026 flip: new floors/kitchen/3 baths/deck/water heater (p_17/24/29/06), staged well. Tells: popcorn texture left in bath (p_29), ~5-month reno after a $655K purchase, flat membrane roofs of unknown age with skylights (p_38)."
     },
     "lot_usability": {
-      "score": 2.0,
+      "score": 2,
       "note": "0.43 AC on paper, but the top-down drone (p_42/44) shows usable land is just the house pad, patio and driveway; everything else is steep dry slope — no level yard, high maintenance acres."
     }
   },

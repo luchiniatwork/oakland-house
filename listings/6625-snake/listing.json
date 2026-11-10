@@ -1,5 +1,6 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "bucket": "view-house",
   "slug": "6625-snake",
   "source": {
     "url": "https://www.compass.com/homedetails/6625-Snake-Rd-Oakland-CA-94611/1Q1F0G_pid/",

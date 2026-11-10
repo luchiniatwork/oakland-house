@@ -1,5 +1,6 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "bucket": "view-house",
   "slug": "177-diablo",
   "source": {
     "url": "https://www.compass.com/homedetails/177-Diablo-Dr-Oakland-CA-94611/2231542125235423913_lid/",
@@ -17,7 +18,10 @@
     "dom": null,
     "status": "Active",
     "fhsz": "Very High FHSZ (presumptive)",
-    "coords": [37.846954, -122.199857],
+    "coords": [
+      37.846954,
+      -122.199857
+    ],
     "elevationFt": 1493.5,
     "style": null,
     "description": null

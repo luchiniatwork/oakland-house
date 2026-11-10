@@ -1,5 +1,6 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "bucket": "view-house",
   "slug": "1076-grizzly-peak",
   "source": {
     "url": "https://www.compass.com/homedetails/1076-Grizzly-Peak-Blvd-Berkeley-CA-94708/1QWK04_pid/",
@@ -39,7 +40,7 @@
       "note": "1940 brown-shingle cabin: open-beam T&G ceilings, Dutch doors, leaded/stained glass, wood paneling, turquoise fireplace (p_16-p_19, p_28, p_29)"
     },
     "kitchen": {
-      "score": 3.0,
+      "score": 3,
       "note": "Pro-style range but pebble-tile counters, vintage wood-panel fridge, older black dishwasher, 8x11 footprint (p_25-p_28)"
     },
     "privacy": {
@@ -47,7 +48,7 @@
       "note": "Dense hill fabric: green neighbor ~15-20 ft off bedroom 2 (p_38), bonus room faces shingle neighbor ~12 ft w/ scaffolding (p_41); deck overlooked (p_23)"
     },
     "layout_flow": {
-      "score": 3.0,
+      "score": 3,
       "note": "Living-dining-kitchen linear w/ pass-through + deck sliders (p_20, p_21), but 3rd bed is a separate cottage and bonus bath non-conforming (p_53, p_54)"
     },
     "primary_suite": {
@@ -55,7 +56,7 @@
       "note": "View-wall primary w/ sitting corner + walk-in closet (p_30-p_33), but baths are vintage hall units, no true ensuite (p_34, p_35, p_39)"
     },
     "outdoor_space": {
-      "score": 4.0,
+      "score": 4,
       "note": "Cable-rail view deck off living (p_22), brick courtyards (p_01, p_02), pergola parking pad (p_05); yard is steep slope"
     },
     "condition": {

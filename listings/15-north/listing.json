@@ -1,5 +1,6 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "bucket": "view-house",
   "slug": "15-north",
   "source": {
     "url": "https://www.compass.com/homedetails/15-North-Cir-Oakland-CA-94611/1R6DJW_pid/",
@@ -27,7 +28,7 @@
   },
   "scores": {
     "view": {
-      "score": 3.0,
+      "score": 3,
       "note": "Living-level west view is real but tree-filtered ridge/haze (p_13, p_22-23, p_58); Sutro Tower not visible in any gallery shot; honest photography, no drone-view inflation"
     },
     "natural_light": {
@@ -43,11 +44,11 @@
       "note": "Designer renovation: Euro flat-panel cabinetry, NXR pro range + slab granite backsplash, skylight, bar seating, garden window (p_16-19); matte-black + SS appliances, not flip-grade"
     },
     "privacy": {
-      "score": 4.0,
+      "score": 4,
       "note": "Cul-de-sac of 3 homes w/ guest parking; wooded buffers; neighbors 50-80 ft through trees (p_21-22, p_53-54); bedroom p_38 window sees an adjacent structure"
     },
     "layout_flow": {
-      "score": 4.0,
+      "score": 4,
       "note": "Open great room-kitchen-deck on main level; primary on main; level garage entry; lower level family room + beds reached by interior stair (p_05, p_26-29); good guest/WFH separation"
     },
     "primary_suite": {
@@ -55,7 +56,7 @@
       "note": "Large vaulted suite on main: skylight, custom Japanese walk-in closet (p_44), luxe travertine bath w/ dual sinks, oversized shower, bidet, heated towel rail (p_45-48)"
     },
     "outdoor_space": {
-      "score": 4.0,
+      "score": 4,
       "note": "Full-width IPE deck + covered lower deck + tiled grotto + terraced garden paths (p_20-24, p_33-36, p_55-56); generous and varied, all on wooded slope"
     },
     "condition": {

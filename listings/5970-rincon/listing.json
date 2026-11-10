@@ -1,5 +1,6 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "bucket": "view-house",
   "slug": "5970-rincon",
   "source": {
     "url": "https://www.compass.com/homedetails/5970-Rincon-Dr-Oakland-CA-94611/1PRE8K_pid/",
@@ -27,15 +28,15 @@
   },
   "scores": {
     "view": {
-      "score": 3.0,
+      "score": 3,
       "note": "Real but filtered W-facing bay/Bay Bridge sliver from living picture window + front yard (p_09, p_39); lattice tower + power lines in view line (p_09, p_40); p_04/p_40 panoramas are drone/telephoto altitude"
     },
     "natural_light": {
-      "score": 4.0,
+      "score": 4,
       "note": "Two kitchen skylights + ~7 roof skylights total (p_14, p_47), large W picture window, corner windows in bed 2 (p_24), French doors; primary bedroom relies on lamps (p_19)"
     },
     "character": {
-      "score": 4.0,
+      "score": 4,
       "note": "1938 cottage: Dutch door w/ art-glass (p_33), artisan teal fireplace tile (p_10), beadboard, cedar WIC (p_22), Spanish tile step edging (p_44), glass-block bath (p_27)"
     },
     "kitchen": {
@@ -43,11 +44,11 @@
       "note": "Renovated galley: quartz, two-tone shaker, hex-floral backsplash, new SS appliances, twin skylights (p_14-p_18); small footprint and mid-tier Frigidaire hold it from 5"
     },
     "privacy": {
-      "score": 3.0,
+      "score": 3,
       "note": "Courtyard + hedge enclosure feel sheltered (p_30, p_34), but 2-story neighbors ~15 ft on two sides overlook (p_03, p_32, p_43) and bed-2 window faces neighbor wall (p_24)"
     },
     "layout_flow": {
-      "score": 4.0,
+      "score": 4,
       "note": "Single-level, level-in, open living/dining/kitchen sightlines (p_18), primary opens to courtyard (p_41); only 1 shared bath for 2 beds"
     },
     "primary_suite": {
@@ -59,11 +60,11 @@
       "note": "Flagstone courtyard between wings (p_34), covered patio (p_30), level lawn (p_35, p_37), brick front court, citrus + mature garden — rare for the hills"
     },
     "condition": {
-      "score": 4.0,
+      "score": 4,
       "note": "Cohesive kitchen/bath reno, refinished hardwood, comp roof looks serviceable w/ many skylights (inspect); garage raw (p_31); staged/virtual furniture noted (p_01, p_06, p_07)"
     },
     "lot_usability": {
-      "score": 4.0,
+      "score": 4,
       "note": "0.12 AC / 5,340 SF mostly level: courtyard + lawn + garden rooms (p_35-p_37); tiered rear slope small; detached 1-car garage + big driveway (p_31)"
     }
   },
