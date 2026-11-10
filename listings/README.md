@@ -1,6 +1,20 @@
 # Listings
 
-Oakland/Berkeley hills house hunt — one folder per listing, comparisons in [`comparisons/`](comparisons/), validation tooling in [`tools/`](tools/).
+The buyer hunts in three distinct modes, each with its own rubric and
+weights (see [`buckets/`](buckets/) — canonical weights in
+[`tools/listing.schema.mjs`](tools/listing.schema.mjs)):
+
+| Bucket | Hunt | Analyze command |
+|---|---|---|
+| `view-house` | Oakland/Berkeley hills detached house with a view (the default) | `/me:analyze-view-house` |
+| `multifamily` | Investment: 2–4 units, BART proximity, occupancy | `/me:analyze-multifamily` |
+| `getaway` | Small, cheap, ≤3h from SF, nature, turnkey-STR potential | `/me:analyze-getaway` |
+
+**Scores are only comparable within a bucket** — each rubric has
+different dimensions and weights, so this README keeps one leaderboard
+per bucket. Every listing folder below contains a `bucket` field in its
+`listing.json`; folders saved before buckets existed are all
+`view-house` records.
 
 ## Folder layout
 
@@ -17,8 +31,9 @@ Each listing folder contains:
 | `disclosure-analysis.md` | Disclosure-package analysis (only where one exists) |
 | `visit-notes.md` | Open-house / tour notes (only where one exists) |
 
-## Listings by score
+## View-house
 
+Oakland/Berkeley hills detached house with a view — the original hunt.
 Statuses/DOM re-verified against MLS IDX mirrors (CRMLS/bridgeMLS syncs of 11/3–11/4) on 2026-11-05. Ask = current/last list price; Sold = closing price; $/sf computed on ask (sold rows carry closing $/sf in the Sold cell).
 
 | | Score | Address | Ask | Sold | Bd/Ba | Sqft | $/sf (ask) | Status |
@@ -42,9 +57,34 @@ Statuses/DOM re-verified against MLS IDX mirrors (CRMLS/bridgeMLS syncs of 11/3�
 | [`5924-balboa/`](5924-balboa/) | 3.2 | 5924 Balboa Dr | $699,000 | — | 2/2 | 923 | $757 | 56 DOM |
 | [`177-diablo/`](177-diablo/) | 2.1 | 177 Diablo Dr | $950,000 | — | 2/2 | 1,631* | $582 | off-MLS Compass Private Exclusive — login-gated, 0 public photos, DOM n/a; Very High FHSZ (presumptive) — call the agent; *public-record sqft |
 
+## Multifamily
+
+Investment hunt: 2–4 units, BART proximity, occupancy. No listings yet — analyze one with `/me:analyze-multifamily`.
+
+## Getaway
+
+Small, cheap retreat ≤3h from SF (hard gate), nature, turnkey-STR potential.
+
+| | Score | Address | Ask | Bd/Ba | Sqft | Lot | Drive from SF | Status |
+|---|---|---|---|---|---|---|---|---|
+| [`33940-jennifer/`](33940-jennifer/) | 3.2 | 33940 Jennifer Way, Coarsegold | $197,000 | 0 (2 lofts)/1 | 240 | 2.85 ac | 3h59m OSRM ⚠️ outside gate | Active, 300 DOM; turnkey furnished tiny house on wheels on 2.85 gated oak acres w/ sunset views — shared well + tanks + generator, septic; verify Madera Co. STR permit + title; Compass WAF-blocked, fetched via Coldwell Banker mirror |
+
 ## Comparisons
 
-The 10-15/10-18 comps are benchmarked against 6401 Snake (top score); the 10-26 set compares the active mid-tier listings head-to-head, plus a clearing-price scenario overlay (not a validated comparison); the 10-27 comp pits 6077 Skyline against the new 1076 Grizzly Peak; the 10-30 comps pit the new 318 Capricorn against 6077 Skyline (pick: Capricorn) and 7099 Pinehaven against the new 6625 Snake (pick: Pinehaven); the 11-05 comp pits 33 Eastwood against 7094 Pinehaven (pick: Pinehaven — pending since 10/21, so Eastwood is the actionable active alternative); the second 11-05 comp pits the two highest-scored active listings, 6944 Snake and 318 Capricorn, head-to-head (pick: 6944 Snake — its verified panoramic Bay/SF view beats Capricorn's 5.0 character on the fixed weights, though Capricorn wins on weighted-points-per-$M):
+All comparisons so far are view-house matchups (scores are only
+comparable within a bucket). The 10-15/10-18 comps are benchmarked
+against 6401 Snake (top score); the 10-26 set compares the active
+mid-tier listings head-to-head, plus a clearing-price scenario overlay
+(not a validated comparison); the 10-27 comp pits 6077 Skyline against
+the new 1076 Grizzly Peak; the 10-30 comps pit the new 318 Capricorn
+against 6077 Skyline (pick: Capricorn) and 7099 Pinehaven against the
+new 6625 Snake (pick: Pinehaven); the 11-05 comp pits 33 Eastwood
+against 7094 Pinehaven (pick: Pinehaven — pending since 10/21, so
+Eastwood is the actionable active alternative); the second 11-05 comp
+pits the two highest-scored active listings, 6944 Snake and 318
+Capricorn, head-to-head (pick: 6944 Snake — its verified panoramic
+Bay/SF view beats Capricorn's 5.0 character on the fixed weights,
+though Capricorn wins on weighted-points-per-$M):
 
 | Date | Matchup |
 |---|---|
