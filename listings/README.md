@@ -68,6 +68,7 @@ Small, cheap retreat ≤3h from SF (hard gate), nature, turnkey-STR potential.
 | | Score | Address | Ask | Bd/Ba | Sqft | Lot | Drive from SF | Status |
 |---|---|---|---|---|---|---|---|---|
 | [`33940-jennifer/`](33940-jennifer/) | 3.2 | 33940 Jennifer Way, Coarsegold | $197,000 | 0 (2 lofts)/1 | 240 | 2.85 ac | 3h59m OSRM ⚠️ outside gate | Active, 300 DOM; turnkey furnished tiny house on wheels on 2.85 gated oak acres w/ sunset views — shared well + tanks + generator, septic; verify Madera Co. STR permit + title; Compass WAF-blocked, fetched via Coldwell Banker mirror |
+| [`32774-road/`](32774-road/) | 2.9 | 32774 Road 400, Coarsegold | $400,000 | 3/3* | 2,300* | 1.00 ac | 3h55m OSRM ⚠️ outside gate | Active, 173 DOM (listed 5/21, cut $25K from $425K on 10/3); 1972 custom cabin on 1-ac oak knoll w/ living-level ridge views, 2 stone fireplaces, detached 725sf 2-bay garage w/ power+water; *agent-entered 3bd/3ba/2,300sf (Fresno MLS) vs 2bd/1+2ba/1,529sf assessor (MRMLS dup listing) — possible unpermitted lower level, verify; 93614 = 43% Very High/49% High FHSZ — quote insurance first; unfurnished/not turnkey — verify Madera Co. STR permit; Compass WAF-blocked, fetched via Homefinder mirror |
 
 ## Comparisons
 
