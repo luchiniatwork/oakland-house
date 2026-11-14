@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "bucket": "getaway",
+  "slug": "11775-back-canyon",
+  "source": {
+    "url": "https://www.coldwellbanker.com/ca/caliente/11775-back-canyon-rd/lid-P00800000HK2cSBDWC8YK5FmPym5WpT6VdthpWEk",
+    "mirrorOf": "https://www.compass.com/homedetails/11775-Back-Canyon-Rd-Caliente-CA-93518/2232887828549314809_lid/",
+    "fetchedAt": "2026-11-14T02:01:57Z"
+  },
+  "listing": {
+    "address": "11775 Back Canyon Rd, Caliente, CA 93518",
+    "price": 175000,
+    "beds": 1,
+    "baths": 1,
+    "sqft": 528,
+    "pricePerSqft": 331,
+    "lotAc": 20.39,
+    "dom": 8,
+    "status": "Active",
+    "fhsz": "verify on CAL FIRE map — oak woodland WUI, Twin Oaks/Caliente, Kern County (presumptive High/Very High)",
+    "coords": [35.31767, -118.336698],
+    "elevationFt": 3322.7,
+    "style": "1986 off-grid rustic cabin/homestead; knotty-pine interior, wood stove, metal roof, solar + lithium battery system, well + septic",
+    "description": "Off-grid fixer-upper on 20 acres in the desirable Twin Oaks area of Caliente! Located just off the paved road for easy access, this private property offers great potential for a vacation getaway, hunting retreat, or homestead. The home features dual-pane windows, French doors leading to a concrete patio with beautiful mountain views, and room for animals, gardening, or possibly an additional home. Off-grid amenities include 11 solar panels, Renogy inverter, 8 new lithium batteries with battery banks, private water well, and septic system. Enjoy privacy, mountain views, and endless possibilities. Cash only.",
+    "driveTimeMin": 404,
+    "driveOrigin": "SF Ferry Building, 37.7955,-122.3937"
+  },
+  "scores": {
+    "drive_time_sf": { "score": 1, "note": "OSRM 404 min / 328.7 mi from SF Ferry Building — 6.7h, hard fail of the 3h gate" },
+    "view": { "score": 3.5, "note": "Real living-level views: French doors + covered patio face oak-dotted valley and ridge lines (p_02, p_08, p_10); valley-bowl scale, not a sweeping panorama; drone shots p_01/p_16 corroborate" },
+    "lot_nature": { "score": 4.5, "note": "20.39 ac of genuine oak woodland + grass clearings (p_16, p_17), gentle usable pasture with barn + corrals (p_15), flag-topped hill, paved-road frontage (parcel overlay p_18) — a real piece of land" },
+    "turnkey_airbnb": { "score": 1.5, "note": "Marketed as fixer-upper, cash only; furnished but rough (exposed OSB bedroom ceiling p_04); no rental history; off-grid systems are STR-independent but condition gates everything; verify Kern County STR permit rules" },
+    "price_accessibility": { "score": 5, "note": "$175,000 — top band (≤$350k); $331/sf on 528 sqft with 20 acres included" },
+    "condition": { "score": 2.5, "note": "Fixer: metal roof patched/peeling (p_11), exposed OSB ceiling (p_04), DIY finishes throughout; offset by strong systems — 11 solar panels + Renogy inverter + 8 new lithium batteries, private well, septic, dual-pane windows (marketing, unverified in photos except arrays p_11/p_13)" },
+    "natural_light": { "score": 3.5, "note": "Skylight + French doors + big kitchen windows (p_02, p_07) — bright for a cabin; bedroom zone dimmer (p_04)" },
+    "character": { "score": 4, "note": "Knotty pine + wood stove on stone accent wall (p_03), barnwood headboard wall (p_04), surfboard porch ceiling (p_09), cowboy-homestead vibe — quirky charm in spades" }
+  },
+  "weightedTotal": 3.0,
+  "verdict": "A $175k off-grid homestead on 20 genuinely beautiful oak-woodland acres with its own solar/lithium power plant, well, septic, barn and corrals — the best land-per-dollar yet seen in this bucket, and the marketing is honest that it's a cash-only fixer. But it's 6.7 hours from SF, hard-failing the 3h getaway gate, and the structure needs real work (roof, ceilings, finishes). For an SF buyer this is a homesteading project a long way from home, not a weekend cabin — score it, flag it, and only revisit if the radius rule changes.",
+  "flags": [
+    "🚗 404 min (6.7 h) OSRM drive from SF Ferry Building — outside the 3h gate (hard flag)",
+    "💵 Cash only — seller signals no financing (condition/appraisal); fixer-upper stated in marketing",
+    "🏚️ Fixer condition: patched/peeling metal roof (p_11), exposed OSB bedroom ceiling (p_04), DIY finishes; roof replacement likely near-term cost",
+    "🔥 FHSZ verify on CAL FIRE map — oak woodland WUI; dry grass/brush to structures",
+    "🔌 Fully off-grid: no grid power; solar+battery+well+septic all owner-maintained systems — capacity/age diligence required; winter solar output at 3,323 ft",
+    "📍 Census geocoder coords ~390 ft from page coords (>150 ft tolerance)",
+    "🛖 Multiple outbuildings/sheds of unknown permit status (p_12, p_14)"
+  ],
+  "positives": [
+    "$175,000 for 20.39 acres + structure — max price-accessibility band",
+    "Off-grid infrastructure already built: 11 solar panels, Renogy inverter, 8 NEW lithium batteries, private well, septic (marketing; arrays visible p_11–p_14)",
+    "Beautiful Twin Oaks oak woodland with gentle usable pasture, barn + corrals + fenced pads (p_15, p_16)",
+    "Living-level ridge/valley views from covered patio and French doors (p_08, p_10)",
+    "Just off paved Back Canyon Rd — easy access confirmed by parcel overlay (p_18), no dirt-road gauntlet",
+    "Big quirky character: knotty pine, stone wood-stove wall, surfboard porch (p_03, p_09)"
+  ],
+  "orientationInference": "House sits at the SW foot of the parcel near the paved road (p_18); patio/French doors look across the oak valley bowl toward ridges roughly E–SE, with the flag hill behind to the N–NE; oaks shade the house afternoons. INFERENCE from drone/parcel geometry, not compass-measured.",
+  "photos": [
+    { "file": "photos/p_01.jpg", "note": "Drone wide: red-roofed cabin in oak-dotted valley bowl, ground-mount solar, sheds, RV, stone patio — genuinely pretty setting" },
+    { "file": "photos/p_02.jpg", "note": "Great room: knotty pine, wood stove on stone wall, French doors to mountain view, skylight; ceiling patch top-left (fixer signal)" },
+    { "file": "photos/p_03.jpg", "note": "Reverse great room: wood stove, teal sofa, dining zone, damaged texture around skylight — cozy but unfinished edges" },
+    { "file": "photos/p_04.jpg", "note": "Bedroom: barnwood accent wall, EXPOSED OSB/joist ceiling, curtain divider on tree-branch posts, mirrored closet" },
+    { "file": "photos/p_05.jpg", "note": "Reverse bedroom: open plan to living room, big window on trees/ridge, exposed sheathing ceiling" },
+    { "file": "photos/p_06.jpg", "note": "Kitchen: rustic open shelves, long wood counter, gas stove, fridge, mountain-view door — DIY-built, functional" },
+    { "file": "photos/p_07.jpg", "note": "Kitchen reverse: big windows on hills, small wood shed outside (yellow door), range + microwave + cart island" },
+    { "file": "photos/p_08.jpg", "note": "Covered concrete patio: grill, oak shade, ridge views, solar path lights — the living-level outdoor room" },
+    { "file": "photos/p_09.jpg", "note": "Covered porch: SURFBOARD ceiling decor, wicker set, hot tub(?) at far end, 'GONE SURFING' sign — quirky" },
+    { "file": "photos/p_10.jpg", "note": "Ground: oak + layered ridge views, chopped wood pile, solar lights — strong living-level view" },
+    { "file": "photos/p_11.jpg", "note": "Drone rear: PATCHED/PEELING metal roof (rough), roof + shed solar arrays, dogs in fenced patio, weathered siding" },
+    { "file": "photos/p_12.jpg", "note": "Drone high: full compound — house, 3+ outbuildings w/ blue metal roofs, water storage tank, RV carport, corrals" },
+    { "file": "photos/p_13.jpg", "note": "Top-down: house + solar array, outbuilding cluster, poly water tank, blue barrels, dirt drives" },
+    { "file": "photos/p_14.jpg", "note": "Top-down wide: additional sheds/cabins (green + white roofs) with fenced yard — multi-structure homestead, permit status unknown" },
+    { "file": "photos/p_15.jpg", "note": "Drone: lower pasture w/ barn + red-roof stable, corrals, dirt road to PAVED Back Canyon Rd" },
+    { "file": "photos/p_16.jpg", "note": "Land: oak-dotted gentle pasture sloping to mountain backdrop — usable terrain" },
+    { "file": "photos/p_17.jpg", "note": "Ground: flag-topped hill, oak/juniper woodland, grassy clearing — sit spots" },
+    { "file": "photos/p_18.jpg", "note": "Parcel overlay: triangular 20.39-ac parcel fronting paved road, house pad near SW corner — 'just off paved road' verified" }
+  ],
+  "crosschecks": [
+    { "check": "Marketing claims vs photos", "result": "Verified honest: 'off-grid fixer-upper' (roof p_11, OSB ceiling p_04), '20 acres Twin Oaks' (p_16–p_18), 'just off paved road' (p_15, p_18), 'concrete patio w/ mountain views' (p_08), 'solar panels + inverter + batteries, well, septic' (arrays p_11/p_13; well/septic not photo-verifiable). Cash-only stated plainly. Exemplary honest fixer marketing." },
+    { "check": "Geocoder vs page coords", "result": "FLAG: Census geocoder (-118.33720, 35.31667) ~390 ft from page coords (-118.336698, 35.31767) — exceeds ~150 ft tolerance; page parcel coords used as canonical" },
+    { "check": "Elevation / micro-market", "result": "3,323 ft — Twin Oaks/Caliente oak-woodland belt above the Caliente valley; four seasons, occasional winter snow, hot dry summers" },
+    { "check": "Orientation", "result": "Patio/French doors face across valley bowl toward ridges, roughly E–SE (drone + parcel-geometry inference); west hill + oaks give afternoon shade. INFERENCE" },
+    { "check": "FHSZ / insurance", "result": "Verify on CAL FIRE map — oak woodland WUI, Kern County; dry grass/brush to structures; off-grid = no fire hydrant; presumptive High/Very High; insurance availability flag raised" },
+    { "check": "Amenity claims", "result": "Solar arrays physically verified (p_11, p_13, p_14); water tank visible (p_12, p_13); well + septic stated but not photo-verifiable; barn/corrals verified (p_15); paved-road frontage verified (p_15, p_18)" },
+    { "check": "Drive-time claim", "result": "No drive-time claim in marketing. OSRM: 404 min / 328.7 mi from SF Ferry Building — ~6.7 h, hard fail of the 3h getaway gate (map sanity: near Caliente, ~40 min east of Bakersfield)" },
+    { "check": "Turnkey/STR claim", "result": "No STR claim; marketed as fixer-upper with 'vacation getaway, hunting retreat, or homestead' potential — aspirational, not turnkey. Furnished but rough. Verify Kern County STR permit rules" },
+    { "check": "Land usability", "result": "20.39 ac claimed; photos show large gentle pasture + oak clearings genuinely usable (p_15–p_17) plus steeper hill (p_17); barn, corrals, fenced pads already in place — usability claim holds" },
+    { "check": "Utilities", "result": "FULLY OFF-GRID by design: 11 solar panels + Renogy inverter + 8 lithium batteries (new), private well, septic — all stated in marketing, arrays/tank visible; no grid power; dual-pane windows stated. System capacity/age = core diligence" }
+  ]
+}
