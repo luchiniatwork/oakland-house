@@ -15,8 +15,8 @@
     "sqft": 1748,
     "pricePerSqft": 514,
     "lotAc": 0.1768,
-    "dom": 1,
-    "status": "New/Active (MLS #41152773)",
+    "dom": 12,
+    "status": "Pending (went pending ~2026-11-13 per MLSListings; listed $899,000 2026-11-01; MLS #41152773)",
     "fhsz": "Very High FHSZ (confirmed via CAL FIRE FHSZ LRA 2025 feature service point query at parcel coords 37.8032,-122.1825); Oakland WUI Fire Area — Zone 0 rules and annual vegetation inspections apply; quote insurance before contingency removal",
     "coords": [
       37.8031584,

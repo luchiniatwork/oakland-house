@@ -34,28 +34,28 @@ Each listing folder contains:
 ## View-house
 
 Oakland/Berkeley hills detached house with a view — the original hunt.
-Statuses/DOM re-verified against MLS IDX mirrors (CRMLS/bridgeMLS syncs of 11/3–11/4) on 2026-11-05. Ask = current/last list price; Sold = closing price; $/sf computed on ask (sold rows carry closing $/sf in the Sold cell).
+Statuses/DOM re-verified against Compass (via Jina proxy), MLSListings, and Coldwell Banker/Homefinder IDX mirrors on 2026-11-14. Ask = current/last list price; Sold = closing price; $/sf computed on ask (sold rows carry closing $/sf in the Sold cell).
 
 | | Score | Address | Ask | Sold | Bd/Ba | Sqft | $/sf (ask) | Status |
 |---|---|---|---|---|---|---|---|---|
 | [`6401-snake/`](6401-snake/) | 4.2 | 6401 Snake Rd | $998,000 | $1,260,000 ($914/sf) | 2/2 | 1,379 | $724 | SOLD 10/26 (+26% over ask) |
-| [`6944-snake/`](6944-snake/) | 4.1 | 6944 Snake Rd | $995,000 | — | 4/3 | 2,364 | $421 | New, 0 DOM (listed 11/5, OH 11/7–9); SFAR RESFAR #426174132, fetched via Jina proxy (Compass WAF-blocked); verified panoramic Bay/SF views + rare flat garden; Very High FHSZ (presumptive) — quote insurance first; shared driveway via 58 Hemlock Ln; lower level unphotographed — verify in person; $421/sf vs Snake comps' $828–914/sf closes = list-low/bid-up |
+| [`6944-snake/`](6944-snake/) | 4.1 | 6944 Snake Rd | $995,000 | — | 4/3 | 2,364 | $421 | Active, 9 DOM (listed 11/5; OH 11/14–15); SFAR RESFAR #426174132, fetched via Jina proxy (Compass WAF-blocked); verified panoramic Bay/SF views + rare flat garden; Very High FHSZ (presumptive) — quote insurance first; shared driveway via 58 Hemlock Ln; lower level unphotographed — verify in person; $421/sf vs Snake comps' $828–914/sf closes = list-low/bid-up |
 | [`6833-snake/`](6833-snake/) | 4.0 | 6833 Snake Rd | $899,000 | $1,675,000 ($828/sf) | 4/2 | 2,023 | $444 | SOLD 10/8 (+86% over ask) |
-| [`318-capricorn/`](318-capricorn/) | 3.8 | 318 Capricorn Ave | $895,000 | — | 2/2 | 1,655 | $541 | agent-owned, $835K seller-carryback — see [STRATEGY.md](318-capricorn/STRATEGY.md); 7 DOM (OH 11/7); '76 Sea Ranch–style treehouse + studio; FHSZ "NonWildland" per 2025 LRA map but '91 firestorm footprint — quote insurance first |
-| [`15-north/`](15-north/) | 3.8 | 15 North Cir | $1,149,000 | — | 4/2.5 | 2,410 | $477 | PENDING 10/28 (13 DOM) — still pending per 11/3 CRMLS sync |
-| [`5970-rincon/`](5970-rincon/) | 3.8 | 5970 Rincon Dr | $895,000 | — | 2/1 | 1,192 | $751 | PENDING 10/27 (12 DOM) — still pending |
-| [`6077-skyline/`](6077-skyline/) | 3.7 | 6077 Skyline Blvd | $1,250,000 | — | 3/3 | 1,551 | $806 | flip — see [STRATEGY.md](6077-skyline/STRATEGY.md); 64 CDOM (IDX 11/4); still $1.25M after 2nd cut 10/22 ($145K off Jul ask) + fallen escrow |
-| [`1488-summit/`](1488-summit/) | 3.6 | 1488 Summit Rd, Berkeley | $1,480,000 | — | 3/2.5 | 1,320 | $1,121 | 19 DOM; teaser pulled — repriced +48% ($999,999 → $1.48M) on 10/30; sold $1.8M '21 |
-| [`1076-grizzly-peak/`](1076-grizzly-peak/) | 3.5 | 1076 Grizzly Peak Blvd, Berkeley | $1,049,000 | — | 3/3* | 1,866 | $562 | PENDING by 11/4 (listed 10/26; ≤9 DOM); *3rd bd/ba = detached cottage, non-conforming (MLS duplex); $186K under 2021 sale |
-| [`6773-wilton/`](6773-wilton/) | 3.5 | 6773 Wilton Dr | $1,099,000 | — | 3/2 | 1,710 | $643 | PENDING 10/15 (14 DOM) — still pending |
-| [`6931-pinehaven/`](6931-pinehaven/) | 3.5 | 6931 Pinehaven Rd | $1,049,000 | — | 4/3.5 | 2,336 | $449 | short sale — see [STRATEGY.md](6931-pinehaven/STRATEGY.md); 20 DOM |
-| [`7099-pinehaven/`](7099-pinehaven/) | 3.5 | 7099 Pinehaven Rd | $899,000 | — | 5/3 | 2,492 | $361 | 16 DOM; 3bd main + detached 2bd ADU; $476K under '20 sale ($1.375M) |
-| [`6625-snake/`](6625-snake/) | 3.4 | 6625 Snake Rd | $849,000 | — | 4/2 | 1,512 | $561 | 7 DOM (OH 11/8) — see [visit-notes.md](6625-snake/visit-notes.md); '59 MCM treehouse, canyon view only; $100K under 2022 sale |
-| [`3615-brunell/`](3615-brunell/) | 3.4 | 3615 Brunell Dr | $899,000 | — | 3/1.5 | 1,748* | $514 | New, 1 DOM (OH 11/7–8); '54 MCM post-and-beam time capsule w/ real bay views; Very High FHSZ confirmed (2025 LRA) — quote insurance first; *marketed sqft vs 1,252 public record (lower level incl., disclosed) |
-| [`7094-pinehaven/`](7094-pinehaven/) | 3.4 | 7094 Pinehaven Rd | $795,000 | — | 3/2 | 1,530 | $520 | PENDING 10/21 (14 DOM) — close scheduled 11/11 |
-| [`33-eastwood/`](33-eastwood/) | 3.2 | 33 Eastwood Ct | $988,000 | — | 3/2 | 1,547 | $639 | 27 DOM; flip — seller paid $770K on 7/14/26 (+28% ask) |
-| [`5924-balboa/`](5924-balboa/) | 3.2 | 5924 Balboa Dr | $699,000 | — | 2/2 | 923 | $757 | 56 DOM |
-| [`177-diablo/`](177-diablo/) | 2.1 | 177 Diablo Dr | $950,000 | — | 2/2 | 1,631* | $582 | off-MLS Compass Private Exclusive — login-gated, 0 public photos, DOM n/a; Very High FHSZ (presumptive) — call the agent; *public-record sqft |
+| [`318-capricorn/`](318-capricorn/) | 3.8 | 318 Capricorn Ave | $895,000 | — | 2/2 | 1,655 | $541 | PENDING 11/10 (12 DOM) — agent-owned, $835K seller-carryback — see [STRATEGY.md](318-capricorn/STRATEGY.md); '76 Sea Ranch–style treehouse + studio; FHSZ "NonWildland" per 2025 LRA map but '91 firestorm footprint — quote insurance first |
+| [`15-north/`](15-north/) | 3.8 | 15 North Cir | $1,149,000 | — | 4/2.5 | 2,410 | $477 | PENDING 10/28 (13 DOM) — still pending 11/14 |
+| [`5970-rincon/`](5970-rincon/) | 3.8 | 5970 Rincon Dr | $895,000 | — | 2/1 | 1,192 | $751 | PENDING 10/27 (12 DOM) — still pending 11/14 |
+| [`6077-skyline/`](6077-skyline/) | 3.7 | 6077 Skyline Blvd | $1,250,000 | — | 3/3 | 1,551 | $806 | flip — see [STRATEGY.md](6077-skyline/STRATEGY.md); 73 CDOM (IDX 11/14, OH 11/14); still $1.25M after 2nd cut 10/22 ($145K off Jul ask) + fallen escrow |
+| [`1488-summit/`](1488-summit/) | 3.6 | 1488 Summit Rd, Berkeley | $1,460,000 | — | 3/2.5 | 1,320 | $1,106 | 28 DOM (OH 11/14–15); cut $20K to $1.46M ~11/12 after teaser pulled — repriced +48% ($999,999 → $1.48M) on 10/30; sold $1.8M '21 |
+| [`1076-grizzly-peak/`](1076-grizzly-peak/) | 3.5 | 1076 Grizzly Peak Blvd, Berkeley | $1,049,000 | — | 3/3* | 1,866 | $562 | PENDING by 11/4 (listed 10/26; ≤9 DOM) — still pending 11/14; *3rd bd/ba = detached cottage, non-conforming (MLS duplex); $186K under 2021 sale |
+| [`6773-wilton/`](6773-wilton/) | 3.5 | 6773 Wilton Dr | $1,099,000 | — | 3/2 | 1,710 | $643 | PENDING 10/15 (14 DOM) — still pending 11/14 (30 days in escrow) |
+| [`6931-pinehaven/`](6931-pinehaven/) | 3.5 | 6931 Pinehaven Rd | $1,049,000 | — | 4/3.5 | 2,336 | $449 | short sale — see [STRATEGY.md](6931-pinehaven/STRATEGY.md); 28 DOM |
+| [`7099-pinehaven/`](7099-pinehaven/) | 3.5 | 7099 Pinehaven Rd | $899,000 | — | 5/3 | 2,492 | $361 | PENDING 11/5 (16 DOM); 3bd main + detached 2bd ADU; $476K under '20 sale ($1.375M) |
+| [`6625-snake/`](6625-snake/) | 3.4 | 6625 Snake Rd | $849,000 | — | 4/2 | 1,512 | $561 | PENDING 11/11 (13 DOM) — see [visit-notes.md](6625-snake/visit-notes.md); '59 MCM treehouse, canyon view only; $100K under 2022 sale |
+| [`3615-brunell/`](3615-brunell/) | 3.4 | 3615 Brunell Dr | $899,000 | — | 3/1.5 | 1,748* | $514 | PENDING ~11/13 (12 DOM per MLSListings); '54 MCM post-and-beam time capsule w/ real bay views; Very High FHSZ confirmed (2025 LRA) — quote insurance first; *marketed sqft vs 1,252 public record (lower level incl., disclosed) |
+| [`7094-pinehaven/`](7094-pinehaven/) | 3.4 | 7094 Pinehaven Rd | $795,000 | $1,150,000 ($752/sf) | 3/2 | 1,530 | $520 | SOLD 11/10 (+45% over ask) |
+| [`33-eastwood/`](33-eastwood/) | 3.3 | 33 Eastwood Ct | $988,000 | — | 3/2 | 1,547 | $639 | 36 DOM; flip — seller paid $770K on 7/14/26 (+28% ask) |
+| [`5924-balboa/`](5924-balboa/) | 3.2 | 5924 Balboa Dr | $699,000 | — | 2/2 | 923 | $757 | 66 DOM; contingent-show since 11/9 |
+| [`177-diablo/`](177-diablo/) | 2.1 | 177 Diablo Dr | $950,000 | — | 2/2 | 1,631* | $582 | off-MLS Compass Private Exclusive — login-gated, 0 public photos, DOM n/a (still active per 11/11 sync); Very High FHSZ (presumptive) — call the agent; *public-record sqft |
 
 ## Multifamily
 
@@ -67,8 +67,8 @@ Small, cheap retreat ≤3h from SF (hard gate), nature, turnkey-STR potential.
 
 | | Score | Address | Ask | Bd/Ba | Sqft | Lot | Drive from SF | Status |
 |---|---|---|---|---|---|---|---|---|
-| [`33940-jennifer/`](33940-jennifer/) | 3.2 | 33940 Jennifer Way, Coarsegold | $197,000 | 0 (2 lofts)/1 | 240 | 2.85 ac | 3h59m OSRM ⚠️ outside gate | Active, 300 DOM; turnkey furnished tiny house on wheels on 2.85 gated oak acres w/ sunset views — shared well + tanks + generator, septic; verify Madera Co. STR permit + title; Compass WAF-blocked, fetched via Coldwell Banker mirror |
-| [`32774-road/`](32774-road/) | 2.9 | 32774 Road 400, Coarsegold | $400,000 | 3/3* | 2,300* | 1.00 ac | 3h55m OSRM ⚠️ outside gate | Active, 173 DOM (listed 5/21, cut $25K from $425K on 10/3); 1972 custom cabin on 1-ac oak knoll w/ living-level ridge views, 2 stone fireplaces, detached 725sf 2-bay garage w/ power+water; *agent-entered 3bd/3ba/2,300sf (Fresno MLS) vs 2bd/1+2ba/1,529sf assessor (MRMLS dup listing) — possible unpermitted lower level, verify; 93614 = 43% Very High/49% High FHSZ — quote insurance first; unfurnished/not turnkey — verify Madera Co. STR permit; Compass WAF-blocked, fetched via Homefinder mirror |
+| [`33940-jennifer/`](33940-jennifer/) | 3.2 | 33940 Jennifer Way, Coarsegold | $197,000 | 0 (2 lofts)/1 | 240 | 2.85 ac | 3h59m OSRM ⚠️ outside gate | Active, 304 DOM (price unchanged since 8/25 cut to $197K); turnkey furnished tiny house on wheels on 2.85 gated oak acres w/ sunset views — shared well + tanks + generator, septic; verify Madera Co. STR permit + title; Compass WAF-blocked, fetched via Coldwell Banker mirror |
+| [`32774-road/`](32774-road/) | 2.9 | 32774 Road 400, Coarsegold | $400,000 | 3/3* | 2,300* | 1.00 ac | 3h55m OSRM ⚠️ outside gate | Active, 177 DOM (listed 5/21, cut $25K from $425K on 10/3); second CRMLS record #FR26243595 synced 11/13 (2bd/3ba/2,300sf) — still $400K; 1972 custom cabin on 1-ac oak knoll w/ living-level ridge views, 2 stone fireplaces, detached 725sf 2-bay garage w/ power+water; *agent-entered 3bd/3ba/2,300sf (Fresno MLS) vs 2bd/1+2ba/1,529sf assessor (MRMLS dup listing) — possible unpermitted lower level, verify; 93614 = 43% Very High/49% High FHSZ — quote insurance first; unfurnished/not turnkey — verify Madera Co. STR permit; Compass WAF-blocked, fetched via Homefinder mirror |
 
 ## Comparisons
 
