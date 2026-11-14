@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 2,
+  "bucket": "getaway",
+  "slug": "2329-woodland",
+  "source": {
+    "url": "https://www.coldwellbanker.com/ca/pine-mountain-club/2329-woodland-dr/lid-P00800000HJUH3ul5rdRYTGz6BCpTAJmiI57V1uy",
+    "mirrorOf": null,
+    "fetchedAt": "2026-11-14T01:47:18Z"
+  },
+  "listing": {
+    "address": "2329 Woodland Dr, Pine Mountain Club, CA 93222",
+    "price": 260000,
+    "beds": 2,
+    "baths": 1,
+    "sqft": 960,
+    "pricePerSqft": 271,
+    "lotAc": 0.2497,
+    "dom": 16,
+    "status": "Active",
+    "fhsz": "Verify on CAL FIRE map — forested mountain community at 5,504 ft in the Los Padres NF interface (Kern Co); presumptive High/Very High FHSZ; insurance availability must be quoted before offer",
+    "coords": [34.849365, -119.157106],
+    "elevationFt": 5504.1,
+    "style": "Single-story mountain cabin (1972), knotty-pine interior, vaulted beam ceilings",
+    "description": "Escape the hustle and bustle of city living and discover the charm of this inviting 2-bedroom, 1-bathroom cabin retreat, tucked among beautiful trees and surrounded by lush greenery. With thoughtful upgrades throughout, this cozy getaway blends rustic charm with modern improvements, making it an ideal choice for a weekend escape, full-time living, or your own peaceful mountain hideaway. Enjoy the fresh air and natural surroundings from the front and back decks, featuring a new deck extension in the back that provides even more space to relax, entertain, or enjoy your morning coffee. Take in the scenic mountain views, unwind in the tranquil garden, and listen to the soothing sounds of the seasonal stream flowing just behind the property, accompanied by the peaceful songs of local birds, Steller s Jay and Mountain Chickadee. Step inside and discover a welcoming, open-concept living space that seamlessly connects the living room, kitchen, and dining area. The pellet stove adds warmth and cozy cabin ambiance during cooler months, creating the perfect setting for relaxing evenings after a day spent enjoying the outdoors. Designed for convenient, single-level living, this home offers two comfortable bedrooms with room for you and your guests to unwind. The primary bedroom features a spacious walk-in closet. The recently remodeled bathroom showcases a brand-new shower, adding a fresh, updated touch to the home. Additional improvements include a new water heater for added peace of mind. For added security, bear-resistant security bars have been installed on the back windows, along with a bear-resistant front-door screen, offering practical upgrades for mountain living. Outside, a newer enclosed storage shed provides convenient space for gardening tools, outdoor equipment, and seasonal essentials. Whether you're looking for a quiet weekend escape, a cozy full-time residence, or a peaceful place to reconnect with nature, this charming cabin offers a wonderful combination of comfort, privacy, and thoughtful updates. Enjoy the slower pace of life, breathe in the fresh mountain air, and make this inviting retreat your own! The HOA amenities are pickleball, tennis, pool, spa, 9-hole golf course, fishing, clubhouse, biking and hiking trails along with security!",
+    "driveTimeMin": 369,
+    "driveOrigin": "SF Ferry Building, 37.7955,-122.3937"
+  },
+  "scores": {
+    "drive_time_sf": {
+      "score": 1,
+      "note": "OSRM 369 min (6h 09m, 328.5 mi) from SF Ferry Building — >180 band; HARD FLAG: outside the 3h gate"
+    },
+    "view": {
+      "score": 3.5,
+      "note": "Real living-level ridge views from main deck (p_23, p_34, p_35) and covered gazebo panorama (p_33); interiors frame treetops/ridge slivers (p_01, p_02); tree-filtered, not open — drone panoramas (p_26–p_29) overstate it"
+    },
+    "lot_nature": {
+      "score": 3.5,
+      "note": "0.25 ac dense conifer/oak forest, claimed seasonal stream behind (drone p_27 shows green corridor), sloping natural garden + turf sit spot (p_31), genuine privacy (p_21, p_22), flat gravel driveway (p_25); not multi-acre"
+    },
+    "turnkey_airbnb": {
+      "score": 4,
+      "note": "Fully furnished + styled with established 'Pilgrim Cottage' name sign (p_18), guest books/DVDs (p_13, p_14), string lights, multiple staged outdoor zones; no rental history or sold-furnished language stated; verify Kern Co STR permit + PMC POA CC&Rs"
+    },
+    "price_accessibility": {
+      "score": 5,
+      "note": "$260k ≤ $350k band — cheapest possible tier; $271/sf; ~$149/mo HOA reported on mirrors (verify)"
+    },
+    "condition": {
+      "score": 3,
+      "note": "1972 cabin: new shower verified (p_15), newer water heater plausible (p_17), new deck extension (p_19/20); but original kitchen w/ coil range (p_06, p_07), teal carpet, T1-11 siding, deck-on-piers over slope (p_32), roof age unknown, wall+pellet heat only, no cooling"
+    },
+    "natural_light": {
+      "score": 3.5,
+      "note": "Big sliders + clerestory windows keep vaulted great room bright (p_01, p_04, p_08) despite dense canopy; bedrooms get slider/window light (p_10, p_12); better than typical dark cabin"
+    },
+    "character": {
+      "score": 4.5,
+      "note": "Vaulted knotty-pine + exposed beams (p_01–p_05), ornate black parlor stove (p_02, p_08), log bed frames (p_10, p_13), named-cottage identity (p_18), cohesive rustic-bear styling — charm well above generic box"
+    }
+  },
+  "weightedTotal": 3.2,
+  "verdict": "A genuinely charming, dirt-cheap, fully furnished forest cabin with real deck-level ridge views, a covered gazebo sit spot, and verified resort-HOA amenities — that happens to sit 6h 09m from SF, more than double the buyer's hard 3-hour gate. Everything the getaway brief wants (turnkey STR styling, privacy, stream, $260k price) is present except proximity. As an SF weekend escape it fails the gate decisively; as a cheap mountain STR/cabin asset it is strong for an LA-based buyer (PMC is ~1.5–2h from LA). The 3.2 score is almost entirely drive-time drag.",
+  "flags": [
+    "🚗 HARD FLAG: 369 min (6h 09m) OSRM drive from SF — outside the 3h gate; this alone ends the SF-getaway case",
+    "🔥 Los Padres NF-interface forest community: trees to structure (p_21, p_22), deck on piers over slope (p_32); verify CAL FIRE FHSZ designation and get insurance quote before offer",
+    "🏘️ HOA fee discrepancy: CB data shows $0 but two mirrors report $149/mo; PMC POA CC&Rs may restrict short-term rentals — verify STR rules + Kern County permit before underwriting Airbnb income",
+    "💧 Water source and sewer/septic not stated in listing data — verify (PMC POA water typical; septic vs sewer unknown)",
+    "🌨️ Snow country at 5,504 ft (snow-dusted peaks in p_28): seasonal access, snow load, winterization; heat is wall heater + pellet stove only, no cooling",
+    "📅 DOM anomaly: CB daysOnMarket=1 contradicts its own firstAppearedDate 2026-10-29 → 16 days recorded; mirrors corroborate late-Oct list date"
+  ],
+  "positives": [
+    "$260k / $271 per sqft — bottom price band, top price score",
+    "Fully furnished + styled with established 'Pilgrim Cottage' identity (p_18) — genuine turnkey STR setup",
+    "Living-level ridge views verified from main deck and covered gazebo (p_33, p_34, p_35) — not just drone-altitude",
+    "HOA amenity claims verified by drone: tennis, pickleball, golf, clubhouse, fishing lake (p_36–p_39)",
+    "New shower (p_15), newer water heater (p_17), new rear deck extension (p_19, p_20), bear-resistant screen door (p_19, p_35) — claims photo-verified",
+    "Flat gravel driveway + single-level living (p_25, p_30) — easy access for a mountain cabin",
+    "Bright vaulted knotty-pine great room with big sliders and clerestory windows (p_01, p_08)"
+  ],
+  "orientationInference": "Street/front facade faces roughly S–SE (midday sun on facade in p_25, EXIF 11:14 AM); rear deck + gazebo view side faces roughly N–NW toward the snow-dusted San Emigdio ridges visible in drone shots (p_28, p_38) — deck likely morning-lit, shaded late day in winter — INFERENCE",
+  "photos": [
+    { "file": "photos/p_01.jpg", "note": "Vaulted knotty-pine great room, exposed beams, sliders to deck w/ treetop-ridge outlook, furnished, bright" },
+    { "file": "photos/p_02.jpg", "note": "Living room reverse: ornate black parlor stove, sliders to deck, plaid cabin styling, furnished" },
+    { "file": "photos/p_03.jpg", "note": "Wide open-concept living/dining, knotty pine throughout, multiple rugs/seating, furnished and styled" },
+    { "file": "photos/p_04.jpg", "note": "Living to dining view: beam ceiling, stone-veneer accent wall w/ kitchen pass-through, good light" },
+    { "file": "photos/p_05.jpg", "note": "From kitchen across living room: open plan, older white/dark cabinets, sliders to deck" },
+    { "file": "photos/p_06.jpg", "note": "Kitchen: dated white fridge + coil range, older cabinets, brick-look floor — functional, original-ish" },
+    { "file": "photos/p_07.jpg", "note": "Kitchen wider: galley layout, pass-through bar, older appliances, clean" },
+    { "file": "photos/p_08.jpg", "note": "Great room wide: stone-veneer divider, parlor stove, layered Persian rugs, warm and bright" },
+    { "file": "photos/p_09.jpg", "note": "Dining area + living: chandelier, furnished dining set, gallery art walls, teal carpet" },
+    { "file": "photos/p_10.jpg", "note": "Primary bedroom: vaulted wood ceiling, log bed frame, furnished, slider to private deck w/ trees" },
+    { "file": "photos/p_11.jpg", "note": "Primary reverse toward bath: clean, furnished, decent light" },
+    { "file": "photos/p_12.jpg", "note": "Primary third angle: slider to deck w/ chair, tree-filtered outlook, en-suite access" },
+    { "file": "photos/p_13.jpg", "note": "Bedroom 2: vaulted ceiling, log bed, books/DVD shelves for guests, furnished" },
+    { "file": "photos/p_14.jpg", "note": "Bedroom 2 reverse: media shelf, closet, cozy furnished" },
+    { "file": "photos/p_15.jpg", "note": "Bathroom: NEW white shower stall w/ sliding glass — 'brand-new shower' claim verified; oak vanity, wood wainscot" },
+    { "file": "photos/p_16.jpg", "note": "Bathroom second angle: oak vanity, wood wainscot, shuttered window, dated wallpaper but clean" },
+    { "file": "photos/p_17.jpg", "note": "Laundry closet: full washer/dryer, cabinets, water heater behind ironing board (newer — claim plausible)" },
+    { "file": "photos/p_18.jpg", "note": "Front deck money shot: Adirondack chairs, bistro set, string lights, 'Pilgrim Cottage' name sign, mountain views" },
+    { "file": "photos/p_19.jpg", "note": "Deck along house: dining table, gazebo at far end, bear-resistant screen door verified, tall pines at rail" },
+    { "file": "photos/p_20.jpg", "note": "Deck toward gazebo: covered lounge, ridge above treetops, blue sky — real outdoor living" },
+    { "file": "photos/p_21.jpg", "note": "Elevated exterior: brown cabin nestled in dense conifers/oaks, wrap decks, ridge behind — private but trees-to-structure fire note" },
+    { "file": "photos/p_22.jpg", "note": "Exterior from garden: T1-11 siding, flag pole, deck, mixed forest, rustic fall garden" },
+    { "file": "photos/p_23.jpg", "note": "Back/side deck: plastic chairs, grill, open ridge views over pine/oak canopy — living-level view evidence" },
+    { "file": "photos/p_24.jpg", "note": "Deck overlooking sloping natural garden w/ flag pole, forest + open sky" },
+    { "file": "photos/p_25.jpg", "note": "Street approach: FLAT gravel driveway, address sign 2329, cabin above small retaining wall — easy access" },
+    { "file": "photos/p_26.jpg", "note": "DRONE: open valley/mountain panorama — context only, NOT living-level view (agent altitude inflation)" },
+    { "file": "photos/p_27.jpg", "note": "DRONE: overhead neighborhood — cabins in dense forest, green stream/meadow corridor below property" },
+    { "file": "photos/p_28.jpg", "note": "DRONE: snow-dusted high peaks (San Emigdio range) over forested valley — snow-country confirmation" },
+    { "file": "photos/p_29.jpg", "note": "DRONE: more valley/forest context, scattered cabins" },
+    { "file": "photos/p_30.jpg", "note": "Driveway from street: gentle gravel slope through trees, painted 2329 rock, shaded" },
+    { "file": "photos/p_31.jpg", "note": "Side yard: artificial-turf sit spot w/ Adirondack chairs, ridge views over treetops, screened gazebo" },
+    { "file": "photos/p_32.jpg", "note": "Along/under deck: deck on piers over slope (fire/maintenance diligence), turf strip, forest close" },
+    { "file": "photos/p_33.jpg", "note": "GAZEBO money shot: two recliners facing open layered-ridge + conifer panorama — genuine living-level view" },
+    { "file": "photos/p_34.jpg", "note": "Main-deck view: layered ridges over dense conifer canopy, snow dust on far peaks — living-level verified" },
+    { "file": "photos/p_35.jpg", "note": "Deck reverse: ridge views through trees, dining table, grill, bear screen door again visible" },
+    { "file": "photos/p_36.jpg", "note": "DRONE amenities: tennis + pickleball courts, golf, pond, clubhouse, parking — HOA claims verified" },
+    { "file": "photos/p_37.jpg", "note": "DRONE: village lake + golf course + town center below mountains — context" },
+    { "file": "photos/p_38.jpg", "note": "DRONE: golf/clubhouse/village with snow-dusted peaks behind — context" },
+    { "file": "photos/p_39.jpg", "note": "DRONE: community fishing lake — 'fishing' amenity verified" }
+  ],
+  "crosschecks": [
+    { "check": "Marketing claims vs photos", "result": "Honest listing: new shower verified (p_15), water heater plausible (p_17), deck extension verified (p_19/20), bear screen door verified (p_19/35), furnished throughout verified; seasonal stream not directly photographed but drone p_27 shows green corridor below; window security bars claimed but not clearly photographed" },
+    { "check": "Geocoder vs page coords", "result": "Agree: census 34.849365,-119.157106 vs page 34.849214,-119.157042 (~60 ft apart, within 150 ft tolerance)" },
+    { "check": "Elevation / micro-market", "result": "5,504 ft — high-elevation snow-country resort village (PMC POA: golf/tennis/pool/lake); Kern County, ~1.5–2h from LA" },
+    { "check": "Orientation", "result": "Front ~S–SE, rear deck/gazebo ~N–NW toward San Emigdio ridges — corroborated by EXIF 11:14 AM facade sun (p_25) + snow peaks N in drone shots (p_28) — inference" },
+    { "check": "FHSZ / insurance", "result": "Verify on CAL FIRE map — Los Padres NF-interface forested community, presumptive High/Very High; trees-to-structure visible; insurance availability flag raised" },
+    { "check": "Amenity claims", "result": "Pickleball/tennis/golf/pool/clubhouse/fishing all verified by drone shots (p_36–p_39); trails claimed, plausible for NF-adjacent village" },
+    { "check": "Drive-time claim", "result": "No marketing drive-time claim made; OSRM measures 369 min / 328.5 mi from SF Ferry Building — outside the 3h gate (hard flag)" },
+    { "check": "Turnkey/STR claim", "result": "No explicit STR claim in copy, but full furnishing + 'Pilgrim Cottage' identity + guest media = de facto turnkey rental staging; rental history not stated; verify Kern Co STR permit + PMC POA CC&Rs" },
+    { "check": "Land usability", "result": "0.25 ac: flat driveway + turf sit spot + decks are the usable living space; remainder slopes into stream corridor — consistent with photos" },
+    { "check": "Utilities", "result": "Water/sewer unstated — verify (PMC POA water typical, septic vs sewer unknown); pellet stove + wall heater, no cooling; laundry present; new water heater claimed" },
+    { "check": "Fetch provenance", "result": "Original compass.com URL returned AWS WAF challenge (HTTP 202, x-amzn-waf-action: challenge); Coldwell Banker mirror fetched successfully — 39/39 photos + full structured data" },
+    { "check": "DOM", "result": "CB daysOnMarket=1 contradicts its own firstAppearedDate 2026-10-29; 16 days recorded (fetch 2026-11-14); mirrors corroborate late-October list date" }
+  ]
+}
