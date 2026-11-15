@@ -96,7 +96,14 @@ though Capricorn wins on weighted-points-per-$M); the 11-10 comp pits
 turnkey-furnished $197k tiny-home package on 2.85 gated oak acres
 beats Road's unfurnished $400k cabin on the getaway weights; the whole
 margin lives in the turnkey_airbnb dimension, and both fail the 3h
-gate, so the pick only stands if the buyer relaxes it to ~4h):
+gate, so the pick only stands if the buyer relaxes it to ~4h); the
+11-15 comp pits the new 7279 Snake flip against 318 Capricorn (pick:
+318 Capricorn — it beats or ties Snake on 7 of 10 dimensions and wins
+on weighted-points-per-$M (4.25 vs 3.71) at $103K less, with the more
+honest marketing; but Capricorn is pending since 11/10, so 7279 Snake
+is the actionable fallback — verify the permitted sqft and negotiate
+against the +33% flip math; the ranking flips only if the view weight
+rises from 0.18 to ~0.30):
 
 | Date | Matchup |
 |---|---|
@@ -113,3 +120,4 @@ gate, so the pick only stands if the buyer relaxes it to ~4h):
 | 2026-11-05 | [33 Eastwood vs 7094 Pinehaven](comparisons/20261105T064936Z-33-eastwood-vs-7094-pinehaven.md) |
 | 2026-11-05 | [6944 Snake vs 318 Capricorn](comparisons/20261105T230527Z-6944-snake-vs-318-capricorn.md) |
 | 2026-11-10 | [33940 Jennifer vs 32774 Road](comparisons/20261110T183137Z-33940-jennifer-vs-32774-road.md) (getaway) |
+| 2026-11-15 | [318 Capricorn vs 7279 Snake](comparisons/20261115T021255Z-318-capricorn-vs-7279-snake.md) |
