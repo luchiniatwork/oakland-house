@@ -49,10 +49,10 @@
     "📄 ZERO permits/inspections in disclosure package vs 'permitted' marketing — only HVAC evidenced (HERS duct-leakage pass); SPQ 7.F permit disclosure skipped",
     "🏗️ Deck/balcony engineered reinforcement (doc 17: GC's own letter, no permit/engineer report) — why did NEW decks need reinforcing?",
     "🌋 State Landslide Seismic Hazard Zone + Oakland 'Mostly Landslides' + 6x seismic 'Don't Know' (bolting, posts, cripple walls) — retrofit evaluation needed",
-    "☀️ Solar array REMOVED in flip: present pre-reroof (stale photo p_01), gone in current aerials (p_57/p_58) — SPQ 'No' accurate today; confirm removed system was owned (no lease/PPA/UCC tail) + removal permit; NEM 1.0/2.0 grandfathering lost (future solar = NEM 3.0 economics); stale p_01 misrepresents current roof",
+    "☀️ No solar (either era — June aerials + p_57/p_58 verify; arrays are the neighbors'); p_01 dark roof patch = ponding/membrane — roof-drainage check",
     "🚽 EBMUD PSL certificate missing despite 'Central Plumbing — Sewer Lateral' work — TWO ordinance triggers (June 2026 sale + >$100K remodel) make its existence near-certain; contractor verified (Central Plumbing & Sewers #964557)",
     "🔥 FHDS: non-ember vents + combustibles within 5ft/under decks admitted; roof Class A blank; new decks not WUI; buyer takes 1-yr defensible-space duty (3C(3))",
-    "🧾 Fireplace + carport (June MLS) both removed — no permits/narrative",
+    "🧾 Fireplace + carport (June MLS) both removed — PHOTO-VERIFIED (June aerials photos-preflip/dji_0321/0330/0345 vs p_57/p_58); no permits/narrative; chimney roof patch to inspect",
     "💰 Cash flipper: Flamingo Park LLC free-and-clear (no liens); registered at listing brokerage's own address (1417 Everett St, Alameda)"
   ],
   "positives": [
@@ -61,7 +61,7 @@
     "1,212 ft ridge elevation; west-facing sunset corridor; real bay/SF/Bay Bridge glimpses from living level (p_18, p_23)",
     "Rare for Snake Rd: flat street-level parking pad for 4+ cars (p_01, p_57)",
     "Newly terraced, landscaped yard with mature apricot/apple/lemon trees + swing (p_45-49)",
-    "Parking pad + low-slope roof ready for future solar (array removed in flip — see flags)",
+    "New torch-down roof (June photos verify old built-up roof replaced — photos-preflip/)",
     "3 legitimate bedrooms — primary on main level with canyon view; lower family room + office nook (p_28-30, p_39-42)",
     "1.6 mi to Montclair Village shops (marketing, plausible per map)",
     "Disclosure positives: CSLB-verified trades (22-yr local roofer All Weather #833347; Ariston C-20 #1026958); CalRATERS HERS PASS on furnace; OFD vegetation cert COMPLIANT 7/1/26; clean title (no liens/easements); NHD clean on flood/fault/liquefaction/pipelines; pre-opened escrow (First American #7474111) — fast-close currency"
@@ -69,7 +69,7 @@
   "orientationInference": "View side faces W-WNW: dusk/sunset shots (p_09, p_21) show sun setting over the bay corridor; SF skyline / GG / Bay Bridge (west landmarks) appear in telephoto (p_23-25). Afternoon-evening sun on the glass wall and view deck; mornings shaded on the canyon side. Inference from photos + map, not compass-verified.",
   "photos": [
     { "file": "photos/p_00.jpg", "note": "Hero: living room, post-and-beam wood ceiling, glass wall to canyon view, open plan to dining/kitchen" },
-    { "file": "photos/p_01.jpg", "note": "Street-level parking pad (4+ cars); house below street; low-slope roof w/ solar; bay glimpse; power lines" },
+    { "file": "photos/p_01.jpg", "note": "Street-level parking pad (4+ cars); house below street; new low-slope roof w/ dark ponding/membrane patch (NOT solar — corrected 11/17; no array in either era); bay glimpse; power lines" },
     { "file": "photos/p_02.jpg", "note": "Rear deck, new wood, lattice fence; uphill neighbors; power pole + lines prominent" },
     { "file": "photos/p_03.jpg", "note": "Deck lounge vs board-and-batten wall; neighbor gable ~15-20 ft beyond fence; wires overhead" },
     { "file": "photos/p_04.jpg", "note": "Dusk deck, disclosed DIGITALLY ALTERED; warm glow through big windows" },
@@ -138,6 +138,6 @@
     { "check": "Amenity claims", "result": "1.6 mi to Montclair Village plausible per map (winding Snake Rd). '7.5 miles to the Bay Bridge' optimistic — more like 9-10 driving miles via CA-13/I-580. Village/park drone imagery is area marketing, not a property feature." },
     { "check": "Bed/bath count legitimacy", "result": "Real 3-bed: primary on main (view-side, WIC) + 2 lower bedrooms each with windows and proper closets (p_28-30, p_39-44) — no office fudge. 2 full renovated baths, one per level; primary lacks en-suite." },
     { "check": "Prior-sale / flip math", "result": "Sold $750,000 on 2026-06-25 (MLS 41137315, 1,585 sqft); relisted 2026-11-14 at $998,000 (MLS 41153843, 1,725 sqft). +$248K (+33%) in <5 months; 140 sqft delta suggests lower-level space newly counted — verify permitted living area." },
-    { "check": "Disclosure package (22 docs, reviewed 11/17)", "result": "Statutory-minimum: zero inspections, zero permits, zero invoices/warranties. Confirms VHFHSZ + Landslide SHZ + 'Mostly Landslides'; SFLS public-record 1,585 sf contradicts MLS 1,725; SPQ denies solar array visible on roof; FHDS mis-checks 1959 house as post-2010, admits vent/Zone-0 vulnerabilities, leaves roof Class A blank; deck/balcony reinforcement via GC self-letter only; 6x seismic Don't Know; EBMUD PSL cert missing; seller Flamingo Park LLC free-and-clear cash flipper sharing listing brokerage's address. Full findings + leverage in disclosure-analysis.md." }
+    { "check": "Disclosure package (22 docs, reviewed 11/17)", "result": "Statutory-minimum: zero inspections, zero permits, zero invoices/warranties. Confirms VHFHSZ + Landslide SHZ + 'Mostly Landslides'; SFLS public-record 1,585 sf contradicts MLS 1,725 (June floor plan: lower level was finished living space — delta is measurement-basis, not new space); no solar in either era (June aerials photos-preflip + p_57/p_58 verify — arrays are the neighbors'; p_01 patch = ponding/membrane); chimney + carport removals photo-verified; FHDS mis-checks 1959 house as post-2010, admits vent/Zone-0 vulnerabilities, leaves roof Class A blank; deck/balcony reinforcement via GC self-letter only; 6x seismic Don't Know; EBMUD PSL cert missing; seller Flamingo Park LLC free-and-clear cash flipper sharing listing brokerage's address. Full findings + leverage in disclosure-analysis.md." }
   ]
 }

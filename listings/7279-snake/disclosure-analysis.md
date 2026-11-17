@@ -51,7 +51,7 @@ verified visually (checkboxes ambiguous in text extraction).
 | 1 | **Every building permit for the 2026 renovation** — package contains zero; SPQ 7.F Note 2 (their own form) required attaching permits obtained and identifying work done *without* permits; the TOA does neither | The MLS claim "Work completed by licensed contractors **and permitted**" is documented nowhere. Scopes needing permits: kitchen/bath remodel (plumbing + electrical), window replacement, new electrical panels, tankless water heater, reroof, decks/railings/exterior stairs, retaining walls, siding, fence/gates, fireplace/chimney removal, carport removal. Only indirect permit evidence in the whole package: the CalRATERS HERS duct-leakage pass (doc 21), which implies a finaled HVAC permit. Pull the full Accela history; demand permit numbers + final cards for every scope. Retro-permit risk, appraisal/underwriting friction, and the sqft question (#5) all live here. |
 | 2 | **EBMUD PSL Compliance Certificate** — SPQ 7.F TOA lists "Central Plumbing — Sewer Lateral" | The Regional PSL Ordinance requires a Compliance Certificate before title transfer — and **this property has TWO independent triggers**: (a) the June 2026 sale to Flamingo Park (sale trigger), and (b) the flip's own **>$100K remodel** (renovation trigger). Either a certificate exists (passing lateral — valid 7 years; or a Time Extension Certificate with a $4,500 deposit outstanding) or the seller is out of compliance on a regional ordinance twice over. The contractor is **Central Plumbing & Sewers, Alameda — CSLB #964557, C-36/C-42, active since 2011, sewer-specialized** (verified 11/17) — and EBMUD inspectors witness the verification test, so records exist at BOTH Oakland permit files and EBMUD. Free status check: EBMUD property-search tool at eastbaypsl.com / psl@ebmud.com / (866) 403-2683. Demand: certificate number, scope (repair vs replacement — and WHY it was needed), EBMUD witness record, invoice, and the camera video. |
 | 3 | **Engineer Marcus Yan's report/instructions for the deck + balcony reinforcement** — package has only doc 17: a one-page letter on Will Will Construction letterhead, signed by GC Wilfrido Sanchez himself, dated "November 10" (no year), no permit number, no inspection reference | Why did **brand-new** decks (marketing: "New decks") need engineered structural reinforcement? Either the first build was deficient, a problem was found, or the engineer was brought in mid-stream. Get the engineer's letter/calcs, the permit, the final card, and before/after photos. Until then treat deck structure as unverified. |
-| 4 | **Solar removal documentation** — **CORRECTED 11/17 PM:** the array in p_01 is a *stale pre-flip photo*; current aerials (p_57 elevated, p_58 top-down) show the new torch-down roof **bare — the flip removed the PV array and did not reinstall it**. SPQ 8.B "No solar power system" is **accurate today** | What remains open: (a) was the removed system **owned or leased**? If leased/PPA, removal without provider consent triggers default/buyout obligations — demand written confirmation of zero residual obligations (title is clean, but UCC fixture filings can hide); (b) removal permit + roof-penetration patching under the new membrane; (c) the removal **destroyed any NEM 1.0/2.0 net-metering grandfathering** — a future install prices at NEM 3.0/NBT economics (much worse); (d) p_01 is a stale photo in the *current* marketing set — audit every condition claim against photo era. |
+| 4 | ~~Solar documents~~ **RESOLVED 11/17 PM — there is no solar and never was (either listing era).** Recovered the full June 2026 listing photo set from the Winkler site (54 photos + floor plans, now in `photos-preflip/`): June aerials (dji_0303/0321/0330/0345) show **no array on the subject's roof** — the arrays visible in both eras belong to the *neighbors* (uphill gray house + others). Current aerials (p_57/p_58) confirm none now. SPQ 8.B "No solar power system" is **simply accurate**. My earlier "array in p_01" read was wrong: the dark, wavy-edged patch on the new flat roof in p_01 is **ponding/membrane variation** — a roof-drainage note for the roof walk, not panels | No document ask survives except: verify the p_01 ponding at the roof walk (drainage/crickets on a 90-day torch-down). **New evidence dividend:** the June set photo-verifies the **chimney** (masonry w/ red cap, gone now) and **carport** (covered structure at street level w/ vehicle, gone now) removals, plus the pre-flip condition baseline (dirt yard, old built-up roof, old deck). |
 | 5 | **Any pest (WDO) inspection and any general home inspection** — TDS: "No substituted disclosures" | Standard seller-side diligence for a 1959 hills house simply does not exist. Buyer must commission both; the seller-side information asymmetry is total. |
 | 6 | **Warranties + invoices for all 8 trades** (roof, windows, appliances, tankless, furnace, decks, floors, retaining wall) — SPQ §5.A/B/C answers "**No**" to *any documents whatsoever* | Contradicted by the package's own docs 17/20/21 — so paper exists. A full-renovation flip with no transferable warranty documentation leaves the buyer holding 90-day-old systems with no recourse. Demand the roof manufacturer + workmanship warranty, window warranty, Samsung appliance registration, furnace/tankless docs. |
 | 7 | **LLC authorizing resolution + good-standing** (RCSD-S: "is not attached"; prelim item 8) | Routine, but ask at offer time so escrow doesn't stall on entity paperwork. |
@@ -61,10 +61,15 @@ verified visually (checkboxes ambiguous in text extraction).
 
 ## 2. Missing bits of information (ask before / write into offer)
 
-- **The 140-sqft question**: is the lower level (the 1,585 → 1,725 delta) permitted,
-  finaled living space? SFLS discloses **only public-record 1,585 sf**; nothing in the
-  package supports 1,725. Lender appraisal will likely use ~1,585 → **$998K = $630/sf**,
-  not the marketed $579/sf.
+- **The 140-sqft question**: SFLS discloses **only public-record 1,585 sf**; nothing in
+  the package supports 1,725. **Refined 11/17 PM:** the June listing's own floor plan
+  (`photos-preflip/floorplan_*`, Cub Casa, mislabeled "7273 Snake Road") shows the
+  lower level as **full finished living space in June** (Bedroom + Room + Living Room
+  + Bath + Laundry + Foyer/Porch) — so the 1,585→1,725 delta is a **measurement-basis
+  change between listings, not new construction**. That weakens the "unpermitted new
+  space" theory but strengthens the measurement-inflation one: the ask needs the
+  measurement standard (ANSI?) and the appraiser will still likely use ~1,585 →
+  **$998K = $630/sf**, not the marketed $579/sf.
 - **Fireplace + carport removal**: the June 2026 MLS advertised "a carport, fireplace";
   the current TDS shows Fireplace "None" and no garage/carport. Masonry chimney removal
   is structural permit work. Permits? How were the roof/ceiling/foundation patched?
@@ -127,15 +132,16 @@ verified visually (checkboxes ambiguous in text extraction).
    admitted vulnerabilities, wood decks, and torch-down roof all feed underwriting.
 5. **Sqft/price basis (medium-high).** SFLS: public record **1,585 sf** (and 8,250 sf
    lot — consistent with 0.1894 ac). MLS: 1,725. AVID TOA: "MLS sqft derived from the
-   public records" — **it is not**. The 140-sqft delta carries the entire $/sf story:
-   $579/sf marketed vs $630/sf on public record, against Snake-street closes of
-   $828–914/sf (6401, 6833) and 6944's $421/sf ask. Offer math should run on 1,585
-   until seller proves otherwise.
-6. **Removed solar array (low-medium).** Array present pre-flip (stale p_01), gone
-   after the reroof (p_57, p_58) — SPQ 8.B "No" resolved as accurate. Surviving
-   issues: lease/PPA residue confirmation; removal permit; destroyed NEM
-   grandfathering (future solar = NEM 3.0/NBT economics, $15–25K to reinstall);
-   stale-photo marketing inflation.
+   public records" — **it is not**. The June floor plan proves the lower level was
+   already finished, marketed living space — the delta is measurement-basis, not new
+   space — so the lever is pure: $579/sf marketed vs $630/sf on public record, against
+   Snake-street closes of $828–914/sf (6401, 6833) and 6944's $421/sf ask. Offer math
+   should run on 1,585 until seller proves otherwise; the permit question for the
+   lower level stays open (was it ever finaled as living area?).
+6. ~~Solar~~ **Resolved — never existed (low).** June + November photo sets both
+   show no array on the subject house (neighbors have them). SPQ 8.B accurate. The
+   p_01 dark patch = ponding/membrane on the new flat roof — inspect drainage at
+   the roof walk.
 7. **Fireplace + carport removal (medium).** Both advertised in June; both gone now.
    Removal permits + patch quality unverified. Post-and-beam roof penetrations and
    the old carport slab/footings deserve inspection eyes.
@@ -179,11 +185,11 @@ verified visually (checkboxes ambiguous in text extraction).
 | Item | Source A | Source B | Note |
 |---|---|---|---|
 | **Square footage** | MLS/marketing: 1,725 sf ($579/sf) | SFLS: public record **1,585 sf**; AVID TOA: MLS figure "derived from the public records" | The 1,725 has no documented source anywhere in the package; their own forms contradict their own MLS. At 1,585, ask = $630/sf. **The cleanest price lever in the file.** |
-| **Solar** | p_01: rooftop PV array | p_57/p_58 (current): **bare roof — array removed in flip**; SPQ 8.B: "No solar" | **Resolved 11/17 PM:** p_01 is stale (pre-reroof). SPQ accurate today — but the active marketing set shows a non-existent array, and the removal's owned/leased status + permit + lost NEM grandfathering are open. |
+| **Solar** | p_01 dark roof patch (misread as PV array) | June aerials (`photos-preflip/dji_0303/0321/0330/0345`): no array pre-flip; p_57/p_58: none now; SPQ 8.B: "No solar" | **Resolved 11/17 PM: no solar in either era** — the arrays are the neighbors'. SPQ accurate. p_01 patch = ponding/membrane → roof-drainage check. (My earlier "removed array" correction is itself corrected.) |
 | **"Permitted" marketing** | MLS: "Work completed by licensed contractors **and permitted**" | Package: zero permits; SPQ 7.F TOA lists contractors but no permits; only HVAC indirectly evidenced via HERS test | Claim unsubstantiated by their own package. |
 | **Built year (FHDS)** | FHDS ¶2: "**Property is built on or after January 1, 2010**" checked | 1959 (NHD, MLS, earthquake statement) | Wrong on its face; 2B/2C answered anyway. The single most careless checkbox in the package. |
 | **Documents existence** | SPQ §5.A/B/C: **no documents of any kind** (before/during ownership/from others) | Package itself contains docs 17 (structural letter), 20 (fire cert), 21 (CalRATERS) | Internal contradiction; implies more paper exists (invoices, engineer letter, warranties). |
-| **Fireplace + carport** | June 2026 MLS: "a carport, fireplace" | Current TDS: Fireplace "None"; no garage/carport | Both removed in the flip; no permits or narrative. |
+| **Fireplace + carport** | June 2026 MLS: "a carport, fireplace"; June aerials: masonry chimney w/ red cap on roof (dji_0321/0330) + covered carport at street level w/ vehicle (dji_0345); June floor plan: fireplace symbol in family room | Current TDS: Fireplace "None"; no garage/carport; p_57/p_58: chimney gone, open pad + pergola where the carport stood | **Photo-verified removals** (upgraded from inference). No permits or narrative; verify chimney-removal permit + roof patch, carport demolition permit. |
 | **Deck narrative** | Marketing: "New decks" | Doc 17: "reinforcement of the front deck… reinforcement of the balcony" per engineer's instructions | New decks needing engineered reinforcement = the first build had a problem, or scope changed mid-stream. Get the story + the engineer's letter. |
 | **Roof fire rating** | FHDS 2C(1) Class A: **blank** | TDS: torch-down roof, age "90 days"; marketing: "New roof" | Fire rating undocumented in a VHFHSZ; insurance-relevant. |
 | **Defensible-space compliance** | FHDS 3B(2): property IS in compliance | Only evidence is the 7/01/2026 compliant notice — pre-renovation | Compliance snapshot predates new landscaping; FHDS 3C(3) shifts the 1-year State documentation duty to buyer. |
@@ -225,8 +231,8 @@ verified visually (checkboxes ambiguous in text extraction).
    triggers make its existence near-certain**: the June 2026 sale AND the >$100K
    remodel each independently require EBMUD compliance (see §2). If they can't
    produce one, they're out of compliance twice — price it.
-6a. **Solar residue**: written confirmation the removed array was owned outright
-   (no lease/PPA/UCC tail); removal permit.
+6a. **Chimney + carport removal paper**: permits + how the roof penetration was
+   patched (photo-verified removals — June aerials vs current).
 7. **Time**: if it sits past weekend 2–3, all of the above hardens; if it gets an offer
    date with multiple bids, decide in advance which risks to price rather than chase.
 
@@ -254,8 +260,8 @@ verified visually (checkboxes ambiguous in text extraction).
    >$100K remodel — make its existence near-certain; camera regardless: uphill
    lateral, 1959 fabric).
 7. Sqft measurement (appraiser) if pressing the 1,585 lever.
-8. Solar residue: removed system was owned, not leased (UCC/PG&E interconnection
-   records if disputed); removal permit.
+8. Roof walk specifics: chimney-removal patch, p_01 ponding/membrane variation,
+   skylight curb, solar-neighbor glare (none on subject).
 9. Updated prelim + PG&E easement question; survey if pursuing any boundary concern.
 10. Lead/asbestos check before any future demo (RRP status unknown).
 

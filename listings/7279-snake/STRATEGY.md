@@ -4,12 +4,15 @@ Negotiation playbook for pursuing (or walking from) this flip listing. Companion
 files: `listing.json` (scored record, 3.66 ≈ 3.7/5), `card.txt`, `crosscheck.md`,
 `disclosure-analysis.md` (22-doc package review, 2026-11-17), `photos/`, and the
 11/15 comparison vs 318 Capricorn (`../comparisons/20261115T021255Z-318-capricorn-vs-7279-snake.md`).
-Last updated: 2026-11-17 PM2 — **solar finding corrected**: the p_01 array is a stale
-pre-flip photo; current aerials (p_57/p_58) show the flip REMOVED the PV system at
-reroof — SPQ's "No solar" is accurate today; the open questions are lease residue,
-removal permit, and lost NEM grandfathering. Earlier: **possible offer date Tue
-2026-11-24** (two days before Thanksgiving) per listing side; disclosure package
-analyzed — permit paper confirmed absent, SFLS public-record sqft contradicts MLS.
+Last updated: 2026-11-17 PM3 — **solar thread fully retracted**: recovered the June
+listing photo set (54 photos + floor plans, `photos-preflip/`); June aerials show NO
+array on the subject house either — the panels are the neighbors'. No solar in either
+era; SPQ 8.B accurate throughout. The June set is a dividend: it PHOTO-VERIFIES the
+chimney (masonry, red cap) and carport removals and gives the pre-flip baseline, and
+its floor plan proves the lower level was finished living space in June — so the
+1,585→1,725 delta is measurement-basis, not new space. Earlier: **possible offer
+date Tue 2026-11-24** per listing side; disclosure package analyzed — permit paper
+confirmed absent, SFLS public-record sqft contradicts MLS.
 
 ## 0. Situation snapshot
 
@@ -48,9 +51,9 @@ analyzed — permit paper confirmed absent, SFLS public-record sqft contradicts 
   (3.8) PENDING at $895K — our 11/15 pick over this house.
 - **The disclosure package (full review: `disclosure-analysis.md`):** statutory
   minimum — **zero permits, zero inspections, zero invoices, zero warranties**. The
-  SFLS discloses only **1,585 sf** against the MLS's 1,725; a stale marketing photo
-  (p_01) shows a solar array the flip **removed at reroof** (p_57/p_58: bare roof —
-  owned-vs-leased residue and removal permit open); the FHDS checks "built on/after 2010" for a 1959
+  SFLS discloses only **1,585 sf** against the MLS's 1,725 (June floor plan: lower
+  level was finished living space then too — the delta is measurement-basis, not new
+  space); the FHDS checks "built on/after 2010" for a 1959
   house, admits **non-ember vents + combustibles within 5 ft/under decks**, leaves
   **roof Class A blank**, and shifts the 1-year defensible-space duty to the buyer;
   doc 17 reveals **engineered reinforcement of the NEW front deck and balcony** via
@@ -98,8 +101,7 @@ document they can't produce is worth money off.
   is active at $995K — $3K less than this house. Say it to their agent in those
   exact words. The pending comps (Capricorn 11/10, 6625 Snake 11/11) already
   absorbed this season's character-house buyers.
-- **Credibility pattern documented:** a stale pre-flip photo in the active marketing
-  set (solar array that no longer exists); "no documents" contradicted by the package
+- **Credibility pattern documented:** "no documents" contradicted by the package
   itself; FHDS wrong-century checkbox; false "public records" sqft sourcing. Each is
   small; together they license a simple rule: **nothing verbal counts — paper or
   price.**
@@ -151,9 +153,8 @@ retrofit eval + straps/bolts/post work $8–25K · fire hardening (ember vents,
 Zone 0, deck flashing, gutter covers) $5–15K · deck/balcony verification ± cure
 $0–30K (best case: engineer's letter + permit arrive clean) · skylight re-flash/
 roof details $1–5K · sewer lateral contingency $0–15K (work claimed, condition
-unknown) · pest/WDO reserve $5–15K (no report exists at all) · solar: $0 if the
-removed system was owned-outright (verify no lease/PPA/UCC tail); future reinstall
-$15–25K at NEM 3.0/NBT economics is optional upside, not a cure cost. **Carry $25–60K
+unknown) · pest/WDO reserve $5–15K (no report exists at all) · chimney-removal patch +
+carport demolition verification $0–5K. **Carry $25–60K
 mid-case;** every properly documented item retires its reserve line.
 
 ## 3. Gate 1 — Permits & disclosures (the documentary spine)
@@ -189,12 +190,11 @@ missing half is the paper: permits, finals, and the unpermitted-work statement.
 - [ ] **EBMUD PSL Compliance Certificate** — check free at eastbaypsl.com;
   "Central Plumbing — Sewer Lateral" is in the TOA, so paper exists somewhere.
   Legally required for transfer; seller delivers before contingency removal.
-- [ ] **Solar (removed system):** written confirmation the pre-flip array (stale
-  photo p_01; bare roof in p_57/p_58) was **owned outright** — no lease/PPA/UCC
-  residue (prelim is clean, but fixture filings can hide) — plus the **removal
-  permit** and confirmation the roof penetrations were sealed under the new
-  membrane. Note for the value model: the removal killed any NEM 1.0/2.0
-  grandfathering; a future system prices at NEM 3.0/NBT.
+- [ ] **Chimney + carport removal paper (photo-verified removals):** June aerials
+  (`photos-preflip/dji_0321/0330`) show the masonry chimney w/ red cap on the roof
+  and June's dji_0345 shows the covered carport w/ vehicle at street level; current
+  p_57/p_58 show both gone (open pad + pergola). Demand: removal permits, how the
+  roof penetration was patched, carport demolition permit. Fold into the roof walk.
 - [ ] **Roof package:** Class A fire-rating certificate (FHDS 2C(1) is blank),
   reroof permit, manufacturer + workmanship warranties, skylight re-flash detail
   (p_15 stained curb).
@@ -217,7 +217,7 @@ missing half is the paper: permits, finals, and the unpermitted-work statement.
 | Cosmetic scopes unpermitted only | Credit sized to retro-permit bids; written position |
 | Structural/deck/retaining work unpermitted | Hardest stop short of walking — engineer letter + retro-permit + holdback (2 bids), or walk |
 | Lower level unpermitted | Re-anchor permanently to 1,585 sf ($/sf math repriced); appraisal-contingency language explicit |
-| Removed solar had a lease/PPA tail | Release/buyout documentation, credit for any residual obligation, or walk if a claim surfaces |
+| Chimney/carport removal unpermitted or patch fails inspection | Retro-permit + repair credit (2 bids), or walk if the roof patch leaks |
 | Seller slow-walks the AB 968 completion | Treat as concealment signal; offer only on 1,585-sf pricing with full inspection rights, or walk |
 
 ## 4. Gate 2 — Fire & insurance (VHFHSZ confirmed — quote BEFORE offering)
@@ -277,9 +277,9 @@ vacant — easy access.
    stack after the insurance quote.
 8. [ ] **Electrical** — new panels (Gills Electric): brand, capacity, AFCI/GFCI
    coverage, permits; flip electrical is where fires start.
-9. [ ] **Solar residue check** — title/UCC search + PG&E interconnection records
-   confirming the removed array left no obligations; verify roof penetrations
-   sealed (part of the roof walk, item 5).
+9. [ ] **Chimney patch + roof drainage** — verify the chimney-removal patch and
+   the p_01 ponding/membrane patch (dark area on the new flat roof) at the roof
+   walk (item 5).
 
 ## 6. Gate 4 — Marketing-vs-reality checks (cheap, do early)
 
@@ -311,7 +311,7 @@ vacant — easy access.
 | Lower level not permit-provable AND price holds >$950K | Appraisal gap you fund in cash; $630/sf reality |
 | Seller refuses AB 968 completion (permits + unpermitted statement) | Statutory paper is the minimum; refusal = trust collapse on everything else |
 | Geotech/structural finding > ~$25–40K without full credit | Landslide SHZ + tall piers + 6× "Don't Know" |
-| Removed solar system had a lease/PPA tail (UCC filing, provider claim) without full release/credit | Undisclosed encumbrance + roof-penetration contamination |
+| Chimney-removal patch or carport demolition unpermitted AND seller won't cure/credit | Structural roof penetration + permit debt on the buyer |
 | Roof not Class A and insurance prices the difference | VHFHSZ underwriting reality, priced or walked |
 | Pest/WDO Section I > ~$25K without cure/credit | No report exists — the unknown is the risk |
 | Final price > **$950K** without every §9 gate green | Character-money for a paperless flip — Capricorn/6944 value beats it |
@@ -331,7 +331,7 @@ yet served; compliance currently incomplete). "Deck/balcony story unresolved" �
 3. **eastbaypsl.com** — PSL certificate status.
 4. Call/text the agent (Khalila Wolfe, Cerda-Zein): confirm the **11/24 offer
    date + exact cutoff time**; pre-emptives entertained? What paper exists beyond
-   the package (permits, engineer letter, solar-removal docs)? Why is the GC's letter the
+   the package (permits, engineer letter, chimney/carport removal paper)? Why is the GC's letter the
    only structural doc? What happened to the fireplace and carport? Did anyone
    die in the house? — her answers calibrate whether this is sloppy or strategic.
 5. **Pre-book inspectors TODAY, tentatively** — general, structural pest,
@@ -348,8 +348,7 @@ yet served; compliance currently incomplete). "Deck/balcony story unresolved" �
 
 **Serve a written BMI** (C.A.R. Buyer Material Information request) with the
 full demand list from `disclosure-analysis.md` §1–2: permit copies + finals,
-engineer's report + deck permit, PSL certificate, solar-removal documentation +
-owned-outright confirmation, roof Class A +
+engineer's report + deck permit, PSL certificate, chimney/carport removal permits, roof Class A +
 warranties, all 8 trades' invoices, LLC resolution, insurance history, appliance/
 conveyance list, defensible-space re-inspection, death-on-property answer.
 
@@ -390,7 +389,7 @@ bound in writing; permit/finals in hand or priced; sqft measured or repriced.
 | 1. Permits/AB 968 | Finaled permits match scope + unpermitted statement in writing, OR repriced to 1,585 sf + holdback — **FAILED AS PRESENTED (2026-11-17): zero permits, Note 2 skipped** |
 | 2. Insurance | Written bindable quote ≤ budget (~$9K/yr ceiling) — **OPEN** |
 | 3. Structure | Engineer/geotech: no >$25–40K finding; deck reinforcement documented + sound — **FAILED AS PRESENTED: GC self-letter only** |
-| 4. Roof/solar | Class A documented; roof walked; solar-removal residue confirmed clean — **OPEN (Class A blank; removed system's owned/leased status unknown)** |
+| 4. Roof | Class A documented; roof walked (chimney patch, p_01 ponding, skylight curb) — **OPEN (Class A blank; chimney-removal patch unverified)** |
 | 5. Sqft | 1,725 permit-proven/measured, OR price re-anchored to 1,585 — **FAILED AS PRESENTED: SFLS says 1,585** |
 | 6. Number | Final ≤ **$940K** target, ≤ **$950K** absolute, gates green |
 
@@ -408,10 +407,9 @@ the record — walking is cheap by design, and 6944 Snake is still standing.
   carport removals permitted? Any permit creating the 1,585→1,725 delta?
 - [ ] Engineer Yan's deck/balcony report: scope, trigger, permit, final card?
   Why did NEW decks need reinforcement?
-- [x] Solar: does the house have it? → **NO — removed in the flip** (stale p_01
-  shows the pre-reroof array; p_57/p_58 confirm bare roof). Remaining: was it
-  owned (no lease/PPA/UCC tail)? Removal permit? Penetrations sealed under the
-  new membrane? (NEM grandfathering died with removal — future install = NEM 3.0.)
+- [x] Solar: does the house have it? → **NO — and it never did** (June aerials +
+  current p_57/p_58 both clean; the arrays are the neighbors'; p_01's dark patch
+  is ponding/membrane). SPQ 8.B accurate throughout. Thread closed.
 - [ ] PSL certificate number/status (Central Plumbing's scope: repair or
   replacement, and why)?
 - [ ] Roof: Class A certificate? Warranty terms? Skylight reflashed or original
