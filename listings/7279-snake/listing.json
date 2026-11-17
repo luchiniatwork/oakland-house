@@ -15,9 +15,9 @@
     "sqft": 1725,
     "pricePerSqft": 579,
     "lotAc": 0.1894,
-    "dom": 1,
-    "status": "Active (New, listed 2026-11-14)",
-    "fhsz": "Very High FHSZ (presumptive) — 94611 Montclair, inside 1991 Oakland firestorm footprint",
+    "dom": 3,
+    "status": "Active (listed 2026-11-14; possible offer date Tue 2026-11-24, Thanksgiving week, per listing side 11/17)",
+    "fhsz": "Very High FHSZ CONFIRMED (NHD 11/2/2026, 2025 CAL FIRE LRA maps) + state Landslide Seismic Hazard Zone + Oakland 'Mostly Landslides' area; 1991 firestorm footprint",
     "coords": [37.838643746526, -122.198969761057],
     "elevationFt": 1212.2,
     "style": "1959 mid-century post-and-beam (MLS style: Modern)",
@@ -32,20 +32,28 @@
     "layout_flow": { "score": 4, "note": "Main level: entry → open living/dining/kitchen + primary + bath; lower: family room + 2 beds + bath + office nook (p_06, p_11, p_32-35); works well for solo buyer + guests/WFH." },
     "primary_suite": { "score": 3, "note": "View-side window to deck/canyon (p_29, p_30), sitting area, mirrored closets (p_28), walk-in closet (p_41); no en-suite bath evident — main bath is in hall (p_31)." },
     "outdoor_space": { "score": 4, "note": "Full-width view deck w/ cable rail (p_20-22), lower lounge deck (p_51), newly terraced yard w/ fruit trees + swing (p_45-49) — rare usable hills yard." },
-    "condition": { "score": 4, "note": "2026 flip reno: new roof, windows, floors, kitchen, baths, decks, paint, central heat, tankless HW; permitted/licensed claimed (p_12-18, p_31-38, p_57); finishes flip-grade-plus." },
+    "condition": { "score": 3.5, "note": "2026 flip reno genuinely new: roof, windows, floors, kitchen, baths, decks, paint, central heat (HERS-passed), tankless HW (p_12-18, p_31-38, p_57); trades CSLB-verified. But ZERO permits in package vs 'permitted' marketing; engineered deck/balcony reinforcement (GC letter only); 6x seismic 'Don't Know' on tall-post hillside house; FHDS roof Class A blank; new decks not WUI-compliant; skylight curb stained (p_15). Downgraded from 4.0 on disclosure findings — see disclosure-analysis.md." },
     "lot_usability": { "score": 3, "note": "0.19 ac but steep down-slope (p_45-50); new timber terraces create real pockets; dry brush fuel beyond terraces; road below limits quiet." }
   },
-  "weightedTotal": 3.7,
+  "weightedTotal": 3.66,
   "verdict": "A turnkey 1959 post-and-beam MCM on the Montclair ridge whose marketing oversells the bay: the everyday living-level view is forested canyon + sunsets with tree- and wire-filtered SF/bridge slices, not the 'Bay on full display' panorama. The trade-off: genuine MCM bones, all-new systems, street-level 4-car parking, and a rare terraced usable yard — versus Very High FHSZ insurance, power lines in the view corridor, a steep below-street lot, and a +33% flip premium ($750K in June 2026 to $998K now) with a 1,585 vs 1,725 sqft discrepancy to verify at permits.",
   "flags": [
-    "🔥 Very High FHSZ (presumptive), 1991 firestorm footprint — insurance availability/cost flag (94611)",
+    "🔥 Very High FHSZ CONFIRMED (NHD 11/2/26, 2025 CAL FIRE LRA) — insurance availability/cost is the #1 gate (94611, 1991 firestorm footprint)",
     "🔌 Power lines cross the bay view corridor and run along the road below (p_23, p_24, p_58)",
     "🏗️ Flip: bought $750K 2026-06-25, relisted $998K 2026-11-14 (+33% in <5 months)",
-    "📐 Sqft conflict: 1,725 (new MLS 41153843) vs 1,585 (June MLS 41137315) — likely lower-level space newly counted; verify permits",
+    "📐 Sqft conflict: MLS 1,725 vs SFLS public-record 1,585 — package contains NO source for 1,725; AVID TOA falsely claims 'public records' basis; $630/sf on public record; offer on 1,585 until proven",
     "🌲 Steep forested slope w/ dry-brush fuel beyond new terraces; wood decks + siding in fire country (p_46-52)",
     "🪜 Raised/pier foundation on downhill side; house sits below winding Snake Rd, entry via stairs (p_50, p_57, p_59)",
     "🏠 Low-slope/flat composition roof + kitchen skylight with aged/stained wood curb (p_15, p_57)",
-    "🖼️ Multiple twilight photos disclosed as DIGITALLY ALTERED (p_04, p_09, p_21); landmark bay shots are zoom/elevated"
+    "🖼️ Multiple twilight photos disclosed as DIGITALLY ALTERED (p_04, p_09, p_21); landmark bay shots are zoom/elevated",
+    "📄 ZERO permits/inspections in disclosure package vs 'permitted' marketing — only HVAC evidenced (HERS duct-leakage pass); SPQ 7.F permit disclosure skipped",
+    "🏗️ Deck/balcony engineered reinforcement (doc 17: GC's own letter, no permit/engineer report) — why did NEW decks need reinforcing?",
+    "🌋 State Landslide Seismic Hazard Zone + Oakland 'Mostly Landslides' + 6x seismic 'Don't Know' (bolting, posts, cripple walls) — retrofit evaluation needed",
+    "☀️ Solar array REMOVED in flip: present pre-reroof (stale photo p_01), gone in current aerials (p_57/p_58) — SPQ 'No' accurate today; confirm removed system was owned (no lease/PPA/UCC tail) + removal permit; NEM 1.0/2.0 grandfathering lost (future solar = NEM 3.0 economics); stale p_01 misrepresents current roof",
+    "🚽 EBMUD PSL certificate missing despite 'Central Plumbing — Sewer Lateral' work — TWO ordinance triggers (June 2026 sale + >$100K remodel) make its existence near-certain; contractor verified (Central Plumbing & Sewers #964557)",
+    "🔥 FHDS: non-ember vents + combustibles within 5ft/under decks admitted; roof Class A blank; new decks not WUI; buyer takes 1-yr defensible-space duty (3C(3))",
+    "🧾 Fireplace + carport (June MLS) both removed — no permits/narrative",
+    "💰 Cash flipper: Flamingo Park LLC free-and-clear (no liens); registered at listing brokerage's own address (1417 Everett St, Alameda)"
   ],
   "positives": [
     "Genuine 1959 post-and-beam MCM: wood ceilings, glass wall, open plan (p_00, p_06, p_07)",
@@ -53,9 +61,10 @@
     "1,212 ft ridge elevation; west-facing sunset corridor; real bay/SF/Bay Bridge glimpses from living level (p_18, p_23)",
     "Rare for Snake Rd: flat street-level parking pad for 4+ cars (p_01, p_57)",
     "Newly terraced, landscaped yard with mature apricot/apple/lemon trees + swing (p_45-49)",
-    "Rooftop solar array (p_01)",
+    "Parking pad + low-slope roof ready for future solar (array removed in flip — see flags)",
     "3 legitimate bedrooms — primary on main level with canyon view; lower family room + office nook (p_28-30, p_39-42)",
-    "1.6 mi to Montclair Village shops (marketing, plausible per map)"
+    "1.6 mi to Montclair Village shops (marketing, plausible per map)",
+    "Disclosure positives: CSLB-verified trades (22-yr local roofer All Weather #833347; Ariston C-20 #1026958); CalRATERS HERS PASS on furnace; OFD vegetation cert COMPLIANT 7/1/26; clean title (no liens/easements); NHD clean on flood/fault/liquefaction/pipelines; pre-opened escrow (First American #7474111) — fast-close currency"
   ],
   "orientationInference": "View side faces W-WNW: dusk/sunset shots (p_09, p_21) show sun setting over the bay corridor; SF skyline / GG / Bay Bridge (west landmarks) appear in telephoto (p_23-25). Afternoon-evening sun on the glass wall and view deck; mornings shaded on the canyon side. Inference from photos + map, not compass-verified.",
   "photos": [
@@ -128,6 +137,7 @@
     { "check": "FHSZ / insurance", "result": "Very High FHSZ (presumptive) — 94611 Montclair, 1991 firestorm footprint; insurance availability/cost must be quoted before offer. Wood decks + downslope brush add exposure." },
     { "check": "Amenity claims", "result": "1.6 mi to Montclair Village plausible per map (winding Snake Rd). '7.5 miles to the Bay Bridge' optimistic — more like 9-10 driving miles via CA-13/I-580. Village/park drone imagery is area marketing, not a property feature." },
     { "check": "Bed/bath count legitimacy", "result": "Real 3-bed: primary on main (view-side, WIC) + 2 lower bedrooms each with windows and proper closets (p_28-30, p_39-44) — no office fudge. 2 full renovated baths, one per level; primary lacks en-suite." },
-    { "check": "Prior-sale / flip math", "result": "Sold $750,000 on 2026-06-25 (MLS 41137315, 1,585 sqft); relisted 2026-11-14 at $998,000 (MLS 41153843, 1,725 sqft). +$248K (+33%) in <5 months; 140 sqft delta suggests lower-level space newly counted — verify permitted living area." }
+    { "check": "Prior-sale / flip math", "result": "Sold $750,000 on 2026-06-25 (MLS 41137315, 1,585 sqft); relisted 2026-11-14 at $998,000 (MLS 41153843, 1,725 sqft). +$248K (+33%) in <5 months; 140 sqft delta suggests lower-level space newly counted — verify permitted living area." },
+    { "check": "Disclosure package (22 docs, reviewed 11/17)", "result": "Statutory-minimum: zero inspections, zero permits, zero invoices/warranties. Confirms VHFHSZ + Landslide SHZ + 'Mostly Landslides'; SFLS public-record 1,585 sf contradicts MLS 1,725; SPQ denies solar array visible on roof; FHDS mis-checks 1959 house as post-2010, admits vent/Zone-0 vulnerabilities, leaves roof Class A blank; deck/balcony reinforcement via GC self-letter only; 6x seismic Don't Know; EBMUD PSL cert missing; seller Flamingo Park LLC free-and-clear cash flipper sharing listing brokerage's address. Full findings + leverage in disclosure-analysis.md." }
   ]
 }
