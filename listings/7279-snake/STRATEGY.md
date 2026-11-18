@@ -2,7 +2,9 @@
 
 Negotiation playbook for pursuing (or walking from) this flip listing. Companion
 files: `listing.json` (scored record, 3.66 ≈ 3.7/5), `card.txt`, `crosscheck.md`,
-`disclosure-analysis.md` (package review, v3 = 24 docs, 2026-11-18), `photos/`, and the
+`disclosure-analysis.md` (package review, v3 = 24 docs, 2026-11-18),
+`correspondence.md` (agent exchanges + upload-reconciliation checklist),
+`accela-ce-2604338/FINDINGS.md` (CE case evidence), `photos/`, and the
 11/15 comparison vs 318 Capricorn (`../comparisons/20261115T021255Z-318-capricorn-vs-7279-snake.md`).
 Last updated: 2026-11-18 PM2 — **ACCELA PULLED (13 Building + 6 Planning records):
 the permits exist — 7 finaled, city-inspected permits across all major scopes (roof
