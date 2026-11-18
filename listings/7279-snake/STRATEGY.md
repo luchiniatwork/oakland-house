@@ -4,7 +4,19 @@ Negotiation playbook for pursuing (or walking from) this flip listing. Companion
 files: `listing.json` (scored record, 3.66 ≈ 3.7/5), `card.txt`, `crosscheck.md`,
 `disclosure-analysis.md` (package review, v3 = 24 docs, 2026-11-18), `photos/`, and the
 11/15 comparison vs 318 Capricorn (`../comparisons/20261115T021255Z-318-capricorn-vs-7279-snake.md`).
-Last updated: 2026-11-18 — **disclosure package v3 (23→24 docs): the engineer's
+Last updated: 2026-11-18 PM2 — **ACCELA PULLED (13 Building + 6 Planning records):
+the permits exist — 7 finaled, city-inspected permits across all major scopes (roof
+cert, electrical, plumbing/tankless, furnace, windows/doors, kitchen/bath,
+balcony/siding) — pulled retroactively "to partially abate" code-enforcement case
+CE#2604338, opened within days of the 6/25 purchase. None were attached to the
+package (SPQ Note 2 violation); the SPQ answers 19.A "No material facts undisclosed"
+while its own permits name the case — a signed concealment chip. Still permit-less
+(confirmed): chimney removal, carport demolition, retaining wall(s), lateral,
+lower-level legalization. NEW finding: 2020 INACTIVE permit (RBC2002670) to replace
+the structurally-damaged driveway bridge — never completed. RBC2602285 (balcony
+repair, final 8/12) almost certainly carried the Yan deck scope; its description
+never says footings — demand the finaled card + approved plans. Condition 3.5→3.75,
+weighted 3.66→3.68.** Earlier 2026-11-18: **disclosure package v3 (23→24 docs): the engineer's
 letters arrived.** New doc 24 = SF BAY Engineering Structural Evaluation — three
 stamped + wet-signed letters from Marcus Yan, P.E. C83553 (verified visually, stamp
 exp 3/31/27): **8/4/2026 evals found the rear deck's existing joists water-damaged
@@ -77,7 +89,15 @@ confirmed absent, SFLS public-record sqft contradicts MLS.
   alternative, bigger + better view + higher score at the same money); 318 Capricorn
   (3.8) PENDING at $895K — our 11/15 pick over this house.
 - **The disclosure package (full review: `disclosure-analysis.md`):** statutory
-  minimum — **zero permits, zero inspections, zero invoices, zero warranties**. The
+  minimum — zero inspections, zero invoices, zero warranties, and **zero permit
+  copies — though Accela (pulled 11/18 PM) shows 7 finaled permits exist** (roof
+  cert R2600853, electrical RE2601746, tankless RP2600874, furnace RM2600986,
+  windows/doors RBC2601971, kitchen/bath RBC2602269, balcony/siding RBC2602285),
+  all retro-pulled "to partially abate" **code-enforcement case CE#2604338**
+  (opened ~early July, days after the 6/25 purchase; case file + disposition NOT
+  public — demand it). **Withheld permits + a concealed enforcement case = SPQ
+  Note 2 / 19.A double failure in signed paper — the strongest objective leverage
+  in the file.** The
   SFLS discloses only **1,585 sf** against the MLS's 1,725 (June floor plan: lower
   level was finished living space then too — the delta is measurement-basis, not new
   space); the FHDS checks "built on/after 2010" for a 1959
@@ -110,9 +130,15 @@ confirmed absent, SFLS public-record sqft contradicts MLS.
   house was already listed** — the seller knew the GC's year-less letter wouldn't
   survive buyer scrutiny; expect the same responsiveness again, and use it;
   (c) the roof + structural dates interlock — the reroof and the deck/pier repair
-  were one mobilization, so the roof permit (if any) and the structural permit
-  (if any) should appear in the same Accela window: **a single Accela pull answers
-  both, and silence in that window falsifies "permitted" twice at once.**
+  were one mobilization: **CONFIRMED by the Accela pull (11/18 PM): roof cert
+  R2600853 (7/09) → balcony/siding final RBC2602285 (8/12) → furnace final (8/19),
+  all in the predicted window.** (d) **the enforcement timeline is the sharpest
+  read of all: worksheets 7/02 + 7/09 don't cite the case; the 7/13 permit already
+  says "to partially abate CE#2604338" — the city opened the case within ~2 weeks
+  of the 6/25 purchase. The flip was caught mid-demolition and legalized
+  scope-by-scope under city pressure** — and permit activity stops entirely after
+  the 9/10 electrical amendment: **nothing pulled in the fall, including anything
+  explicitly covering the footings Yan closed out 11/17.**
 
 **Core mental model:** this house is a **trust product** — "permitted," "1,725 sqft,"
 "new decks," "Bay on full display" — sold by a paperless package. Every unverified
@@ -133,8 +159,13 @@ document they can't produce is worth money off.
 - **AB 968 (Civ. Code §1102.6h) is engaged** (owned <18 months). They partially
   complied — SPQ 7.F "Yes," 8 contractors named in the TOA — but Note 2 requires
   **copies of permits obtained + a statement identifying unpermitted work with
-  third-party contacts**. Neither exists. Compliance is statute, not a favor:
-  demand completion in writing (BMI).
+  third-party contacts**. Neither was delivered — **and Accela proves the permits
+  existed the whole time (finaled by 8/19).** This is no longer "incomplete
+  compliance": it's a signed statutory disclosure duty failed while holding the
+  documents — with the CE case concealed in the same form (19.A "No"). Serve the
+  BMI citing both failures; the remedy now includes the CE case file + disposition,
+  the finaled permit cards, and retro-permits or credits for the demolition tail
+  (chimney, carport, retaining wall).
 - ~~The deck reinforcement surprise~~ **The structural truth is out (v3) — and the
   permit hole is now the sharpest version of the lever.** Yan's stamped letters (doc
   24) prove the flip discovered severe rot + **tilted foundation piers** mid-renovation
@@ -163,9 +194,12 @@ document they can't produce is worth money off.
   its funding source above $950K; (c) **their BATNA is holding** (rental fallback
   ~$4.5–5K/mo), but it's an unattractive hold — landlord-policy insurance in a
   VHFHSZ, de-staging, tenant wear on 90-day-old finishes, spring-market
-  uncertainty — so December leverage survives, **discounted**: treat
+   uncertainty — so December leverage survives, **discounted**: treat
   stale/withdrawn as a live branch and the realistic December clearing as
-  **$900–930K**, with $850–880K as an opener, not an expectation.
+  **$900–930K**, with $850–880K as an opener, not an expectation. **(Post-Accela
+   note: the permit existence doesn't move their basis — but the CE tail + retro-
+   permit credits are new cash costs THEY must fund to close, which deepens, not
+   lightens, the December squeeze.)**
 - **The calendar.** Possible offer date **Tue 11/24 — two days before Thanksgiving**.
   A vacant staged flip in the hills in December is a depreciating asset, and the
   seller knows it: the date is set to dodge the dead zone. **If it sells on the date,
@@ -176,10 +210,13 @@ document they can't produce is worth money off.
   is active at $995K — $3K less than this house. Say it to their agent in those
   exact words. The pending comps (Capricorn 11/10, 6625 Snake 11/11) already
   absorbed this season's character-house buyers.
-- **Credibility pattern documented:** "no documents" contradicted by the package
-  itself; FHDS wrong-century checkbox; false "public records" sqft sourcing. Each is
-  small; together they license a simple rule: **nothing verbal counts — paper or
-  price.**
+- **Credibility pattern documented — now with a signed concealment:** "no
+  documents" contradicted by the package itself; FHDS wrong-century checkbox; false
+  "public records" sqft sourcing; **SPQ 19.A "No" next to CE#2604338 in their own
+  permits; Note 2 permit duty failed while holding 7 finaled permits.** The rule
+  upgrades from "paper or price" to: **every signed "No" in this file is re-priced
+  at zero credibility — verify everything, trust nothing, and make the concealment
+  itself a line item in the negotiation.**
 - **Free-and-clear seller + pre-opened escrow** = a 14–21 day close is genuinely
   available to you as trade currency. Speed is what a paperless flipper values.
 
@@ -235,37 +272,52 @@ future tense; close-out doesn't itemize it; the rear deck ROOFS the lower office
 nook (p_34); absent = re-deck + membrane + interior water damage)** · skylight re-flash/
 roof details $1–5K · sewer lateral contingency $0–15K (work claimed, condition
 unknown) · pest/WDO reserve $5–15K (no report exists at all) · chimney-removal patch +
-carport demolition verification $0–5K · **earth-movement retained reserve (uninsurable:
+carport demolition verification $0–5K **+ retro-permit credits for the confirmed-
+permit-less demolition/retaining tail $2–8K (post-Accela: permits confirmed absent,
+so the credit is now sized, not contingent)** · **earth-movement retained reserve (uninsurable:
 HO excludes earth movement, CEA is shake-only, creep excluded everywhere) — the
 geotech letter + drainage correction IS the reserve, $2–10K now or self-insured later**.
-**Carry $25–65K
-mid-case (v3 trimmed the structural tail, added the membrane swing);** every properly documented item retires its reserve line.
+**Carry $20–55K
+mid-case (Accela retired the blanket retro-permit risk; the tail is now scoped:
+footings-coverage, demolition credits, CE case residue);** every properly documented item retires its reserve line.
 
 ## 3. Gate 1 — Permits & disclosures (the documentary spine)
 
-**Status 2026-11-17: FAILED AS PRESENTED.** Zero permits in a package whose
-marketing says "permitted." Unlike 6077 Skyline, the AB 968 contractor list WAS
-delivered (Will Will Construction B #1137505 [new 5/2025]; Ariston Heating C-20
-#1026958; All Weather Roofing C-39 #833347; G and M #1156090; Dynamic Plumbing;
-Gills Electric; Number One Hardwood Floors; Central Plumbing) and the named
-licenses verify active — so this is **incomplete compliance, not evasion**. The
-missing half is the paper: permits, finals, and the unpermitted-work statement.
+**Status 2026-11-18 PM: PARTIAL PASS — permits exist + finaled; enforcement tail
+open; concealment documented.** Accela pulled (§0c of `disclosure-analysis.md`):
+7 finaled permits cover the major scopes (roof certificate issued, electrical
+panels+rewire, tankless, furnace, windows/doors, kitchen/bath, balcony/siding)
+— all retro-pulled "to partially abate" **CE#2604338** (the flip was caught
+building unpermitted ~early July, within days of purchase). The AB 968 contractor
+list verifies (Will Will B #1137505 [new 5/2025]; Ariston C-20 #1026958; All
+Weather C-39 #833347; G and M #1156090; Dynamic Plumbing; Gills Electric; Number
+One Hardwood; Central Plumbing) — so the house is city-inspected across the big
+scopes, and the failure is now the seller's paper: **permits withheld (Note 2),
+enforcement case concealed (19.A "No"), case disposition unknown, demolition tail
+(chimney/carport/retaining) confirmed permit-less.**
 
-- [ ] **Run Accela yourself** (aca-prod.accela.com/oakland, free, by address) —
-  before offering. Full history; match every TOA scope: kitchen/bath remodel,
-  windows/doors, electrical panels, tankless WH, furnace (expect a permit —
-  HERS test passed), reroof cert, decks/railings/stairs, retaining walls,
-  siding, fence/gates — plus the **fireplace/chimney removal** and **carport
-  removal** (June MLS advertised both; TDS now shows neither) — **plus the Yan
-  structural scope (Aug–Nov 2026): footing/structural-repair permit, final card,
-  special-inspection record. This is now the tell: if the engineered structural
-  work has no permit, nothing else will either.**
+- [x] **Run Accela yourself** → **DONE 11/18 PM (§0c). 13 Building + 6 Planning
+  records pulled.** FINALED: R2600853 roof cert (7/09), RP2600874 tankless (7/13),
+  RBC2601971 windows/doors (7/13), RE2601746 electrical panels+rewire (7/17, amdts
+  8/07+9/10), RBC2602269 kitchen/bath (8/10), RBC2602285 balcony/siding (8/12, exp
+  2/10/27), RM2600986 furnace (8/19). Planning: DRX261138/261145 approved; NO
+  lower-level legalization anywhere. **Confirmed ABSENT: chimney removal, carport
+  demolition, retaining wall(s), sewer lateral (EBMUD-side), fence/gates (minor).**
+  2020 RBC2002670 driveway-bridge replacement INACTIVE (structural damage, never
+  completed — inspect the bridge). Three finaled permits cite "partially abate
+  CE#2604338."
 - [ ] **The 140-sqft question in writing:** is the lower level permitted, finaled
-  living space? Which permit created the 1,585→1,725 delta? No permit = price on
-  1,585, permanently.
-- [ ] **Serve the AB 968 completion demand (BMI):** permit copies + finals for
-  every scope, and the unpermitted-work statement with third-party contacts
-  (SPQ 7.F Note 2 — their own signed form promises this).
+  living space? **Accela says NO permit creates the delta (11/18 pull — nothing in
+  Building or Planning)** — the June floor plan proves it pre-existed the flip, so
+  it's legacy unpermitted-or-grandfathered space. Price on 1,585, permanently.
+- [ ] **Serve the AB 968 completion demand (BMI) — re-cut post-Accela:** (a) the
+  7 finaled permit CARDS + approved plans (RBC2602285's plans are the footing
+  question: new downhill footings shown? footing inspection signed?); (b) **the
+  CE#2604338 case file + disposition: violations list, what remains unabated,
+  closure evidence**; (c) chimney + carport demolition permits or retro-permit +
+  credit; (d) retaining-wall permit (G and M wall — height/surcharge?); (e) the
+  unpermitted-work statement their own Note 2 requires. Cite the concealment:
+  permits existed by 8/19; the package shipped 11/16 without them; 19.A says "No."
 - [ ] **CSLB-verify the unnamed-license trades:** Gills Electric, Dynamic
   Plumbing & Drain, Number One Hardwood Floors, Central Plumbing, G and M
   (#1156090 class check). CA law requires license display; their omission from
@@ -278,8 +330,12 @@ missing half is the paper: permits, finals, and the unpermitted-work statement.
   eccentric load → new downhill footings, #4 dowels + SET-3G epoxy). 11/17 close-out:
   all addressed, rear deck "good condition." **Why did "new" decks need
   reinforcement? They didn't — the decks are repaired 1959 framing; the flip found
-  rot + tilted piers.** Residual demands: (a) **the permit + final card for the Yan
-  scope** (letters cite none); (b) **physical verification of the new footings** at
+  rot + tilted piers.** Residual demands: (a) ~~the permit + final card for the Yan
+  scope~~ **post-Accela: the scope almost certainly rode RBC2602285 (balcony repair,
+  Inspection Final 8/12) — but its description never says footings: demand the
+  finaled permit CARD + approved plans (footings shown? footing inspection signed?)
+  — if not, the foundation work was done off-permit after 8/12**; (b) **physical
+  verification of the new footings** at
   inspection (close-out doesn't itemize them); (c) Will Will's completion invoice/
   photos; (d) the moisture source (deck/slope drainage, rim joist/sill at house line).
 - [ ] **EBMUD PSL Compliance Certificate** — check free at eastbaypsl.com;
@@ -312,12 +368,15 @@ missing half is the paper: permits, finals, and the unpermitted-work statement.
 | Scenario | Response |
 |---|---|
 | Permits exist, all finaled, sqft proven | Proceed; pricing per §2 top band |
+| **CURRENT STATE (post-Accela 11/18): major scopes finaled; CE case disposition unknown; demolition tail permit-less** | **Produce: 7 finaled cards + RBC2602285 plans (footings?), CE#2604338 file + disposition + closure evidence, demolition/retaining retro-permits or credits. Price moves to top band ONLY when the CE tail closes clean** |
+| CE case still OPEN at offer, or violations beyond the 3 abating permits | Open-enforcement = title/insurance friction + city leverage: seller closes the case pre-close at their cost, or escrow holdback sized to the violation list (2 bids) |
 | Permits pulled, never finaled | Seller reopens + finals pre-close at their cost; no close on expired permits |
 | Cosmetic scopes unpermitted only | Credit sized to retro-permit bids; written position |
 | Structural/deck/retaining work unpermitted | Hardest stop short of walking — engineer letter + retro-permit + holdback (2 bids), or walk |
-| Lower level unpermitted | Re-anchor permanently to 1,585 sf ($/sf math repriced); appraisal-contingency language explicit |
-| Chimney/carport removal unpermitted or patch fails inspection | Retro-permit + repair credit (2 bids), or walk if the roof patch leaks |
-| Seller slow-walks the AB 968 completion | Treat as concealment signal; offer only on 1,585-sf pricing with full inspection rights, or walk |
+| RBC2602285 plans show NO footings (foundation work off-permit) | Structural retrofit unpermitted: retro-permit + city inspection (may open finished work) at seller cost + holdback, or walk — this is the single most expensive tail in the file |
+| Lower level unpermitted | Re-anchor permanently to 1,585 sf ($/sf math repriced); appraisal-contingency language explicit — **Accela confirms nothing legalizes it** |
+| Chimney/carport removal unpermitted or patch fails inspection | **CONFIRMED unpermitted (Accela)** → retro-permit + repair credit (2 bids); walk if the roof patch leaks |
+| Seller slow-walks the AB 968 completion | Treat as concealment signal — **already documented once (Note 2 + 19.A)**; offer only on 1,585-sf pricing with full inspection rights, or walk |
 
 ## 4. Gate 2 — Fire & insurance (VHFHSZ confirmed — quote BEFORE offering)
 
@@ -430,12 +489,15 @@ vacant — easy access.
 | Pest/WDO Section I > ~$25K without cure/credit | No report exists — the unknown is the risk |
 | Final price > **$950K** without every §9 gate green | Character-money for a paperless flip — Capricorn/6944 value beats it |
 
-**Status 2026-11-18:** "Seller refuses AB 968 completion" — **PENDING** (BMI not
-yet served; compliance currently incomplete). "Deck/balcony story unresolved" —
-**RETIRED (v3 doc 24: stamped engineer letters + 11/17 completion certification);
-replaced by the structural-permit/footing-verification trigger — PENDING** Accela +
-inspection. "Lower level not permit-provable"
-— **PENDING** Accela. "Insurance" — **OPEN** (quote not yet obtained).
+**Status 2026-11-18 PM:** "Seller refuses AB 968 completion" — **PENDING** (BMI not
+yet served; now demands cards/plans + CE file, not just permits). "Deck/balcony
+story unresolved" — **RETIRED** (v3 doc 24). Structural-permit trigger — **REFRAMED:
+RBC2602285 final 8/12 covers balconies; footing coverage unconfirmed — demand the
+finaled card + plans; physical footing verification at inspection.** "Lower level
+not permit-provable" — **CONFIRMED: nothing in Accela legalizes it; price on
+1,585 permanently.** "Chimney/carport unpermitted" — **CONFIRMED (Accela); credit
+or retro-permit.** "Insurance" — **OPEN** (quote not yet obtained). **NEW: CE case
+open/closed unknown — if open at contingency removal, treat as failed trigger.**
 
 ## 8. Offer sequence
 
@@ -447,10 +509,13 @@ inspection. "Lower level not permit-provable"
 3. **eastbaypsl.com** — PSL certificate status (v2: seller already signed the duty
    to certify before close; you're checking for a June time-extension record).
 4. Call/text the agent (Khalila Wolfe, Cerda-Zein): confirm the **11/24 offer
-   date + exact cutoff time**; pre-emptives entertained? What paper exists beyond
-   the package (permits, chimney/carport removal paper)? **v3: the engineer letters
-   arrived 11/18 — so the question is now pointed: does the Yan structural scope
-   have a permit + final card?** What happened to the fireplace and carport? Did
+   date + exact cutoff time**; pre-emptives entertained? **Post-Accela, the pointed
+   questions: (a) "We pulled Accela — when will the 7 finaled permit cards +
+   RBC2602285's approved plans be in the package?" (b) "What is CE#2604338, what
+   violations remain, and what's the disposition?" (her reaction to you naming the
+   case number is itself data — the SPQ never mentions it) (c) chimney + carport
+   demolition permits — do they exist anywhere? (d) the 2020 inactive driveway-
+   bridge permit — was the bridge ever repaired?** Did
    anyone die in the house? — her answers calibrate whether this is sloppy or strategic.
 5. **Pre-book inspectors TODAY, tentatively** — general, structural pest,
    structural engineer/geotech, appraiser/measure — slotted for the first days
@@ -462,13 +527,15 @@ inspection. "Lower level not permit-provable"
    language), not reasons to delay the offer.
 6a. **Email Marcus Yan directly TODAY (free, decisive).** His contact is on the
    v3 letterhead (info@sfbayengineering.com, 415-801-6515). Engineers answer
-   factual questions about their own stamped letters. Two questions: (1) "Did the
-   8/4-scoped repairs — specifically the new downhill footings — complete to your
-   specification, and did you verify the footings on your 11/17 visit?" (2) "To
-   your knowledge, was a building permit pulled for the structural scope?" His
-   answer either hands you the verification the close-out letter skipped or
-   confirms the permit hole on the record — **either way it's paper, and it costs
-   an email.** CC nothing to the seller side; this is your file.
+   factual questions about their own stamped letters. Three questions **(updated
+   post-Accela)**: (1) "Did the 8/4-scoped repairs — specifically the new downhill
+   footings — complete to your specification, and did you verify the footings on
+   your 11/17 visit?" (2) "Were the footings constructed under building permit
+   RBC2602285 — did the city inspect them before the 8/12 final?" (3) "Were you
+   aware of code-enforcement case CE#2604338?" His answers either hand you the
+   verification the close-out letter skipped or confirm the off-permit tail on the
+   record — **either way it's paper, and it costs an email.** CC nothing to the
+   seller side; this is your file.
 6b. **Run the preemptive math NOW (11/18), don't wait for the date.** The basis
    re-cut (§1) puts their floor near $1.0M and the v3 paper just spooked the
    retail field ("isolated piers visibly tilted" flinches staging-buyers). A
@@ -485,13 +552,18 @@ inspection. "Lower level not permit-provable"
    re-engage in December at **$850–880K**.
 
 **Serve a written BMI** (C.A.R. Buyer Material Information request) with the
-full demand list from `disclosure-analysis.md` §1–2: permit copies + finals
-**(structural/Yan scope first — doc 24 cites none)**, ~~engineer's report~~ (v3:
-delivered), PSL certificate, chimney/carport removal permits, roof Class A +
+full demand list from `disclosure-analysis.md` §1–2: **the 7 finaled permit
+CARDS + approved plans (RBC2602285 first — do the plans show the footings?)**,
+**the CE#2604338 case file + disposition + closure evidence**, ~~engineer's report~~ (v3:
+delivered), PSL certificate, chimney/carport demolition permits or retro-permit
+plan, retaining-wall permit, roof Class A +
 warranties, all 8 trades' invoices **(incl. Will Will's invoice/completion photos
 for the Yan repair — their real cost = your real floor number)**, LLC resolution,
 insurance history, appliance/
 conveyance list, defensible-space re-inspection, death-on-property answer.
+**Frame the BMI on the concealment: the permits existed by 8/19; the package
+shipped 11/16 without them (Note 2); the SPQ denies material facts (19.A) while
+its own permits name an enforcement case. Ask for a corrected SPQ.**
 
 **Offer structure:**
 - **Paper clean + sqft proven:** open **$930–950K**, 21-day close (free-and-clear
@@ -534,7 +606,7 @@ bound in writing; permit/finals in hand or priced; sqft measured or repriced.
 | Gate | Pass condition |
 |---|---|
 | 0. Deal facts | Offer date **11/24 (possible, per listing side 11/17)** — confirm cutoff + pre-emptives; solar ownership known; death-on-property answered; 6944 Snake status checked (heat tell + direct alternative) |
-| 1. Permits/AB 968 | Finaled permits match scope + unpermitted statement in writing, OR repriced to 1,585 sf + holdback — **FAILED AS PRESENTED (2026-11-17): zero permits, Note 2 skipped** |
+| 1. Permits/AB 968 | Finaled permits match scope + unpermitted statement in writing, OR repriced to 1,585 sf + holdback — **PARTIAL PASS (2026-11-18 PM, Accela): 7 finaled permits cover major scopes; OUTSTANDING: finaled cards + RBC2602285 plans (footings?), CE#2604338 disposition, demolition/retaining tail, corrected SPQ** |
 | 2. Insurance | Written bindable quote ≤ budget (~$9K/yr ceiling) — **OPEN** |
 | 3. Structure | Engineer/geotech: no >$25–40K finding; v3 repair verified (footings physically present per Yan's spec; sistering/post as lettered; moisture source identified); structural permit + final card delivered or credited — **PARTIAL (v3): stamped letters + certified completion IN; permit/final card + physical footing verification OUTSTANDING** |
 | 4. Roof | Class A documented; roof walked (chimney patch, p_01 ponding, skylight curb) — **OPEN (Class A blank; chimney-removal patch unverified)** |
@@ -551,8 +623,15 @@ the record — walking is cheap by design, and 6944 Snake is still standing.
 - [x] Offer date / pre-emptive process? → **Possible offer date Tue 2026-11-24**
   (Thanksgiving week), per the listing side 11/17. Confirm exact cutoff time +
   whether pre-emptives are entertained; submission via HomeLight/Disclosures.io.
-- [ ] Accela result: which scopes permitted + finaled? Fireplace/chimney and
-  carport removals permitted? Any permit creating the 1,585→1,725 delta?
+- [x] Accela result: which scopes permitted + finaled? Fireplace/chimney and
+  carport removals permitted? Any permit creating the 1,585→1,725 delta? →
+  **PULLED 11/18 PM (§0c): 7 finaled permits (roof cert, electrical, tankless,
+  furnace, windows/doors, kitchen/bath, balcony/siding) — retro-pulled "to
+  partially abate CE#2604338" (case opened ~early July). Chimney + carport +
+  retaining-wall permits CONFIRMED ABSENT. No permit creates the sqft delta —
+  price on 1,585 permanently. NEW: 2020 inactive driveway-bridge permit
+  (structural damage, never completed). Enforcement module shows no public
+  records — CE disposition must be demanded.**
 - [x] Engineer Yan's deck/balcony report: scope, trigger, permit, final card?
   Why did NEW decks need reinforcement? → **v3 (doc 24, 11/18):** they didn't —
   the rear deck is retrofitted 1959 framing (water-damaged joists sistered); front
@@ -572,13 +651,24 @@ the record — walking is cheap by design, and 6944 Snake is still standing.
   curb (p_15 stain)?
 - [ ] Did anyone die on the property (Sanders trust sale)? What disclosures, if
   any, came with the June purchase (SPQ 5.C "none" — TDS-exempt trust sale?)?
-- [ ] **(v3)** Did the Yan repair scopes ride a permit — and if not, does the
-  seller concede the "permitted" claim is dead (→ pricing)? Does the close-out
-  letter's "all issues addressed" cover the footings to the engineer's own spec —
-  get Yan to confirm the footing completion IN WRITING (one email) or on-site?
+- [ ] **(v3, refined post-Accela)** The Yan scopes almost certainly rode
+  RBC2602285 (balcony repair, final 8/12) — but do its approved plans + inspection
+  log include the FOOTINGS, or were they poured after the final, off-permit?
+  Demand the finaled card + plans. Does the close-out letter's "all issues
+  addressed" cover the footings to the engineer's own spec — get Yan to confirm
+  IN WRITING (one email) or on-site?
 - [ ] **(v3)** Moisture source for the rot: deck waterproofing failure? Slope
   drainage toward the house? Is the rim joist/sill at the house line affected —
   and was it probed?
+- [ ] **(post-Accela)** CE#2604338: full violations list? What did the 3 permits
+  abate vs what remains? Open or closed? Any fines? Does title show a lis pendens
+  or compliance order (order a fresh prelim to check)?
+- [ ] **(post-Accela)** The 2020 driveway bridge (RBC2002670, INACTIVE): what was
+  the structural damage, what was done (if anything), and what carries the
+  driveway/entry today? Engineer to eyeball it during the footing visit.
+- [ ] **(post-Accela)** Rough-in inspections: did the kitchen/bath/electrical
+  permits pass rough inspections, or only finals? (Cards will show — matters for
+  concealed in-wall work done pre-enforcement.)
 - [ ] License numbers/classes for Gills Electric, Dynamic Plumbing, Number One
   Hardwood, Central Plumbing; G and M #1156090 classification?
 - [ ] Seller's actual renovation spend (invoices = the real floor number)? **(v3:
