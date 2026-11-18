@@ -35,6 +35,19 @@ SPQ never mentions and SPQ 19.A ("material facts not otherwise disclosed") answe
 "No" to. The house is better-papered than the package suggested; the seller is
 worse.** See §0c.
 
+**UPDATED 2026-11-18 PM2 — ENFORCEMENT-TAB PULL: CE#2604338 IS OPEN AND THE
+CASE FILE IS IN HAND.** The Enforcement tab's own address search (vs. the
+Building-tab cross-module view used earlier) exposes the full case: NOV
+(Blight) dated 7/11/26 with one VERIFIED violation (OMC 15.08.120 — "New deck
+boards, including new fence. Kitchen has been completely removed. Rear deck
+and railing also removed"), GPS/timestamp-stamped inspector photos of the
+gutted kitchen, stripped rear deck, and the front deck mid-rebuild with a
+worker on the ladder, the case's own related-records list cross-linking the
+retro-permits — and **case status today is still `OP-1stInsp-NOVSent`:
+OPEN**. The seller is marketing a house with a LIVE code-enforcement case
+and a signed SPQ 19.A "No". Full evidence: `accela-ce-2604338/FINDINGS.md`;
+source PDFs in the disclosure package (`CE2604338 - Accela - *.pdf`). See §0d.
+
 ## 0. Situation snapshot
 
 - **Seller = Flamingo Park LLC (Farhad Matin, "Partner")** — a cash flipper
@@ -220,8 +233,9 @@ verification of the footings" (§7 of STRATEGY.md updated).
 ## 0c. Accela permit pull (2026-11-18 PM) — the permits exist; the package hid them
 
 Pulled directly from aca-prod.accela.com/oakland by address (Building module: 13
-records; Planning: 6; Enforcement: no publicly visible records — CE case disposition
-NOT fetchable, must be asked).
+records; Planning: 6). ~~Enforcement: no publicly visible records~~ **CORRECTED
+11/18 PM2: the Enforcement tab's own address search DOES expose CE#2604338 —
+case file, NOV, photos, and OPEN status pulled; see §0d.**
 
 **FLIP-ERA PERMITS — ALL MAJOR SCOPES PERMITED + FINALED:**
 
@@ -266,10 +280,13 @@ inspection scope.**
    seller legalizes scope-by-scope through 8/19. So the flip was **caught building
    without permits and retro-permitted under enforcement pressure** — the marketing's
    "work completed by licensed contractors and permitted" is technically-true-only-
-   after-the-city-showed-up. **"Partially" abate ×3 ⇒ violations remain.** Prime
+   after-the-city-showed-up. **"Partially" abate ×3 ⇒ violations remain — CONFIRMED
+   11/18 PM2: the case is still OPEN today (§0d).** Prime
    suspects for the unabated tail: the **chimney removal** and **carport demolition**
-   (both confirmed permit-less in this pull) and the **retaining wall(s)** (G and M's
-   scope — no permit found). Case file + disposition must be produced (BMI demand).
+   (both confirmed permit-less in this pull), the **fence** (named in the verified
+   NOV — no permit anywhere), and the **retaining wall(s)** (G and M's
+   scope — no permit found). ~~Case file + disposition must be produced (BMI demand)~~
+   **Case file PULLED 11/18 PM2 (§0d) — remaining demand: closure/compliance letter.**
 3. **SPQ Note 2 + 19.A — a documentary double failure, signed.** Note 2 (their own
    form, 7.F) required attaching permit copies for permitted improvements AND a
    statement identifying unpermitted ones: the seller attached **nothing** — while
@@ -300,8 +317,9 @@ inspection scope.**
    and the assessor still lists the carport); retaining wall(s) (G and M — none;
    required if >4 ft from footing bottom or surcharged); sewer lateral (no lateral
    permit in Building — EBMUD tracks separately; PSL cert still missing per PAA);
-   lower-level living-space legalization (nothing in any module); fence/gates
-   (likely under permit height — minor).
+   lower-level living-space legalization (nothing in any module); **fence/gates —
+   UPGRADED 11/18 PM2: "new fence" is a named scope in the verified NOV (§0d) and
+   no fence permit exists anywhere — not minor anymore.**
 6. **Sequencing note:** the roof (cert issued 7/09, work ~8/18 per TDS "90 days"),
    deck/siding final 8/12, and furnace final 8/19 confirm the ~August mobilization
    reconstructed from v3 — and the electrical permit's 9/10 amendment (partial
@@ -315,12 +333,77 @@ the retro-permit provenance, the concealed CE case, the confirmed-missing demoli
 permits, the footing-coverage question, and the 2020 bridge keep it from 4.0. The
 seller-side trust model degrades further (withheld permits + undisclosed enforcement
 case in signed paper); the house-side risk model improves materially.
+*(11/18 PM2 update: the CE case being OPEN rather than recently-closed is a seller-
+side worsening, not a house-side one — scores unchanged, leverage increased.)*
+
+## 0d. Enforcement-tab pull (2026-11-18 PM2) — CE#2604338: OPEN, documented, photographed
+
+Per the buyer-agent tip: the Enforcement tab's own address search (street no + name)
+exposes what the Building-tab cross-module search missed. Full record + all three
+attachments pulled; source PDFs are in the disclosure package
+(`disclosure-package/CE2604338 - Accela - *.pdf`, Git LFS on the `disclosures`
+branch); analysis + rendered photos in `accela-ce-2604338/FINDINGS.md`.
+
+**The case:** record 2604338, "Blight - Facility Complaint", description
+**"Unpermitted construction being done on the property"**, filed **07/06/2026**
+(11 days after the 6/25 purchase). **Status today: `OP-1stInsp-NOVSent` — OPEN.**
+The first inspection happened, the NOV went out, and the case never advanced on
+city records — despite three permits carrying "partially abate" language to
+finals in August. Inspector: Minh Vo, Specialty Combination Inspector,
+(510) 238-6612, MVo2@oaklandca.gov.
+
+**The NOV (Blight, 07/11/2026**, certified + regular mail to SANDERS EUGENE —
+the pre-flip owner, per tax-roll lag**):** one **VERIFIED** violation,
+OMC 15.08.120 (Permits; also cites 15.08.12 & 15.08.140):
+
+> "Work has been performed without the benefit of permits, inspection, and
+> approval. **New deck boards, including new fence. Kitchen has been completely
+> removed. Rear deck and railing also removed.**" Corrective action: "Obtain
+> permit, approval, and final inspection to legalize unpermitted construction
+> work."
+
+- Reinspection/correction due **08/13/2026**; appeal deadline 08/04/2026 (no
+  appeal in the record).
+- Fee exposure: re-inspection + admin up to **$3,406.09**; citations $100/$250/
+  $500 per day to $5,000; public-nuisance declaration possible; city-contractor
+  abatement at owner cost; **NOV may be recorded on title**.
+- **Repeat-violation clause: same/similar confirmed complaint within 24 months
+  ⇒ immediate $1,967.97 assessment** — runs to ~7/11/2028. The buyer inherits
+  this for the unpermitted tail (chimney, carport, retaining walls, fence).
+- The NOV itself: *"A property seller's failure to disclose material facts
+  related to the property does not alter the current property owner's
+  obligation to comply."*
+
+**The photos (inspector-taken, GPS + timestamp stamped, 07/08/2026):**
+(1) "kitchen removed" 10:48 AM — kitchen gutted to studs; (2) "rear deck"
+10:49 AM — rear deck stripped to plywood over exposed joists, railing gone;
+(3) "front view" 11:02 AM — front deck mid-rebuild with a WORKER ON A LADDER,
+new redwood boards + lattice railing going up, old roof still on (roof cert
+issued next day). Caught in the act, in the city's own hand.
+
+**Cross-links from the case's Related Records tab:** ZW2601627 (7/09),
+RBC2601971 (7/13, project name literally "CE#2604338-SFD-Windows & Door
+Replacement"), RBC2602269 (8/10, "CE# 2604338-SFD-Kitchen & Bathroom
+Remodel"). RBC2602285 (deck/siding) says "partially abate" on its face but is
+NOT cross-linked; **the fence has no permit anywhere** despite being a named
+violation scope.
+
+**What changes:** the earlier "CE case disposition NOT fetchable" note dies;
+the "open-or-recently-abated" hedge resolves to **OPEN**; "caught ~early July"
+firms to filed-7/06 → inspected-7/08 → NOV-7/11 → first retro-permit-7/13;
+demand item 1(b) (case file + disposition) is self-answered and replaced by a
+sharper demand: **the city's case-closure / compliance-verification letter
+(or seller closes the case with inspector Minh Vo before close)**, plus a
+preliminary-title check for a recorded NOV/code lien, plus fence permit status.
+The SPQ concealment is now triply documented: 19.A "No" over an OPEN case;
+Note 2 with zero permits attached while holding seven; and permit project
+names that literally read "CE#2604338-SFD-…".
 
 ## 1. Missing documents
 
 | # | Missing | Why it matters |
 |---|---|---|
-| 1 | ~~Every building permit for the 2026 renovation~~ **RESOLVED 11/18 PM (Accela pull, §0c) — permits EXIST and are FINALED for all major scopes** (roof cert R2600853, electrical RE2601746, tankless RP2600874, furnace RM2600986, windows/doors RBC2601971, kitchen/bath RBC2602269, balcony/siding RBC2602285) — but they were pulled **retroactively "to partially abate" code-enforcement case CE#2604338**, and the seller attached none of them to the package despite SPQ 7.F Note 2's signed duty to do exactly that. **What remains missing after the pull:** (a) **finaled permit CARDS + approved plans** (still not delivered — demand all 7, esp. RBC2602285's plans: do they show the footings?); (b) **the CE#2604338 case file + disposition** (violations list, what remains unabated); (c) **chimney-removal permit** (confirmed absent); (d) **carport-demolition permit** (confirmed absent); (e) **retaining-wall permit(s)** (G and M — confirmed absent; required if >4 ft/surcharged); (f) **lower-level legalization** (nothing in any module — 1,585 vs 1,725 stands); (g) sewer-lateral permit/EBMUD records | The permits' existence upgrades the house (city inspections + finals); their concealment + the CE case downgrade the seller (SPQ 19.A "No" is a signed material omission). Retro-permit risk is now scoped to the demolition/retaining tail + the footing-coverage question |
+| 1 | ~~Every building permit for the 2026 renovation~~ **RESOLVED 11/18 PM (Accela pull, §0c) — permits EXIST and are FINALED for all major scopes** (roof cert R2600853, electrical RE2601746, tankless RP2600874, furnace RM2600986, windows/doors RBC2601971, kitchen/bath RBC2602269, balcony/siding RBC2602285) — but they were pulled **retroactively "to partially abate" code-enforcement case CE#2604338**, and the seller attached none of them to the package despite SPQ 7.F Note 2's signed duty to do exactly that. **What remains missing after the pull:** (a) **finaled permit CARDS + approved plans** (still not delivered — demand all 7, esp. RBC2602285's plans: do they show the footings?); (b) ~~**the CE#2604338 case file + disposition**~~ **RESOLVED 11/18 PM2 (§0d): case file pulled — violations list, photos, NOV, and disposition (OPEN, `OP-1stInsp-NOVSent`) all in hand; replacement demand: the city's case-closure / compliance-verification letter**; (c) **chimney-removal permit** (confirmed absent); (d) **carport-demolition permit** (confirmed absent); (e) **retaining-wall permit(s)** (G and M — confirmed absent; required if >4 ft/surcharged); (f) **lower-level legalization** (nothing in any module — 1,585 vs 1,725 stands); (g) sewer-lateral permit/EBMUD records | The permits' existence upgrades the house (city inspections + finals); their concealment + the CE case downgrade the seller (SPQ 19.A "No" is a signed material omission). Retro-permit risk is now scoped to the demolition/retaining tail + the footing-coverage question |
 | 2 | **EBMUD PSL Compliance Certificate** — SPQ 7.F TOA lists "Central Plumbing — Sewer Lateral". **UPDATE v2 (11/17):** PAA §1.B.2 (signed 11/16) — seller contractually commits to deliver the certificate before final verification of condition; i.e. **none exists today**. New asks: was the June 2026 purchase closed on a Time Extension Certificate ($4,500 deposit outstanding)? Why didn't the claimed lateral work produce a certificate? Seller now owns the delivery; the camera remains ours | The Regional PSL Ordinance requires a Compliance Certificate before title transfer — and **this property has TWO independent triggers**: (a) the June 2026 sale to Flamingo Park (sale trigger), and (b) the flip's own **>$100K remodel** (renovation trigger). Either a certificate exists (passing lateral — valid 7 years; or a Time Extension Certificate with a $4,500 deposit outstanding) or the seller is out of compliance on a regional ordinance twice over. The contractor is **Central Plumbing & Sewers, Alameda — CSLB #964557, C-36/C-42, active since 2011, sewer-specialized** (verified 11/17) — and EBMUD inspectors witness the verification test, so records exist at BOTH Oakland permit files and EBMUD. Free status check: EBMUD property-search tool at eastbaypsl.com / psl@ebmud.com / (866) 403-2683. Demand: certificate number, scope (repair vs replacement — and WHY it was needed), EBMUD witness record, invoice, and the camera video. |
 | 3 | ~~Engineer Marcus Yan's report/instructions for the deck + balcony reinforcement~~ **DELIVERED v3 (11/18) — doc 24: three stamped + wet-signed Yan letters (8/4 ×2, 11/17 close-out; C83553, exp 3/31/27). Mystery solved, and it was bigger than decks:** rear deck = existing 1959 structure retrofitted (sistered PT joists over light-moderate water damage); front beam moderate/SEVERE water damage → sistered LVL; post base rotted through → replaced; **several isolated foundation piers visibly tilted (insufficient embedment + eccentric load) → new downhill footings, doweled + SET-3G epoxy**. 11/17 letter certifies all addressed, rear deck "good condition." **Residual asks (still missing):** (a) the PERMIT + final card for this engineered structural scope — the letters cite none, and if even this work was unpermitted the "permitted" marketing is falsified on its most important item; (b) physical verification of the new footings at inspection — the close-out letter doesn't itemize them; (c) Will Will's invoice/completion photos for the Yan scope; (d) the moisture SOURCE behind the rot (deck/slope drainage) | Why did **brand-new** decks (marketing: "New decks") need engineered structural reinforcement? **Answer (v3):** they didn't — the decks are repaired 1959 framing under new surfaces, and the flip discovered rot + tilting piers mid-renovation (eval 8/4, repairs, close-out 11/17). Engineer brought in mid-stream because the house needed it. Deck structure is now **documented-repaired, engineer-self-certified — verify the footings and the permit** |
 | 4 | ~~Solar documents~~ **RESOLVED 11/17 PM — there is no solar and never was (either listing era).** Recovered the full June 2026 listing photo set from the Winkler site (54 photos + floor plans, now in `photos-preflip/`): June aerials (dji_0303/0321/0330/0345) show **no array on the subject's roof** — the arrays visible in both eras belong to the *neighbors* (uphill gray house + others). Current aerials (p_57/p_58) confirm none now. SPQ 8.B "No solar power system" is **simply accurate**. My earlier "array in p_01" read was wrong: the dark, wavy-edged patch on the new flat roof in p_01 is **ponding/membrane variation** — a roof-drainage note for the roof walk, not panels | No document ask survives except: verify the p_01 ponding at the roof walk (drainage/crickets on a 90-day torch-down). **New evidence dividend:** the June set photo-verifies the **chimney** (masonry w/ red cap, gone now) and **carport** (covered structure at street level w/ vehicle, gone now) removals, plus the pre-flip condition baseline (dirt yard, old built-up roof, old deck). |
@@ -609,10 +692,12 @@ Single findings are in §3; this section is about how they combine.
    closes — supports an offer in the low-to-mid $900s with a straight face.
 2. **The CE case + withheld permits (re-cut 11/18 PM)**: permits exist (§0c) — so
    the lever is now documentary: produce (a) all 7 finaled permit cards + approved
-   plans (RBC2602285's plans decide the footing question), (b) the **CE#2604338
-   case file + disposition** — violations list and what remains unabated, (c)
-   demolition/retaining permits or retro-permit + credit for the chimney, carport,
-   and retaining wall. And the kicker: SPQ Note 2 + 19.A — their signed form
+   plans (RBC2602285's plans decide the footing question), (b) ~~the **CE#2604338
+   case file + disposition**~~ **the CE#2604338 closure/compliance letter** — the
+   case file is pulled (§0d) and the case is OPEN; it must be closed with the city
+   before close, (c)
+   demolition/retaining/fence permits or retro-permit + credit for the chimney, carport,
+   retaining wall, and fence (fence is a named scope in the verified NOV). And the kicker: SPQ Note 2 + 19.A — their signed form
    promised the permits and denied the material facts. **Concealment in signed
    statutory paper is worth a price reset, not just documents.**
 3. **Deck/foundation (re-cut v3)**: the engineer's letters are delivered — the lever
@@ -689,7 +774,7 @@ a free-and-clear cash flipper at roughly break-even basis, a pre-opened escrow, 
 **a documentary concealment chip their own permits hand you** — a seller built for
 speed, now negotiating against their own signed omissions. **Negotiate on public-
 record square footage; demand the finaled permit cards + RBC2602285 plans (footings)
-+ the CE#2604338 case file and disposition before any signature; quote insurance
++ the CE#2604338 closure/compliance letter (the case file is pulled — §0d — and it is OPEN) before any signature; quote insurance
 first; and let the calendar do the squeezing.**
 
 ## 7. Score impact (applied to `listing.json` / `card.txt`)

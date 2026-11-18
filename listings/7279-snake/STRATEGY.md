@@ -11,8 +11,15 @@ balcony/siding) — pulled retroactively "to partially abate" code-enforcement c
 CE#2604338, opened within days of the 6/25 purchase. None were attached to the
 package (SPQ Note 2 violation); the SPQ answers 19.A "No material facts undisclosed"
 while its own permits name the case — a signed concealment chip. Still permit-less
-(confirmed): chimney removal, carport demolition, retaining wall(s), lateral,
-lower-level legalization. NEW finding: 2020 INACTIVE permit (RBC2002670) to replace
+(confirmed): chimney removal, carport demolition, retaining wall(s), fence (named
+in the NOV), lateral, lower-level legalization. **PM3 UPDATE (Enforcement-tab pull):
+CE#2604338's case file is public after all — NOV (Blight) 7/11/26 with one VERIFIED
+violation (unpermitted deck boards + NEW FENCE; kitchen + rear deck/railing removed),
+GPS-stamped inspector photos of the caught-in-progress work, filed 7/06, and case
+status TODAY is `OP-1stInsp-NOVSent` — OPEN. The seller is marketing a house with a
+LIVE enforcement case over a signed 19.A "No". Case PDFs now in the disclosure
+package (`CE2604338 - Accela - *.pdf`); analysis in `accela-ce-2604338/FINDINGS.md`
++ `disclosure-analysis.md` §0d.** NEW finding: 2020 INACTIVE permit (RBC2002670) to replace
 the structurally-damaged driveway bridge — never completed. RBC2602285 (balcony
 repair, final 8/12) almost certainly carried the Yan deck scope; its description
 never says footings — demand the finaled card + approved plans. Condition 3.5→3.75,
@@ -95,8 +102,9 @@ confirmed absent, SFLS public-record sqft contradicts MLS.
   cert R2600853, electrical RE2601746, tankless RP2600874, furnace RM2600986,
   windows/doors RBC2601971, kitchen/bath RBC2602269, balcony/siding RBC2602285),
   all retro-pulled "to partially abate" **code-enforcement case CE#2604338**
-  (opened ~early July, days after the 6/25 purchase; case file + disposition NOT
-  public — demand it). **Withheld permits + a concealed enforcement case = SPQ
+  (opened ~early July, days after the 6/25 purchase; ~~case file + disposition NOT
+  public — demand it~~ **PM3: case file PULLED via the Enforcement tab — OPEN today;
+  remaining demand: closure/compliance letter**). **Withheld permits + a concealed enforcement case = SPQ
   Note 2 / 19.A double failure in signed paper — the strongest objective leverage
   in the file.** The
   SFLS discloses only **1,585 sf** against the MLS's 1,725 (June floor plan: lower
@@ -136,7 +144,10 @@ confirmed absent, SFLS public-record sqft contradicts MLS.
   all in the predicted window.** (d) **the enforcement timeline is the sharpest
   read of all: worksheets 7/02 + 7/09 don't cite the case; the 7/13 permit already
   says "to partially abate CE#2604338" — the city opened the case within ~2 weeks
-  of the 6/25 purchase. The flip was caught mid-demolition and legalized
+  of the 6/25 purchase. **PM3 firms it up: filed 7/06 (11 days post-purchase) →
+  inspected 7/08 (photos: gutted kitchen, stripped rear deck, front deck mid-
+  rebuild with worker on ladder) → NOV 7/11 → first retro-permit 7/13.** The flip
+  was caught mid-demolition and legalized
   scope-by-scope under city pressure** — and permit activity stops entirely after
   the 9/10 electrical amendment: **nothing pulled in the fall, including anything
   explicitly covering the footings Yan closed out 11/17.**
@@ -164,9 +175,10 @@ document they can't produce is worth money off.
   existed the whole time (finaled by 8/19).** This is no longer "incomplete
   compliance": it's a signed statutory disclosure duty failed while holding the
   documents — with the CE case concealed in the same form (19.A "No"). Serve the
-  BMI citing both failures; the remedy now includes the CE case file + disposition,
-  the finaled permit cards, and retro-permits or credits for the demolition tail
-  (chimney, carport, retaining wall).
+  BMI citing both failures; the remedy now includes ~~the CE case file + disposition~~
+  **the CE#2604338 closure/compliance letter (case file pulled PM3 — OPEN)**, the
+  finaled permit cards, and retro-permits or credits for the demolition tail
+  (chimney, carport, retaining wall, fence — fence is NOV-named).
 - ~~The deck reinforcement surprise~~ **The structural truth is out (v3) — and the
   permit hole is now the sharpest version of the lever.** Yan's stamped letters (doc
   24) prove the flip discovered severe rot + **tilted foundation piers** mid-renovation
@@ -290,8 +302,9 @@ footings-coverage, demolition credits, CE case residue);** every properly docume
 
 ## 3. Gate 1 — Permits & disclosures (the documentary spine)
 
-**Status 2026-11-18 PM: PARTIAL PASS — permits exist + finaled; enforcement tail
-open; concealment documented.** Accela pulled (§0c of `disclosure-analysis.md`):
+**Status 2026-11-18 PM3: PARTIAL PASS — permits exist + finaled; CE#2604338 case
+file PULLED and the case is OPEN (`OP-1stInsp-NOVSent`); concealment documented
+and now triple-sourced.** Accela pulled (§0c of `disclosure-analysis.md`):
 7 finaled permits cover the major scopes (roof certificate issued, electrical
 panels+rewire, tankless, furnace, windows/doors, kitchen/bath, balcony/siding)
 — all retro-pulled "to partially abate" **CE#2604338** (the flip was caught
@@ -300,8 +313,9 @@ list verifies (Will Will B #1137505 [new 5/2025]; Ariston C-20 #1026958; All
 Weather C-39 #833347; G and M #1156090; Dynamic Plumbing; Gills Electric; Number
 One Hardwood; Central Plumbing) — so the house is city-inspected across the big
 scopes, and the failure is now the seller's paper: **permits withheld (Note 2),
-enforcement case concealed (19.A "No"), case disposition unknown, demolition tail
-(chimney/carport/retaining) confirmed permit-less.**
+enforcement case concealed (19.A "No") — **PM3: case confirmed OPEN, not closed —
+no closure letter exists; demand it** — demolition tail
+(chimney/carport/retaining/fence) confirmed permit-less.**
 
 - [x] **Run Accela yourself** → **DONE 11/18 PM (§0c). 13 Building + 6 Planning
   records pulled.** FINALED: R2600853 roof cert (7/09), RP2600874 tankless (7/13),
@@ -319,9 +333,12 @@ enforcement case concealed (19.A "No"), case disposition unknown, demolition tai
   it's legacy unpermitted-or-grandfathered space. Price on 1,585, permanently.
 - [ ] **Serve the AB 968 completion demand (BMI) — re-cut post-Accela:** (a) the
   7 finaled permit CARDS + approved plans (RBC2602285's plans are the footing
-  question: new downhill footings shown? footing inspection signed?); (b) **the
+  question: new downhill footings shown? footing inspection signed?); (b) ~~**the
   CE#2604338 case file + disposition: violations list, what remains unabated,
-  closure evidence**; (c) chimney + carport demolition permits or retro-permit +
+  closure evidence**~~ **RESOLVED PM3 — violations list + photos + OPEN status in
+  hand (§0d); demand instead: the city's case-closure / compliance-verification
+  letter + title check for a recorded NOV/lien**; (c) chimney + carport demolition
+  permits or retro-permit +
   credit; (d) retaining-wall permit (G and M wall — height/surcharge?); (e) the
   unpermitted-work statement their own Note 2 requires. Cite the concealment:
   permits existed by 8/19; the package shipped 11/16 without them; 19.A says "No."
@@ -497,14 +514,16 @@ vacant — easy access.
 | Final price > **$950K** without every §9 gate green | Character-money for an enforcement-tailed flip — above cap, let a staging-buyer own the risk stack; **the next listing is the alternative (6944 struck 11/18)** |
 
 **Status 2026-11-18 PM:** "Seller refuses AB 968 completion" — **PENDING** (BMI not
-yet served; now demands cards/plans + CE file, not just permits). "Deck/balcony
+yet served; now demands cards/plans + CE closure letter, not just permits). "Deck/balcony
 story unresolved" — **RETIRED** (v3 doc 24). Structural-permit trigger — **REFRAMED:
 RBC2602285 final 8/12 covers balconies; footing coverage unconfirmed — demand the
 finaled card + plans; physical footing verification at inspection.** "Lower level
 not permit-provable" — **CONFIRMED: nothing in Accela legalizes it; price on
 1,585 permanently.** "Chimney/carport unpermitted" — **CONFIRMED (Accela); credit
-or retro-permit.** "Insurance" — **OPEN** (quote not yet obtained). **NEW: CE case
-open/closed unknown — if open at contingency removal, treat as failed trigger.**
+or retro-permit.** "Insurance" — **OPEN** (quote not yet obtained). **~~NEW: CE case
+open/closed unknown~~ PM3 RESOLVED: CE#2604338 is OPEN TODAY (`OP-1stInsp-NOVSent`)
+— the trigger is LIVE: seller closes the case with the city (closure/compliance
+letter from inspector Minh Vo) before contingency removal, or treat as failed trigger.**
 
 ## 8. Offer sequence
 
@@ -518,9 +537,12 @@ open/closed unknown — if open at contingency removal, treat as failed trigger.
 4. Call/text the agent (Khalila Wolfe, Cerda-Zein): confirm the **11/24 offer
    date + exact cutoff time**; pre-emptives entertained? **Post-Accela, the pointed
    questions: (a) "We pulled Accela — when will the 7 finaled permit cards +
-   RBC2602285's approved plans be in the package?" (b) "What is CE#2604338, what
-   violations remain, and what's the disposition?" (her reaction to you naming the
-   case number is itself data — the SPQ never mentions it) (c) chimney + carport
+   RBC2602285's approved plans be in the package?" (b) ~~"What is CE#2604338, what
+   violations remain, and what's the disposition?"~~ **PM3: "CE#2604338 shows OPEN
+   on Accela today — when is the city closing it, and will the closure/compliance
+   letter be in the package?"** (you already KNOW the answer — file pulled, §0d;
+   her reaction to you naming an OPEN case is still data — the SPQ never mentions it)
+   (c) chimney + carport
    demolition permits — do they exist anywhere? (d) the 2020 inactive driveway-
    bridge permit — was the bridge ever repaired?** Did
    anyone die in the house? — her answers calibrate whether this is sloppy or strategic.
@@ -561,7 +583,7 @@ open/closed unknown — if open at contingency removal, treat as failed trigger.
 **Serve a written BMI** (C.A.R. Buyer Material Information request) with the
 full demand list from `disclosure-analysis.md` §1–2: **the 7 finaled permit
 CARDS + approved plans (RBC2602285 first — do the plans show the footings?)**,
-**the CE#2604338 case file + disposition + closure evidence**, ~~engineer's report~~ (v3:
+**the CE#2604338 closure/compliance letter (case file pulled PM3 — OPEN; §0d) + title check for a recorded NOV/lien**, ~~engineer's report~~ (v3:
 delivered), PSL certificate, chimney/carport demolition permits or retro-permit
 plan, retaining-wall permit, roof Class A +
 warranties, all 8 trades' invoices **(incl. Will Will's invoice/completion photos
@@ -613,7 +635,7 @@ bound in writing; permit/finals in hand or priced; sqft measured or repriced.
 | Gate | Pass condition |
 |---|---|
 | 0. Deal facts | Offer date **11/24 (possible, per listing side 11/17)** — confirm cutoff + pre-emptives; death-on-property answered **(11/18: solar resolved NO; 6944 struck — pending + passed)** |
-| 1. Permits/AB 968 | Finaled permits match scope + unpermitted statement in writing, OR repriced to 1,585 sf + holdback — **PARTIAL PASS (2026-11-18 PM, Accela): 7 finaled permits cover major scopes; OUTSTANDING: finaled cards + RBC2602285 plans (footings?), CE#2604338 disposition, demolition/retaining tail, corrected SPQ** |
+| 1. Permits/AB 968 | Finaled permits match scope + unpermitted statement in writing, OR repriced to 1,585 sf + holdback — **PARTIAL PASS (2026-11-18 PM, Accela): 7 finaled permits cover major scopes; OUTSTANDING: finaled cards + RBC2602285 plans (footings?), CE#2604338 CLOSURE letter (case file pulled PM3 — OPEN; §0d), demolition/retaining/fence tail, corrected SPQ** |
 | 2. Insurance | Written bindable quote ≤ budget (~$9K/yr ceiling) — **OPEN** |
 | 3. Structure | Engineer/geotech: no >$25–40K finding; v3 repair verified (footings physically present per Yan's spec; sistering/post as lettered; moisture source identified); structural permit + final card delivered or credited — **PARTIAL (v3): stamped letters + certified completion IN; permit/final card + physical footing verification OUTSTANDING** |
 | 4. Roof | Class A documented; roof walked (chimney patch, p_01 ponding, skylight curb) — **OPEN (Class A blank; chimney-removal patch unverified)** |
@@ -639,8 +661,10 @@ patience: December on THIS house, or the next listing.**
   partially abate CE#2604338" (case opened ~early July). Chimney + carport +
   retaining-wall permits CONFIRMED ABSENT. No permit creates the sqft delta —
   price on 1,585 permanently. NEW: 2020 inactive driveway-bridge permit
-  (structural damage, never completed). Enforcement module shows no public
-  records — CE disposition must be demanded.**
+  (structural damage, never completed). ~~Enforcement module shows no public
+  records — CE disposition must be demanded.~~ **PM3: Enforcement-tab pull got
+  the full CE#2604338 file — NOV + photos + OPEN status (`OP-1stInsp-NOVSent`);
+  PDFs in the disclosure package. Demand is now the closure letter.**
 - [x] Engineer Yan's deck/balcony report: scope, trigger, permit, final card?
   Why did NEW decks need reinforcement? → **v3 (doc 24, 11/18):** they didn't —
   the rear deck is retrofitted 1959 framing (water-damaged joists sistered); front
@@ -656,6 +680,11 @@ patience: December on THIS house, or the next listing.**
   replacement, and why)? **v2:** none exists — seller signed the duty to deliver
   before close (PAA §1.B.2). Open sub-questions: June 2026 time-extension /
   $4,500 deposit? Why no cert from the claimed work?
+- [x] ~~**(post-Accela)** CE#2604338: full violations list? What did the 3 permits
+  abate and what remains?~~ **RESOLVED PM3 (§0d): one verified violation (OMC
+  15.08.120 — deck boards + new fence; kitchen + rear deck/railing removed);
+  corrective = permit + final; case OPEN today. Remaining: closure letter,
+  title check for recorded NOV/lien, fence permit.**
 - [ ] Roof: Class A certificate? Warranty terms? Skylight reflashed or original
   curb (p_15 stain)?
 - [ ] Did anyone die on the property (Sanders trust sale)? What disclosures, if
