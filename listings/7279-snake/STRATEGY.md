@@ -84,10 +84,11 @@ confirmed absent, SFLS public-record sqft contradicts MLS.
     note only); no pipelines/wells/Superfund hits
 - **The comp field (same street, all on file):** 6401 Snake (4.2) SOLD $1.26M =
   $914/sf (+26%); 6833 Snake (4.0) SOLD $1.675M = $828/sf (+86%); 6625 Snake (3.4)
-  PENDING at $849K = $561/sf (reno-needed — visited, no joy); **6944 Snake (4.1)
-  ACTIVE at $995K = $421/sf** (4/3, 2,364 sf, panoramic views — the direct same-street
-  alternative, bigger + better view + higher score at the same money); 318 Capricorn
-  (3.8) PENDING at $895K — our 11/15 pick over this house.
+  PENDING at $849K = $561/sf (reno-needed — visited, no joy); ~~6944 Snake~~
+  **OUT OF THE FIELD (11/18): pending AND we didn't like it** — struck as
+  alternative, anchor, and talking point; 318 Capricorn
+  (3.8) PENDING at $895K — our 11/15 pick over this house. **Net: no live
+  alternative exists — the walk-away position is patience, not another house.**
 - **The disclosure package (full review: `disclosure-analysis.md`):** statutory
   minimum — zero inspections, zero invoices, zero warranties, and **zero permit
   copies — though Accela (pulled 11/18 PM) shows 7 finaled permits exist** (roof
@@ -206,10 +207,14 @@ document they can't produce is worth money off.
   fine — you capped at $950K and kept the gates. If it doesn't, the leverage inverts
   into the holidays, hard**: December + a thin-margin flipper + a stale listing is
   the $850–880K scenario.
-- **The competition undercuts them.** 6944 Snake (4.1, panoramic view, 2,364 sf)
-  is active at $995K — $3K less than this house. Say it to their agent in those
-  exact words. The pending comps (Capricorn 11/10, 6625 Snake 11/11) already
-  absorbed this season's character-house buyers.
+- ~~The competition undercuts them~~ **RE-CUT 11/18 (6944 out — pending + passed):**
+  the "6944 is $3K less" talking point is dead. What survives: **the pending comps
+  absorbed this season's character-house buyers** (Capricorn 11/10 at $895K, 6625
+  Snake 11/11 at $849K — both cheaper, both gone), and the closes that justify
+  $828–914/sf (6401, 6833) were higher-scored, view-real houses — not an
+  enforcement-tailed flip at $630/public-record-sf. Their bid-up hope now rests on
+  a field with no live same-street alternative AND no fresh buyers: that cuts for
+  us, quietly — don't argue it, let the calendar make the point.
 - **Credibility pattern documented — now with a signed concealment:** "no
   documents" contradicted by the package itself; FHDS wrong-century checkbox; false
   "public records" sqft sourcing; **SPQ 19.A "No" next to CE#2604338 in their own
@@ -240,10 +245,12 @@ document they can't produce is worth money off.
 | Seller all-in basis (est) | **$985K–1.06M, centered ~$1.0M** (re-cut v3) | $750K cash + acq ~$7K + reno **$160–230K** (incl. $20–50K Yan structural scope) + carry/staging $12–20K + exit ~5.5%; supersedes $920–970K |
 | Seller gross margin at ask | **≈ break-even (−$50K to +$60K)** | the hills bid-up over $998K is the profit plan — near-ask isn't their win, it's their floor |
 | Closest clearing comp | 6625 Snake $849K ($561/sf) | 3.4, canyon-view MCM, **reno-needed** — turnkey premium belongs on top |
-| Same-street alternative | 6944 Snake $995K ($421/sf) | 4.1, panoramic — anchors the "why would I pay more for less" argument |
-| Value parity vs Capricorn | ~**$861K** | 3.66 pts ties 3.8/$895K = 4.25 pts/$M |
-| Value parity vs 6944 Snake | ~**$888K** | ties 4.12 pts/$M |
+| Value parity vs Capricorn | ~**$861K** | 3.66 pts ties 3.8/$895K = 4.25 pts/$M (pending = agreed clearing price; still valid market data) |
 | Market-consistent fair (turnkey premium over 6625) | **$900–950K** | triangulates with seller floor |
+
+**(11/18: the 6944 rows are deleted — pending + passed. The "same-street
+alternative" and "value parity vs 6944" anchors no longer exist; the parity
+argument now runs solely through Capricorn's pending $895K and 6625's $849K.)**
 
 | Pre-decided line | Value |
 |---|---|
@@ -487,7 +494,7 @@ vacant — easy access.
 | Chimney-removal patch or carport demolition unpermitted AND seller won't cure/credit | Structural roof penetration + permit debt on the buyer |
 | Roof not Class A and insurance prices the difference | VHFHSZ underwriting reality, priced or walked |
 | Pest/WDO Section I > ~$25K without cure/credit | No report exists — the unknown is the risk |
-| Final price > **$950K** without every §9 gate green | Character-money for a paperless flip — Capricorn/6944 value beats it |
+| Final price > **$950K** without every §9 gate green | Character-money for an enforcement-tailed flip — above cap, let a staging-buyer own the risk stack; **the next listing is the alternative (6944 struck 11/18)** |
 
 **Status 2026-11-18 PM:** "Seller refuses AB 968 completion" — **PENDING** (BMI not
 yet served; now demands cards/plans + CE file, not just permits). "Deck/balcony
@@ -581,8 +588,8 @@ its own permits name an enforcement case. Ask for a corrected SPQ.**
   and a fast close — the flipper's margin + the calendar do the arguing.
 - **Competition materializes:** escalate only to **$950K cap**, and only with
   sqft permit-proven + permits delivered + insurance bound. Above that, let a
-  staging-buyer own the risk stack — 6944 Snake and the next listing are the
-  alternatives.
+  staging-buyer own the risk stack — **the next listing is the alternative
+  (6944 struck 11/18: pending + passed)**.
 - **Concession menu (trade, don't give):** price ↔ permit/finals delivery +
   retro-permitting; price ↔ deck engineer + cure; price ↔ fire-hardening credits
   ($5–15K w/ bids); price ↔ roof Class A doc + warranty transfer; price ↔ pest
@@ -605,7 +612,7 @@ bound in writing; permit/finals in hand or priced; sqft measured or repriced.
 
 | Gate | Pass condition |
 |---|---|
-| 0. Deal facts | Offer date **11/24 (possible, per listing side 11/17)** — confirm cutoff + pre-emptives; solar ownership known; death-on-property answered; 6944 Snake status checked (heat tell + direct alternative) |
+| 0. Deal facts | Offer date **11/24 (possible, per listing side 11/17)** — confirm cutoff + pre-emptives; death-on-property answered **(11/18: solar resolved NO; 6944 struck — pending + passed)** |
 | 1. Permits/AB 968 | Finaled permits match scope + unpermitted statement in writing, OR repriced to 1,585 sf + holdback — **PARTIAL PASS (2026-11-18 PM, Accela): 7 finaled permits cover major scopes; OUTSTANDING: finaled cards + RBC2602285 plans (footings?), CE#2604338 disposition, demolition/retaining tail, corrected SPQ** |
 | 2. Insurance | Written bindable quote ≤ budget (~$9K/yr ceiling) — **OPEN** |
 | 3. Structure | Engineer/geotech: no >$25–40K finding; v3 repair verified (footings physically present per Yan's spec; sistering/post as lettered; moisture source identified); structural permit + final card delivered or credited — **PARTIAL (v3): stamped letters + certified completion IN; permit/final card + physical footing verification OUTSTANDING** |
@@ -613,10 +620,12 @@ bound in writing; permit/finals in hand or priced; sqft measured or repriced.
 | 5. Sqft | 1,725 permit-proven/measured, OR price re-anchored to 1,585 — **FAILED AS PRESENTED: SFLS says 1,585** |
 | 6. Number | Final ≤ **$940K** target, ≤ **$950K** absolute, gates green |
 
-**If all gates pass:** a turnkey 3.66 MCM at ~$550–600/sf on real paper, with
+**If all gates pass:** a turnkey 3.68 MCM at ~$550–600/sf on real paper, with
 the risk stack retired or priced — defensible against the Snake-street field.
 **If any gate fails:** `listing.json` + `disclosure-analysis.md` + this file are
-the record — walking is cheap by design, and 6944 Snake is still standing.
+the record — walking is cheap by design. **No live alternative exists (6944
+struck 11/18: pending + passed; Capricorn pending) — the walk-away position is
+patience: December on THIS house, or the next listing.**
 
 ## 10. Open questions log
 
@@ -679,6 +688,7 @@ the record — walking is cheap by design, and 6944 Snake is still standing.
   (post-landscaping)?
 - [ ] Water-conserving fixtures: which (if any) are non-compliant? PAA §3.B (v2)
   puts the retrofit on the buyer — verify at inspection, price as credit.
-- [ ] 6944 Snake trajectory (still active? offers? — the same-street heat tell
-  and your live alternative)?
+- [x] 6944 Snake trajectory → **RESOLVED 11/18: PENDING — and we didn't like it.
+  Struck from the field: not an alternative, not an anchor, not a talking point.
+  The "next listing" replaces it as the walk-away position.**
 - [ ] Washer/dryer + RING + staging: exact conveyance list?

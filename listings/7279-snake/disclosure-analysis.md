@@ -431,7 +431,8 @@ case in signed paper); the house-side risk model improves materially.
    public records" — **it is not**. The June floor plan proves the lower level was
    already finished, marketed living space — the delta is measurement-basis, not new
    space — so the lever is pure: $579/sf marketed vs $630/sf on public record, against
-   Snake-street closes of $828–914/sf (6401, 6833) and 6944's $421/sf ask. Offer math
+   Snake-street closes of $828–914/sf (6401, 6833) **(11/18: 6944's $421/sf ask
+   dropped from the argument — pending + passed)**. Offer math
    should run on 1,585 until seller proves otherwise; the permit question for the
    lower level stays open (was it ever finaled as living area?).
 6. ~~Solar~~ **Resolved — never existed (low).** June + November photo sets both
@@ -598,7 +599,9 @@ Single findings are in §3; this section is about how they combine.
   those were not paperless flips priced at $630/public-record-sf in a confirmed VHFHSZ.
 - The 318 Capricorn comp (our 11/15 pick over this house) is pending since 11/10 —
   7279 Snake is the actionable fallback, which is precisely why discipline is
-  available: we can walk.
+  available: we can walk. **(11/18: 6944 Snake is also out — pending + didn't like
+  it. No live alternative remains; the walk-away position is patience — December
+  on this house, or the next listing.)**
 
 **Price levers, in order of cleanliness:**
 1. **Sqft**: run the offer on 1,585 public-record sf and make them prove 1,725 with
