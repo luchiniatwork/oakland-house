@@ -7,6 +7,13 @@ read; 2 image-only PDFs reviewed visually (doc 20 Oakland Fire vegetation certif
 doc 21 CalRATERS report); FHDS page 1 and the Residential Earthquake Risk Disclosure
 verified visually (checkboxes ambiguous in text extraction).
 
+**UPDATED 2026-11-17 PM — package v2:** coversheet regenerated 11/17/2026 11:02 AM;
+package grew 22 → **23 docs** with two substantive additions (new doc 1 = CRS Property
+Report, new doc 2 = Oakland Purchase Agreement Addendum); all 21 original docs are
+byte-identical, renumbered +2. Doc-number references below use the ORIGINAL numbering
+— map: old 1–2 → new 3–4, old 3–16 → new 5–18, old 17 → new 19, old 18 → new 20,
+old 19 → new 21, old 20 → new 22, old 21 → new 23. See §0a for the v2 findings.
+
 ## 0. Situation snapshot
 
 - **Seller = Flamingo Park LLC (Farhad Matin, "Partner")** — a cash flipper
@@ -44,12 +51,67 @@ verified visually (checkboxes ambiguous in text extraction).
   supplemental from the June 2026 sale that hasn't hit the roll yet. The buyer's tax
   bill more than doubles the seller's current one.
 
+## 0a. Package v2 (2026-11-17 AM) — what the seller added
+
+New coversheet (11/17 11:02 AM) also formalizes the team: agent Khalila Wolfe (DRE
+02010129, 415-793-3131), broker Cerda-Zein Real Estate (01878914), preferred escrow
+First American #7474111 / Kelly Leonard — and instructs buyers to return the HomeLight
+docs signed, un-renamed (explains the renumbering churn).
+
+**New doc 2 — Oakland Purchase Agreement Addendum (PAA), signed by Matin "Partner"
+11/16/2026:**
+
+- **PSL (§1): PROPERTY NOT EXEMPT — box B.2 checked: Seller will complete all required
+  inspections and repairs and deliver the EBMUD Certificate of Compliance before final
+  verification of condition.** This is an admission that **no certificate exists today**
+  — despite the SPQ TOA's "Central Plumbing — Sewer Lateral" work and TWO ordinance
+  triggers (June 2026 sale + >$100K remodel). Sharpens two questions: did the June
+  2026 purchase close on a Time Extension Certificate (is a $4,500 deposit outstanding)?
+  And why didn't the claimed lateral work produce a certificate? The signed commitment
+  is good paper — but it transfers zero condition information; **camera regardless**.
+- **Sidewalk (§2): EXEMPT** (no improved sidewalk abutting), **Seller** responsible for
+  obtaining the Provisional Exemption Certificate. Consistent with cert CGS2601333
+  (6/03/2026, pulled for the June transaction) and resolves the reuse question: valid
+  paper for THIS sale is the seller's delivery.
+- **Water-conserving plumbing fixtures (§3): BUYER responsible** for retrofitting all
+  non-compliant fixtures post-close. A "new kitchen / remodeled bathrooms" flip passing
+  the retrofit bill to the buyer — minor credit ask, plus an inspection checkpoint
+  (1959 house: verify toilets ≤1.6 gpf, showerheads/faucets flow-rated; the brand-new
+  baths presumably comply, the rest of the house is the question).
+- Pool/spa (§4): no boxes checked — no pool. §5 notes permit-final work triggers
+  fixture retrofit regardless of who pays for the permitted work.
+
+**New doc 1 — CRS Property Report (third-party public-record pull):**
+
+- Corroborates the spine: **1,585 sf** / 3bd / 2ba / 1959 (eff. 1961) / 6 rooms /
+  8,250 sf lot (0.19 ac) / FEMA **Zone X minimal flood** / **no mortgages or
+  foreclosures found** (third-party support for the free-and-clear read) / list price
+  **$998,000, MLS 41153843, listed 11/14/2026** with Wolfe/Cerda-Zein.
+- Taxes: CRS 2025 total **$6,451.78** vs the prelim's $6,647.26 — the delta is the
+  direct assessments (WILDFIRE PREV-MM $103.94, EBRPD CFD); AV stepping clean at 2%/yr
+  Prop 13 to $343,172 (2026). No surprises.
+- Two data lags worth noting: (a) **CRS still shows "Sanders Eugene" as current owner**
+  (mailing 5915 Chelton Dr) and its "Sales History through 10/14/2026" **omits the June
+  2026 $750K sale entirely** — county/vendor lag; the title prelim (10/20/2026)
+  controls. (b) **The assessor still lists a CARPORT** under Extra Features — the
+  photo-verified removal never reached the roll: consistent with unpermitted
+  demolition (or at least un-reported), and a footnote on assessed value.
+- Schools (for the file): Montclair Elementary 0.9 mi, Montera Middle 1.3 mi, Skyline
+  High 3.4 mi.
+
+**Net impact of v2:** one real commitment gained (PSL cert before close — now a signed
+contractual duty, not just ordinance-implied), one question sharpened (why no cert
+after claimed lateral work — June time-extension deposit?), one new minor chip
+(water-fixture retrofit pushed to buyer), one resolution (sidewalk exemption paper =
+seller's delivery), and third-party corroboration of the public-record spine (1,585 sf,
+$998K list, no liens, Zone X). **No score change (3.66).**
+
 ## 1. Missing documents
 
 | # | Missing | Why it matters |
 |---|---|---|
 | 1 | **Every building permit for the 2026 renovation** — package contains zero; SPQ 7.F Note 2 (their own form) required attaching permits obtained and identifying work done *without* permits; the TOA does neither | The MLS claim "Work completed by licensed contractors **and permitted**" is documented nowhere. Scopes needing permits: kitchen/bath remodel (plumbing + electrical), window replacement, new electrical panels, tankless water heater, reroof, decks/railings/exterior stairs, retaining walls, siding, fence/gates, fireplace/chimney removal, carport removal. Only indirect permit evidence in the whole package: the CalRATERS HERS duct-leakage pass (doc 21), which implies a finaled HVAC permit. Pull the full Accela history; demand permit numbers + final cards for every scope. Retro-permit risk, appraisal/underwriting friction, and the sqft question (#5) all live here. |
-| 2 | **EBMUD PSL Compliance Certificate** — SPQ 7.F TOA lists "Central Plumbing — Sewer Lateral" | The Regional PSL Ordinance requires a Compliance Certificate before title transfer — and **this property has TWO independent triggers**: (a) the June 2026 sale to Flamingo Park (sale trigger), and (b) the flip's own **>$100K remodel** (renovation trigger). Either a certificate exists (passing lateral — valid 7 years; or a Time Extension Certificate with a $4,500 deposit outstanding) or the seller is out of compliance on a regional ordinance twice over. The contractor is **Central Plumbing & Sewers, Alameda — CSLB #964557, C-36/C-42, active since 2011, sewer-specialized** (verified 11/17) — and EBMUD inspectors witness the verification test, so records exist at BOTH Oakland permit files and EBMUD. Free status check: EBMUD property-search tool at eastbaypsl.com / psl@ebmud.com / (866) 403-2683. Demand: certificate number, scope (repair vs replacement — and WHY it was needed), EBMUD witness record, invoice, and the camera video. |
+| 2 | **EBMUD PSL Compliance Certificate** — SPQ 7.F TOA lists "Central Plumbing — Sewer Lateral". **UPDATE v2 (11/17):** PAA §1.B.2 (signed 11/16) — seller contractually commits to deliver the certificate before final verification of condition; i.e. **none exists today**. New asks: was the June 2026 purchase closed on a Time Extension Certificate ($4,500 deposit outstanding)? Why didn't the claimed lateral work produce a certificate? Seller now owns the delivery; the camera remains ours | The Regional PSL Ordinance requires a Compliance Certificate before title transfer — and **this property has TWO independent triggers**: (a) the June 2026 sale to Flamingo Park (sale trigger), and (b) the flip's own **>$100K remodel** (renovation trigger). Either a certificate exists (passing lateral — valid 7 years; or a Time Extension Certificate with a $4,500 deposit outstanding) or the seller is out of compliance on a regional ordinance twice over. The contractor is **Central Plumbing & Sewers, Alameda — CSLB #964557, C-36/C-42, active since 2011, sewer-specialized** (verified 11/17) — and EBMUD inspectors witness the verification test, so records exist at BOTH Oakland permit files and EBMUD. Free status check: EBMUD property-search tool at eastbaypsl.com / psl@ebmud.com / (866) 403-2683. Demand: certificate number, scope (repair vs replacement — and WHY it was needed), EBMUD witness record, invoice, and the camera video. |
 | 3 | **Engineer Marcus Yan's report/instructions for the deck + balcony reinforcement** — package has only doc 17: a one-page letter on Will Will Construction letterhead, signed by GC Wilfrido Sanchez himself, dated "November 10" (no year), no permit number, no inspection reference | Why did **brand-new** decks (marketing: "New decks") need engineered structural reinforcement? Either the first build was deficient, a problem was found, or the engineer was brought in mid-stream. Get the engineer's letter/calcs, the permit, the final card, and before/after photos. Until then treat deck structure as unverified. |
 | 4 | ~~Solar documents~~ **RESOLVED 11/17 PM — there is no solar and never was (either listing era).** Recovered the full June 2026 listing photo set from the Winkler site (54 photos + floor plans, now in `photos-preflip/`): June aerials (dji_0303/0321/0330/0345) show **no array on the subject's roof** — the arrays visible in both eras belong to the *neighbors* (uphill gray house + others). Current aerials (p_57/p_58) confirm none now. SPQ 8.B "No solar power system" is **simply accurate**. My earlier "array in p_01" read was wrong: the dark, wavy-edged patch on the new flat roof in p_01 is **ponding/membrane variation** — a roof-drainage note for the roof walk, not panels | No document ask survives except: verify the p_01 ponding at the roof walk (drainage/crickets on a 90-day torch-down). **New evidence dividend:** the June set photo-verifies the **chimney** (masonry w/ red cap, gone now) and **carport** (covered structure at street level w/ vehicle, gone now) removals, plus the pre-flip condition baseline (dirt yard, old built-up roof, old deck). |
 | 5 | **Any pest (WDO) inspection and any general home inspection** — TDS: "No substituted disclosures" | Standard seller-side diligence for a 1959 hills house simply does not exist. Buyer must commission both; the seller-side information asymmetry is total. |
@@ -76,7 +138,11 @@ verified visually (checkboxes ambiguous in text extraction).
 - **Solar**: owned/leased; detach-reset documentation; PTO; warranties.
 - **Deck reinforcement sequence**: engineer's scope, findings, who flagged the need,
   permit/final.
-- **Sewer lateral**: repair vs replacement, EBMUD certificate number, verification-test record, video. Note the lateral runs **uphill** from this below-street house to the Snake Rd main — replacement in the hills is $15–40K territory, so condition matters well beyond the certificate (the EBMUD test is pressure, not condition: camera it regardless).
+- **Sewer lateral**: repair vs replacement, EBMUD certificate number, verification-test record, video. **v2:** PAA §1.B.2 makes pre-close certification the seller's signed duty — but the PSL test is pressure, not condition; camera regardless. Note the lateral runs **uphill** from this below-street house to the Snake Rd main — replacement in the hills is $15–40K territory, so condition matters well beyond the certificate (the EBMUD test is pressure, not condition: camera it regardless).
+- **Water-conserving plumbing fixtures**: PAA §3.B (v2) puts the retrofit of any
+  non-compliant fixtures on the BUYER post-close. Verify fixture compliance at
+  inspection (toilets, showerheads, faucets outside the brand-new baths); price any
+  non-compliance as a credit.
 - **Defensible space**: FHDS 3B(2) claims compliance, but the only evidence is the
   7/01/2026 compliant vegetation notice — issued **before** the flip's new landscaping
   and terracing went in. Any post-renovation inspection?
@@ -178,7 +244,14 @@ verified visually (checkboxes ambiguous in text extraction).
   beyond taxes/CFD, single 1924 Forestland tract lot. Free-and-clear cash seller =
   fast, flexible close and room for credits without lender choreography.
 - **Tax picture transparent**: direct-assessment list itemized; supplemental-tax
-  estimator provided.
+  estimator provided. CRS (v2) corroborates: 2025 total $6,451.78 base + direct
+  assessments = prelim's $6,647.26; clean 2%/yr Prop 13 steps.
+- **PAA signed 11/16 (v2)**: seller contractually commits to (a) EBMUD PSL
+  certification before close and (b) delivering the sidewalk exemption certificate —
+  two of this file's asks converted into signed duties.
+- **CRS report (v2)**: third-party corroboration of 1,585 sf public-record sqft, no
+  mortgages/foreclosures of record, FEMA Zone X minimal flood, and the $998K /
+  11-14-2026 listing facts.
 
 ## 4. Inconsistencies (document vs document)
 
@@ -197,7 +270,9 @@ verified visually (checkboxes ambiguous in text extraction).
 | **Death on property** | SPQ 6.A: No | Sanders Revocable Trust sale after long ownership | LLC's knowledge window is 5 months. Ask directly. |
 | **Water intrusion** | SPQ 10.A: No | p_15 skylight curb aged/stained; new roof over old curb | Probably old/cosmetic; never-occupied LLC can't know. Inspect. |
 | **Seismic knowledge** | Earthquake statement: "Don't Know" ×6 | Doc 17: engineer-directed structural work on the property | Engineer engaged for decks; nothing learned/disclosed about the house itself. |
-| **Sidewalk certificate** | Exemption cert CGS2601333 issued **6/03/2026** (applicant: larry kudsk) | This sale is 11/2026 | Certificate was pulled for the *June* transaction. Exemption basis (no sidewalk) is durable and likely still valid — but confirm reuse/validity window for this sale. |
+| **Sidewalk certificate** | Exemption cert CGS2601333 issued **6/03/2026** (applicant: larry kudsk) | This sale is 11/2026 | Certificate was pulled for the *June* transaction. **RESOLVED v2:** PAA §2.A.1 — property EXEMPT, seller responsible for obtaining the exemption certificate for this sale. |
+| **CRS owner record** | CRS report (v2 doc 1): current owner "Sanders Eugene"; sales history "through 10/14/2026" omits the June 2026 $750K sale | Prelim (10/20/2026): vested in Flamingo Park LLC | County/vendor data lag — the prelim controls. Note only; also explains why no mortgages appear (CRS simply doesn't have the 2026 transactions). |
+| **Carport on the roll** | CRS/assessor Extra Features: **Carport** present | June-vs-now photos: carport demolished (photo-verified); TDS shows none | The removal never reached the assessor — consistent with unpermitted/un-reported demolition. Strengthens the carport-removal permit demand (§1.1). |
 
 ## 5. Offer-relevant leverage
 
@@ -229,8 +304,10 @@ verified visually (checkboxes ambiguous in text extraction).
 5. **Insurance**: VHFHSZ availability/premium cap as an explicit contingency.
 6. **PSL certificate** delivered before contingency removal — **two ordinance
    triggers make its existence near-certain**: the June 2026 sale AND the >$100K
-   remodel each independently require EBMUD compliance (see §2). If they can't
-   produce one, they're out of compliance twice — price it.
+   remodel each independently require EBMUD compliance (see §2). **UPDATE v2:** the
+   PAA (signed 11/16) confirms no cert exists and makes pre-close delivery the
+   seller's signed contractual duty — leverage converted from "prove compliance" to
+   "hold them to their own paper, and ask about the June time-extension deposit."
 6a. **Chimney + carport removal paper**: permits + how the roof penetration was
    patched (photo-verified removals — June aerials vs current).
 7. **Time**: if it sits past weekend 2–3, all of the above hardens; if it gets an offer
@@ -297,3 +374,8 @@ first, and let the calendar do the squeezing.**
 - **New positives**: CSLB-verified trades incl. 22-year local roofer; HERS-passed
   furnace; compliant OFD vegetation cert; clean title/no liens; NHD clean on
   flood/fault/liquefaction; free-and-clear seller + pre-opened escrow.
+- **v2 (11/17 PM): no score change.** The PAA converts two demands into signed
+  seller duties (PSL cert, sidewalk exemption) and the CRS corroborates the
+  public-record spine — but the PAA also confirms no PSL certificate exists despite
+  claimed lateral work, and pushes the water-fixture retrofit onto the buyer.
+  Net: wash. Condition stays 3.5, weighted total stays 3.66.

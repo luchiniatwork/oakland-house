@@ -4,7 +4,14 @@ Negotiation playbook for pursuing (or walking from) this flip listing. Companion
 files: `listing.json` (scored record, 3.66 ≈ 3.7/5), `card.txt`, `crosscheck.md`,
 `disclosure-analysis.md` (22-doc package review, 2026-11-17), `photos/`, and the
 11/15 comparison vs 318 Capricorn (`../comparisons/20261115T021255Z-318-capricorn-vs-7279-snake.md`).
-Last updated: 2026-11-17 PM3 — **solar thread fully retracted**: recovered the June
+Last updated: 2026-11-17 PM4 — **disclosure package v2 (22→23 docs)**: seller added
+a CRS Property Report (corroborates 1,585 sf public record, no liens, Zone X; still
+shows the demolished carport on the assessor roll) and a **signed Oakland Purchase
+Agreement Addendum (11/16): PSL NOT EXEMPT — seller contractually commits to deliver
+the EBMUD certificate before close (admitting none exists today despite the claimed
+Central Plumbing lateral work — ask about a June time-extension deposit); sidewalk
+EXEMPT with seller delivering the certificate; water-fixture retrofit pushed to the
+BUYER (new minor credit chip).** Earlier PM3: **solar thread fully retracted**: recovered the June
 listing photo set (54 photos + floor plans, `photos-preflip/`); June aerials show NO
 array on the subject house either — the panels are the neighbors'. No solar in either
 era; SPQ 8.B accurate throughout. The June set is a dividend: it PHOTO-VERIFIES the
@@ -59,8 +66,11 @@ confirmed absent, SFLS public-record sqft contradicts MLS.
   doc 17 reveals **engineered reinforcement of the NEW front deck and balcony** via
   the GC's own one-page letter (no permit, no engineer report); the earthquake
   statement answers **"Don't Know" ×6** on a tall-post hillside house; the **EBMUD
-  PSL certificate is missing** despite sewer-lateral work in the SPQ; the June MLS's
-  **fireplace and carport are both gone** with no permits or narrative.
+  PSL certificate does not exist** despite sewer-lateral work in the SPQ — the v2 PAA
+  (signed 11/16) makes pre-close certification the seller's contractual duty; the
+  June MLS's
+  **fireplace and carport are both gone** with no permits or narrative (and the
+  assessor roll still lists the carport).
 
 **Core mental model:** this house is a **trust product** — "permitted," "1,725 sqft,"
 "new decks," "Bay on full display" — sold by a paperless package. Every unverified
@@ -189,7 +199,11 @@ missing half is the paper: permits, finals, and the unpermitted-work statement.
   deficient? Damage? Scope change?)
 - [ ] **EBMUD PSL Compliance Certificate** — check free at eastbaypsl.com;
   "Central Plumbing — Sewer Lateral" is in the TOA, so paper exists somewhere.
-  Legally required for transfer; seller delivers before contingency removal.
+  **UPDATE v2 (11/17):** the signed PAA (§1.B.2) admits no certificate exists and
+  makes pre-close delivery the seller's contractual duty. Remaining asks: did the
+  June 2026 purchase close on a Time Extension Certificate ($4,500 deposit
+  outstanding)? Why didn't the claimed lateral work produce a certificate? Camera
+  the lateral regardless — the EBMUD test is pressure, not condition.
 - [ ] **Chimney + carport removal paper (photo-verified removals):** June aerials
   (`photos-preflip/dji_0321/0330`) show the masonry chimney w/ red cap on the roof
   and June's dji_0345 shows the covered carport w/ vehicle at street level; current
@@ -328,7 +342,8 @@ yet served; compliance currently incomplete). "Deck/balcony story unresolved" �
    It is free and it is the gate most likely to kill the deal — a 7-day window
    does not allow discovering a $9K premium inside escrow.
 2. **Accela permit pull** by address — the entire Gate 1 picture in one search.
-3. **eastbaypsl.com** — PSL certificate status.
+3. **eastbaypsl.com** — PSL certificate status (v2: seller already signed the duty
+   to certify before close; you're checking for a June time-extension record).
 4. Call/text the agent (Khalila Wolfe, Cerda-Zein): confirm the **11/24 offer
    date + exact cutoff time**; pre-emptives entertained? What paper exists beyond
    the package (permits, engineer letter, chimney/carport removal paper)? Why is the GC's letter the
@@ -369,8 +384,11 @@ conveyance list, defensible-space re-inspection, death-on-property answer.
 - **Concession menu (trade, don't give):** price ↔ permit/finals delivery +
   retro-permitting; price ↔ deck engineer + cure; price ↔ fire-hardening credits
   ($5–15K w/ bids); price ↔ roof Class A doc + warranty transfer; price ↔ pest
-  Section I cure + clearance; close speed ↔ price; PSL + solar + LLC paper as
-  freebies (they must produce regardless).
+  Section I cure + clearance; price ↔ water-fixture retrofit credit (PAA §3.B puts
+  it on you — make them pay for their own "new baths" marketing); close speed ↔
+  price; PSL + sidewalk cert + LLC paper as freebies (**v2: the first two are now
+  their signed contractual duties under the PAA — hold them to it, don't trade for
+  it**).
 - Earnest money: standard 3%; liquidated-damages cap acknowledged; nothing
   non-refundable until §9 gates 1–4 green.
 
@@ -411,7 +429,9 @@ the record — walking is cheap by design, and 6944 Snake is still standing.
   current p_57/p_58 both clean; the arrays are the neighbors'; p_01's dark patch
   is ponding/membrane). SPQ 8.B accurate throughout. Thread closed.
 - [ ] PSL certificate number/status (Central Plumbing's scope: repair or
-  replacement, and why)?
+  replacement, and why)? **v2:** none exists — seller signed the duty to deliver
+  before close (PAA §1.B.2). Open sub-questions: June 2026 time-extension /
+  $4,500 deposit? Why no cert from the claimed work?
 - [ ] Roof: Class A certificate? Warranty terms? Skylight reflashed or original
   curb (p_15 stain)?
 - [ ] Did anyone die on the property (Sanders trust sale)? What disclosures, if
@@ -422,6 +442,8 @@ the record — walking is cheap by design, and 6944 Snake is still standing.
 - [ ] LLC's renovation-policy carrier + premium; CLUE report?
 - [ ] Defensible-space: any inspection after the 7/01/2026 compliant notice
   (post-landscaping)?
+- [ ] Water-conserving fixtures: which (if any) are non-compliant? PAA §3.B (v2)
+  puts the retrofit on the buyer — verify at inspection, price as credit.
 - [ ] 6944 Snake trajectory (still active? offers? — the same-street heat tell
   and your live alternative)?
 - [ ] Washer/dryer + RING + staging: exact conveyance list?
