@@ -367,6 +367,77 @@ verification of the footings" (§7 of STRATEGY.md updated).
   mortgages/foreclosures of record, FEMA Zone X minimal flood, and the $998K /
   11-14-2026 listing facts.
 
+## 3a. Risk interactions & second-order effects (v3 depth pass, 11/18)
+
+Single findings are in §3; this section is about how they combine.
+
+1. **The main view deck is also a ROOF — and its waterproofing is unconfirmed.**
+   p_34 shows the lower-level office nook with **deck joists as its ceiling** — the
+   rear cantilevered deck (Yan's 8/4 letter #1) roofs at least part of the lower
+   level. Yan's 8/4 scope item 4 reads "New waterproofing membrane **will be**
+   installed above the new joists" — future tense — and the 11/17 close-out certifies
+   the deck is "in good condition" without itemizing the membrane. Current photos
+   (p_20–22) show finished deck boards + cable rail; what sits between the boards and
+   the joists is invisible. If no membrane exists, the first real rain puts water into
+   the lower level through a brand-new ceiling. **Exposure if absent: re-deck +
+   membrane system $15–30K, plus interior damage. Inspection musts:** probe the deck
+   edge/underside for the membrane layer, moisture-scan the nook ceiling, hose-test
+   if access allows. This is now the single most consequential unverified line item
+   in the package.
+2. **The moisture SOURCE is unidentified — and the new work sits in the same soil.**
+   Yan's letters prescribe repairs but never diagnose the water: rear joists
+   light-moderate, front beam moderate/severe, post base rotted through — that's a
+   moisture gradient concentrated at the downhill/structural interface, i.e.,
+   **deck/slope drainage, not a plumbing leak**. Two follow-ons: (a) if the drainage
+   path wasn't corrected, the sistered joists and the new PT post begin the same
+   clock their predecessors ran for 67 years — and the flip's own re-terracing of the
+   yard changed the drainage pattern again (no post-landscaping defensible-space OR
+   drainage inspection exists); (b) the new footings are on the **downhill face of a
+   steep lot in a mapped landslide area** — excavation for them temporarily opened
+   the slope. Yan attributes the pier tilt to construction defects (embedment +
+   eccentric load), not slope movement — plausible and convenient; get the geotech
+   to concur or dissent **in writing**, because the seller's engineer has no
+   incentive to raise slope movement in a letter meant to close out a sale.
+3. **The landslide exposure is effectively UNINSURABLE — price it as retained risk.**
+   Standard HO policies exclude earth movement; CEA earthquake policies cover shake
+   damage, not landslide/creep (and gradual movement is excluded everywhere, always).
+   So: mapped "Mostly Landslides" + a disclosed history of tilted piers = an exposure
+   class no policy responds to. Two consequences: (a) the geotech screen isn't
+   diligence theater — it's the ONLY mitigation for a five-to-six-figure retained
+   risk, and its cost (~$1–2K) prices against the wrong tail if skipped; (b) the
+   disclosed tilt history is itself now a **known condition** — a future carrier
+   facing an earth-adjacent structural claim has a documented pre-existing condition
+   to point at. Budget earthquake insurance (15–20% deductible) for the shake peril
+   and treat slope movement as self-insured: the geotech letter + drainage
+   correction are the reserve.
+4. **The permit hole propagates: Gate 1 failure hits Gates 2 and 5.** Unpermitted
+   work isn't one risk, it's a chain: (a) **insurance** — in a VHFHSZ, unpermitted
+   electrical/structural is both a binding-friction item and a future claim-denial
+   vector; the carrier question must be asked in writing with the facts on the
+   table; (b) **appraisal/lending** — an appraiser who finds unpermitted structural
+   work or unpermitted lower-level space values on 1,585 sf and may condition on
+   retro-permits; on a $950K contract with comps at $561–630/sf × 1,585 = $890–998K,
+   a low-side appraisal creates a **cash-funded gap you chose by overpaying for
+   unproven square footage**; (c) **resale** — the buyer of an unpermitted flip
+   becomes the next seller of an unpermitted house, in a market that just watched
+   this package's scrutiny. Retro-permitting structural work typically means opening
+   finished surfaces for inspection — cost + mess the seller should fund.
+5. **The PSL clock may be driving the calendar (inference — flagged).** EBMUD Time
+   Extension Certificates run 6 months with a $4,500 deposit. IF the June 25 purchase
+   closed on a TEC (asked, unanswered), it expires **~December 25** — and the whole
+   seller timeline (11/14 list → 11/24 offer date → 14–21-day close ≈ mid-December)
+   fits neatly inside a race to close before the deposit forfeits. If true, the
+   seller has a hard deadline they cannot disclose — quiet, compounding urgency that
+   belongs on your side of the table. Verify at eastbaypsl.com (free).
+6. **v3 changes the buyer field, not just the file.** Every agent gets the same
+   package, and "isolated piers visibly tilted" + photo of a rotted beam will flinch
+   the staging-driven bidders — while an informed buyer prices the repair rationally
+   (engineered, certified, verifiable). Net effect at the 11/24 date: probably
+   **fewer and weaker competing bids than the seller hoped**, and a field sorted
+   toward diligence-driven buyers. The v3 drop is seller paper-improvement under
+   pressure; it reads as a seller who has already heard the structural objection
+   from the market.
+
 ## 4. Inconsistencies (document vs document)
 
 | Item | Source A | Source B | Note |
@@ -394,11 +465,18 @@ verification of the footings" (§7 of STRATEGY.md updated).
 - In at **$750K cash** (6/25/26), free and clear. Renovation spend unknown — scope
   (roof, kitchen, 2 baths, windows, floors, decks, retaining walls, HVAC, tankless,
   electrical panels, landscaping/terracing) plausibly **$130–190K** for flip-grade-plus
-  finishes; plus ~5 months of carry, staging, and ~5% transaction costs on exit.
-  All-in basis likely ≈ **$920–970K**. At $998K full ask, the gross margin is thin
-  (~$30–80K). **They need near-ask to make the flip pencil — but any time-on-market
-  past the first 2–3 weekends erodes exactly the premium they need.** A cash flipper
-  with capital tied up heading into the holidays is a motivated seller by week 3–4.
+  finishes — **plus the v3 structural scope (excavation, engineered footings, LVL,
+  PT post, deck retrofit, two stamped engineer visits): $20–50K the earlier estimate
+  didn't price ⇒ reno $160–230K**; plus ~5 months of carry, staging, and ~5.5%
+  transaction costs on exit. **All-in basis re-cut v3 ≈ $985K–1.06M, centered ~$1.0M
+  (supersedes $920–970K): the $998K ask is plausibly their break-even and the hills
+  bid-up is the profit plan.** They cannot absorb credits without going underwater
+  (convert credit asks to price cuts) — and while their BATNA is holding (rental
+  fallback), the hold is ugly (landlord insurance in a VHFHSZ, de-staging, tenant
+  wear on 90-day-old finishes). A cash flipper
+  with capital tied up heading into the holidays is a motivated seller by week 3–4 —
+  **but discount the squeeze: realistic December clearing $900–930K, with $850–880K
+  as an opener, not an expectation (full treatment in STRATEGY.md §1–2).**
 - Their hope is the hills bid-up culture (6401 Snake +26%, 6833 Snake +86%). Counter:
   those were not paperless flips priced at $630/public-record-sf in a confirmed VHFHSZ.
 - The 318 Capricorn comp (our 11/15 pick over this house) is pending since 11/10 —

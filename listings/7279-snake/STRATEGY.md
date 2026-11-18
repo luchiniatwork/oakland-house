@@ -96,6 +96,24 @@ confirmed absent, SFLS public-record sqft contradicts MLS.
   **fireplace and carport are both gone** with no permits or narrative (and the
   assessor roll still lists the carport).
 
+- **The reconstructed flip timeline (what the v3 paper lets us prove):**
+  6/25 purchase ($750K cash) → reno starts → **~6 weeks in (8/4), decks opened and
+  rot + tilted piers exposed; Yan called to site** → structural repair + reroof
+  concurrent (TDS says roof ~90 days old at 11/16 ⇒ installed ~8/18, exactly the
+  Yan window) → finishes through fall → **11/14 listed $998K** → 11/16 PAA signed +
+  package v1 → **11/17 AM package v2 (CRS + PAA)** and **same-day Yan close-out
+  site visit + letter** → **11/18 AM package v3 (doc 24)**. Three implications:
+  (a) the seller is **reactive, not proactive** — every paper improvement followed
+  market pressure by days (ordinance compliance → PAA; structural questions →
+  engineer letters); permits, if they exist, will arrive the same way: only if
+  demanded in writing; (b) the **11/17 close-out letter was commissioned AFTER the
+  house was already listed** — the seller knew the GC's year-less letter wouldn't
+  survive buyer scrutiny; expect the same responsiveness again, and use it;
+  (c) the roof + structural dates interlock — the reroof and the deck/pier repair
+  were one mobilization, so the roof permit (if any) and the structural permit
+  (if any) should appear in the same Accela window: **a single Accela pull answers
+  both, and silence in that window falsifies "permitted" twice at once.**
+
 **Core mental model:** this house is a **trust product** — "permitted," "1,725 sqft,"
 "new decks," "Bay on full display" — sold by a paperless package. Every unverified
 claim is a pricing lever. The seller's free-and-clear cash position cuts both ways:
@@ -128,10 +146,26 @@ document they can't produce is worth money off.
   retro-permit/credit conversation with maximum force. Plus: physically verify the
   new footings (the close-out letter doesn't itemize them) and get Will Will's
   invoice for the Yan scope (their real cost → your real floor number).
-- **Thin flip margin.** $750K cash basis + plausible $130–190K reno + 5 months
-  carry + ~5–6% exit costs ⇒ all-in ≈ **$920–970K**. At $998K the margin is
-  ~$30–80K — they cannot absorb big credits without going underwater, but they
-  also cannot afford to sit. Their floor and their pain are the same number.
+- **Thin flip margin — re-cut v3 (the structural scope changes the math).** The
+  Yan repair (slope excavation, engineered footings, LVL sistering, PT post,
+  deck retrofit, two engineer site visits + stamped letters) is a **$20–50K scope
+  the earlier $130–190K reno estimate didn't price** — and their GC is a 2025
+  license (cheap labor cuts both ways: cost and quality). Honest basis range:
+  $750K + ~$7K acquisition costs + **reno $160–230K** + 5-month carry/staging
+  $12–20K + exit ~5.5% ≈ **$985K–1.06M**, centered near **$1.0M** — i.e., **the
+  $998K ask plausibly IS their break-even, and the hills bid-up is their profit
+  plan.** (The earlier $920–970K / $30–80K margin read is superseded; Will Will's
+  invoices — demanded in the BMI — are the only way to know which side of $1.0M
+  they're on.) Strategic consequences: (a) **credits are nearly impossible for
+  them to absorb** — expect hard resistance; convert credit asks into price
+  reductions, which cost them the same dollars but don't require cash at the
+  table; (b) **an over-ask result is their plan, not their hope** — refuse to be
+  its funding source above $950K; (c) **their BATNA is holding** (rental fallback
+  ~$4.5–5K/mo), but it's an unattractive hold — landlord-policy insurance in a
+  VHFHSZ, de-staging, tenant wear on 90-day-old finishes, spring-market
+  uncertainty — so December leverage survives, **discounted**: treat
+  stale/withdrawn as a live branch and the realistic December clearing as
+  **$900–930K**, with $850–880K as an opener, not an expectation.
 - **The calendar.** Possible offer date **Tue 11/24 — two days before Thanksgiving**.
   A vacant staged flip in the hills in December is a depreciating asset, and the
   seller knows it: the date is set to dodge the dead zone. **If it sells on the date,
@@ -166,8 +200,8 @@ document they can't produce is worth money off.
 |---|---|---|
 | Ask | **$998K** | MLS 11/14; $579/sf marketed (@1,725) |
 | **Public-record $/sf at ask** | **$630/sf** | $998K ÷ 1,585 (seller's own SFLS) |
-| Seller all-in basis (est) | **$920–970K** | $750K cash + reno $130–190K + carry + exit costs |
-| Seller gross margin at ask | ~$30–80K | thin — why near-ask matters to them |
+| Seller all-in basis (est) | **$985K–1.06M, centered ~$1.0M** (re-cut v3) | $750K cash + acq ~$7K + reno **$160–230K** (incl. $20–50K Yan structural scope) + carry/staging $12–20K + exit ~5.5%; supersedes $920–970K |
+| Seller gross margin at ask | **≈ break-even (−$50K to +$60K)** | the hills bid-up over $998K is the profit plan — near-ask isn't their win, it's their floor |
 | Closest clearing comp | 6625 Snake $849K ($561/sf) | 3.4, canyon-view MCM, **reno-needed** — turnkey premium belongs on top |
 | Same-street alternative | 6944 Snake $995K ($421/sf) | 4.1, panoramic — anchors the "why would I pay more for less" argument |
 | Value parity vs Capricorn | ~**$861K** | 3.66 pts ties 3.8/$895K = 4.25 pts/$M |
@@ -177,8 +211,8 @@ document they can't produce is worth money off.
 | Pre-decided line | Value |
 |---|---|
 | Open (offer date holds + paper clean + 1,725 permit-proven — **the planning base case**) | **$930–950K**, fast close, full gates |
-| Open (offer date holds + sqft unproven / permits absent) | **$860–890K anchored on 1,585 sf**, BMI demands as offer conditions |
-| Open (date slips / doesn't sell on 11/24 — December scenario) | **$850–880K**, take-it-or-leave-it frame |
+| Open (offer date holds + sqft unproven / permits absent) | **$860–890K anchored on 1,585 sf**, BMI demands as offer conditions — **below their basis: expect rejection or a near-ask counter; this positions, it doesn't close** |
+| Open (date slips / doesn't sell on 11/24 — December scenario) | **$850–880K opener**, take-it-or-leave-it frame — **realistic clearing $900–930K** (their hold option exists but is ugly: landlord insurance in VHFHSZ, de-staging, tenant wear); expect counter, keep the fuse short |
 | Target close | **$900–940K**, gates green |
 | Hard ceiling | **$950K** — and only with every §9 gate green, 1,725 permitted-proven, insurance bound ≤ budget |
 | Walk line | >$950K, or any failed §7 trigger |
@@ -195,11 +229,17 @@ undisclosed post-v3) · fire hardening (ember vents,
 Zone 0, deck flashing, gutter covers) $5–15K · ~~deck/balcony verification ± cure
 $0–30K~~ **v3: engineer's stamped letters + certified completion delivered —
 residual = physical footing verification + retro-permit/credit risk on the
-unpermitted structural scope $0–10K** · skylight re-flash/
+unpermitted structural scope $0–10K** · **deck waterproofing MEMBRANE over the
+lower level $0–25K (v3 depth pass: 8/4 letter says membrane "will be installed" —
+future tense; close-out doesn't itemize it; the rear deck ROOFS the lower office
+nook (p_34); absent = re-deck + membrane + interior water damage)** · skylight re-flash/
 roof details $1–5K · sewer lateral contingency $0–15K (work claimed, condition
 unknown) · pest/WDO reserve $5–15K (no report exists at all) · chimney-removal patch +
-carport demolition verification $0–5K. **Carry $20–55K
-mid-case (v3 trimmed the structural tail);** every properly documented item retires its reserve line.
+carport demolition verification $0–5K · **earth-movement retained reserve (uninsurable:
+HO excludes earth movement, CEA is shake-only, creep excluded everywhere) — the
+geotech letter + drainage correction IS the reserve, $2–10K now or self-insured later**.
+**Carry $25–65K
+mid-case (v3 trimmed the structural tail, added the membrane swing);** every properly documented item retires its reserve line.
 
 ## 3. Gate 1 — Permits & disclosures (the documentary spine)
 
@@ -315,17 +355,32 @@ vacant — easy access.
 2. [ ] **General home inspection** — full scope; explicit instruction to
    distinguish flip-era work from 1959 fabric; probe the fireplace-removal
    zone (roof penetration patch, framing), the carport slab/footings, the
-   lower-level moisture picture, and the skylight curb (p_15 stain).
+   lower-level moisture picture **(moisture-scan the office-nook ceiling UNDER
+   the main deck — p_34 shows deck joists as its ceiling; Yan's membrane was
+   "will be installed" future-tense and the close-out doesn't itemize it:
+   probe the deck edge/underside for the membrane layer, hose-test if access
+   allows; absent membrane = $15–30K re-deck + membrane + interior damage)**,
+   and the skylight curb (p_15 stain).
 3. [ ] **Structural pest/WDO inspection** — none exists at all. 1959 hills wood
    construction + new deck work + earth-to-wood terraces = mandatory.
 4. [ ] **Structural engineer + geotech consult** (~$800–1.5K) — the house sits
    on tall downhill piers inside a Landslide SHZ + "Mostly Landslides" area,
    with **6× "Don't Know"** on the seller's seismic statement (bolting,
-   cripple walls, pier/post strengthening, tall foundation walls, tall posts).
-   Scope: foundation/pier condition, post-beam connections, cripple bracing,
-   **deck ledger attachment + the reinforcement scope** (what was it, why,
-   is it complete), retaining-wall condition, slope drainage. Retrofit bid if
-   none found.
+   cripple walls, pier/post strengthening, tall foundation walls, tall posts)
+   **— proven disingenuous by doc 24**. Scope: foundation/pier condition,
+   post-beam connections, cripple bracing, retaining-wall condition, slope
+   drainage — **plus the v3 verification spec, itemized from Yan's own letters:**
+   (a) new downhill footings PHYSICALLY PRESENT at the previously tilted piers
+   (fresh 2500psi concrete, ≥12" wide, depth matching existing pier, #4 dowels
+   with 6" embedment + SET-3G epoxy witness holes); (b) sistered rear joists
+   (PT, SDS screws), face-mount hangers + A35 clips, galvanized connectors;
+   (c) front LVL sister (1.75"×14" PT, 16d galv @ 8" o.c. staggered);
+   (d) replacement PT post; (e) **membrane over the rear-deck joists**;
+   (f) the moisture SOURCE behind the rot (deck/slope drainage — and whether
+   the flip's re-terracing altered it); (g) written geotech concurrence or
+   dissent with Yan's construction-defect (not slope-movement) attribution —
+   the seller's engineer has no incentive to raise slope movement in a
+   close-out letter; yours does. Retrofit bid if none found.
 5. [ ] **Roof walk** — torch-down membrane ~90 days old: seams, penetrations,
    ponding, skylight flashing, solar stanchions (detach/reset quality), Class A
    documentation. No roof verification, no contingency removal.
@@ -405,6 +460,26 @@ inspection. "Lower level not permit-provable"
    the calendar. Cancel if not selected.
 6. **Demands not met by 11/24 become offer conditions** (documents-due-in-3-days
    language), not reasons to delay the offer.
+6a. **Email Marcus Yan directly TODAY (free, decisive).** His contact is on the
+   v3 letterhead (info@sfbayengineering.com, 415-801-6515). Engineers answer
+   factual questions about their own stamped letters. Two questions: (1) "Did the
+   8/4-scoped repairs — specifically the new downhill footings — complete to your
+   specification, and did you verify the footings on your 11/17 visit?" (2) "To
+   your knowledge, was a building permit pulled for the structural scope?" His
+   answer either hands you the verification the close-out letter skipped or
+   confirms the permit hole on the record — **either way it's paper, and it costs
+   an email.** CC nothing to the seller side; this is your file.
+6b. **Run the preemptive math NOW (11/18), don't wait for the date.** The basis
+   re-cut (§1) puts their floor near $1.0M and the v3 paper just spooked the
+   retail field ("isolated piers visibly tilted" flinches staging-buyers). A
+   same-week **preemptive at $930–950K with a 48-hr fuse, full gates attached
+   (insurance-bindability, inspection 10–14d, BMI documents in 3 days), 21-day
+   close** is the one offer shape that lets a break-even flipper say yes before
+   the second weekend builds hope. If they counter near ask: the counter reveals
+   whether the 11/24 date is real demand or a bluff — price the bluff
+   accordingly. If they sit on it: the date scenario plays out with your anchor
+   already in their head. **The one form of overpay still forbidden: >$950K for
+   any reason.**
 7. **If the date slips or it doesn't sell on 11/24, the leverage inverts.** Be
    prepared to lose at $950K — the discipline is the strategy — and be ready to
    re-engage in December at **$850–880K**.
@@ -425,7 +500,11 @@ conveyance list, defensible-space re-inspection, death-on-property answer.
   BMI documents due in 3 days.
 - **Paper missing / sqft unproven:** open **$860–890K explicitly anchored on
   1,585 sf**, same terms + appraisal language that survives the public-record
-  sqft. Make them argue UP from their own SFLS.
+  sqft. Make them argue UP from their own SFLS. **v3 expectation-setting: this
+  is below their recomputed basis (~$1.0M) — it will likely be rejected or
+  countered near ask; its function is to plant the 1,585 anchor and the
+  documents-due conditions, not to close. Don't chase the counter upward; let
+  the calendar re-price the conversation.**
 - **December scenario (it sits 3+ weekends):** **$850–880K** with a short fuse
   and a fast close — the flipper's margin + the calendar do the arguing.
 - **Competition materializes:** escalate only to **$950K cap**, and only with
