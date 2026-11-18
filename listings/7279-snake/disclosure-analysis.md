@@ -14,6 +14,16 @@ byte-identical, renumbered +2. Doc-number references below use the ORIGINAL numb
 — map: old 1–2 → new 3–4, old 3–16 → new 5–18, old 17 → new 19, old 18 → new 20,
 old 19 → new 21, old 20 → new 22, old 21 → new 23. See §0a for the v2 findings.
 
+**UPDATED 2026-11-18 — package v3:** coversheet regenerated 11/18/2026 8:23 AM PST;
+package 23 → **24 docs**. One substantive addition: **doc 24 = SF BAY Engineering
+Structural Evaluation (5 pp) — the engineer paper this file demanded is now in the
+package** (see §0b). The GC's Confirmation Letter moved from v2 doc 19 → **doc 23**
+(to sit beside the engineering eval); v2 docs 20–23 shifted up one (Prelim 19, NHD 20,
+Vegetation 21, CalRaters 22); docs 1–18 unchanged, all byte-identical renames. So the
+original-numbering map extends: old 17 (Confirmation Letter) → v2 19 → **v3 23**.
+Doc 24 reviewed fully — text extraction plus visual verification of the three letters'
+stamps, wet signatures, and damage photos.
+
 ## 0. Situation snapshot
 
 - **Seller = Flamingo Park LLC (Farhad Matin, "Partner")** — a cash flipper
@@ -106,13 +116,103 @@ after claimed lateral work — June time-extension deposit?), one new minor chip
 seller's delivery), and third-party corroboration of the public-record spine (1,585 sf,
 $998K list, no liens, Zone X). **No score change (3.66).**
 
+## 0b. Package v3 (2026-11-18) — the engineer's letters arrive
+
+**New doc 24 — SF BAY Engineering Structural Evaluation (5 pp, three letters, all by
+Marcus Yan, P.E. C83553, SF Bay Engineering; all wet-signed AND stamped — California
+Civil PE stamp C83553, exp 3/31/27, verified visually):**
+
+- **8/4/2026 letter #1 — rear cantilevered deck (a RETROFIT of the existing 1959
+  structure, not a new build):** existing deck joists had **light-to-moderate water
+  damage**; scope: new pressure-treated joists sistered to existing with SDS screws,
+  face-mount hangers to the rim joist, A35 clips to the building perimeter, weather
+  protective coating on new + existing joists, waterproofing membrane above the new
+  joists, all connectors galvanized. Photos show the deck open from below mid-retrofit.
+- **8/4/2026 letter #2 — front beam, post, AND FOUNDATION PIERS (photos verified):**
+  (a) a beam with **moderate/SEVERE water damage** (photo: rotted beam end at
+  bearing, garden hoses and excavated soil in frame) → sister a new 1.75"×14" PT LVL
+  with galvanized 16d nails at 8" o.c. staggered; (b) a wooden post with its **bottom
+  face completely compromised** (photo: rotted post base sitting in soil) → replace
+  with a PT post of the same size; (c) **several existing isolated piers VISIBLY
+  TILTED** — causes per the engineer: (1) insufficient embedment depth, (2) post load
+  not centered on the pier, creating a bending moment → install a **new footing on the
+  downhill side** of the tilted piers, ≥12" wide, depth matching the existing pier,
+  2,500 psi concrete, secured to the existing pier with #4 dowel rebar, 6" minimum
+  concrete embedment, Simpson SET-3G epoxy. Photo shows the exposed/tilted pier in
+  excavated slope.
+- **11/17/2026 close-out letter (three days AFTER the 11/14 listing):** "All previous
+  structural issues described in the two stamped letters dated 8/4/2026 have been
+  addressed. The rear cantilevered deck is in good condition. The damaged/rotten
+  wooden framing members for the front have been replaced by pressure-treated lumber
+  and properly secured with galvanized Simpson connectors." Signed + stamped. The
+  "Received / Sign" acknowledgment boxes at top are blank (HomeLight buyer fields).
+
+**What v3 establishes:**
+
+1. **The deck mystery is solved — and it was never about decks.** The rear "new deck"
+   is the **original 1959 cantilevered structure retrofitted** (sistered joists); the
+   marketing's "New decks" = new decking/railings over repaired original framing. The
+   real structural scope was a **severely rotted front beam, a rotted-through post,
+   and tilted foundation piers** — the worst finding in the package now documented
+   with photos and an engineered fix. The GC's year-less letter (doc 23) is
+   corroborated: Yan is real, the scopes match, and stamped paper backs it.
+2. **Foundation movement is confirmed, not theoretical.** Tilted isolated piers on
+   the downhill side are exactly the tall-pier vulnerability the photos (p_50, p_59)
+   suggested — and the engineer attributes the tilt to **construction defects**
+   (shallow embedment + eccentric loading), not slope movement. Fair — but inside a
+   Landslide SHZ + Oakland "Mostly Landslides" area, 67-year-old piers tilting keeps
+   the geotech screen on the diligence list, and the repair (new downhill footings
+   doweled + epoxied to the old piers) is precisely what a buyer verifies IN PERSON.
+3. **The six seismic "Don't Know"s now read worse, not better.** The LLC paid for two
+   engineer site visits and a foundation repair between August and November — and in
+   November still answered "Don't Know" to every structural question on the
+   earthquake statement (bolting, cripple walls, tall posts, tall foundation walls).
+   The statement's scopes are technically distinct from the pier work — but "Don't
+   Know" from an owner who held stamped engineer letters about the property's
+   structural state is a credibility item, not a knowledge gap. Add to §4's pattern.
+4. **SPQ 10.A "No water intrusion" vs documented moderate/SEVERE water damage.** Deck
+   framing rot is defensibly not "water intrusion" into living space — but a beam
+   rotted to "moderate/severe" and a post rotted through at its base mean long-term
+   moisture at the house/structure interface. Inspection asks: the moisture SOURCE
+   (deck drainage, slope drainage toward the house), the rim joist/sill condition at
+   the house line, and whether interior-side members were probed.
+5. **The permit hole gets sharper, not smaller.** This was **engineered structural
+   repair — footings, beam sistering, post replacement** — the single scope in the
+   whole renovation that most obviously requires an Oakland building permit. The
+   letters cite no permit number, no final card, no special-inspection record; the
+   11/17 completion certification is by the **designing engineer himself**
+   (self-certification, no city final). If no permit exists even for THIS scope, the
+   "work completed by licensed contractors and permitted" marketing is falsified on
+   the most important item. Accela pull must now specifically search structural
+   repair/footing permits August–November 2026.
+6. **The close-out letter certifies, but does not itemize, the footing scope.**
+   "All previous structural issues… have been addressed" covers the piers only
+   generically; the explicit confirmations are the deck ("good condition") and the
+   front framing ("replaced… properly secured"). The new downhill footings — the most
+   invasive, most expensive item — get no sentence of their own. **Verify the
+   footings physically at inspection** (fresh concrete + epoxy dowel holes would be
+   visible at the downhill piers) and demand the concrete/repair invoice from Will
+   Will Construction.
+7. **The timeline tells.** Mid-flip eval 8/4 → repairs → **close-out letter dated
+   11/17, three days after listing** — the seller is filling the paperless-package
+   hole in real time (and presumably in response to buyer-side pressure). Good: the
+   pressure works. Keep applying it — the permits are the next thing to shake loose.
+
+**Net impact of v3:** confidence **up** (stamped, signed, photo-documented structural
+scope with an engineer-certified completion) and condition reality **down** (the 1959
+fabric was worse than the package implied — severe rot + tilting piers — and "New
+decks" meant "re-decked"), with the permit question **unchanged and sharpened**.
+**No score change: condition stays 3.5, weighted total stays 3.66.** The deck
+walk-away trigger converts from "story unresolved" (retired) to "permit + physical
+verification of the footings" (§7 of STRATEGY.md updated).
+
 ## 1. Missing documents
 
 | # | Missing | Why it matters |
 |---|---|---|
 | 1 | **Every building permit for the 2026 renovation** — package contains zero; SPQ 7.F Note 2 (their own form) required attaching permits obtained and identifying work done *without* permits; the TOA does neither | The MLS claim "Work completed by licensed contractors **and permitted**" is documented nowhere. Scopes needing permits: kitchen/bath remodel (plumbing + electrical), window replacement, new electrical panels, tankless water heater, reroof, decks/railings/exterior stairs, retaining walls, siding, fence/gates, fireplace/chimney removal, carport removal. Only indirect permit evidence in the whole package: the CalRATERS HERS duct-leakage pass (doc 21), which implies a finaled HVAC permit. Pull the full Accela history; demand permit numbers + final cards for every scope. Retro-permit risk, appraisal/underwriting friction, and the sqft question (#5) all live here. |
 | 2 | **EBMUD PSL Compliance Certificate** — SPQ 7.F TOA lists "Central Plumbing — Sewer Lateral". **UPDATE v2 (11/17):** PAA §1.B.2 (signed 11/16) — seller contractually commits to deliver the certificate before final verification of condition; i.e. **none exists today**. New asks: was the June 2026 purchase closed on a Time Extension Certificate ($4,500 deposit outstanding)? Why didn't the claimed lateral work produce a certificate? Seller now owns the delivery; the camera remains ours | The Regional PSL Ordinance requires a Compliance Certificate before title transfer — and **this property has TWO independent triggers**: (a) the June 2026 sale to Flamingo Park (sale trigger), and (b) the flip's own **>$100K remodel** (renovation trigger). Either a certificate exists (passing lateral — valid 7 years; or a Time Extension Certificate with a $4,500 deposit outstanding) or the seller is out of compliance on a regional ordinance twice over. The contractor is **Central Plumbing & Sewers, Alameda — CSLB #964557, C-36/C-42, active since 2011, sewer-specialized** (verified 11/17) — and EBMUD inspectors witness the verification test, so records exist at BOTH Oakland permit files and EBMUD. Free status check: EBMUD property-search tool at eastbaypsl.com / psl@ebmud.com / (866) 403-2683. Demand: certificate number, scope (repair vs replacement — and WHY it was needed), EBMUD witness record, invoice, and the camera video. |
-| 3 | **Engineer Marcus Yan's report/instructions for the deck + balcony reinforcement** — package has only doc 17: a one-page letter on Will Will Construction letterhead, signed by GC Wilfrido Sanchez himself, dated "November 10" (no year), no permit number, no inspection reference | Why did **brand-new** decks (marketing: "New decks") need engineered structural reinforcement? Either the first build was deficient, a problem was found, or the engineer was brought in mid-stream. Get the engineer's letter/calcs, the permit, the final card, and before/after photos. Until then treat deck structure as unverified. |
+| 3 | ~~Engineer Marcus Yan's report/instructions for the deck + balcony reinforcement~~ **DELIVERED v3 (11/18) — doc 24: three stamped + wet-signed Yan letters (8/4 ×2, 11/17 close-out; C83553, exp 3/31/27). Mystery solved, and it was bigger than decks:** rear deck = existing 1959 structure retrofitted (sistered PT joists over light-moderate water damage); front beam moderate/SEVERE water damage → sistered LVL; post base rotted through → replaced; **several isolated foundation piers visibly tilted (insufficient embedment + eccentric load) → new downhill footings, doweled + SET-3G epoxy**. 11/17 letter certifies all addressed, rear deck "good condition." **Residual asks (still missing):** (a) the PERMIT + final card for this engineered structural scope — the letters cite none, and if even this work was unpermitted the "permitted" marketing is falsified on its most important item; (b) physical verification of the new footings at inspection — the close-out letter doesn't itemize them; (c) Will Will's invoice/completion photos for the Yan scope; (d) the moisture SOURCE behind the rot (deck/slope drainage) | Why did **brand-new** decks (marketing: "New decks") need engineered structural reinforcement? **Answer (v3):** they didn't — the decks are repaired 1959 framing under new surfaces, and the flip discovered rot + tilting piers mid-renovation (eval 8/4, repairs, close-out 11/17). Engineer brought in mid-stream because the house needed it. Deck structure is now **documented-repaired, engineer-self-certified — verify the footings and the permit** |
 | 4 | ~~Solar documents~~ **RESOLVED 11/17 PM — there is no solar and never was (either listing era).** Recovered the full June 2026 listing photo set from the Winkler site (54 photos + floor plans, now in `photos-preflip/`): June aerials (dji_0303/0321/0330/0345) show **no array on the subject's roof** — the arrays visible in both eras belong to the *neighbors* (uphill gray house + others). Current aerials (p_57/p_58) confirm none now. SPQ 8.B "No solar power system" is **simply accurate**. My earlier "array in p_01" read was wrong: the dark, wavy-edged patch on the new flat roof in p_01 is **ponding/membrane variation** — a roof-drainage note for the roof walk, not panels | No document ask survives except: verify the p_01 ponding at the roof walk (drainage/crickets on a 90-day torch-down). **New evidence dividend:** the June set photo-verifies the **chimney** (masonry w/ red cap, gone now) and **carport** (covered structure at street level w/ vehicle, gone now) removals, plus the pre-flip condition baseline (dirt yard, old built-up roof, old deck). |
 | 5 | **Any pest (WDO) inspection and any general home inspection** — TDS: "No substituted disclosures" | Standard seller-side diligence for a 1959 hills house simply does not exist. Buyer must commission both; the seller-side information asymmetry is total. |
 | 6 | **Warranties + invoices for all 8 trades** (roof, windows, appliances, tankless, furnace, decks, floors, retaining wall) — SPQ §5.A/B/C answers "**No**" to *any documents whatsoever* | Contradicted by the package's own docs 17/20/21 — so paper exists. A full-renovation flip with no transferable warranty documentation leaves the buyer holding 90-day-old systems with no recourse. Demand the roof manufacturer + workmanship warranty, window warranty, Samsung appliance registration, furnace/tankless docs. |
@@ -171,20 +271,34 @@ $998K list, no liens, Zone X). **No score change (3.66).**
    on permits and attaches nothing; the TDS C.4/C.5 "No" answers are a 5-month LLC's
    knowledge only. Until Accela says otherwise, every scope except the furnace is
    unverified-permitted. This is the deal's central fact.
-2. **Deck/balcony structural reinforcement (high).** Engineered reinforcement of
-   *new* decks, evidenced solely by the GC's own one-page, year-less, permit-less
-   letter. Compound it with FHDS 2C(10) = **No** (new decks/siding NOT WUI-compliant
-   ignition-resistant materials) and 2C(12) = **No** (no deck-to-wall metal flashing) —
-   in a Very High FHSZ, on tall posts, above a brush slope. Structure + fire hardening
-   both unverified on the house's signature feature.
+2. **Deck/foundation structural story (medium — downgraded from high on v3).** The
+   engineer paper is now in the package (doc 24): the rear deck is the **original
+   cantilevered structure retrofitted** (existing joists water-damaged, sistered), the
+   front beam was **severely rotted** (sistered LVL), a post was **rotted through**
+   (replaced), and **isolated foundation piers were visibly tilted** (new downhill
+   footings, doweled + epoxied per Yan's spec). Stamped, signed, photo-documented,
+   completion certified 11/17. What keeps this a concern instead of a resolution:
+   **no permit or final card is cited for any of it** (engineered structural repair —
+   the most permit-worthy scope of the whole flip); the completion certification is
+   the **designing engineer's own** (no city final, no special inspection); the
+   close-out letter doesn't itemize the **footings** (verify physically); and the
+   moisture source behind the rot is unexplained. FHDS fire-hardening side unchanged:
+   2C(10) = **No** (decks/siding NOT WUI-compliant ignition-resistant materials) and
+   2C(12) = **No** (no deck-to-wall metal flashing) — in a Very High FHSZ, on tall
+   posts, above a brush slope.
 3. **Seismic readiness (high).** Hillside post-and-beam on tall downhill piers (p_50,
    p_59), inside a **state Landslide Seismic Hazard Zone** and Oakland's **"Mostly
    Landslides"** area — and the Residential Earthquake Risk Disclosure answers **"Don't
    Know"** to every structural question: foundation bolting, cripple-wall bracing,
-   pier/post strengthening, tall foundation walls, tall posts/columns. The flip hired
-   an engineer for the decks but learned (or disclosed) nothing about the house's
-   seismic state. No retrofit scope appears in the work list. Budget a retrofit
-   evaluation; note earthquake-insurance interaction.
+   pier/post strengthening, tall foundation walls, tall posts/columns. **v3 sharpens
+   this:** the seller in fact KNEW the foundation's state in stamped detail — isolated
+   piers were **visibly tilted** from insufficient embedment + eccentric loading, and
+   were repaired in August–November per Yan's letters — yet disclosed "Don't Know" on
+   tall posts/foundation in November. The repaired piers are a genuine plus (and the
+   engineer blames construction defect, not slope movement), but bolting/cripple-wall
+   status remains undisclosed and no seismic retrofit scope appears in the work list.
+   Budget a retrofit evaluation; note earthquake-insurance interaction; keep the
+   geotech screen.
 4. **Fire/insurance (high — statutory position now confirmed).** VHFHSZ confirmed on
    the current 2025 CAL FIRE LRA maps (NHD 11/2/26) — upgrade our card from
    "presumptive." FHDS delivered but defective: header box "**Property is built on or
@@ -263,12 +377,12 @@ $998K list, no liens, Zone X). **No score change (3.66).**
 | **Built year (FHDS)** | FHDS ¶2: "**Property is built on or after January 1, 2010**" checked | 1959 (NHD, MLS, earthquake statement) | Wrong on its face; 2B/2C answered anyway. The single most careless checkbox in the package. |
 | **Documents existence** | SPQ §5.A/B/C: **no documents of any kind** (before/during ownership/from others) | Package itself contains docs 17 (structural letter), 20 (fire cert), 21 (CalRATERS) | Internal contradiction; implies more paper exists (invoices, engineer letter, warranties). |
 | **Fireplace + carport** | June 2026 MLS: "a carport, fireplace"; June aerials: masonry chimney w/ red cap on roof (dji_0321/0330) + covered carport at street level w/ vehicle (dji_0345); June floor plan: fireplace symbol in family room | Current TDS: Fireplace "None"; no garage/carport; p_57/p_58: chimney gone, open pad + pergola where the carport stood | **Photo-verified removals** (upgraded from inference). No permits or narrative; verify chimney-removal permit + roof patch, carport demolition permit. |
-| **Deck narrative** | Marketing: "New decks" | Doc 17: "reinforcement of the front deck… reinforcement of the balcony" per engineer's instructions | New decks needing engineered reinforcement = the first build had a problem, or scope changed mid-stream. Get the story + the engineer's letter. |
+| **Deck narrative** | Marketing: "New decks" | **v3 doc 24 (Yan 8/4 letters):** rear deck = EXISTING joists water-damaged, sistered/retrofitted; front beam severely rotted, sistered LVL; post rotted through, replaced; foundation piers tilted, new footings | **RESOLVED 11/18:** "New decks" = new decking/railings over REPAIRED 1959 framing — the engineer was brought in mid-flip because rot + tilted piers were found. Marketing overclaims "new"; the honest story is "structurally repaired and engineer-certified." Remaining gap: permit + final card for the structural scope |
 | **Roof fire rating** | FHDS 2C(1) Class A: **blank** | TDS: torch-down roof, age "90 days"; marketing: "New roof" | Fire rating undocumented in a VHFHSZ; insurance-relevant. |
 | **Defensible-space compliance** | FHDS 3B(2): property IS in compliance | Only evidence is the 7/01/2026 compliant notice — pre-renovation | Compliance snapshot predates new landscaping; FHDS 3C(3) shifts the 1-year State documentation duty to buyer. |
 | **Lead paint / RRP** | SPQ 7.E(1): **No** lead-paint renovations | 1959 house, whole interior + exterior painted; kitchen/bath/window/door demolition documented in TOA | RRP certification question for a 5-month-old GC license doing a gut reno. Same pattern as 318 Capricorn. |
 | **Death on property** | SPQ 6.A: No | Sanders Revocable Trust sale after long ownership | LLC's knowledge window is 5 months. Ask directly. |
-| **Water intrusion** | SPQ 10.A: No | p_15 skylight curb aged/stained; new roof over old curb | Probably old/cosmetic; never-occupied LLC can't know. Inspect. |
+| **Water intrusion** | SPQ 10.A: No | p_15 skylight curb aged/stained; new roof over old curb. **v3:** Yan 8/4 letters document light-moderate (rear joists) and moderate/SEVERE (front beam) water damage + a post rotted through at its base | Deck-framing rot is defensibly not "intrusion" into living space — but severe rot at the house interface means long-term moisture exposure. Inspect the source (deck/slope drainage), rim joist/sill at the house line, and the skylight curb |
 | **Seismic knowledge** | Earthquake statement: "Don't Know" ×6 | Doc 17: engineer-directed structural work on the property | Engineer engaged for decks; nothing learned/disclosed about the house itself. |
 | **Sidewalk certificate** | Exemption cert CGS2601333 issued **6/03/2026** (applicant: larry kudsk) | This sale is 11/2026 | Certificate was pulled for the *June* transaction. **RESOLVED v2:** PAA §2.A.1 — property EXEMPT, seller responsible for obtaining the exemption certificate for this sale. |
 | **CRS owner record** | CRS report (v2 doc 1): current owner "Sanders Eugene"; sales history "through 10/14/2026" omits the June 2026 $750K sale | Prelim (10/20/2026): vested in Flamingo Park LLC | County/vendor data lag — the prelim controls. Note only; also explains why no mortgages appear (CRS simply doesn't have the 2026 transactions). |
@@ -297,8 +411,11 @@ $998K list, no liens, Zone X). **No score change (3.66).**
    closes — supports an offer in the low-to-mid $900s with a straight face.
 2. **Permits**: demand finaled permits for every scope OR a credit for retro-permit
    risk. Cite SPQ 7.F Note 2 — their own signed form promises exactly this.
-3. **Deck/balcony**: engineer's report + permit + final card OR structural inspection
-   + credit.
+3. **Deck/foundation (re-cut v3)**: the engineer's letters are delivered — the lever
+   is now the **missing permit + final card for the engineered structural scope**
+   (footings, LVL sistering, post replacement) and **physical verification of the new
+   footings** + completion invoice. No permit for THIS = "permitted" marketing
+   falsified on its most important scope → hardest credit conversation in the file.
 4. **Fire hardening**: FHDS admits non-ember vents + Zone-0 combustibles + no deck
    flashing + blank Class A — a concrete $5–15K retrofit list, priced into the offer.
 5. **Insurance**: VHFHSZ availability/premium cap as an explicit contingency.
@@ -314,9 +431,11 @@ $998K list, no liens, Zone X). **No score change (3.66).**
    date with multiple bids, decide in advance which risks to price rather than chase.
 
 **Non-price asks that cost them little:**
-- Full Accela permit printout + final cards; engineer's letter/calcs (Yan C83553);
-  PSL certificate; solar ownership/lease/warranty docs; roof Class A certificate +
-  manufacturer/workmanship warranties; invoices for all 8 named trades; LLC resolution
+- Full Accela permit printout + final cards **(specifically including the Yan
+  structural scope, Aug–Nov 2026)**; ~~engineer's letter/calcs (Yan C83553)~~ **(v3:
+  delivered)**; PSL certificate; roof Class A certificate +
+  manufacturer/workmanship warranties; invoices for all 8 named trades **(incl. Will
+  Will's invoice/completion photos for the Yan structural repair)**; LLC resolution
   + good standing (escrow needs it regardless); appliance/conveyance list incl.
   washer-dryer + RING; staging-exclusion list; defensible-space re-inspection
   post-landscaping; fresh prelim.
@@ -328,10 +447,17 @@ $998K list, no liens, Zone X). **No score change (3.66).**
 1. Insurance quote (availability + premium) — gate item; cite the FHDS vulnerabilities.
 2. Independent general inspection + structural pest inspection (none exist).
 3. Structural/foundation engineer: piers, posts, cripple walls, bolting, deck
-   attachment + the reinforcement scope; geotech screening (Landslide SHZ + "Mostly
-   Landslides" city map + steep below-street lot).
+   attachment — **and PHYSICAL VERIFICATION of the v3 scope (doc 24): the new
+   downhill footings exist as specified (fresh concrete + epoxy dowel holes visible
+   at the tilted piers), sistered rear joists / front LVL / replacement post match
+   Yan's letters; moisture source behind the rot identified**; geotech screening
+   (Landslide SHZ + "Mostly Landslides" city map + steep below-street lot + piers
+   that tilted pre-repair — Yan blames construction defect, not slope movement; get
+   the geotech to concur in writing).
 4. Oakland Accela permit pull — all records, verify finaled; reconcile against the
-   TOA work list; check the fireplace/carport removals.
+   TOA work list; check the fireplace/carport removals; **search specifically for
+   the Yan structural scope (Aug–Nov 2026): footing/structural-repair permit, final
+   card, special-inspection record — the v3 letters cite none.**
 5. Roof: Class A documentation + walk; skylight curb; solar detach/reset.
 6. Sewer lateral video + EBMUD certificate (two ordinance triggers — June sale +
    >$100K remodel — make its existence near-certain; camera regardless: uphill
@@ -346,16 +472,22 @@ $998K list, no liens, Zone X). **No score change (3.66).**
 
 This package does for 7279 Snake what a good package should never do: it makes the
 house look **worse** than the marketing. The renovation is real and the trades are
-licensed and verified — but the "permitted" claim is undocumented, the deck/balcony
-needed engineered reinforcement evidenced only by the GC's own letter, the solar array
-is denied in a signed form, the MLS square footage is contradicted by the seller's own
-SFLS, the FHDS mis-checks the house's birth year by half a century, and the seismic
-disclosure is six straight "Don't Know"s on a tall-post hillside house in a confirmed
-landslide zone. Against that: clean title, no liens, a free-and-clear cash flipper with
-thin margin math and a pre-opened escrow — a seller built for speed, which is exactly
-what a disciplined buyer trades against. **Negotiate on public-record square footage,
-demand the permit/PSL/solar/engineer paper before any signature, quote insurance
-first, and let the calendar do the squeezing.**
+licensed and verified — but the "permitted" claim is undocumented, the MLS square
+footage is contradicted by the seller's own SFLS, the FHDS mis-checks the house's
+birth year by half a century, and the seismic disclosure is six straight "Don't
+Know"s on a tall-post hillside house in a confirmed landslide zone — "Don't Know"s
+now proven disingenuous by the seller's own engineer letters. **v3 (11/18) improves
+the file's honesty without improving the house:** the structural truth is out —
+severe rot + tilted foundation piers, properly engineered and repaired, certified by
+the designing engineer — and it confirms both that the 1959 fabric had real problems
+AND that the flip addressed them competently when forced. Still missing: one permit.
+Anywhere. Including for the engineered structural scope where a permit matters most.
+Against that: clean title, no liens, a free-and-clear cash flipper with thin margin
+math and a pre-opened escrow — a seller built for speed, which is exactly what a
+disciplined buyer trades against. **Negotiate on public-record square footage,
+demand the permit paper (structural scope first) + PSL certificate before any
+signature, verify the new footings in person, quote insurance first, and let the
+calendar do the squeezing.**
 
 ## 7. Score impact (applied to `listing.json` / `card.txt`)
 
@@ -364,7 +496,11 @@ first, and let the calendar do the squeezing.**
   "Don't Know"s, a blank Class A, non-WUI decks, and the skylight stain cut confidence
   in the renovation's compliance and permanence. Weighted total **3.70 → 3.66**
   (still displays 3.7; no leaderboard reorder — remains below 318 Capricorn 3.8,
-  consistent with the 11/15 pick).
+  consistent with the 11/15 pick). **v3 (11/18): condition stays 3.5** — stamped
+  engineer letters + certified completion (confidence up) are offset by the confirmed
+  severity of what was repaired (severe rot, tilted piers; "New decks" = repaired
+  1959 framing) and by the permit hole surviving even the structural scope. Note
+  updated in `listing.json`.
 - **FHSZ flag upgraded**: "Very High FHSZ (presumptive)" → **confirmed** (NHD
   11/2/2026, 2025 CAL FIRE LRA maps); add Landslide SHZ + "Mostly Landslides."
 - **New flags**: permit paper absent; deck/balcony engineered reinforcement; FHDS
@@ -379,3 +515,10 @@ first, and let the calendar do the squeezing.**
   public-record spine — but the PAA also confirms no PSL certificate exists despite
   claimed lateral work, and pushes the water-fixture retrofit onto the buyer.
   Net: wash. Condition stays 3.5, weighted total stays 3.66.
+- **v3 (11/18): no score change.** Yan's stamped letters resolve the deck mystery
+  (retrofitted 1959 framing, not defective new decks) and certify completion — but
+  reveal the true scope (severe beam/post rot + **tilted foundation piers**), prove
+  the seismic "Don't Know"s were disingenuous, and still cite no permit. Confidence
+  up, disclosed-condition reality down, permits unchanged: wash. The "deck story
+  unresolved" walk-away trigger retires; "verify the footings + structural permit"
+  takes its place.

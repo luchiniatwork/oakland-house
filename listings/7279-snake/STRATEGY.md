@@ -2,9 +2,29 @@
 
 Negotiation playbook for pursuing (or walking from) this flip listing. Companion
 files: `listing.json` (scored record, 3.66 ≈ 3.7/5), `card.txt`, `crosscheck.md`,
-`disclosure-analysis.md` (22-doc package review, 2026-11-17), `photos/`, and the
+`disclosure-analysis.md` (package review, v3 = 24 docs, 2026-11-18), `photos/`, and the
 11/15 comparison vs 318 Capricorn (`../comparisons/20261115T021255Z-318-capricorn-vs-7279-snake.md`).
-Last updated: 2026-11-17 PM4 — **disclosure package v2 (22→23 docs)**: seller added
+Last updated: 2026-11-18 — **disclosure package v3 (23→24 docs): the engineer's
+letters arrived.** New doc 24 = SF BAY Engineering Structural Evaluation — three
+stamped + wet-signed letters from Marcus Yan, P.E. C83553 (verified visually, stamp
+exp 3/31/27): **8/4/2026 evals found the rear deck's existing joists water-damaged
+(light-moderate → sistered PT retrofit, NOT a new deck), a front beam with
+moderate/SEVERE water damage (sistered 1.75"×14" LVL), a post rotted through at its
+base (replaced PT), and several isolated FOUNDATION PIERS VISIBLY TILTED
+(insufficient embedment + eccentric post load → new downhill footings, ≥12" wide,
+2500psi, #4 dowels + Simpson SET-3G epoxy). The 11/17 close-out letter (3 days
+after listing) certifies all 8/4 issues addressed, rear deck "good condition" — but
+itemizes only the deck + front framing, NOT the footings (verify physically), and
+cites NO permit or final card** (self-certification by the designing engineer).
+Consequences: the "deck story unresolved" walk-away trigger RETIRES (story resolved:
+rot + tilted piers found mid-flip, engineered repair, certified); "New decks"
+marketing = re-decked 1959 framing; the 6× seismic "Don't Know"s are proven
+disingenuous (the seller held stamped structural letters when they signed them);
+the permit hole SHARPENS — if even this engineered structural scope was unpermitted,
+the "permitted" claim is falsified on its most important item; SPQ 10.A "no water
+intrusion" now sits against documented severe rot (inspect the moisture source +
+rim joist/sill at the house line). **No score change (3.66)** — confidence up,
+disclosed-condition reality down, permits unchanged. Earlier 2026-11-17 PM4: **disclosure package v2 (22→23 docs)**: seller added
 a CRS Property Report (corroborates 1,585 sf public record, no liens, Zone X; still
 shows the demolished carport on the assessor roll) and a **signed Oakland Purchase
 Agreement Addendum (11/16): PSL NOT EXEMPT — seller contractually commits to deliver
@@ -63,9 +83,13 @@ confirmed absent, SFLS public-record sqft contradicts MLS.
   space); the FHDS checks "built on/after 2010" for a 1959
   house, admits **non-ember vents + combustibles within 5 ft/under decks**, leaves
   **roof Class A blank**, and shifts the 1-year defensible-space duty to the buyer;
-  doc 17 reveals **engineered reinforcement of the NEW front deck and balcony** via
-  the GC's own one-page letter (no permit, no engineer report); the earthquake
-  statement answers **"Don't Know" ×6** on a tall-post hillside house; the **EBMUD
+  the GC's year-less one-page letter (doc 23) claimed engineer-directed deck/balcony
+  reinforcement — **v3 (doc 24) delivered Yan's stamped letters: the rear deck is
+  repaired 1959 framing (water-damaged joists sistered), a severely rotted front
+  beam sistered with an LVL, a rotted post replaced, and tilted foundation piers
+  re-footed downhill — certified complete 11/17, with no permit cited**; the earthquake
+  statement answers **"Don't Know" ×6** on a tall-post hillside house **(disingenuous
+  post-v3: the seller held stamped structural letters when they signed it)**; the **EBMUD
   PSL certificate does not exist** despite sewer-lateral work in the SPQ — the v2 PAA
   (signed 11/16) makes pre-close certification the seller's contractual duty; the
   June MLS's
@@ -93,10 +117,17 @@ document they can't produce is worth money off.
   **copies of permits obtained + a statement identifying unpermitted work with
   third-party contacts**. Neither exists. Compliance is statute, not a favor:
   demand completion in writing (BMI).
-- **The deck reinforcement surprise.** "New decks" that needed engineered
-  reinforcement, evidenced only by the GC's self-issued letter — no permit, no
-  engineer document, no year on the letter. Unanswered, it prices as a structural
-  unknown on the house's signature feature.
+- ~~The deck reinforcement surprise~~ **The structural truth is out (v3) — and the
+  permit hole is now the sharpest version of the lever.** Yan's stamped letters (doc
+  24) prove the flip discovered severe rot + **tilted foundation piers** mid-renovation
+  and repaired them per an engineered spec. That's a better house than feared — and
+  a worse story than marketed ("New decks" = repaired 1959 framing). The lever: this
+  is **engineered structural repair with no permit cited** — the scope Oakland permits
+  exist for. Demand the permit + final card; no permit for THIS scope falsifies
+  "licensed and permitted" on the item that matters most, and it lands in the
+  retro-permit/credit conversation with maximum force. Plus: physically verify the
+  new footings (the close-out letter doesn't itemize them) and get Will Will's
+  invoice for the Yan scope (their real cost → your real floor number).
 - **Thin flip margin.** $750K cash basis + plausible $130–190K reno + 5 months
   carry + ~5–6% exit costs ⇒ all-in ≈ **$920–970K**. At $998K the margin is
   ~$30–80K — they cannot absorb big credits without going underwater, but they
@@ -159,13 +190,16 @@ $950K+ contract is a shortfall you fund in cash. Do not create your own appraisa
 gap.
 
 **Risk-stack budget (mid-case, see `disclosure-analysis.md` §3):** seismic
-retrofit eval + straps/bolts/post work $8–25K · fire hardening (ember vents,
-Zone 0, deck flashing, gutter covers) $5–15K · deck/balcony verification ± cure
-$0–30K (best case: engineer's letter + permit arrive clean) · skylight re-flash/
+retrofit eval + straps/bolts/post work $8–25K (bolting/cripple status still
+undisclosed post-v3) · fire hardening (ember vents,
+Zone 0, deck flashing, gutter covers) $5–15K · ~~deck/balcony verification ± cure
+$0–30K~~ **v3: engineer's stamped letters + certified completion delivered —
+residual = physical footing verification + retro-permit/credit risk on the
+unpermitted structural scope $0–10K** · skylight re-flash/
 roof details $1–5K · sewer lateral contingency $0–15K (work claimed, condition
 unknown) · pest/WDO reserve $5–15K (no report exists at all) · chimney-removal patch +
-carport demolition verification $0–5K. **Carry $25–60K
-mid-case;** every properly documented item retires its reserve line.
+carport demolition verification $0–5K. **Carry $20–55K
+mid-case (v3 trimmed the structural tail);** every properly documented item retires its reserve line.
 
 ## 3. Gate 1 — Permits & disclosures (the documentary spine)
 
@@ -182,7 +216,10 @@ missing half is the paper: permits, finals, and the unpermitted-work statement.
   windows/doors, electrical panels, tankless WH, furnace (expect a permit —
   HERS test passed), reroof cert, decks/railings/stairs, retaining walls,
   siding, fence/gates — plus the **fireplace/chimney removal** and **carport
-  removal** (June MLS advertised both; TDS now shows neither).
+  removal** (June MLS advertised both; TDS now shows neither) — **plus the Yan
+  structural scope (Aug–Nov 2026): footing/structural-repair permit, final card,
+  special-inspection record. This is now the tell: if the engineered structural
+  work has no permit, nothing else will either.**
 - [ ] **The 140-sqft question in writing:** is the lower level permitted, finaled
   living space? Which permit created the 1,585→1,725 delta? No permit = price on
   1,585, permanently.
@@ -193,10 +230,18 @@ missing half is the paper: permits, finals, and the unpermitted-work statement.
   Plumbing & Drain, Number One Hardwood Floors, Central Plumbing, G and M
   (#1156090 class check). CA law requires license display; their omission from
   the TOA is sloppy at best.
-- [ ] **Engineer Marcus Yan's report (C83553)** for the deck/balcony
-  reinforcement: scope, findings, before/after, the permit it rode on, the
-  final card. Plus: **why did new decks need reinforcement?** (First build
-  deficient? Damage? Scope change?)
+- [x] **Engineer Marcus Yan's report (C83553)** → **DELIVERED v3 (doc 24, 11/18):
+  three stamped + wet-signed letters.** 8/4: rear deck retrofit (existing joists,
+  light-moderate water damage → sistered PT, hangers, A35 clips, membrane); front
+  beam moderate/SEVERE water damage (→ sistered 1.75"×14" LVL); post rotted through
+  (→ PT replacement); **isolated piers visibly tilted** (insufficient embedment +
+  eccentric load → new downhill footings, #4 dowels + SET-3G epoxy). 11/17 close-out:
+  all addressed, rear deck "good condition." **Why did "new" decks need
+  reinforcement? They didn't — the decks are repaired 1959 framing; the flip found
+  rot + tilted piers.** Residual demands: (a) **the permit + final card for the Yan
+  scope** (letters cite none); (b) **physical verification of the new footings** at
+  inspection (close-out doesn't itemize them); (c) Will Will's completion invoice/
+  photos; (d) the moisture source (deck/slope drainage, rim joist/sill at house line).
 - [ ] **EBMUD PSL Compliance Certificate** — check free at eastbaypsl.com;
   "Central Plumbing — Sewer Lateral" is in the TOA, so paper exists somewhere.
   **UPDATE v2 (11/17):** the signed PAA (§1.B.2) admits no certificate exists and
@@ -320,7 +365,7 @@ vacant — easy access.
 | Trigger | Why it's fatal |
 |---|---|
 | Insurance unbindable, or FAIR+DIC > ~$9K/yr | Carrying cost breaks the model — check first, free |
-| Deck/balcony reinforcement story unresolved (no engineer doc, no permit, no final) AND seller won't cure/credit | Structural unknown on a tall-post hillside house — compounding, not incremental |
+| ~~Deck/balcony reinforcement story unresolved~~ **RETIRED v3 (11/18)** — Yan's stamped letters resolve the story (rot + tilted piers, engineered repair, certified 11/17). **Replacement trigger: no permit/final card exists for the Yan structural scope AND seller won't retro-permit/credit — or inspection finds the new footings missing/short of spec** | Engineered foundation/deck repair without city paper on a tall-post hillside house in a landslide zone — compounding, not incremental |
 | Structural/deck/retaining work unpermitted AND seller won't retro-permit or holdback | Life-safety + landslide zone + uninsurable unknown |
 | Lower level not permit-provable AND price holds >$950K | Appraisal gap you fund in cash; $630/sf reality |
 | Seller refuses AB 968 completion (permits + unpermitted statement) | Statutory paper is the minimum; refusal = trust collapse on everything else |
@@ -330,9 +375,11 @@ vacant — easy access.
 | Pest/WDO Section I > ~$25K without cure/credit | No report exists — the unknown is the risk |
 | Final price > **$950K** without every §9 gate green | Character-money for a paperless flip — Capricorn/6944 value beats it |
 
-**Status 2026-11-17:** "Seller refuses AB 968 completion" — **PENDING** (BMI not
+**Status 2026-11-18:** "Seller refuses AB 968 completion" — **PENDING** (BMI not
 yet served; compliance currently incomplete). "Deck/balcony story unresolved" —
-**ENGAGED as presented** (GC self-letter only). "Lower level not permit-provable"
+**RETIRED (v3 doc 24: stamped engineer letters + 11/17 completion certification);
+replaced by the structural-permit/footing-verification trigger — PENDING** Accela +
+inspection. "Lower level not permit-provable"
 — **PENDING** Accela. "Insurance" — **OPEN** (quote not yet obtained).
 
 ## 8. Offer sequence
@@ -346,9 +393,10 @@ yet served; compliance currently incomplete). "Deck/balcony story unresolved" �
    to certify before close; you're checking for a June time-extension record).
 4. Call/text the agent (Khalila Wolfe, Cerda-Zein): confirm the **11/24 offer
    date + exact cutoff time**; pre-emptives entertained? What paper exists beyond
-   the package (permits, engineer letter, chimney/carport removal paper)? Why is the GC's letter the
-   only structural doc? What happened to the fireplace and carport? Did anyone
-   die in the house? — her answers calibrate whether this is sloppy or strategic.
+   the package (permits, chimney/carport removal paper)? **v3: the engineer letters
+   arrived 11/18 — so the question is now pointed: does the Yan structural scope
+   have a permit + final card?** What happened to the fireplace and carport? Did
+   anyone die in the house? — her answers calibrate whether this is sloppy or strategic.
 5. **Pre-book inspectors TODAY, tentatively** — general, structural pest,
    structural engineer/geotech, appraiser/measure — slotted for the first days
    after acceptance (or pre-offer if access is granted; the house is vacant).
@@ -362,9 +410,12 @@ yet served; compliance currently incomplete). "Deck/balcony story unresolved" �
    re-engage in December at **$850–880K**.
 
 **Serve a written BMI** (C.A.R. Buyer Material Information request) with the
-full demand list from `disclosure-analysis.md` §1–2: permit copies + finals,
-engineer's report + deck permit, PSL certificate, chimney/carport removal permits, roof Class A +
-warranties, all 8 trades' invoices, LLC resolution, insurance history, appliance/
+full demand list from `disclosure-analysis.md` §1–2: permit copies + finals
+**(structural/Yan scope first — doc 24 cites none)**, ~~engineer's report~~ (v3:
+delivered), PSL certificate, chimney/carport removal permits, roof Class A +
+warranties, all 8 trades' invoices **(incl. Will Will's invoice/completion photos
+for the Yan repair — their real cost = your real floor number)**, LLC resolution,
+insurance history, appliance/
 conveyance list, defensible-space re-inspection, death-on-property answer.
 
 **Offer structure:**
@@ -406,7 +457,7 @@ bound in writing; permit/finals in hand or priced; sqft measured or repriced.
 | 0. Deal facts | Offer date **11/24 (possible, per listing side 11/17)** — confirm cutoff + pre-emptives; solar ownership known; death-on-property answered; 6944 Snake status checked (heat tell + direct alternative) |
 | 1. Permits/AB 968 | Finaled permits match scope + unpermitted statement in writing, OR repriced to 1,585 sf + holdback — **FAILED AS PRESENTED (2026-11-17): zero permits, Note 2 skipped** |
 | 2. Insurance | Written bindable quote ≤ budget (~$9K/yr ceiling) — **OPEN** |
-| 3. Structure | Engineer/geotech: no >$25–40K finding; deck reinforcement documented + sound — **FAILED AS PRESENTED: GC self-letter only** |
+| 3. Structure | Engineer/geotech: no >$25–40K finding; v3 repair verified (footings physically present per Yan's spec; sistering/post as lettered; moisture source identified); structural permit + final card delivered or credited — **PARTIAL (v3): stamped letters + certified completion IN; permit/final card + physical footing verification OUTSTANDING** |
 | 4. Roof | Class A documented; roof walked (chimney patch, p_01 ponding, skylight curb) — **OPEN (Class A blank; chimney-removal patch unverified)** |
 | 5. Sqft | 1,725 permit-proven/measured, OR price re-anchored to 1,585 — **FAILED AS PRESENTED: SFLS says 1,585** |
 | 6. Number | Final ≤ **$940K** target, ≤ **$950K** absolute, gates green |
@@ -423,8 +474,14 @@ the record — walking is cheap by design, and 6944 Snake is still standing.
   whether pre-emptives are entertained; submission via HomeLight/Disclosures.io.
 - [ ] Accela result: which scopes permitted + finaled? Fireplace/chimney and
   carport removals permitted? Any permit creating the 1,585→1,725 delta?
-- [ ] Engineer Yan's deck/balcony report: scope, trigger, permit, final card?
-  Why did NEW decks need reinforcement?
+- [x] Engineer Yan's deck/balcony report: scope, trigger, permit, final card?
+  Why did NEW decks need reinforcement? → **v3 (doc 24, 11/18):** they didn't —
+  the rear deck is retrofitted 1959 framing (water-damaged joists sistered); front
+  beam severely rotted (sistered LVL); post rotted through (replaced); **foundation
+  piers tilted** (shallow embedment + eccentric load → new downhill footings,
+  doweled + epoxied); all certified addressed 11/17. **OPEN residue: permit + final
+  card for the Yan scope (none cited); footings not itemized in the close-out —
+  verify physically; moisture source behind the rot; Will Will's repair invoice.**
 - [x] Solar: does the house have it? → **NO — and it never did** (June aerials +
   current p_57/p_58 both clean; the arrays are the neighbors'; p_01's dark patch
   is ponding/membrane). SPQ 8.B accurate throughout. Thread closed.
@@ -436,9 +493,18 @@ the record — walking is cheap by design, and 6944 Snake is still standing.
   curb (p_15 stain)?
 - [ ] Did anyone die on the property (Sanders trust sale)? What disclosures, if
   any, came with the June purchase (SPQ 5.C "none" — TDS-exempt trust sale?)?
+- [ ] **(v3)** Did the Yan repair scopes ride a permit — and if not, does the
+  seller concede the "permitted" claim is dead (→ pricing)? Does the close-out
+  letter's "all issues addressed" cover the footings to the engineer's own spec —
+  get Yan to confirm the footing completion IN WRITING (one email) or on-site?
+- [ ] **(v3)** Moisture source for the rot: deck waterproofing failure? Slope
+  drainage toward the house? Is the rim joist/sill at the house line affected —
+  and was it probed?
 - [ ] License numbers/classes for Gills Electric, Dynamic Plumbing, Number One
   Hardwood, Central Plumbing; G and M #1156090 classification?
-- [ ] Seller's actual renovation spend (invoices = the real floor number)?
+- [ ] Seller's actual renovation spend (invoices = the real floor number)? **(v3:
+  Will Will's invoice for the Yan structural scope is now a named subset — concrete
+  footings + epoxy dowels + LVL work is a hard-cost anchor on the reno total)**
 - [ ] LLC's renovation-policy carrier + premium; CLUE report?
 - [ ] Defensible-space: any inspection after the 7/01/2026 compliant notice
   (post-landscaping)?
