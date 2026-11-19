@@ -406,6 +406,12 @@ no closure letter exists; demand it** — demolition tail
 
 ## 4. Gate 2 — Fire & insurance (VHFHSZ confirmed — quote BEFORE offering)
 
+**→ Full analysis: `insurance.md` (11/19)** — eligibility scorecard vs Mercury
+minimums (2 pass / 2 fixable fail / 1 unknown), roof-type + kin.com quoting
+decisions, refined cost estimates (~$4.5–7K FAIR+DIC floor at this Coverage A —
+the $6–9K budget below likely reads conservative), and the 8-step action
+sequence.
+
 - [ ] **Quotes before any offer, not in escrow.** 2 admitted carriers (expect
   declines) + **CA FAIR Plan + DIC wrap** as the real baseline. Budget
   **$6–9K/yr** (94611 baseline per 6077-skyline research; ~2,800 FAIR Plan
