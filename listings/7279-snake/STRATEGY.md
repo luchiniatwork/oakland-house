@@ -49,6 +49,21 @@ seismic-adjacent; the classic lateral scopes (sill bolting, cripple bracing,
 tall-post lateral bracing) remain unknown. **Unchanged: roof-leakage (v4,
 seller-documented, unresolved) and the insurance quote (free, still the
 biggest unchecked box).**
+**Retractions 2026-11-19 PM3 (owner photo-check of the June listing set):**
+**(a) CARPORT — never existed.** The June listing photos contain no carport
+structure; the earlier "covered carport w/ vehicle at street level"
+(dji_0345) read was a misidentification, and the assessor roll's "Carport"
+extra-feature is county data lag/error, not evidence of a demolition. The
+June MLS text advertising "a carport" was marketing inaccuracy, matching the
+pattern — but no structure, no demolition, no permit question. **(b) CHIMNEY
+— not a chimney.** The roof element read as "masonry chimney w/ red cap" is
+a **metal hearth flue (prefab, non-structural)**; its removal is trivial
+non-structural work — the flue-penetration patch is a roofer detail already
+inside the roof-walk/leak-adjudication scope, not a permit line. **Both
+threads RETIRED everywhere in this file. The permit-less tail shrinks to:
+retaining wall(s) + NOV-named fence.** No score change (3.5/3.66) — the
+retired items were a $0–5K verification line + credit tail, immaterial next
+to the v4 moisture/roof findings.
 Previous: 2026-11-18 PM2 — **ACCELA PULLED (13 Building + 6 Planning records):
 the permits exist — 7 finaled, city-inspected permits across all major scopes (roof
 cert, electrical, plumbing/tankless, furnace, windows/doors, kitchen/bath,
@@ -173,10 +188,10 @@ confirmed absent, SFLS public-record sqft contradicts MLS.
   statement answers **"Don't Know" ×6** on a tall-post hillside house **(disingenuous
   post-v3: the seller held stamped structural letters when they signed it)**; the **EBMUD
   PSL certificate does not exist** despite sewer-lateral work in the SPQ — the v2 PAA
-  (signed 11/16) makes pre-close certification the seller's contractual duty; the
-  June MLS's
-  **fireplace and carport are both gone** with no permits or narrative (and the
-  assessor roll still lists the carport).
+  (signed 11/16) makes pre-close certification the seller's contractual duty. ~~the
+  June MLS's **fireplace and carport are both gone** with no permits or narrative~~
+  **RETIRED 11/19 PM3: no carport ever existed (June listing photos); the "chimney"
+  was a non-structural metal hearth flue — both threads dead, see header.**
 
 - **The reconstructed flip timeline (what the v3 paper lets us prove):**
   6/25 purchase ($750K cash) → reno starts → **~6 weeks in (8/4), decks opened and
@@ -235,7 +250,8 @@ document they can't produce is worth money off.
   BMI citing both failures; the remedy now includes ~~the CE case file + disposition~~
   **the CE#2604338 closure/compliance letter (case file pulled PM3 — OPEN)**, the
   finaled permit cards, and retro-permits or credits for the demolition tail
-  (chimney, carport, retaining wall, fence — fence is NOV-named).
+  ~~(chimney, carport, retaining wall, fence~~ **(11/19 PM3: chimney + carport
+  RETIRED — tail = retaining wall, fence — fence is NOV-named)**.
 - ~~The deck reinforcement surprise~~ **The structural truth is out (v3) — and v4
   turns it into the seller's own vendors contradicting each other on SAFETY.** Yan's
   stamped letters (doc 24) prove the flip discovered severe rot + **tilted
@@ -302,7 +318,7 @@ document they can't produce is worth money off.
   itself a line item in the negotiation.**
 - **The MLS sheet is now a written-falsification document (new, v4):** "Work
   completed by licensed contractors **and permitted**" (vs the OPEN CE case, the
-  permit-less fence/chimney/carport/retaining tail, AND the termite inspector's
+  permit-less fence/retaining tail **(11/19 PM3: chimney/carport RETIRED)**, AND the termite inspector's
   written opinion that several repairs need building permits); "**New roof**"
   (vs GT 10B/10D/10G leakage findings on the 3-month roof); "**New decks**" (vs
   Yan = repaired 1959 framing AND GT 9C = improper repair); "**Sewer lateral
@@ -388,14 +404,16 @@ unknown; **v4: MLS says "compliant" — cert number demanded**) · ~~pest/WDO re
 $5–15K (no report exists)~~ **v4: REPRICED — seller's own report prices Section I
 at $2,115 (+ permit fees TBD) + referred items (deck contractor, roofer, plumber,
 z-bar flashing) est. $3–15K all-in; seller cures Section I pre-close per CA
-practice** · chimney-removal patch +
-carport demolition verification $0–5K **+ retro-permit credits for the confirmed-
-permit-less demolition/retaining tail $2–8K (post-Accela: permits confirmed absent,
-so the credit is now sized, not contingent; **v4: GT p.13 adds NEW permit exposure
+practice** · ~~chimney-removal patch +
+carport demolition verification $0–5K~~ **(RETIRED 11/19 PM3 — no carport ever;
+non-structural metal hearth flue)** **+ retro-permit credits for the confirmed-
+permit-less demolition/retaining tail $2–8K → $1–5K (post-Accela: permits confirmed absent;
+**v4: GT p.13 adds NEW permit exposure
 on the repair scopes — the tail is growing, not shrinking; 11/19 PM2: the CE
 case itself re-rated seller chore — substantively abated minus the fence; the
 priced residuals are the fence permit + the repeat-violation clause exposure
-to ~7/2028, not the violation**)** · **earth-movement retained reserve (uninsurable:
+to ~7/2028, not the violation; 11/19 PM3: chimney/carport RETIRED — tail =
+retaining wall + NOV-named fence**)** · **earth-movement retained reserve (uninsurable:
 HO excludes earth movement, CEA is shake-only, creep excluded everywhere) — the
 geotech letter + drainage correction IS the reserve, $2–10K now or self-insured later**.
 **Carry $20–50K
@@ -403,7 +421,8 @@ mid-case (Accela retired the blanket retro-permit risk; v4 repriced the pest
 unknown downward; the 11/19 PM2 reassessment cut the deck line back to
 verification + drainage — the tail is now scoped: deck verification, roof-leak
 adjudication, footings-coverage, demolition credits, CE closure + fence,
-drainage);** every properly documented item retires its reserve line.
+drainage); 11/19 PM3: chimney/carport verification retired — **carry ≈ $19–47K**;**
+every properly documented item retires its reserve line.
 
 ## 3. Gate 1 — Permits & disclosures (the documentary spine)
 
@@ -420,15 +439,17 @@ One Hardwood; Central Plumbing) — so the house is city-inspected across the bi
 scopes, and the failure is now the seller's paper: **permits withheld (Note 2),
 enforcement case concealed (19.A "No") — **PM3: case confirmed OPEN, not closed —
 no closure letter exists; demand it** — demolition tail
-(chimney/carport/retaining/fence) confirmed permit-less.**
+~~(chimney/carport/retaining/fence)~~ **(11/19 PM3: = retaining wall + fence)
+confirmed permit-less.**
 
 - [x] **Run Accela yourself** → **DONE 11/18 PM (§0c). 13 Building + 6 Planning
   records pulled.** FINALED: R2600853 roof cert (7/09), RP2600874 tankless (7/13),
   RBC2601971 windows/doors (7/13), RE2601746 electrical panels+rewire (7/17, amdts
   8/07+9/10), RBC2602269 kitchen/bath (8/10), RBC2602285 balcony/siding (8/12, exp
   2/10/27), RM2600986 furnace (8/19). Planning: DRX261138/261145 approved; NO
-  lower-level legalization anywhere. **Confirmed ABSENT: chimney removal, carport
-  demolition, retaining wall(s), sewer lateral (EBMUD-side), fence/gates (minor).**
+  lower-level legalization anywhere. **Confirmed ABSENT: ~~chimney removal, carport
+  demolition~~ **(RETIRED 11/19 PM3 — no carport ever; non-structural hearth flue)**
+  retaining wall(s), sewer lateral (EBMUD-side), fence/gates (minor).**
   2020 RBC2002670 driveway-bridge replacement INACTIVE (structural damage, never
   completed — inspect the bridge). Three finaled permits cite "partially abate
   CE#2604338."
@@ -445,7 +466,9 @@ no closure letter exists; demand it** — demolition tail
   letter + title check for a recorded NOV/lien**; (c) chimney + carport demolition
   permits or retro-permit +
   credit; (d) retaining-wall permit (G and M wall — height/surcharge?); (e) the
-  unpermitted-work statement their own Note 2 requires. Cite the concealment:
+  unpermitted-work statement their own Note 2 requires. **(11/19 PM3: the (c)
+  chimney + carport demolition asks are RETIRED — no carport ever; metal hearth
+  flue, non-structural. The tail = retaining wall + NOV-named fence.)** Cite the concealment:
   permits existed by 8/19; the package shipped 11/16 without them; 19.A says "No."
   **v4 additions: (f) Yan's written response to GT termite items 9C/11K (the
   same-day deck-safety contradiction — does his certification cover the
@@ -484,7 +507,15 @@ no closure letter exists; demand it** — demolition tail
   June 2026 purchase close on a Time Extension Certificate ($4,500 deposit
   outstanding)? Why didn't the claimed lateral work produce a certificate? Camera
   the lateral regardless — the EBMUD test is pressure, not condition.
-- [ ] **Chimney + carport removal paper (photo-verified removals):** June aerials
+- [x] ~~**Chimney + carport removal paper (photo-verified removals)**~~
+  **RETIRED 11/19 PM3 (owner photo-check of the June listing set):** no carport
+  structure exists in the June photos — the "covered carport w/ vehicle"
+  (dji_0345) read was a misidentification, and the assessor roll's "Carport"
+  extra-feature is county lag/error. The roof element read as "masonry chimney
+  w/ red cap" is a **metal hearth flue (prefab, non-structural)** — removal is
+  trivial non-structural work; the flue-penetration patch is a roofer detail
+  inside the roof-walk scope, not a permit line. **No permit, demolition, or
+  structural question survives on either thread.** ~~June aerials
   (`photos-preflip/dji_0321/0330`) show the masonry chimney w/ red cap on the roof
   and June's dji_0345 shows the covered carport w/ vehicle at street level; current
   p_57/p_58 show both gone (open pad + pergola). Demand: removal permits, how the
@@ -514,7 +545,7 @@ no closure letter exists; demand it** — demolition tail
 | Structural/deck/retaining work unpermitted | Hardest stop short of walking — engineer letter + retro-permit + holdback (2 bids), or walk |
 | RBC2602285 plans show NO footings (foundation work off-permit) | Structural retrofit unpermitted: retro-permit + city inspection (may open finished work) at seller cost + holdback, or walk — this is the single most expensive tail in the file |
 | Lower level unpermitted | Re-anchor permanently to 1,585 sf ($/sf math repriced); appraisal-contingency language explicit — **Accela confirms nothing legalizes it** |
-| Chimney/carport removal unpermitted or patch fails inspection | **CONFIRMED unpermitted (Accela)** → retro-permit + repair credit (2 bids); walk if the roof patch leaks |
+| ~~Chimney/carport removal unpermitted or patch fails inspection~~ | **RETIRED 11/19 PM3 — no carport ever existed (June photo-check); "chimney" = non-structural metal hearth flue. No permit question survives** |
 | Seller slow-walks the AB 968 completion | Treat as concealment signal — **already documented once (Note 2 + 19.A)**; offer only on 1,585-sf pricing with full inspection rights, or walk |
 
 ## 4. Gate 2 — Fire & insurance (VHFHSZ confirmed — quote BEFORE offering)
@@ -561,7 +592,8 @@ vacant — easy access.
 1. [ ] **Insurance quote** (Gate 2) — always first; free.
 2. [ ] **General home inspection** — full scope; explicit instruction to
    distinguish flip-era work from 1959 fabric; probe the fireplace-removal
-   zone (roof penetration patch, framing), the carport slab/footings, the
+   zone ~~(roof penetration patch, framing), the carport slab/footings~~
+   **(11/19 PM3: retired — metal hearth flue, non-structural; no carport)**, the
    lower-level moisture picture **(moisture-scan the office-nook ceiling UNDER
    the main deck — p_34 shows deck joists as its ceiling; Yan's membrane was
    "will be installed" future-tense and the close-out doesn't itemize it:
@@ -615,7 +647,9 @@ vacant — easy access.
    stack after the insurance quote.
 8. [ ] **Electrical** — new panels (Gills Electric): brand, capacity, AFCI/GFCI
    coverage, permits; flip electrical is where fires start.
-9. [ ] **Chimney patch + roof drainage** — verify the chimney-removal patch and
+9. [ ] **Roof drainage + flue detail** — ~~verify the chimney-removal patch~~
+   **(11/19 PM3: metal hearth flue — its penetration patch is a roofer detail,
+   checked at the roof walk, not a permit line)** and
    the p_01 ponding/membrane patch (dark area on the new flat roof) at the roof
    walk (item 5).
 
@@ -649,7 +683,7 @@ vacant — easy access.
 | Lower level not permit-provable AND price holds >$950K | Appraisal gap you fund in cash; $630/sf reality |
 | Seller refuses AB 968 completion (permits + unpermitted statement) | Statutory paper is the minimum; refusal = trust collapse on everything else |
 | Geotech/structural finding > ~$25–40K without full credit | Landslide SHZ + tall piers + 6× "Don't Know" |
-| Chimney-removal patch or carport demolition unpermitted AND seller won't cure/credit | Structural roof penetration + permit debt on the buyer |
+| ~~Chimney-removal patch or carport demolition unpermitted AND seller won't cure/credit~~ | **RETIRED 11/19 PM3 — no carport ever; non-structural metal hearth flue** |
 | Roof not Class A and insurance prices the difference | VHFHSZ underwriting reality, priced or walked |
 | **Roof leakage unresolved (new, v4)** — GT 10B/10D/10G findings on the 3-month roof not roofer-adjudicated + warranty-delivered before contingency removal | A "New roof" with a documented leakage tail is either their warranty claim to hand you or their repair to fund — never your discovery after close |
 | Pest/WDO Section I > ~$25K without cure/credit | ~~No report exists — the unknown is the risk~~ **v4: seller's report prices Section I at $2,115 + referred items; the risk is now the referred tail (deck, roof) — priced above** |
@@ -667,7 +701,9 @@ unconfirmed — demand the finaled card + plans; physical footing verification a
 inspection (one engineer visit resolves deck + footings + seismic together).**
 "Lower level not permit-provable" — **CONFIRMED: nothing in Accela legalizes it;
 price on 1,585 permanently (v4: MLS claims "Measured" — document demanded).**
-"Chimney/carport unpermitted" — **CONFIRMED (Accela); credit or retro-permit.**
+~~"Chimney/carport unpermitted" — CONFIRMED (Accela)~~ **RETIRED 11/19 PM3
+(owner photo-check: no carport ever; metal hearth flue, non-structural) —
+the tail is retaining wall + NOV-named fence.**
 "Insurance" — **OPEN (quote not yet obtained — biggest unchecked box).**
 CE#2604338 — **DOWNGRADED to seller chore: named scopes substantively abated
 (kitchen 8/10, decks 8/12, before the 8/13 due date); demand = closure/
@@ -696,8 +732,9 @@ first, expect partial credit for Yan's seismic-adjacent scope; lateral system
    on Accela today — when is the city closing it, and will the closure/compliance
    letter be in the package?"** (you already KNOW the answer — file pulled, §0d;
    her reaction to you naming an OPEN case is still data — the SPQ never mentions it)
-   (c) chimney + carport
-   demolition permits — do they exist anywhere? (d) the 2020 inactive driveway-
+   (c) ~~chimney + carport
+   demolition permits — do they exist anywhere?~~ **(RETIRED 11/19 PM3 — no
+   carport ever; metal hearth flue, non-structural)** (d) the 2020 inactive driveway-
    bridge permit — was the bridge ever repaired?** Did
    anyone die in the house? — her answers calibrate whether this is sloppy or strategic.
 5. **Pre-book inspectors TODAY, tentatively** — general, structural pest,
@@ -743,8 +780,8 @@ first, expect partial credit for Yan's seismic-adjacent scope; lateral system
 full demand list from `disclosure-analysis.md` §1–2: **the 7 finaled permit
 CARDS + approved plans (RBC2602285 first — do the plans show the footings?)**,
 **the CE#2604338 closure/compliance letter (case file pulled PM3 — OPEN; §0d) + title check for a recorded NOV/lien**, ~~engineer's report~~ (v3:
-delivered), PSL certificate **(v4: MLS claims "compliant" — the NUMBER)**, chimney/carport demolition permits or retro-permit
-plan, retaining-wall permit, roof Class A +
+delivered), PSL certificate **(v4: MLS claims "compliant" — the NUMBER)**, ~~chimney/carport demolition permits or retro-permit
+plan~~ **(RETIRED 11/19 PM3)**, retaining-wall permit, fence permit status, roof Class A +
 warranties **+ the roofer's adjudication of termite items 10B/10D/10G and the
 All Weather workmanship warranty (v4)**, all 8 trades' invoices **(incl. Will
 Will's invoice/completion photos for the Yan repair — their real cost = your
@@ -811,7 +848,7 @@ bound in writing; permit/finals in hand or priced; sqft measured or repriced.
 | 1. Permits/AB 968 | Finaled permits match scope + unpermitted statement in writing, OR repriced to 1,585 sf + holdback — **PARTIAL PASS (2026-11-18 PM, Accela): 7 finaled permits cover major scopes; OUTSTANDING: finaled cards + RBC2602285 plans (footings?), CE#2604338 CLOSURE letter (case file pulled PM3 — OPEN; §0d), demolition/retaining/fence tail, corrected SPQ — **v4: GT p.13 adds permit exposure on repair scopes; the tail is growing** |
 | 2. Insurance | Written bindable quote ≤ budget (~$9K/yr ceiling) — **OPEN** |
 | 3. Structure | Engineer/geotech: no >$25–40K finding; v3 repair verified (footings physically present per Yan's spec; sistering/post as lettered; moisture source identified); structural permit + final card delivered or credited — **PARTIAL (11/19 PM2): stamped letters IN; GT's deck critique DOWNGRADED (pest opinion vs PE design) — OUTSTANDING: buyer-engineer verification visit (deck scope + footings + fungus/moisture + driveway ramp), finaled card + plans; trigger fires only if OUR engineer sides with GT** |
-| 4. Roof | Class A documented; roof walked (chimney patch, p_01 ponding, skylight curb); **v4: GT 10B/10D/10G leakage findings roofer-adjudicated + warranty delivered** — **OPEN (Class A blank; chimney-removal patch unverified; NEW v4 leakage tail on the 3-month roof)** |
+| 4. Roof | Class A documented; roof walked (flue-penetration detail, p_01 ponding, skylight curb); **v4: GT 10B/10D/10G leakage findings roofer-adjudicated + warranty delivered** — **OPEN (Class A blank; NEW v4 leakage tail on the 3-month roof; 11/19 PM3: chimney thread retired)** |
 | 5. Sqft | 1,725 permit-proven/measured, OR price re-anchored to 1,585 — **FAILED AS PRESENTED: SFLS says 1,585** |
 | 6. Number | Final ≤ **$940K** target, ≤ **$950K** absolute, gates green |
 
@@ -827,12 +864,14 @@ patience: December on THIS house, or the next listing.**
 - [x] Offer date / pre-emptive process? → **Possible offer date Tue 2026-11-24**
   (Thanksgiving week), per the listing side 11/17. Confirm exact cutoff time +
   whether pre-emptives are entertained; submission via HomeLight/Disclosures.io.
-- [x] Accela result: which scopes permitted + finaled? Fireplace/chimney and
-  carport removals permitted? Any permit creating the 1,585→1,725 delta? →
+- [x] Accela result: which scopes permitted + finaled? ~~Fireplace/chimney and
+  carport removals permitted?~~ **(RETIRED 11/19 PM3: no carport ever; metal
+  hearth flue — non-structural, no permit question)** Any permit creating the 1,585→1,725 delta? →
   **PULLED 11/18 PM (§0c): 7 finaled permits (roof cert, electrical, tankless,
   furnace, windows/doors, kitchen/bath, balcony/siding) — retro-pulled "to
-  partially abate CE#2604338" (case opened ~early July). Chimney + carport +
-  retaining-wall permits CONFIRMED ABSENT. No permit creates the sqft delta —
+  partially abate CE#2604338" (case opened ~early July). ~~Chimney + carport +~~
+  retaining-wall permits CONFIRMED ABSENT **(11/19 PM3: chimney/carport threads
+  RETIRED — no carport ever; non-structural metal hearth flue)**. No permit creates the sqft delta —
   price on 1,585 permanently. NEW: 2020 inactive driveway-bridge permit
   (structural damage, never completed). ~~Enforcement module shows no public
   records — CE disposition must be demanded.~~ **PM3: Enforcement-tab pull got

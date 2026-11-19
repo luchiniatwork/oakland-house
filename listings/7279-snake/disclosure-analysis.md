@@ -65,6 +65,19 @@ confirms the offer date (**11/24 @ 11 AM**), claims sqft source "**Measured**"
 attached — contradicts the signed PAA). **Condition 3.75 → 3.5, weighted
 3.68 → 3.66.** See §0e.
 
+**RETRACTIONS 2026-11-19 PM3 (owner photo-check of the June listing set):**
+**(a) CARPORT — never existed.** No carport structure appears in the June
+listing photos; the "covered carport w/ vehicle at street level" read of
+dji_0345 (cited in §0a/§4) was a misidentification, and the assessor roll's
+"Carport" extra-feature is county lag/error — not evidence of a demolition.
+**(b) CHIMNEY — not a chimney.** The roof element read as "masonry chimney w/
+red cap" (dji_0321/0330) is a **metal hearth flue (prefab, non-structural)**;
+removal is trivial non-structural work, and the flue-penetration patch is a
+roofer detail inside the roof-walk scope — not a permit line. **Both threads
+are RETIRED throughout this file (struck through with this note at point of
+use). The permit-less tail shrinks to: retaining wall(s) + NOV-named fence.
+No score change (3.5/3.66).**
+
 ## 0. Situation snapshot
 
 - **Seller = Flamingo Park LLC (Farhad Matin, "Partner")** — a cash flipper
@@ -299,8 +312,9 @@ inspection scope.**
    "work completed by licensed contractors and permitted" is technically-true-only-
    after-the-city-showed-up. **"Partially" abate ×3 ⇒ violations remain — CONFIRMED
    11/18 PM2: the case is still OPEN today (§0d).** Prime
-   suspects for the unabated tail: the **chimney removal** and **carport demolition**
-   (both confirmed permit-less in this pull), the **fence** (named in the verified
+   suspects for the unabated tail: the ~~**chimney removal** and **carport demolition**
+   (both confirmed permit-less in this pull)~~ **(RETIRED 11/19 PM3: no carport
+   ever; non-structural metal hearth flue)**, the **fence** (named in the verified
    NOV — no permit anywhere), and the **retaining wall(s)** (G and M's
    scope — no permit found). ~~Case file + disposition must be produced (BMI demand)~~
    **Case file PULLED 11/18 PM2 (§0d) — remaining demand: closure/compliance letter.**
@@ -329,9 +343,10 @@ inspection scope.**
    a footing sign-off, the structural scope is fully legal; if not, the foundation
    work is unpermitted.** This is now a specific, checkable document demand — not a
    fishing question.
-5. **Still permit-less after the pull (confirmed, not presumed):** chimney/fireplace
+5. **Still permit-less after the pull (confirmed, not presumed):** ~~chimney/fireplace
    removal (structural demolition — no permit anywhere); carport demolition (none —
-   and the assessor still lists the carport); retaining wall(s) (G and M — none;
+   and the assessor still lists the carport)~~ **(RETIRED 11/19 PM3: no carport
+   ever existed; "chimney" = non-structural metal hearth flue)**; retaining wall(s) (G and M — none;
    required if >4 ft from footing bottom or surcharged); sewer lateral (no lateral
    permit in Building — EBMUD tracks separately; PSL cert still missing per PAA);
    lower-level living-space legalization (nothing in any module); **fence/gates —
@@ -386,7 +401,8 @@ OMC 15.08.120 (Permits; also cites 15.08.12 & 15.08.140):
   abatement at owner cost; **NOV may be recorded on title**.
 - **Repeat-violation clause: same/similar confirmed complaint within 24 months
   ⇒ immediate $1,967.97 assessment** — runs to ~7/11/2028. The buyer inherits
-  this for the unpermitted tail (chimney, carport, retaining walls, fence).
+  this for the unpermitted tail ~~(chimney, carport, retaining walls, fence)~~
+  **(11/19 PM3: = retaining walls + fence)**.
 - The NOV itself: *"A property seller's failure to disclose material facts
   related to the property does not alter the current property owner's
   obligation to comply."*
@@ -452,7 +468,7 @@ zero enforcement-case documents. The official paper still hides the case.
   (vs termite 10B/10D/10G leakage findings, below); "New decks" (vs Yan =
   repaired 1959 framing AND termite 9C = improper repair); "**Work completed by
   licensed contractors and permitted**" (vs the OPEN CE case, the unpermitted
-  fence/chimney/carport/retaining tail, and now the termite inspector's written
+  fence/retaining tail **(11/19 PM3: chimney/carport RETIRED)**, and now the termite inspector's written
   opinion that MORE permits are required — p.13); "sweeping views from both
   floors … The Bay is on full display" (already photo-debunked,
   `crosscheck.md`). The MLS itself is now a written-misrepresentation document.
@@ -590,10 +606,10 @@ see STRATEGY.md §7.
 
 | # | Missing | Why it matters |
 |---|---|---|
-| 1 | ~~Every building permit for the 2026 renovation~~ **RESOLVED 11/18 PM (Accela pull, §0c) — permits EXIST and are FINALED for all major scopes** (roof cert R2600853, electrical RE2601746, tankless RP2600874, furnace RM2600986, windows/doors RBC2601971, kitchen/bath RBC2602269, balcony/siding RBC2602285) — but they were pulled **retroactively "to partially abate" code-enforcement case CE#2604338**, and the seller attached none of them to the package despite SPQ 7.F Note 2's signed duty to do exactly that. **What remains missing after the pull:** (a) **finaled permit CARDS + approved plans** (still not delivered — demand all 7, esp. RBC2602285's plans: do they show the footings?); (b) ~~**the CE#2604338 case file + disposition**~~ **RESOLVED 11/18 PM2 (§0d): case file pulled — violations list, photos, NOV, and disposition (OPEN, `OP-1stInsp-NOVSent`) all in hand; replacement demand: the city's case-closure / compliance-verification letter**; (c) **chimney-removal permit** (confirmed absent); (d) **carport-demolition permit** (confirmed absent); (e) **retaining-wall permit(s)** (G and M — confirmed absent; required if >4 ft/surcharged); (f) **lower-level legalization** (nothing in any module — 1,585 vs 1,725 stands); (g) sewer-lateral permit/EBMUD records | The permits' existence upgrades the house (city inspections + finals); their concealment + the CE case downgrade the seller (SPQ 19.A "No" is a signed material omission). Retro-permit risk is now scoped to the demolition/retaining tail + the footing-coverage question |
+| 1 | ~~Every building permit for the 2026 renovation~~ **RESOLVED 11/18 PM (Accela pull, §0c) — permits EXIST and are FINALED for all major scopes** (roof cert R2600853, electrical RE2601746, tankless RP2600874, furnace RM2600986, windows/doors RBC2601971, kitchen/bath RBC2602269, balcony/siding RBC2602285) — but they were pulled **retroactively "to partially abate" code-enforcement case CE#2604338**, and the seller attached none of them to the package despite SPQ 7.F Note 2's signed duty to do exactly that. **What remains missing after the pull:** (a) **finaled permit CARDS + approved plans** (still not delivered — demand all 7, esp. RBC2602285's plans: do they show the footings?); (b) ~~**the CE#2604338 case file + disposition**~~ **RESOLVED 11/18 PM2 (§0d): case file pulled — violations list, photos, NOV, and disposition (OPEN, `OP-1stInsp-NOVSent`) all in hand; replacement demand: the city's case-closure / compliance-verification letter**; (c) ~~**chimney-removal permit** (confirmed absent); (d) **carport-demolition permit** (confirmed absent)~~ **(RETIRED 11/19 PM3 — no carport ever; non-structural hearth flue)**; (e) **retaining-wall permit(s)** (G and M — confirmed absent; required if >4 ft/surcharged); (f) **lower-level legalization** (nothing in any module — 1,585 vs 1,725 stands); (g) sewer-lateral permit/EBMUD records | The permits' existence upgrades the house (city inspections + finals); their concealment + the CE case downgrade the seller (SPQ 19.A "No" is a signed material omission). Retro-permit risk is now scoped to the demolition/retaining tail + the footing-coverage question |
 | 2 | **EBMUD PSL Compliance Certificate** — SPQ 7.F TOA lists "Central Plumbing — Sewer Lateral". **UPDATE v2 (11/17):** PAA §1.B.2 (signed 11/16) — seller contractually commits to deliver the certificate before final verification of condition; i.e. **none exists today**. New asks: was the June 2026 purchase closed on a Time Extension Certificate ($4,500 deposit outstanding)? Why didn't the claimed lateral work produce a certificate? Seller now owns the delivery; the camera remains ours | The Regional PSL Ordinance requires a Compliance Certificate before title transfer — and **this property has TWO independent triggers**: (a) the June 2026 sale to Flamingo Park (sale trigger), and (b) the flip's own **>$100K remodel** (renovation trigger). Either a certificate exists (passing lateral — valid 7 years; or a Time Extension Certificate with a $4,500 deposit outstanding) or the seller is out of compliance on a regional ordinance twice over. The contractor is **Central Plumbing & Sewers, Alameda — CSLB #964557, C-36/C-42, active since 2011, sewer-specialized** (verified 11/17) — and EBMUD inspectors witness the verification test, so records exist at BOTH Oakland permit files and EBMUD. Free status check: EBMUD property-search tool at eastbaypsl.com / psl@ebmud.com / (866) 403-2683. Demand: certificate number, scope (repair vs replacement — and WHY it was needed), EBMUD witness record, invoice, and the camera video. |
 | 3 | ~~Engineer Marcus Yan's report/instructions for the deck + balcony reinforcement~~ **DELIVERED v3 (11/18) — doc 24: three stamped + wet-signed Yan letters (8/4 ×2, 11/17 close-out; C83553, exp 3/31/27). Mystery solved, and it was bigger than decks:** rear deck = existing 1959 structure retrofitted (sistered PT joists over light-moderate water damage); front beam moderate/SEVERE water damage → sistered LVL; post base rotted through → replaced; **several isolated foundation piers visibly tilted (insufficient embedment + eccentric load) → new downhill footings, doweled + SET-3G epoxy**. 11/17 letter certifies all addressed, rear deck "good condition." **Residual asks (still missing):** (a) the PERMIT + final card for this engineered structural scope — the letters cite none, and if even this work was unpermitted the "permitted" marketing is falsified on its most important item; (b) physical verification of the new footings at inspection — the close-out letter doesn't itemize them; (c) Will Will's invoice/completion photos for the Yan scope; (d) the moisture SOURCE behind the rot (deck/slope drainage) | Why did **brand-new** decks (marketing: "New decks") need engineered structural reinforcement? **Answer (v3):** they didn't — the decks are repaired 1959 framing under new surfaces, and the flip discovered rot + tilting piers mid-renovation (eval 8/4, repairs, close-out 11/17). Engineer brought in mid-stream because the house needed it. Deck structure is now **documented-repaired, engineer-self-certified — verify the footings and the permit** |
-| 4 | ~~Solar documents~~ **RESOLVED 11/17 PM — there is no solar and never was (either listing era).** Recovered the full June 2026 listing photo set from the Winkler site (54 photos + floor plans, now in `photos-preflip/`): June aerials (dji_0303/0321/0330/0345) show **no array on the subject's roof** — the arrays visible in both eras belong to the *neighbors* (uphill gray house + others). Current aerials (p_57/p_58) confirm none now. SPQ 8.B "No solar power system" is **simply accurate**. My earlier "array in p_01" read was wrong: the dark, wavy-edged patch on the new flat roof in p_01 is **ponding/membrane variation** — a roof-drainage note for the roof walk, not panels | No document ask survives except: verify the p_01 ponding at the roof walk (drainage/crickets on a 90-day torch-down). **New evidence dividend:** the June set photo-verifies the **chimney** (masonry w/ red cap, gone now) and **carport** (covered structure at street level w/ vehicle, gone now) removals, plus the pre-flip condition baseline (dirt yard, old built-up roof, old deck). |
+| 4 | ~~Solar documents~~ **RESOLVED 11/17 PM — there is no solar and never was (either listing era).** Recovered the full June 2026 listing photo set from the Winkler site (54 photos + floor plans, now in `photos-preflip/`): June aerials (dji_0303/0321/0330/0345) show **no array on the subject's roof** — the arrays visible in both eras belong to the *neighbors* (uphill gray house + others). Current aerials (p_57/p_58) confirm none now. SPQ 8.B "No solar power system" is **simply accurate**. My earlier "array in p_01" read was wrong: the dark, wavy-edged patch on the new flat roof in p_01 is **ponding/membrane variation** — a roof-drainage note for the roof walk, not panels | No document ask survives except: verify the p_01 ponding at the roof walk (drainage/crickets on a 90-day torch-down). **New evidence dividend:** ~~the June set photo-verifies the **chimney** (masonry w/ red cap, gone now) and **carport** (covered structure at street level w/ vehicle, gone now) removals~~ **(RETIRED 11/19 PM3: both reads were misidentifications — no carport ever; metal hearth flue, non-structural)**, plus the pre-flip condition baseline (dirt yard, old built-up roof, old deck). |
 | 5 | ~~**Any pest (WDO) inspection**~~ **DELIVERED v4 (11/19) — doc 26: GT Inspects WDO report, inspected 11/17** (Section I $2,115 + referred items; deck-safety conflict, roof-leakage findings, active beetles — §0e). Still missing after v4: (a) the **general home inspection** Denis said was coming 11/18 — TDS still "No substituted disclosures"; (b) the termite report's **pre-correction ORIGINAL** (v4 is marked "Corrected Report" — what changed?); (c) the **prior GT report implied by the "GT Inspects 5-26" posted tag** (May 2026, pre-flip — the seller's own purchase diligence); (d) **Yan's written response to GT 9C/11K** (the same-day deck-safety contradiction) | The seller-side information asymmetry broke on pest — and the delivered report opens more demands than it closes. Buyer-side general inspection remains mandatory regardless |
 | 6 | **Warranties + invoices for all 8 trades** (roof, windows, appliances, tankless, furnace, decks, floors, retaining wall) — SPQ §5.A/B/C answers "**No**" to *any documents whatsoever* | Contradicted by the package's own docs 17/20/21 — so paper exists. A full-renovation flip with no transferable warranty documentation leaves the buyer holding 90-day-old systems with no recourse. Demand the roof manufacturer + workmanship warranty, window warranty, Samsung appliance registration, furnace/tankless docs. |
 | 7 | **LLC authorizing resolution + good-standing** (RCSD-S: "is not attached"; prelim item 8) | Routine, but ask at offer time so escrow doesn't stall on entity paperwork. |
@@ -617,9 +633,13 @@ see STRATEGY.md §7.
   (who/when/what standard) exists in the package, and the MLS's own confidential
   remarks hedge: "Buyer to verify bedroom count and sq footage." Demand the
   measurement; until produced, 1,585 stands.
-- **Fireplace + carport removal**: the June 2026 MLS advertised "a carport, fireplace";
+- ~~**Fireplace + carport removal**: the June 2026 MLS advertised "a carport, fireplace";
   the current TDS shows Fireplace "None" and no garage/carport. Masonry chimney removal
-  is structural permit work. Permits? How were the roof/ceiling/foundation patched?
+  is structural permit work. Permits? How were the roof/ceiling/foundation patched?~~
+  **RETIRED 11/19 PM3 (owner photo-check): no carport ever existed (June photos —
+  the MLS text was marketing inaccuracy); the "chimney" is a metal hearth flue
+  (prefab, non-structural) — removal is trivial, the flue-penetration patch is a
+  roofer detail inside the roof-walk scope. Nothing survives.**
 - **Solar**: owned/leased; detach-reset documentation; PTO; warranties.
 - **Deck reinforcement sequence**: engineer's scope, findings, who flagged the need,
   permit/final.
@@ -666,8 +686,9 @@ see STRATEGY.md §7.
    balcony+siding inspection finals. **But:** (a) the permits were retro-pulled "to
    partially abate" **code-enforcement case CE#2604338** — the flip was caught
    building unpermitted within days of purchase; (b) "partially" ×3 means violations
-   remain unabated — the chimney + carport demolitions are permit-less and prime
-   suspects; (c) the seller withheld every permit from the package against SPQ
+   remain unabated ~~— the chimney + carport demolitions are permit-less and prime
+   suspects~~ **(11/19 PM3: chimney/carport RETIRED — the tail = NOV-named fence
+   + non-NOV retaining wall)**; (c) the seller withheld every permit from the package against SPQ
    Note 2's signed duty, and answered 19.A "No" material facts while the case
    existed. So the concern migrates from "is the work legal?" (mostly: yes, city-
    inspected) to "what's left in the case, what's unpermitted in the tail, and what
@@ -731,9 +752,11 @@ see STRATEGY.md §7.
    show no array on the subject house (neighbors have them). SPQ 8.B accurate. The
    p_01 dark patch = ponding/membrane on the new flat roof — inspect drainage at
    the roof walk.
-7. **Fireplace + carport removal (medium).** Both advertised in June; both gone now.
+7. ~~**Fireplace + carport removal (medium).** Both advertised in June; both gone now.
    Removal permits + patch quality unverified. Post-and-beam roof penetrations and
-   the old carport slab/footings deserve inspection eyes.
+   the old carport slab/footings deserve inspection eyes.~~ **RETIRED 11/19 PM3:
+   no carport ever existed (June listing photos); "chimney" = non-structural metal
+   hearth flue. The flue-patch detail rides the roof walk; nothing else survives.**
 8. **Sewer lateral (medium).** Central Plumbing scope listed; no EBMUD certificate, no
    invoice, no video. Point-of-sale requirement; make the seller deliver. **v4:
    MLS confidential remarks claim "Sewer lateral compliant" while the signed PAA
@@ -910,12 +933,12 @@ Single findings are in §3; this section is about how they combine.
 | **CE case disclosure** | SPQ 19.A: "material facts not otherwise disclosed" = **No**; SPQ 7.F explanation: no permits attached, no enforcement case mentioned | Seller's own permits (RBC2601971/269/285): "to partially abate **CE#2604338**" | **Signed concealment of a code-enforcement case** — the strongest objective leverage in the file. Their permits name the case their SPQ hides |
 | **Built year (FHDS)** | FHDS ¶2: "**Property is built on or after January 1, 2010**" checked | 1959 (NHD, MLS, earthquake statement) | Wrong on its face; 2B/2C answered anyway. The single most careless checkbox in the package. |
 | **Documents existence** | SPQ §5.A/B/C: **no documents of any kind** (before/during ownership/from others) | Package itself contains docs 17 (structural letter), 20 (fire cert), 21 (CalRATERS) | Internal contradiction; implies more paper exists (invoices, engineer letter, warranties). |
-| **Fireplace + carport** | June 2026 MLS: "a carport, fireplace"; June aerials: masonry chimney w/ red cap on roof (dji_0321/0330) + covered carport at street level w/ vehicle (dji_0345); June floor plan: fireplace symbol in family room | Current TDS: Fireplace "None"; no garage/carport; p_57/p_58: chimney gone, open pad + pergola where the carport stood | **Photo-verified removals** (upgraded from inference). No permits or narrative; verify chimney-removal permit + roof patch, carport demolition permit. |
+| ~~**Fireplace + carport**~~ | ~~June 2026 MLS: "a carport, fireplace"; June aerials: masonry chimney w/ red cap on roof (dji_0321/0330) + covered carport at street level w/ vehicle (dji_0345); June floor plan: fireplace symbol in family room~~ | ~~Current TDS: Fireplace "None"; no garage/carport; p_57/p_58: chimney gone, open pad + pergola where the carport stood~~ | **RETRACTED 11/19 PM3 (owner photo-check of the June listing set):** no carport structure exists in the June photos — my dji_0345 "carport" read was a misidentification (the June MLS text's "carport" = marketing inaccuracy); the roof element is a **metal hearth flue (prefab, non-structural)**, not masonry — its removal is trivial and needs no structural permit. No demolition, no permit question, no patch concern beyond the roofer's flue-penetration detail. |
 | **Deck narrative** | Marketing: "New decks" | **v3 doc 24 (Yan 8/4 letters):** rear deck = EXISTING joists water-damaged, sistered/retrofitted; front beam severely rotted, sistered LVL; post rotted through, replaced; foundation piers tilted, new footings | **RESOLVED 11/18, REOPENED 11/19 (v4):** "New decks" = new decking/railings over REPAIRED 1959 framing — and now the seller's own pest inspector calls the repair improper + finds fungus still active (see next row). Marketing overclaims "new"; the honest story is contested between the seller's own vendors. Standing gap: permit + final card for the structural scope |
 | **Deck SAFETY (v4)** | Yan close-out letter, 11/17: "The rear cantilevered deck is in good condition" | GT Inspects WDO report, 11/17 (same day): 9C repairs "improper… new framing members need to be extended into the home **to make the deck safe for use**"; 11K inspector would not walk the deck edge ("fungus damage at the cantilevered deck support framing… safety concerns") | **Seller-vendor vs seller-vendor on a life-safety item, in the same package, same date.** GT isn't a structural engineer and Yan's sistering was engineered — but GT's fungus/damage findings are observations. Adjudicate: finaled RBC2602285 card + plans, Yan's written response, buyer-side structural engineer. Unresolved = walk-trigger territory (STRATEGY §7) |
 | **"New roof"** | MLS public remarks (v4): "*New roof*"; TDS: roof ~90 days old | GT WDO report (v4): 10B sheathing stains "from past or present roof leakage"; 10D kitchen skylight "signs of leakage and staining"; 10G **fungus damage to bedroom roof sheathing "due to roof leakage"** (Section I) | The 3-month roof has a documented leakage tail. Either legacy damage the tear-off left in place or an active workmanship failure (All Weather warranty). Roofer adjudication + warranty delivery = offer condition |
 | **Sewer lateral** | MLS confidential remarks (v4): "**Sewer lateral compliant**" | PAA §1.B.2 (signed 11/16): seller will complete inspections/repairs and DELIVER the EBMUD certificate before close | If compliant, the certificate exists — produce the number (eastbaypsl.com). If not, the MLS remark is another written falsification. Camera regardless |
-| **"Permitted" (v4 extension)** | MLS public remarks: "Work completed by licensed contractors **and permitted**" | CE#2604338 OPEN (§0d); fence/chimney/carport/retaining permit-less; **GT p.13: "several of the findings and recommendations in this report require a local city building permit"** | The seller's own pest inspector adds NEW permit exposure on top of the open case — the marketing sentence is falsified from three directions inside one package |
+| **"Permitted" (v4 extension)** | MLS public remarks: "Work completed by licensed contractors **and permitted**" | CE#2604338 OPEN (§0d); fence/retaining permit-less **(11/19 PM3: chimney/carport RETIRED)**; **GT p.13: "several of the findings and recommendations in this report require a local city building permit"** | The seller's own pest inspector adds NEW permit exposure on top of the open case — the marketing sentence is falsified from three directions inside one package |
 | **Roof fire rating** | FHDS 2C(1) Class A: **blank** | TDS: torch-down roof, age "90 days"; marketing: "New roof" | Fire rating undocumented in a VHFHSZ; insurance-relevant. |
 | **Defensible-space compliance** | FHDS 3B(2): property IS in compliance | Only evidence is the 7/01/2026 compliant notice — pre-renovation | Compliance snapshot predates new landscaping; FHDS 3C(3) shifts the 1-year State documentation duty to buyer. |
 | **Lead paint / RRP** | SPQ 7.E(1): **No** lead-paint renovations | 1959 house, whole interior + exterior painted; kitchen/bath/window/door demolition documented in TOA | RRP certification question for a 5-month-old GC license doing a gut reno. Same pattern as 318 Capricorn. |
@@ -924,7 +947,7 @@ Single findings are in §3; this section is about how they combine.
 | **Seismic knowledge** | Earthquake statement: "Don't Know" ×6 | Doc 17: engineer-directed structural work on the property | Engineer engaged for decks; nothing learned/disclosed about the house itself. |
 | **Sidewalk certificate** | Exemption cert CGS2601333 issued **6/03/2026** (applicant: larry kudsk) | This sale is 11/2026 | Certificate was pulled for the *June* transaction. **RESOLVED v2:** PAA §2.A.1 — property EXEMPT, seller responsible for obtaining the exemption certificate for this sale. |
 | **CRS owner record** | CRS report (v2 doc 1): current owner "Sanders Eugene"; sales history "through 10/14/2026" omits the June 2026 $750K sale | Prelim (10/20/2026): vested in Flamingo Park LLC | County/vendor data lag — the prelim controls. Note only; also explains why no mortgages appear (CRS simply doesn't have the 2026 transactions). |
-| **Carport on the roll** | CRS/assessor Extra Features: **Carport** present | June-vs-now photos: carport demolished (photo-verified); TDS shows none | The removal never reached the assessor — consistent with unpermitted/un-reported demolition. Strengthens the carport-removal permit demand (§1.1). |
+| ~~**Carport on the roll**~~ | CRS/assessor Extra Features: **Carport** present | ~~June-vs-now photos: carport demolished (photo-verified)~~ **RETRACTED 11/19 PM3: no carport in the June photos — never existed** | The roll entry is **county data lag/error, not evidence of a demolition** — consistent with the assessor still showing Sanders as owner and omitting the June 2026 sale. No permit demand survives. |
 
 ## 5. Offer-relevant leverage
 
@@ -962,8 +985,9 @@ Single findings are in §3; this section is about how they combine.
    case file + disposition**~~ **the CE#2604338 closure/compliance letter** — the
    case file is pulled (§0d) and the case is OPEN; it must be closed with the city
    before close, (c)
-   demolition/retaining/fence permits or retro-permit + credit for the chimney, carport,
-   retaining wall, and fence (fence is a named scope in the verified NOV). And the kicker: SPQ Note 2 + 19.A — their signed form
+   demolition/retaining/fence permits or retro-permit + credit ~~for the chimney, carport,
+   retaining wall, and fence~~ **(11/19 PM3: = retaining wall + fence —
+   chimney/carport RETIRED)** (fence is a named scope in the verified NOV). And the kicker: SPQ Note 2 + 19.A — their signed form
    promised the permits and denied the material facts. **Concealment in signed
    statutory paper is worth a price reset, not just documents.**
 3. **Deck/foundation (re-cut v4, 11/19)**: the lever is now a **three-way document
@@ -987,8 +1011,9 @@ Single findings are in §3; this section is about how they combine.
    PAA (signed 11/16) confirms no cert exists and makes pre-close delivery the
    seller's signed contractual duty — leverage converted from "prove compliance" to
    "hold them to their own paper, and ask about the June time-extension deposit."
-6a. **Chimney + carport removal paper**: permits + how the roof penetration was
-   patched (photo-verified removals — June aerials vs current).
+6a. ~~**Chimney + carport removal paper**: permits + how the roof penetration was
+   patched (photo-verified removals — June aerials vs current).~~ **RETIRED
+   11/19 PM3 (no carport ever; non-structural metal hearth flue).**
 6b. **The MLS sheet is itself a falsification document (new, v4)**: "permitted"
    (vs open CE case + permit-less tail + GT p.13 permit opinion), "New roof" (vs
    GT 10B/10D/10G leakage findings), "New decks" (vs Yan = repaired 1959 framing
@@ -1048,7 +1073,7 @@ Single findings are in §3; this section is about how they combine.
    city map + steep below-street lot + piers that tilted pre-repair — Yan blames
    construction defect, not slope movement; get the geotech to concur in writing).
 4. Oakland Accela permit pull — all records, verify finaled; reconcile against the
-   TOA work list; check the fireplace/carport removals; **search specifically for
+   TOA work list; ~~check the fireplace/carport removals~~ **(RETIRED 11/19 PM3)**; **search specifically for
    the Yan structural scope (Aug–Nov 2026): footing/structural-repair permit, final
    card, special-inspection record — the v3 letters cite none.**
 5. Roof: Class A documentation + walk; skylight curb; ~~solar detach/reset~~ (no
@@ -1061,7 +1086,8 @@ Single findings are in §3; this section is about how they combine.
 7. Sqft measurement (appraiser) if pressing the 1,585 lever — **v4: demand their
    "Measured" document first; if none exists, yours is the only measurement in
    the room.**
-8. Roof walk specifics: chimney-removal patch, p_01 ponding/membrane variation,
+8. Roof walk specifics: ~~chimney-removal patch~~ **flue-penetration detail (11/19
+   PM3: metal hearth flue — roofer detail, not a permit line)**, p_01 ponding/membrane variation,
    skylight curb (v4: leakage confirmed by GT 10D), solar-neighbor glare (none
    on subject).
 9. Updated prelim + PG&E easement question; survey if pursuing any boundary concern.
@@ -1109,8 +1135,8 @@ calendar do the squeezing.**
   11/2/2026, 2025 CAL FIRE LRA maps); add Landslide SHZ + "Mostly Landslides."
 - **New flags**: permit paper absent; deck/balcony engineered reinforcement; FHDS
   vulnerabilities + blank Class A + buyer-assumed defensible-space duty; solar denied
-  on SPQ but present on roof; EBMUD PSL certificate missing; fireplace/carport removed
-  since June; MLS 1,725 vs SFLS 1,585 with false "public records" sourcing.
+  on SPQ but present on roof; EBMUD PSL certificate missing; ~~fireplace/carport removed
+  since June~~ **(RETIRED 11/19 PM3)**; MLS 1,725 vs SFLS 1,585 with false "public records" sourcing.
 - **New positives**: CSLB-verified trades incl. 22-year local roofer; HERS-passed
   furnace; compliant OFD vegetation cert; clean title/no liens; NHD clean on
   flood/fault/liquefaction; free-and-clear seller + pre-opened escrow.

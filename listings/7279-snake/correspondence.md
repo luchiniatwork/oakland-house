@@ -106,8 +106,9 @@ upload lands: verify against this list, then update status + STRATEGY.md §3.
   RP2600874 tankless, RBC2601971 windows/doors, RE2601746 electrical,
   RM2600986 furnace, RBC2602269 kitchen/bath, RBC2602285 balcony/siding.
   For each: **finaled CARD** (inspection sign-offs) vs. bare permit. Any
-  missing from the 7 = tell. Any NEW permits (chimney? carport? fence?
-  retaining?) = retro-permitting in progress — re-scope the tail.
+  missing from the 7 = tell. Any NEW permits (~~chimney? carport?~~ fence?
+  retaining?) = retro-permitting in progress — re-scope the tail. **(11/19 PM3:
+  chimney/carport RETIRED)**
   **Status: ⬜ NOT in v4 (zero permit copies, four packages deep)**
 - [ ] **RBC2602285 approved PLANS** — the actual ask. Do the plans show the
   new downhill footings (≥12" wide, 2500psi, #4 dowels + SET-3G epoxy per
@@ -142,8 +143,12 @@ upload lands: verify against this list, then update status + STRATEGY.md §3.
 - [ ] **Corrected SPQ on the record** — Note 2 + 19.A both contradicted by
   their own permits; a corrected form is an admission, keep copies of v3
   (preserved in repo).
-- [ ] **Demolition/fence permits** — chimney, carport, retaining wall(s),
-  fence (fence is NOV-named); or retro-permit plan + credit.
+- [ ] **Demolition/fence permits** — ~~chimney, carport,~~ retaining wall(s),
+  fence (fence is NOV-named); or retro-permit plan + credit. **(11/19 PM3:
+  chimney/carport asks RETIRED — owner photo-check: no carport ever existed;
+  "chimney" = non-structural metal hearth flue. Tail = retaining wall + fence.
+  This supersedes the 11/18 exchange's "chimney + carport demolished
+  permit-less" finding — correction should go to Denis with the next batch.)**
 - [ ] **2020 bridge outcome** — RBC2002670 inactive; was the bridge ever
   repaired? Current structural state (inspection scope).
 - [ ] **Title check for recorded NOV/code lien** — the 7/11 NOV warns it
