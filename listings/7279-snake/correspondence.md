@@ -8,6 +8,88 @@ document uploads against the demand list. Newest entries first. Cross-refs:
 Buyer agent: **Denis Neema** (Compass, DRE #02008548) · Listing agent:
 **Khalila Wolfe** (Cerda-Zein) · cc: Fabiana.
 
+> **⚠ MODEL CORRECTION (2026-11-19 PM2):** the "v1–v5 packages" logged below
+> were **Tiago's download snapshots of ONE package being continuously
+> assembled** on Disclosures.io — not seller-issued versions, and not pressure
+> responses. The seller's diligence (Yan + GT 11/17, DMP 11/18) PREDATES our
+> first findings email (11/18 10:59 AM); Denis announced 11/18 that the packet
+> was incomplete and reports were pending. The "reactive-transparency pattern"
+> and "concealment N packages deep" readings logged below are **retracted**;
+> the accurate model is a seller who listed before finishing their own
+> diligence and uploaded as documents arrived (believed complete at 30 docs,
+> 11/19 1:41 PM). Document-level contradictions (MLS falsifications, SPQ Note
+> 2/19.A vs the permits' CE citations) are unaffected. See
+> `disclosure-analysis.md` top note.
+
+---
+
+## 2026-11-19 PM — Package v5 received (30 docs): home inspection + permit list + the agent-marriage disclosure
+
+**Package v5** (Disclosures.io coversheet regenerated 11/19 **1:41 PM** — v4
+was 11:04 AM the same day): 27 → **30 docs**. Docs 1–26 unchanged by page
+count (SPQ still 6 pp — the single 11/16 form persists uncorrected; see model
+correction above). Three
+additions: **doc 27 Home Inspection (DMP East Bay, inspected 11/18 8 AM —
+the third post-listing diligence event), doc 28 Additional Agent Disclosure,
+doc 29 Permit List**. Full analysis: `disclosure-analysis.md` §0f.
+
+**Doc 28 — the relationship disclosure, four packages late:** "Khalila Wolfe,
+listing agent, with Cerda-Zein Real Estate **is married to a member of
+Flamingo Park LLC., the seller**, and therefore may have a financial interest
+in this sale." This contradicts the v4 MLS sheet's binary field "Agent
+Related to Principal: **No**" — written misrepresentation #6. Handling
+consequences (logged): all negotiation in writing, always; every "the seller
+says/won't" discounted as a conflicted household statement; the §5 basis
+math (~$1.0M break-even) is HER household's carry — the December-squeeze
+thesis strengthens. Open asks: which member (Matin?), and why the MLS answer
+contradicts the disclosure.
+
+**Doc 29 — official Permit List (Accela export, 13 records):** matches our
+11/18 pull record-for-record; **names CE#2604338 twice — the first reference
+to the case in the seller's OFFICIAL package** (the SPQ still denies it);
+reveals VOID RBC2602268, WITHDRAWN M2600872 (furnace misfiled as
+"3+ Units or Commercial"), temp power 26TMP-038065; RE2601746 notes show the
+rewire scope growing 8/07 + 9/10. Still absent from THEIR list: sewer
+lateral, retaining wall, fence, lower-level legalization. Records only — **no
+finaled CARDS, no approved PLANS** (the RBC2602285 footing question survives).
+
+**Doc 27 — Home Inspection (DMP, report 25561126 "(1)" — revision marker;
+inspector Dave Pagano, ASHI + CA GC B #1046600; rained during inspection):**
+the most reassuring document in the package on big systems (foundation sound,
+no settlement, subfloor DRY in rain, roof membrane "early 30-yr life", 2026
+mechanicals functioning) — and an itemized adverse list the SELLER'S OWN
+inspector authored: **no guardrails at the lower deck** (>30″ drop, Primary
+#1 — permit RBC2602285's scope named guardrails), stair railings don't
+terminate (#4), **seismic upgrades absent** — no cripple bracing, no shear
+ties (#3 — the SPQ's "Don't Know"×6 falsified by their own second inspector),
+**electric meter BROKEN + utility seal MISSING** (PG&E investigation flag),
+sediment traps mispositioned at BOTH finaled 2026 gas appliances, CSST
+jacketing cut, open grounds post-rewire, missing surge protector, 2 waste
+pipes improperly terminated under the front deck, driveway-bridge plywood
+**WDO-damaged** (third source), skylight stains dry-in-rain (third source),
+grading toward the building, reglazed tub/tile, dishwasher untested
+(packaging not removed — the house was listed unfinished). Demand: the
+pre-revision original (what changed in "(1)"?).
+
+**Reconciliation vs Denis's 11/18 promise (final state):**
+
+| Promised | Status in v5 |
+|---|---|
+| Pest Report | **DELIVERED v4** — GT Inspects 11/17 (adverse; "Corrected Report" — original + prior "GT 5-26" report still demanded) |
+| General Home Inspection Report | **DELIVERED v5** — DMP 11/18 (report "(1)" — pre-revision original demanded). TDS "No substituted disclosures" now stale |
+| "All the permits" | **PARTIAL v5** — official permit LIST delivered (records); finaled CARDS + approved PLANS still withheld |
+| Sewer lateral certificate | **NOT DELIVERED** — MLS claims "compliant"; signed PAA commits to delivery; cert NUMBER still demanded |
+| (unpromised) CE#2604338 docs | **PARTIAL — named ×2 on their permit list; status (OPEN), NOV, violations, closure letter still withheld** |
+| (watch item) corrected SPQ | **NOT CORRECTED** — v5 SPQ page-identical; now unanswerable (their own permit list names the case the SPQ denies) |
+
+**Standing-rule application:** rule 1 (not delivered by 11/24 → offer
+condition) now covers: finaled cards + plans, PSL cert, CE closure letter,
+Yan's 9C/11K rebuttal, roofer adjudication, meter/seal explanation + PG&E
+status, home-inspection "(1)" original, corrected SPQ. New cure/credit
+bundle (authored by their own inspector): guardrail + railing cures, gas/
+electrical corrections, shower-pan test, seismic retrofit credit (bid it),
+drainage scope.
+
 ---
 
 ## 2026-11-19 — Package v4 received (26 docs): termite report lands; reconciliation vs the 11/18 promise
@@ -30,7 +112,7 @@ Inspection Report"):
 | Sewer lateral certificate | **NOT DELIVERED** — instead the MLS confidential remarks claim "Sewer lateral compliant" (contradicts the signed PAA duty; cert NUMBER demanded) |
 | General Home Inspection Report | **NOT DELIVERED** — still absent; TDS "No substituted disclosures" stands |
 | (unpromised) CE#2604338 docs | **NOT in the official index** — the coversheet's 26-doc list contains zero enforcement-case documents; the case PDFs in our folder are OUR pull, not their disclosure |
-| (watch item) corrected SPQ | **NOT CORRECTED** — v4 SPQ byte-identical to v3 (Note 2 + 19.A stand, four packages deep) |
+| (watch item) corrected SPQ | **NOT CORRECTED** — v4 SPQ byte-identical to v3 (Note 2 + 19.A stand — ONE 11/16 form persisting through the assembly; model correction above) |
 
 **New facts from the MLS sheet (doc 1):** OFFER DATE **11/24 @ 11 AM** in
 writing; open houses 11/21–22 1–3 PM; offer instructions via
@@ -42,8 +124,11 @@ contractors and permitted" — each falsified by the seller's own v4 documents.
 condition) now covers: permits/cards/plans, PSL cert, home-inspection report,
 CE closure letter, Yan's 9C/11K rebuttal, roofer adjudication. Rule 4 data:
 pest report ORDERED 11/17 — three days post-listing, same day as Yan's
-close-out visit: the seller's diligence was commissioned after marketing began,
-under pressure. The reactive-transparency pattern holds.
+close-out visit: the seller's diligence was commissioned after marketing began.
+~~under pressure. The reactive-transparency pattern holds.~~ **CORRECTED
+11/19 PM2: the 11/17 commissions PREDATE our first findings email (11/18
+10:59 AM) — nothing we sent caused them; "reactive-transparency pattern"
+retracted. The diligence was late (post-marketing), not provoked.**
 
 ---
 
@@ -109,7 +194,10 @@ upload lands: verify against this list, then update status + STRATEGY.md §3.
   missing from the 7 = tell. Any NEW permits (~~chimney? carport?~~ fence?
   retaining?) = retro-permitting in progress — re-scope the tail. **(11/19 PM3:
   chimney/carport RETIRED)**
-  **Status: ⬜ NOT in v4 (zero permit copies, four packages deep)**
+  **Status: 🟨 PARTIAL v5 (11/19 PM) — official permit LIST delivered (doc 29):
+  all 7 present + 2020 bridge record; reveals VOID RBC2602268, WITHDRAWN
+  M2600872 (misfiled commercial), temp power 26TMP-038065; names CE#2604338 ×2.
+  Still NO finaled CARDS or PLANS — the ask downgrades to those**
 - [ ] **RBC2602285 approved PLANS** — the actual ask. Do the plans show the
   new downhill footings (≥12" wide, 2500psi, #4 dowels + SET-3G epoxy per
   Yan)? Is there a footing inspection sign-off in the log? If only the card
@@ -126,14 +214,23 @@ upload lands: verify against this list, then update status + STRATEGY.md §3.
 - [x] **Pest report (structural/WDO)** — note the ORDER date (before or
   after listing?). Section I items > ~$25K without cure/credit = trigger
   (STRATEGY §7). **Status: ✅ DELIVERED v4 (11/19) — GT Inspects, inspected
-  11/17 (AFTER listing — reactive pattern), "Corrected Report". Section I
+  11/17 (AFTER listing — late diligence, on the seller's own schedule), "Corrected Report". Section I
   $2,115 + referred items; deck-safety contradiction (9C/11K), roof-leak
   findings, active beetles — see §0e. Follow-ups spawned: pre-correction
   ORIGINAL, prior "GT Inspects 5-26" report, Yan's written rebuttal of
   9C/11K, Section I cure + clearance letter pre-close**
-- [ ] **General home inspection** — their inspector's findings vs. ours to
+- [x] **General home inspection** — their inspector's findings vs. ours to
   come; note anything they chose to repair vs. disclose.
-  **Status: ⬜ NOT in v4 (still absent 11/19)**
+  **Status: ✅ DELIVERED v5 (11/19 PM) — DMP East Bay, inspected 11/18 (after
+  listing — late diligence, on the seller's own schedule), report 25561126 "(1)" (revision marker —
+  pre-revision ORIGINAL demanded). Clears big systems (foundation, no
+  settlement, dry subfloor in rain, roof membrane, 2026 mechanicals); adverse
+  list: unguarded lower deck (Primary #1), non-terminating stair railings (#4),
+  seismic upgrades ABSENT (#3), broken meter + missing utility seal, defects on
+  the finaled 2026 gas/electrical scopes, WDO-damaged bridge plywood — §0f.
+  Follow-ups spawned: "(1)" original, meter/seal explanation + PG&E status,
+  deck-structure-vs-permit mapping, guardrail + railing cures, seismic retrofit
+  credit (bids), shower-pan test**
 
 ### Demands that survive ANY upload (written BMI track)
 
@@ -149,12 +246,19 @@ upload lands: verify against this list, then update status + STRATEGY.md §3.
   "chimney" = non-structural metal hearth flue. Tail = retaining wall + fence.
   This supersedes the 11/18 exchange's "chimney + carport demolished
   permit-less" finding — correction should go to Denis with the next batch.)**
+  **(DONE — v4 of denis-email-v5-draft.md includes the retraction as a
+  housekeeping line, plus: bridge question folded into our engineer's scope;
+  death-in-home question DROPPED — SPQ 6.A already answers the LLC's window.)**
 - [ ] **2020 bridge outcome** — RBC2002670 inactive; was the bridge ever
   repaired? Current structural state (inspection scope).
 - [ ] **Title check for recorded NOV/code lien** — the 7/11 NOV warns it
   "may be recorded on the property title" (§0d).
-- [ ] **Death-in-home answer** (standard ask; SPQ 6.A covers only the LLC's
-  5-month window — trust sale).
+- [x] ~~**Death-in-home answer**~~ **DROPPED 11/19 PM2 (owner call) — SPQ
+  6.A already answers it ("No") for the LLC's 5-month window, which is all
+  the seller can attest to; CA's statutory death-disclosure duty runs 3
+  years regardless. Asking the listing side again would signal we didn't
+  read the package. If the trust-sale history matters (Sanders, long-held),
+  a quiet obituary/neighbor check is free and costs no credibility.**
 - [ ] **LLC resolution + insurance/claims history + all contractor invoices**
   (AB 968 track) — unchanged from original BMI list.
 - [ ] **Roof Class A documentation** (FHDS left blank; insurance gate).
@@ -168,6 +272,19 @@ upload lands: verify against this list, then update status + STRATEGY.md §3.
   warranty** — legacy stains vs active 3-month failure; skylight reflash scope.
 - [ ] **(v4) Sqft "Measured" document** — who measured, when, what standard
   (ANSI?); until produced, the 1,585 anchor stands.
+- [ ] **(v5) Electric meter / missing seal explanation + PG&E account status
+  in writing** — DMP: meter broken, seal missing, utility "may wish to
+  investigate"; the flag follows the address.
+- [ ] **(v5) Deck-structure-vs-permit mapping** — which deck lacks guardrails
+  (DMP Primary #1); was it inside RBC2602285's "balconies and guardrails"
+  scope? Candidate third structure: GT's not-inspected 9B "detached rear
+  deck."
+- [ ] **(v5) Home-inspection pre-revision original** — report "25561126 (1)".
+- [ ] **(v5) Agent-relationship explanation** — doc 28 (married to LLC member)
+  vs MLS "Agent Related to Principal: No": which member, and why the
+  contradiction? In writing.
+- [ ] **(v5) Seismic retrofit credit** — their own inspector documents no
+  cripple bracing / shear ties / bearing plates; bid it (~$5–20K) and price it.
 
 ### Standing rules
 
