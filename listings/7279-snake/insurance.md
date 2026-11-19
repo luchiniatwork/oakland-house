@@ -10,11 +10,11 @@ _Compiled 2026-11-19 · sources: `research/insurance-montclair-fire-zone.md` (ma
 - **Construction:** 1959 post-and-beam, wood siding + wood ceilings; below-street lot, stairs to entry; wood decks (repaired 1959 framing, Yan-certified 11/17) cantilevered over downslope brush — the classic ember-trap architecture parcel-level models (Delos, Kin, Zesty/Stand) penalize.
 - **Coverage A basis:** 1,585 sf public record → ~$700–950K dwelling coverage. Below the $1.5M home behind the $7–12K market examples; 94611 FAIR average reflects ~$1.6M homes. Lower Coverage A = lower premium across every option.
 - **Systems (all 2026, city-finaled — the strong suit):** electrical panels + full rewire (RE2601746) — retires the #1 non-fire objection for 1959 stock AND the unpermitted-electrical claim-denial vector · furnace (RM2600986, HERS pass) · tankless (RP2600874) · windows/doors (RBC2601971 — 2026 = dual-pane) · kitchen/bath (RBC2602269). Fireplace/chimney removed (marginal ignition-source plus).
-- **Roof:** **torch-down modified bitumen membrane** on a low-slope/flat deck — tear-off of old built-up roof (June aerials verify), installed ~8/18/26 (TDS "~90 days" at 11/16), permit R2600853 finaled 7/09, roofer All Weather C-39 #833347 (CSLB-verified, 22-yr local). Granule cap sheet. Age zero = the biggest single rating lever.
+- **Roof:** **torch-down modified bitumen membrane** on a low-slope/flat deck — tear-off of old built-up roof (June aerials verify), installed ~8/18/26 (TDS "~90 days" at 11/16), permit R2600853 finaled 7/09, roofer All Weather C-39 #833347 (CSLB-verified, 22-yr local). Granule cap sheet. Age zero = the biggest single rating lever. **v4 (11/19) caveat:** the seller's own termite report documents leakage findings on this 3-month roof (10B sheathing stains, 10D skylight leakage, 10G bedroom-sheathing fungus damage "due to roof leakage") — no change to the age-zero underwriting answer (2026 tear-off, finaled), but the roofer adjudication + workmanship warranty (STRATEGY §5 item 5) should land before binding, and any pre-existing-damage disclosure questions on applications get answered from the roofer's letter, not from memory.
 - **Class A:** near-certain by code (Class A is effectively mandatory for permitted reroofs in CA VHFHSZ; granulated mod-bit cap sheets routinely carry UL 790 Class A listings) but **undocumented** — FHDS 2C(1) left blank. Demand: manufacturer spec sheet / UL assembly listing from All Weather. Cheapest premium lever in the entire file.
 - **FHDS defects (the liability sheet):** mis-checks "built on/after 2010" for a 1959 house; admits **non-ember-resistant vents** (2B/2C) + **combustibles within 5 ft / under decks** (Zone 0 fail); roof Class A blank; **1-yr defensible-space duty on buyer** (3C(3), AB 38). No usable hardening documentation transfers — buyer builds their own package.
 - **Claims history:** SPQ 6.H "No claims" covers only the LLC's 5-month window — order the **CLUE report** on the property.
-- **Open CE#2604338:** not a binding blocker per se, but answer application questions about open violations accurately (seller can't claim ignorance — concealment documented). Main claim-denial vector (electrical) already retired by finaled permit.
+- **Open CE#2604338:** not a binding blocker per se, but answer application questions about open violations accurately (seller can't claim ignorance — concealment documented). Main claim-denial vector (electrical) already retired by finaled permit. **v4 (11/19):** GT termite report p.13 opines several repairs need building permits — more open-violation surface to answer accurately; WDO/pest findings themselves don't feed fire underwriting, but the deck-safety conflict (§0e) is a condition question for the inspection contingency, not the application.
 - **Recurring:** OFD annual vegetation inspections (SPQ 17.G); WILDFIRE PREV-MM $103.94/yr on the tax bill. OFD 7/1/26 vegetation cert predates flip landscaping — request fresh Authorized-Inspector report pre-close.
 
 ## 2. Market context (94611, late 2026)
@@ -58,7 +58,7 @@ All figures are model-based estimates, not quotes. **STRATEGY.md's $6–9K budge
 
 1. **Kin quote TODAY** — composition shingle, roof year 2026 → establishes the real ceiling while it's still free (offer date 11/24).
 2. **Broker fan-out in parallel** — Delos (<5 min) + Mercury, Farmers, CSAA, Travelers, Liberty Mutual; ask each in writing what the ember-vent + Zone-0 fixes do to the quote, and whether the FHDS-admitted vulnerabilities change pricing.
-3. **Demand the Class A documentation** (manufacturer spec / UL listing from All Weather) — bundle with the Gate 1 "roof package" ask.
+3. **Demand the Class A documentation** (manufacturer spec / UL listing from All Weather) — bundle with the Gate 1 "roof package" ask — **v4: plus the roofer's adjudication of GT 10B/10D/10G and the All Weather workmanship warranty.**
 4. **Hardening = seller credit** — ember-vent retrofit, Zone 0 conversion, under-deck combustible removal, deck-to-wall flashing, gutter covers (STRATEGY §2 line, $5–15K with bids).
 5. **CLUE report** on the property + ask the LLC's current renovation-policy carrier/premium.
 6. **Fresh OFD/defensible-space inspection report** pre-close (cheap for seller; retires the AB 38 1-yr clock cleanly).
@@ -68,6 +68,6 @@ All figures are model-based estimates, not quotes. **STRATEGY.md's $6–9K budge
 ## 7. Cross-references
 
 - `STRATEGY.md` §4 Gate 2 (fire & insurance checklist), §2 (credit model), walk-triggers (FAIR+DIC >$9K)
-- `disclosure-analysis.md` — roof/Class A row, FHDS §2B/2C findings, CE#2604338 §0d
+- `disclosure-analysis.md` — roof/Class A row, FHDS §2B/2C findings, CE#2604338 §0d, termite-report roof-leak + permit findings §0e (v4)
 - `research/insurance-montclair-fire-zone.md` — full market research, carrier table, online tools, sources
 - `crosscheck.md` — FHSZ/insurance row; `correspondence.md` — roof Class A + LLC insurance/claims asks

@@ -10,6 +10,43 @@ Buyer agent: **Denis Neema** (Compass, DRE #02008548) · Listing agent:
 
 ---
 
+## 2026-11-19 — Package v4 received (26 docs): termite report lands; reconciliation vs the 11/18 promise
+
+**Package v4** (Disclosures.io coversheet regenerated 11/19 11:04 AM): 24 → **26
+docs**. All v3 docs byte-identical, renumbered +1 (md5-verified). Three
+additions: doc 0 Coversheet (first formal index), doc 1 MLS agent sheet,
+**doc 26 Termite/WDO Report (GT Inspects, inspected 11/17 — same day as Yan's
+close-out visit)**. Analysis: `disclosure-analysis.md` §0e; strategy updates:
+`STRATEGY.md` throughout.
+
+**Reconciliation vs Denis's 11/18 promise** ("the agent plans to upload all the
+permits, the sewer lateral certificate, the Pest Report and the General Home
+Inspection Report"):
+
+| Promised | Status in v4 |
+|---|---|
+| Pest Report | **DELIVERED** — GT Inspects 11/17 (inspected 3 days AFTER listing; "Corrected Report" — original + prior "GT 5-26" report now demanded). Content is ADVERSE: deck-safety contradiction (9C/11K), roof-leak findings (10B/10D/10G), active beetles, GT p.13 permit opinion. Section I $2,115 |
+| "All the permits" | **NOT DELIVERED** — zero permit copies/cards/plans in v4 |
+| Sewer lateral certificate | **NOT DELIVERED** — instead the MLS confidential remarks claim "Sewer lateral compliant" (contradicts the signed PAA duty; cert NUMBER demanded) |
+| General Home Inspection Report | **NOT DELIVERED** — still absent; TDS "No substituted disclosures" stands |
+| (unpromised) CE#2604338 docs | **NOT in the official index** — the coversheet's 26-doc list contains zero enforcement-case documents; the case PDFs in our folder are OUR pull, not their disclosure |
+| (watch item) corrected SPQ | **NOT CORRECTED** — v4 SPQ byte-identical to v3 (Note 2 + 19.A stand, four packages deep) |
+
+**New facts from the MLS sheet (doc 1):** OFFER DATE **11/24 @ 11 AM** in
+writing; open houses 11/21–22 1–3 PM; offer instructions via
+khalilawolfe@gmail.com; sqft source "Measured" (third sourcing story, no
+document); public remarks "New roof / New decks / Work completed by licensed
+contractors and permitted" — each falsified by the seller's own v4 documents.
+
+**Standing-rule application:** rule 1 (not delivered by 11/24 → offer
+condition) now covers: permits/cards/plans, PSL cert, home-inspection report,
+CE closure letter, Yan's 9C/11K rebuttal, roofer adjudication. Rule 4 data:
+pest report ORDERED 11/17 — three days post-listing, same day as Yan's
+close-out visit: the seller's diligence was commissioned after marketing began,
+under pressure. The reactive-transparency pattern holds.
+
+---
+
 ## 2026-11-18 — Exchange #1: findings sent; "jumped the gun" reply
 
 **Tiago → Denis, 10:59 AM.** Sent headline findings: 7 finaled city-inspected
@@ -71,7 +108,7 @@ upload lands: verify against this list, then update status + STRATEGY.md §3.
   For each: **finaled CARD** (inspection sign-offs) vs. bare permit. Any
   missing from the 7 = tell. Any NEW permits (chimney? carport? fence?
   retaining?) = retro-permitting in progress — re-scope the tail.
-  **Status: ⬜ pending**
+  **Status: ⬜ NOT in v4 (zero permit copies, four packages deep)**
 - [ ] **RBC2602285 approved PLANS** — the actual ask. Do the plans show the
   new downhill footings (≥12" wide, 2500psi, #4 dowels + SET-3G epoxy per
   Yan)? Is there a footing inspection sign-off in the log? If only the card
@@ -82,13 +119,20 @@ upload lands: verify against this list, then update status + STRATEGY.md §3.
   cert (valid 7 yrs) vs. Time Extension ($4,500 deposit)? Scope: repair or
   replacement — and WHY needed? EBMUD witness record + invoice + camera
   video. Did the June 2026 purchase close on a Time Extension?
-  **Status: ⬜ pending** (camera at inspection regardless)
-- [ ] **Pest report (structural/WDO)** — note the ORDER date (before or
+  **Status: ⬜ NOT in v4 — but the v4 MLS confidential remarks claim
+  "Sewer lateral compliant": produce the NUMBER or the falsification
+  stands** (camera at inspection regardless)
+- [x] **Pest report (structural/WDO)** — note the ORDER date (before or
   after listing?). Section I items > ~$25K without cure/credit = trigger
-  (STRATEGY §7). **Status: ⬜ pending**
+  (STRATEGY §7). **Status: ✅ DELIVERED v4 (11/19) — GT Inspects, inspected
+  11/17 (AFTER listing — reactive pattern), "Corrected Report". Section I
+  $2,115 + referred items; deck-safety contradiction (9C/11K), roof-leak
+  findings, active beetles — see §0e. Follow-ups spawned: pre-correction
+  ORIGINAL, prior "GT Inspects 5-26" report, Yan's written rebuttal of
+  9C/11K, Section I cure + clearance letter pre-close**
 - [ ] **General home inspection** — their inspector's findings vs. ours to
   come; note anything they chose to repair vs. disclose.
-  **Status: ⬜ pending**
+  **Status: ⬜ NOT in v4 (still absent 11/19)**
 
 ### Demands that survive ANY upload (written BMI track)
 
@@ -109,6 +153,16 @@ upload lands: verify against this list, then update status + STRATEGY.md §3.
 - [ ] **LLC resolution + insurance/claims history + all contractor invoices**
   (AB 968 track) — unchanged from original BMI list.
 - [ ] **Roof Class A documentation** (FHDS left blank; insurance gate).
+- [ ] **(v4) Yan's written response to GT 9C/11K** — the same-day deck-safety
+  contradiction; email direct (info@sfbayengineering.com) per STRATEGY §8.6a.
+- [ ] **(v4) Termite-report ORIGINAL + prior "GT Inspects 5-26" report** — v4
+  is a "Corrected Report" (what changed?); the posted tag evidences a May
+  2026 pre-flip inspection (their own purchase diligence — what did they know
+  about the deck/beetles?).
+- [ ] **(v4) Roofer adjudication of GT 10B/10D/10G + All Weather workmanship
+  warranty** — legacy stains vs active 3-month failure; skylight reflash scope.
+- [ ] **(v4) Sqft "Measured" document** — who measured, when, what standard
+  (ANSI?); until produced, the 1,585 anchor stands.
 
 ### Standing rules
 

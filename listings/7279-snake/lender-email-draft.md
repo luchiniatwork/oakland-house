@@ -72,3 +72,16 @@ Tiago & Fabriana
   protection; Q4's answer sets its realistic floor.
 - STRATEGY.md §8's "21-day close" was a planning assumption — Q5's answer is
   what we actually write into the offer.
+- **(v4, 11/19) Appraiser-condition risk is now documented:** the seller's own
+  termite report (in the disclosure package lenders can request) says the rear
+  deck's repairs are "improper" and framing "need[s] to be extended into the
+  home to make the deck safe for use" (GT 9C/11K), plus roof-leakage findings
+  (10B/10D/10G). If the appraiser flags safety/condition, the loan can get
+  conditioned on repairs — another reason the deck-conflict resolution
+  (STRATEGY §7 trigger) and the inspection contingency stay non-waivable.
+- **(v4, 11/19) Tension to resolve BEFORE writing:** this draft plans an offer
+  of **$1.1–1.3M**; STRATEGY.md caps at **$950K** with every gate green — and
+  v4 (deck-safety conflict, roof-leak tail, open CE case, 1,585-sf basis =
+  $694/sf at $1.1M) cuts toward the cap, not above it. At $1.1M on a 1,585-sf
+  appraisal basis the shortfall risk is ~$100–200K cash. Reconcile the two
+  numbers with Fabiana/Denis before this email goes out.
