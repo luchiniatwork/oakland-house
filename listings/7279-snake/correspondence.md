@@ -251,7 +251,7 @@ upload lands: verify against this list, then update status + STRATEGY.md §3.
   death-in-home question DROPPED — SPQ 6.A already answers the LLC's window.)**
 - [ ] **2020 bridge outcome** — RBC2002670 inactive; was the bridge ever
   repaired? Current structural state (inspection scope).
-- [ ] **Title check for recorded NOV/code lien** — the 7/11 NOV warns it
+- [ ] **Title check for recorded NOV/code lien** — the 7/14 NOV warns it
   "may be recorded on the property title" (§0d).
 - [x] ~~**Death-in-home answer**~~ **DROPPED 11/19 PM2 (owner call) — SPQ
   6.A already answers it ("No") for the LLC's 5-month window, which is all

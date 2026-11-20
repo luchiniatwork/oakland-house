@@ -2,31 +2,31 @@
 
 Negotiation playbook for pursuing (or walking from) this flip listing. Companion
 files: `listing.json` (scored record, 3.66 ≈ 3.7/5), `card.txt`, `crosscheck.md`,
-`disclosure-analysis.md` (package review, **v4 = 26 docs, 2026-11-19**),
+`disclosure-analysis.md` (**REBUILT 2026-11-19 PM2 from the primary documents —
+the canonical factual record for this listing; every claim cited to a document**),
 `correspondence.md` (agent exchanges + upload-reconciliation checklist),
 `accela-ce-2604338/FINDINGS.md` (CE case evidence), `photos/`, and the
 11/15 comparison vs 318 Capricorn (`../comparisons/20261115T021255Z-318-capricorn-vs-7279-snake.md`).
-Last updated: 2026-11-19 — **DISCLOSURE PACKAGE v4 (24→26 docs: coversheet + MLS
-sheet + TERMITE REPORT).** The seller's own pest inspector (GT Inspects,
-inspected 11/17 — the SAME DAY as Yan's close-out visit) **contradicts the
-engineer's deck certification**: rear-deck repairs "improper", sistered-only
-framing "need[s] to be extended into the home to make the deck safe for use"
-(9C), inspector refused the deck edge on safety grounds (11K), fungus ACTIVE at
-both decks post-repair. **The v3 "deck story resolved" conclusion is suspended
-— the walk-away trigger re-activates in conflicted form (§7).** Also: leakage
-findings on the 3-month "New roof" (10B stains / 10D skylight / 10G bedroom-
-sheathing fungus damage), active wood-boring beetles (Section I priced $2,115 —
-trivial), the driveway approach ramp is wood-framed + repaired + cracking (8A —
-corroborates the 2020 inactive bridge permit), and GT's written opinion that
-several repairs NEED BUILDING PERMITS (on top of the open CE case). MLS sheet:
-offer date confirmed **11/24 @ 11 AM**; sqft source "**Measured**" (third
-sourcing story, no document); "**Sewer lateral compliant**" (contradicts the
-signed PAA — demand the cert number); public remarks "New roof / New decks /
-permitted" now falsified from within the seller's own package. **Condition
-3.75 → 3.5, weighted 3.68 → 3.66** — renovation-quality confidence takes its
-first third-party hit since the Accela pull; re-upgrade path = finaled card +
-plans, Yan's written rebuttal, buyer-engineer concurrence, roofer clearance.
-Full v4 analysis: `disclosure-analysis.md` §0e.
+
+> **Note (2026-11-19 PM2):** `disclosure-analysis.md` was rebuilt from the
+> primary documents after earlier narrative framings (seller-responds-to-
+> pressure, "concealment N packages deep") were retracted; its Appendix A logs
+> all corrections. **This playbook contains negotiation judgment — price
+> anchors, leverage reads, trigger calls — which is inference by design; where
+> any factual statement here conflicts with the rebuilt analysis, the analysis
+> governs.** Known factual fixes applied: NOV dated 7/14/26 (not 7/11); pest
+> Section I = $2,115 authorization total ($450 subarea item discrepancy — see
+> analysis §7); death-in-home ask dropped; package = 30 docs, believed
+> complete. Outstanding document requests = analysis §18.
+
+**Current state (11/19 PM2):** package complete (30 docs). Documented record:
+7 finaled city-inspected permits; CE#2604338 OPEN (NOV 7/14/26, one verified
+violation; TDS C.15 contradicts it); deck-safety conflict (Yan vs GT, same
+day) downgraded to verification-conditional (§7); DMP home inspection clears
+big systems and documents the life-safety/seismic/workmanship items; MLS sheet
+contradicted by the package on six statements. Offer date **11/24 @ 11 AM**.
+Condition 3.5, weighted 3.66 — re-upgrade path = finaled card + plans, Yan's
+written rebuttal, buyer-engineer concurrence, roofer clearance + warranty.
 **Reassessment 2026-11-19 PM2 (post-Denis, challenge-driven):** three v4-era
 ratings re-cut. **(1) Deck 'conflict' DOWNGRADED from walk-trigger to cheap
 verification** — GT's "improper sistering" is a pest inspector's structural
@@ -73,7 +73,7 @@ package (SPQ Note 2 violation); the SPQ answers 19.A "No material facts undisclo
 while its own permits name the case — a signed concealment chip. Still permit-less
 (confirmed): chimney removal, carport demolition, retaining wall(s), fence (named
 in the NOV), lateral, lower-level legalization. **PM3 UPDATE (Enforcement-tab pull):
-CE#2604338's case file is public after all — NOV (Blight) 7/11/26 with one VERIFIED
+CE#2604338's case file is public after all — NOV (Blight) dated 7/14/26 with one VERIFIED
 violation (unpermitted deck boards + NEW FENCE; kitchen + rear deck/railing removed),
 GPS-stamped inspector photos of the caught-in-progress work, filed 7/06, and case
 status TODAY is `OP-1stInsp-NOVSent` — OPEN. The seller is marketing a house with a
@@ -226,7 +226,7 @@ confirmed absent, SFLS public-record sqft contradicts MLS.
   says "to partially abate CE#2604338" — the city opened the case within ~2 weeks
   of the 6/25 purchase. **PM3 firms it up: filed 7/06 (11 days post-purchase) →
   inspected 7/08 (photos: gutted kitchen, stripped rear deck, front deck mid-
-  rebuild with worker on ladder) → NOV 7/11 → first retro-permit 7/13.** The flip
+  rebuild with worker on ladder) → NOV 7/14 → first retro-permit 7/13.** The flip
   was caught mid-demolition and legalized
   scope-by-scope under city pressure** — and permit activity stops entirely after
   the 9/10 electrical amendment: **nothing pulled in the fall, including anything
