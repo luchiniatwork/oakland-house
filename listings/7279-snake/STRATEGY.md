@@ -2,24 +2,47 @@
 
 Negotiation playbook for pursuing (or walking from) this flip listing. Companion
 files: `listing.json` (scored record, 3.66 ≈ 3.7/5), `card.txt`, `crosscheck.md`,
-`disclosure-analysis.md` (**REBUILT 2026-11-19 PM2 from the primary documents —
-the canonical factual record for this listing; every claim cited to a document**),
+`disclosure-analysis.md` (**REBUILT FRESH 2026-11-21 from the primary documents —
+the canonical factual record for this listing; every claim cited to a document;
+covers package v6, 34 docs + 3 CE PDFs**),
 `correspondence.md` (agent exchanges + upload-reconciliation checklist),
 `accela-ce-2604338/FINDINGS.md` (CE case evidence), `photos/`, and the
 11/15 comparison vs 318 Capricorn (`../comparisons/20261115T021255Z-318-capricorn-vs-7279-snake.md`).
 
-> **Note (2026-11-19 PM2):** `disclosure-analysis.md` was rebuilt from the
-> primary documents after earlier narrative framings (seller-responds-to-
-> pressure, "concealment N packages deep") were retracted; its Appendix A logs
-> all corrections. **This playbook contains negotiation judgment — price
-> anchors, leverage reads, trigger calls — which is inference by design; where
-> any factual statement here conflicts with the rebuilt analysis, the analysis
-> governs.** Known factual fixes applied: NOV dated 7/14/26 (not 7/11); pest
-> Section I = $2,115 authorization total ($450 subarea item discrepancy — see
-> analysis §7); death-in-home ask dropped; package = 30 docs, believed
-> complete. Outstanding document requests = analysis §18.
+> **Note (2026-11-21):** `disclosure-analysis.md` was rebuilt fresh from all
+> 37 PDFs (every document re-extracted and re-read; image-only docs rendered
+> and read visually; signatures/checkbox states verified against page images).
+> New corrections absorbed: there are **two NOV instruments** (certified packet
+> 7/11/26 + field copy 7/14/26, identical violation text — not one NOV plus a
+> duplicate); the CE NOV's repeat-violation fee reads **$1,967.97 on p.1 and
+> $1,323.00 on p.5** (same packet, two figures — exposure stated as a range);
+> LUST site identified: **Oakland Fire Station #6, 7080 Colton, case
+> T0600100585, CLOSED**; NHD property-tax method confirms **≈$15,062/yr at
+> $998K** (1.285% + $2,237.86 direct assessments). **This playbook contains
+> negotiation judgment — price anchors, leverage reads, trigger calls — which
+> is inference by design; where any factual statement here conflicts with the
+> rebuilt analysis, the analysis governs.** Outstanding document requests =
+> analysis §15.
 
-**Current state (11/19 PM2):** package complete (30 docs). Documented record:
+**Current state (11/21 — package v6):** coversheet regenerated **11/20 7:51 PM**,
+index now **34 docs**. Git-verified: docs 1–26 + the CE PDFs byte-identical to
+what the 11/19 analysis covered; docs 27–29 same-content re-downloads; **the
+only additions are five warranty documents (30–34)** — roof (All Weather),
+Anlin manufacturer booklet, Deluxe workmanship confirmation, Deluxe-prepared
+Anlin service guide, Dynamic plumbing labor warranty. **Still not delivered:
+finaled cards, approved plans, PSL cert, CE#2604338 closure letter, corrected
+SPQ/TDS, Yan's 9C/11K response, roofer adjudication of 10B/10D/10G.** The
+warranty stack is paper-with-holes, not clean paper (§3 v6): roof warranty
+issued to a DIFFERENT entity (Benhad Properties LLC) with no amounts and no
+transferability; Anlin's written terms require a 90-day transfer notice or
+the warranty TERMINATES (doc 33's oral no-notice claim is unverified — doc 33
+itself tells the buyer to confirm with Anlin); Deluxe's own two documents
+state two different expiration dates (1/1/2028 vs 8/25/2027); Dynamic's
+warranty is unsigned. **v6 net: the "zero warranties" critique dies; the
+warranty-transferability critique is born. No score change (3.5/3.66) — the
+v6 docs retire no reserve line (they answer coverage questions with coverage
+questions); offer date 11/24 @ 11 AM stands.**
+Previous state (11/19 PM2): package complete (30 docs). Documented record:
 7 finaled city-inspected permits; CE#2604338 OPEN (NOV 7/14/26, one verified
 violation; TDS C.15 contradicts it); deck-safety conflict (Yan vs GT, same
 day) downgraded to verification-conditional (§7); DMP home inspection clears
@@ -147,8 +170,9 @@ confirmed absent, SFLS public-record sqft contradicts MLS.
     zone; no flood zone
   - Taxes: current $6,647/yr (AV $343K) → **~$15.1K/yr at $998K** + a pending
     supplemental from the June sale; WILDFIRE PREV-MM $103.94 on the bill
-  - Environmental screen: LUST site within ¼ mile (downhill village corridor —
-    note only); no pipelines/wells/Superfund hits
+  - Environmental screen: LUST site within ¼ mile — **identified (11/21):
+    Oakland Fire Station #6, 7080 Colton, case T0600100585, CLOSED** (note
+    only); no pipelines/wells/Superfund hits
 - **The comp field (same street, all on file):** 6401 Snake (4.2) SOLD $1.26M =
   $914/sf (+26%); 6833 Snake (4.0) SOLD $1.675M = $828/sf (+86%); 6625 Snake (3.4)
   PENDING at $849K = $561/sf (reno-needed — visited, no joy); ~~6944 Snake~~
@@ -156,14 +180,22 @@ confirmed absent, SFLS public-record sqft contradicts MLS.
   alternative, anchor, and talking point; 318 Capricorn
   (3.8) PENDING at $895K — our 11/15 pick over this house. **Net: no live
   alternative exists — the walk-away position is patience, not another house.**
-- **The disclosure package (full review: `disclosure-analysis.md`, v4 = 26
-  docs):** statutory minimum — zero invoices, zero warranties, and **zero permit
+- **The disclosure package (full review: `disclosure-analysis.md`, freshly
+  rebuilt 11/21 on v6 = 34 docs):** ~~statutory minimum — zero invoices, zero
+  warranties~~ **v6 (11/20 PM) delivers five warranty documents — roof 5-yr
+  workmanship + 20-yr materials (All Weather, but issued to BENHAD PROPERTIES
+  LLC, no amounts, no transferability), Anlin manufacturer lifetime (written
+  90-day transfer-notice condition vs an oral no-notice claim — unverified),
+  Deluxe workmanship to 1/1/2028 (transferable; conflicts with its own service
+  guide's 8/25/2027), Dynamic plumbing labor to 10/1/2027 (unsigned) — gaps
+  itemized in §3; invoices still zero** — and **zero permit
   copies — though Accela (pulled 11/18 PM) shows 7 finaled permits exist** (roof
   cert R2600853, electrical RE2601746, tankless RP2600874, furnace RM2600986,
   windows/doors RBC2601971, kitchen/bath RBC2602269, balcony/siding RBC2602285),
   all retro-pulled "to partially abate" **code-enforcement case CE#2604338**
   (opened ~early July, days after the 6/25 purchase; **case file PULLED via the
-  Enforcement tab — OPEN today; remaining demand: closure/compliance letter**).
+  Enforcement tab — OPEN today; v6 adds no closure letter; remaining demand:
+  closure/compliance letter**).
   **Withheld permits + a concealed enforcement case = SPQ Note 2 / 19.A double
   failure in signed paper — the strongest objective leverage in the file.**
   **v4 (11/19) added the termite report: the seller's pest inspector
@@ -204,7 +236,9 @@ confirmed absent, SFLS public-record sqft contradicts MLS.
   v3 (doc 24)** → **11/19 package v4 (coversheet + MLS + termite report — the
   11/17 pest inspection's own product contradicts the 11/17 Yan letter on deck
   safety)** → **11/19 PM package v5 (home inspection + permit list + agent
-  disclosure — believed complete, 30 docs)**. Three implications:
+  disclosure — believed complete, 30 docs)** → **11/20 PM package v6 (coversheet
+  regenerated 7:51 PM; +5 warranty docs = 34 — warranties only, none of the 12
+  outstanding diligence items)**. Three implications:
   (a) ~~the seller is **reactive, not proactive** — every paper improvement followed
   market pressure by days~~ **CORRECTED 11/19 PM2: "reactive / market pressure"
   RETRACTED.** The v1–v5 labels were OUR download snapshots of ONE package being
@@ -345,6 +379,31 @@ document they can't produce is worth money off.
   price. Costs them almost nothing; refusal would be telling. The referred
   items become bids/credits with the seller's own report as the demand's
   foundation.
+- **The warranty stack arrived — with holes (new, v6):** five warranty docs
+  (30–34) answer "zero warranties" but each has a documented defect. (a) Roof:
+  5-yr workmanship + 20-yr materials — **issued to BENHAD PROPERTIES LLC, not
+  the title holder**; no dollar amounts on the invoice; no transferability
+  provision; membrane manufacturer unnamed; **and the invoice's "DRY ROT
+  REPAIRD T&G ON WOOD CEILING" line (10/9/26) is itself new disclosure
+  evidence — it predates the 11/16 SPQ 10.A "No water intrusion" signature.**
+  (b) Anlin manufacturer lifetime: the written booklet (doc 31) requires a
+  **90-day ownership-transfer notice or the warranty TERMINATES on the date
+  the original purchaser stops owning/occupying**; doc 33 records an Anlin
+  phone rep saying no filing is needed — **oral vs written; doc 33 itself
+  directs the buyer to get an authoritative determination from Anlin (Order
+  #1259834-00).** Anlin's "Purchaser" definition also requires owner-
+  *occupants* — on the face of the documents the original purchase was an LLC
+  flip held vacant. (c) Deluxe: doc 32 (signed 11/20) extends workmanship to
+  **1/1/2028**, transferable without application — **while its own doc 33
+  footer says the warranty expires 8/25/2027; both are in the package.**
+  Coverage is conditional on the original contract being **paid in full**
+  (evidence not in package). (d) Dynamic plumbing: labor-only to 10/1/2027,
+  covers tankless/angle-stops/shower-valve/hose-bibs — **unsigned** (printed
+  name only); the sewer lateral and the mis-terminated waste pipes (DMP) are
+  covered by nobody. **Leverage use: the ask is paper, not money — a warranty
+  assignment from the correct entity, an Anlin written confirmation, a signed
+  Dynamic reissue, and a single corrected Deluxe date are all one-email cures;
+  bundle them into the BMI as pre-close deliverables (§8).**
 - **Free-and-clear seller + pre-opened escrow** = a 14–21 day close is genuinely
   available to you as trade currency. Speed is what a paperless flipper values.
 
@@ -433,7 +492,11 @@ unknown downward; the 11/19 PM2 reassessment cut the deck line back to
 verification + drainage — the tail is now scoped: deck verification, roof-leak
 adjudication, footings-coverage, demolition credits, CE closure + fence,
 drainage); 11/19 PM3: chimney/carport verification retired — **carry ≈ $19–47K**;**
-every properly documented item retires its reserve line.
+every properly documented item retires its reserve line. **v6 (11/20) check:
+no reserve retired** — the warranty docs document coverage but with entity/
+signature/transfer defects (§3 v6); the roof-leak line keeps its $2–8K until
+the roofer adjudicates 10B/10D/10G AND the warranty is assigned from the
+correct entity; everything else unchanged.
 
 ## 3. Gate 1 — Permits & disclosures (the documentary spine)
 
@@ -531,12 +594,34 @@ confirmed permit-less.**
   and June's dji_0345 shows the covered carport w/ vehicle at street level; current
   p_57/p_58 show both gone (open pad + pergola). Demand: removal permits, how the
   roof penetration was patched, carport demolition permit. Fold into the roof walk.
-- [ ] **Roof package:** Class A fire-rating certificate (FHDS 2C(1) is blank),
-  reroof permit, manufacturer + workmanship warranties, skylight re-flash detail
-  (p_15 stained curb).
-- [ ] **Warranties + invoices for all 8 trades** (SPQ §5 "no documents" is
-  contradicted by the package's own docs 17/20/21 — the paper exists; make
-  them produce it).
+- [ ] **Roof package:** ~~Class A fire-rating certificate~~ **(v6 PARTIAL: doc
+  30 spec letter documents "GTA (Class A) Granulated surfaced Modified Bitumen
+  Membrane" as the cap sheet — the FHDS 2C(1) stays blank; still missing: the
+  membrane MANUFACTURER's name + the 20-yr manufacturer warranty registration,
+  and a corrected FHDS claiming the retrofit)**; reroof permit (R2600853 cert
+  issued — card still withheld); ~~manufacturer + workmanship warranties~~ **(v6:
+  doc 30 delivered — 5-yr workmanship "to keep the roof watertight" + 20-yr
+  manufacturer — BUT issued to Benhad Properties LLC, not Flamingo Park LLC;
+  no transferability provision; invoice shows no dollar amounts — demand a
+  written assignment + the manufacturer registration)**; skylight re-flash detail
+  (p_15 stained curb; v6: invoice line "ADDITIONAL FOR SKYLIGHT TO OPEN" — the
+  skylight was made operable; GT 10D found leakage signs AT the kitchen skylight
+  — reflash adjudication stands).
+- [ ] ~~**Warranties + invoices for all 8 trades**~~ **(v6: WARRANTIES PARTIAL —
+  5 docs delivered 11/20 covering roof (All Weather), windows/doors (Anlin via
+  Deluxe ×2 docs + booklet), plumbing labor (Dynamic); warranty matrix +
+  defects in `disclosure-analysis.md` §12.4. INVOICES: still zero for all 8
+  trades (SPQ §5 "no documents" remains contradicted — now by 14 package
+  documents dated before the 11/16 signing).** Outstanding warranty paper:
+  (a) roof warranty ASSIGNMENT from Benhad Properties LLC (or reissue to
+  Flamingo Park LLC / buyer) + manufacturer identity + registration; (b) Anlin
+  written confirmation of subsequent-owner eligibility + transfer procedure
+  (doc 33's own instruction — Order #1259834-00); (c) Deluxe doc 32 vs 33 date
+  conflict corrected (1/1/2028 governs per the signed doc — get it stated);
+  (d) Deluxe contract PAID-IN-FULL evidence (doc 32's coverage condition);
+  (e) Dynamic warranty SIGNED (delivered unsigned); (f) Ariston (furnace),
+  Gills Electric, G and M (retaining wall/fence), Number One Hardwood, Central
+  Plumbing — no warranty/invoice paper for any of them).
 - [ ] **LLC authorizing resolution + good standing** (RCSD-S: not attached;
   prelim item 8 requires entity docs — escrow needs it anyway).
 - [ ] **Ask directly: did anyone die on the property?** (Trust sale of a
@@ -549,7 +634,7 @@ confirmed permit-less.**
 | Scenario | Response |
 |---|---|
 | Permits exist, all finaled, sqft proven | Proceed; pricing per §2 top band |
-| **CURRENT STATE (post-reassessment 11/19 PM2): major scopes finaled; CE case open-but-substantively-abated (seller chore: closure letter + fence); demolition tail permit-less; GT deck critique downgraded (verification, not conflict); roof-leak findings + GT p.13 permit opinion stand** | **Produce: 7 finaled cards + RBC2602285 plans (footings?), CE#2604338 closure evidence + fence permit, demolition/retaining retro-permits or credits, roofer adjudication of 10B/10D/10G, PSL cert number. Price moves to top band when the CE tail closes clean AND the engineer/roofer verifications land** |
+| **CURRENT STATE (11/21, v6 absorbed): major scopes finaled; CE case open-but-substantively-abated (seller chore: closure letter + fence); demolition tail permit-less; GT deck critique downgraded (verification, not conflict); roof-leak findings + GT p.13 permit opinion stand; warranty stack delivered WITH DEFECTS (entity mismatch, unsigned, transfer conditions, date conflict)** | **Produce: 7 finaled cards + RBC2602285 plans (footings?), CE#2604338 closure evidence + fence permit, demolition/retaining retro-permits or credits, roofer adjudication of 10B/10D/10G, PSL cert number, roof-warranty assignment + Anlin written transfer confirmation + signed Dynamic warranty. Price moves to top band when the CE tail closes clean AND the engineer/roofer verifications land** |
 | CE case still OPEN at offer, or violations beyond the 3 abating permits | Open-enforcement = title/insurance friction + city leverage: seller closes the case pre-close at their cost, or escrow holdback sized to the violation list (2 bids) |
 | Permits pulled, never finaled | Seller reopens + finals pre-close at their cost; no close on expired permits |
 | Cosmetic scopes unpermitted only | Credit sized to retro-permit bids; written position |
@@ -576,8 +661,12 @@ sequence.
   carrier in writing whether the admitted vulnerabilities change the quote.
 - [ ] Ask for the LLC's **current carrier + premium on the renovation policy**
   + CLUE report (SPQ 6.H "No" claims — unverified, 5-month window only).
-- [ ] **Roof Class A documentation** before binding — FHDS 2C(1) blank; a
-  torch-down assembly's rating is a spec-sheet question, not a hope.
+- [ ] **Roof Class A documentation** before binding — ~~FHDS 2C(1) blank; a
+  torch-down assembly's rating is a spec-sheet question, not a hope~~ **v6:
+  doc 30's spec letter documents a "GTA (Class A) Granulated surfaced Modified
+  Bitumen Membrane" cap sheet over the torch-down assembly — give the carrier
+  the spec letter; FHDS 2C(1) itself remains blank (demand the corrected FHDS
+  in the BMI). Residual: manufacturer name + product listing for the file.**
 - [ ] **Unpermitted-work binding check:** if Gate 1 finds ANY unpermitted
   electrical/plumbing, written carrier confirmation they bind anyway —
   unpermitted electrical in a VHFHSZ is a claim-denial vector.
@@ -586,7 +675,12 @@ sequence.
 - [ ] **Defensible space:** FHDS 3C(3) puts State documentation on YOU within
   1 year of close; the only compliance evidence (OFD 7/01/2026) predates the
   flip's landscaping. Ask seller to deliver a fresh Authorized-Inspector report
-  pre-close (cheap for them; retires a chore + a fire-season flag).
+  pre-close (cheap for them; retires a chore + a fire-season flag). **11/21
+  precision: the FHDS is internally inconsistent — 3B(2) "Property IS in
+  compliance" is checked, which by the form's own text requires 3C(5) to be
+  checked too; 3C(3) is checked instead and 3D (documenting agency) is blank.
+  Add "corrected FHDS" to the BMI — either they stand behind compliance and
+  deliver the documentation (3C(5) path) or the buyer-duty stands cleanly.**
 - [ ] File note: annual OFD vegetation inspections apply (SPQ 17.G: "tall grass
   and weeds to be cleared as needed"); WILDFIRE PREV-MM $103.94/yr on the bill.
 
@@ -610,7 +704,10 @@ vacant — easy access.
    "will be installed" future-tense and the close-out doesn't itemize it:
    probe the deck edge/underside for the membrane layer, hose-test if access
    allows; absent membrane = $15–30K re-deck + membrane + interior damage)**,
-   and the skylight curb (p_15 stain).
+   and the skylight curb (p_15 stain). **(v6: also record the Anlin window/
+   door product labels — order/line numbers per doc 33's claim instructions —
+   for the warranty file; and photograph the roof membrane's cap-sheet branding
+   if visible, to pin the unnamed manufacturer.)**
 3. [ ] ~~**Structural pest/WDO inspection** — none exists at all~~ **v4 (11/19):
    seller's GT Inspects WDO report delivered (11/17, Section I $2,115 + referred
    items). Buyer-side pest re-inspection now OPTIONAL** — if relying on theirs,
@@ -651,6 +748,11 @@ vacant — easy access.
    substrate left under the new membrane) or an active workmanship failure on
    the 3-month roof (→ All Weather warranty claim)? Skylight reflash scope.
    No roof verification + leak resolution, no contingency removal.**
+   **(v6: the workmanship warranty EXISTS — 5-yr "watertight" from ~10/9/26 —
+   but it is issued to Benhad Properties LLC; a warranty claim is only usable
+   if the assignment/reissue lands pre-close. Treat assignment as a closing
+   deliverable on par with the leak adjudication; neither, no contingency
+   removal.)**
 6. [ ] **Sewer lateral camera** — "Central Plumbing" work claimed; **v4: MLS
    says "compliant" — demand the cert number;** camera even if the PSL cert arrives.
 7. [ ] **Sqft measurement** (appraiser/measure service, ~$150–300) — if you're
@@ -696,7 +798,7 @@ vacant — easy access.
 | Geotech/structural finding > ~$25–40K without full credit | Landslide SHZ + tall piers + 6× "Don't Know" |
 | ~~Chimney-removal patch or carport demolition unpermitted AND seller won't cure/credit~~ | **RETIRED 11/19 PM3 — no carport ever; non-structural metal hearth flue** |
 | Roof not Class A and insurance prices the difference | VHFHSZ underwriting reality, priced or walked |
-| **Roof leakage unresolved (new, v4)** — GT 10B/10D/10G findings on the 3-month roof not roofer-adjudicated + warranty-delivered before contingency removal | A "New roof" with a documented leakage tail is either their warranty claim to hand you or their repair to fund — never your discovery after close |
+| **Roof leakage unresolved (new, v4)** — GT 10B/10D/10G findings on the 3-month roof not roofer-adjudicated + warranty-delivered before contingency removal. **v6 sharpening: warranty delivered but issued to the wrong entity (Benhad Properties LLC) with no transfer provision — the trigger now covers assignment too** | A "New roof" with a documented leakage tail is either their warranty claim to hand you or their repair to fund — never your discovery after close; a warranty you can't claim is no warranty |
 | Pest/WDO Section I > ~$25K without cure/credit | ~~No report exists — the unknown is the risk~~ **v4: seller's report prices Section I at $2,115 + referred items; the risk is now the referred tail (deck, roof) — priced above** |
 | Final price > **$950K** without every §9 gate green | Character-money for an enforcement-tailed flip — above cap, let a staging-buyer own the risk stack; **the next listing is the alternative (6944 struck 11/18)** |
 
@@ -741,6 +843,19 @@ General home inspection — **DELIVERED v5 (DMP 11/18): big systems CLEAR
 life, 2026 mechanicals functioning); the catastrophic-flip thesis is refuted
 from three directions (Accela, Yan, DMP). Remaining risk is tails +
 workmanship, priced in the gates.**
+**v6 additions (11/20, absorbed 11/21):** "Warranties" — **PARTIAL PASS WITH
+DEFECTS: five docs delivered; roof warranty entity mismatch (Benhad Properties
+LLC), Anlin 90-day transfer-notice condition vs unverified oral waiver,
+Deluxe doc 32 (1/1/2028) vs doc 33 (8/25/2027) date conflict, Dynamic
+unsigned. None are walk-triggers — all are one-email paper cures, demanded
+as pre-close deliverables (§8).** "FHDS form" — **internally inconsistent
+(3B(2) checked without the required 3C(5); 3D blank) — corrected FHDS added
+to the BMI; insurance file note: doc 30 spec letter now documents the Class A
+cap sheet for the carrier.** "CE case" — **UNCHANGED: v6 contains no closure
+letter; `OP-1stInsp-NOVSent` stands.** "Two NOVs" — **clarified 11/21:
+certified packet 7/11/26 + field copy 7/14/26, identical text (not one NOV +
+duplicate); repeat-fee stated as $1,967.97 (p.1) and $1,323.00 (p.5) — price
+the range.**
 
 ## 8. Offer sequence
 
@@ -827,6 +942,18 @@ Principal: No" answer; the v5 cure/credit bundle authored by their own
 inspector (guardrail + railing cures, sediment traps/CSST/open-grounds/SPD
 corrections, waste-pipe terminations, shower-pan test, seismic retrofit
 credit sized to bids, drainage scope).**
+**v6 additions (warranty deliverables — paper cures, pre-close): (a) roof
+workmanship-warranty ASSIGNMENT from Benhad Properties LLC (or reissue to
+buyer) + membrane manufacturer name + 20-yr registration; (b) Anlin written
+confirmation of subsequent-owner eligibility + transfer procedure, Order
+#1259834-00 (doc 33's own instruction — get the 90-day-notice question
+answered in writing); (c) Deluxe: one corrected document stating the 1/1/2028
+date (doc 32 vs 33 conflict) + evidence the original contract is paid in full
+(doc 32's coverage condition); (d) Dynamic warranty SIGNED; (e) corrected FHDS
+(3B(2)/3C(5) consistency + 2C(1) Class A claim); (f) corrected AVID naming the
+individual inspector (field blank); (g) signed doc 28 (agent-relationship
+disclosure — delivered unsigned) + MLS correction of "Agent Related to
+Principal: No"; (h) the trades' invoices — still zero in the package.**
 **Frame the BMI on the documentary contradiction (reworded 11/19 PM2 — the
 "concealment pattern" framing is retracted; see disclosure-analysis.md top
 note): the permits existed by 8/19; the SPQ was signed 11/16 without them
@@ -884,10 +1011,10 @@ bound in writing; permit/finals in hand or priced; sqft measured or repriced.
 | Gate | Pass condition |
 |---|---|
 | 0. Deal facts | Offer date **11/24 (possible, per listing side 11/17)** — confirm cutoff + pre-emptives; death-on-property answered **(11/18: solar resolved NO; 6944 struck — pending + passed)** |
-| 1. Permits/AB 968 | Finaled permits match scope + unpermitted statement in writing, OR repriced to 1,585 sf + holdback — **PARTIAL PASS (2026-11-18 PM, Accela): 7 finaled permits cover major scopes; **v5: seller's OFFICIAL permit list delivered (doc 29) — matches our pull, names CE#2604338 ×2**; OUTSTANDING: finaled cards + RBC2602285 plans (footings? lower-deck guardrail scope?), CE#2604338 CLOSURE letter (case OPEN; §0d), retaining/fence tail, corrected SPQ (now unanswerable — their own list names the case) — **v4: GT p.13 adds permit exposure on repair scopes; the tail is growing** |
+| 1. Permits/AB 968 | Finaled permits match scope + unpermitted statement in writing, OR repriced to 1,585 sf + holdback — **PARTIAL PASS (2026-11-18 PM, Accela): 7 finaled permits cover major scopes; **v5: seller's OFFICIAL permit list delivered (doc 29) — matches our pull, names CE#2604338 ×2**; **v6 (11/20): no permit paper added — warranties only**; OUTSTANDING: finaled cards + RBC2602285 plans (footings? lower-deck guardrail scope?), CE#2604338 CLOSURE letter (case OPEN; §0d), retaining/fence tail, corrected SPQ (now unanswerable — their own list names the case) — **v4: GT p.13 adds permit exposure on repair scopes; the tail is growing** |
 | 2. Insurance | Written bindable quote ≤ budget (~$9K/yr ceiling) — **OPEN** |
 | 3. Structure | Engineer/geotech: no >$25–40K finding; v3 repair verified (footings physically present per Yan's spec; sistering/post as lettered; moisture source identified); structural permit + final card delivered or credited — **PARTIAL (11/19 PM2): stamped letters IN; GT's deck critique DOWNGRADED (pest opinion vs PE design); **v5: DMP CLEARS foundation + settlement + dry subfloor-in-rain, but adds FOUR engineer scopes — the framing mods it calls engineering-unverified, the bridge's WDO-damaged plywood (3rd source), the seismic retrofit bid (upgrades documented ABSENT), and the unguarded lower-deck structure question** — OUTSTANDING: buyer-engineer verification visit (deck conflict + footings + fungus/moisture + driveway ramp + framing mods), finaled card + plans; trigger fires only if OUR engineer sides with GT** |
-| 4. Roof | Class A documented; roof walked (flue-penetration detail, p_01 ponding, skylight curb); **v4: GT 10B/10D/10G leakage findings roofer-adjudicated + warranty delivered** — **OPEN (Class A blank; NEW v4 leakage tail on the 3-month roof; 11/19 PM3: chimney thread retired)** |
+| 4. Roof | Class A documented; roof walked (flue-penetration detail, p_01 ponding, skylight curb); **v4: GT 10B/10D/10G leakage findings roofer-adjudicated + warranty delivered** — **OPEN (v6 PARTIAL: Class A cap sheet now documented in doc 30 spec letter — FHDS still blank + manufacturer unnamed; warranty delivered but issued to BENHAD PROPERTIES LLC — assignment demanded; leakage tail stands; 11/19 PM3: chimney thread retired)** |
 | 5. Sqft | 1,725 permit-proven/measured, OR price re-anchored to 1,585 — **FAILED AS PRESENTED: SFLS says 1,585** |
 | 6. Number | Final ≤ **$940K** target, ≤ **$950K** absolute, gates green |
 
@@ -939,7 +1066,11 @@ patience: December on THIS house, or the next listing.**
 - [ ] Roof: Class A certificate? Warranty terms? Skylight reflashed or original
   curb (p_15 stain)? **v4: GT 10D confirms skylight leakage signs; 10B/10G add
   sheathing stains + fungus damage "due to roof leakage" — legacy substrate or
-  active 3-month workmanship failure? Roofer adjudicates.**
+  active 3-month workmanship failure? Roofer adjudicates.** **v6 PARTIAL:
+  Class A documented (doc 30 spec, "GTA (Class A) Granulated" cap sheet) —
+  manufacturer name + registration still missing; warranty terms known (5-yr
+  workmanship watertight + 20-yr manufacturer) but issued to Benhad Properties
+  LLC — assignment demanded.**
 - [x] ~~Did anyone die on the property (Sanders trust sale)?~~ **DROPPED
   11/19 PM2 (owner call): SPQ 6.A already answers the LLC's window ("No" —
   they owned it 5 months; statutory duty runs 3 years regardless). Not a
@@ -1002,3 +1133,26 @@ patience: December on THIS house, or the next listing.**
   why does the MLS sheet answer "Agent Related to Principal: No"? In writing.
 - [ ] **(v5)** Seismic retrofit: two bids for bearing plates + cripple-wall
   bracing + shear transfer ties (DMP Primary #3) — credit sized to bids.
+- [ ] **(v6)** **Benhad Properties LLC** — what is this entity, why does IT
+  hold the roof contract/warranty for Flamingo Park LLC's property (doc 30),
+  and will All Weather reissue or assign the 5-yr workmanship warranty to the
+  buyer? (Same individual on both entities — farhadmatin@gmail.com — but the
+  paper says what it says.)
+- [ ] **(v6)** Anlin transfer: written confirmation from Anlin (Order
+  #1259834-00) that (a) the subsequent owner is eligible and (b) no transfer
+  filing is required — the written booklet's 90-day-notice-or-termination
+  condition vs the phone-rep oral waiver (doc 33's own flagged conflict).
+  Sub-question: does the owner-occupant "Purchaser" definition defeat coverage
+  where the original customer was a vacant LLC-held flip?
+- [ ] **(v6)** Deluxe doc 32 (workmanship through 1/1/2028) vs doc 33 footer
+  (expires 8/25/2027) — which document supersedes, in writing? And evidence
+  the Job #260612 contract is paid in full (doc 32's coverage condition).
+- [ ] **(v6)** Dynamic warranty: signed reissue (delivered with printed name
+  only). Scope note: sewer lateral (Central Plumbing) and the mis-terminated
+  waste pipes (DMP) are covered by nobody's warranty in the package.
+- [ ] **(v6)** FHDS corrected form: 3B(2)/3C(5) consistency, 3D agency,
+  2C(1) Class A claim; AVID corrected to name the individual inspector.
+- [ ] **(v6)** The two NOVs (7/11 certified + 7/14 field): which is the
+  operative instrument for the 24-month repeat-violation clock, and which fee
+  figure governs ($1,967.97 vs $1,323.00)? Ask inspector Minh Vo in writing
+  when requesting the closure letter.
