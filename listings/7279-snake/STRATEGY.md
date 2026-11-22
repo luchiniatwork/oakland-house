@@ -24,6 +24,20 @@ covers package v6, 34 docs + 3 CE PDFs**),
 > rebuilt analysis, the analysis governs.** Outstanding document requests =
 > analysis §15.
 
+**Auction-mechanism revision (11/21 PM, owner-directed):** the market is a
+competitive **sealed-bid, highest-and-best auction, no counter, NO
+PREEMPTIVE entertained**, 5+ CMA-based offers expected. The negotiated-
+market playbook (open low → position → preemptive → December fallback) is
+retired for this listing; the pricing spine is now: **one sealed bid
+Tuesday 11/24 @ 11 AM — $1.12M (rational as-disclosed value ≈ $1.14M
+revised), absolute ceiling $1.15M (clean-paper floor / winner's-curse
+line), inspection contingency retained as the free verification option,
+terms package competes on certainty + speed instead of dollars.** Two
+conservative biases removed in §2a (comp-median anchoring, trust-haircut
+double-count, feature-adjustment omission — ≈$60–90K total). Gates, BMI
+demands, verification plan, and the walk discipline at clean-paper floor
+are UNCHANGED.
+
 **Current state (11/21 — package v6):** coversheet regenerated **11/20 7:51 PM**,
 index now **34 docs**. Git-verified: docs 1–26 + the CE PDFs byte-identical to
 what the 11/19 analysis covered; docs 27–29 same-content re-downloads; **the
@@ -180,6 +194,11 @@ confirmed absent, SFLS public-record sqft contradicts MLS.
   alternative, anchor, and talking point; 318 Capricorn
   (3.8) PENDING at $895K — our 11/15 pick over this house. **Net: no live
   alternative exists — the walk-away position is patience, not another house.**
+  **(11/21: Denis's Compass CMA absorbed — §2a. Five fresh solds 9/21–11/10:
+  Pinehaven $1.15M/$752, Alhambra $1.443M/$785, 6833 $1.675M/$828, Longcroft
+  $1.4M/$723, 6930 $1.5M/$749; all ≥+25% over ask. Sold $/sf range $723–828 →
+  $1.15–1.31M at public-record sf. Read: ask is BELOW the evidence range;
+  cap holds on the paper, not the product.)**
 - **The disclosure package (full review: `disclosure-analysis.md`, freshly
   rebuilt 11/21 on v6 = 34 docs):** ~~statutory minimum — zero invoices, zero
   warranties~~ **v6 (11/20 PM) delivers five warranty documents — roof 5-yr
@@ -330,8 +349,10 @@ document they can't produce is worth money off.
   they're on.) Strategic consequences: (a) **credits are nearly impossible for
   them to absorb** — expect hard resistance; convert credit asks into price
   reductions, which cost them the same dollars but don't require cash at the
-  table; (b) **an over-ask result is their plan, not their hope** — refuse to be
-  its funding source above $950K; (c) **their BATNA is holding** (rental fallback
+  table; (b) **an over-ask result is their plan, not their hope** — ~~refuse to be
+  its funding source above $950K~~ **(11/21 ladder: refuse to fund it above
+  informed value — >$1.05M; rungs 2–3 knowingly fund a modest margin in
+  exchange for gates-green paper)**; (c) **their BATNA is holding** (rental fallback
   ~$4.5–5K/mo), but it's an unattractive hold — landlord-policy insurance in a
   VHFHSZ, de-staging, tenant wear on 90-day-old finishes, spring-market
    uncertainty — so December leverage survives, **discounted**: treat
@@ -343,9 +364,11 @@ document they can't produce is worth money off.
 - **The calendar.** Possible offer date **Tue 11/24 — two days before Thanksgiving**.
   A vacant staged flip in the hills in December is a depreciating asset, and the
   seller knows it: the date is set to dodge the dead zone. **If it sells on the date,
-  fine — you capped at $950K and kept the gates. If it doesn't, the leverage inverts
+  fine — you held the ladder and kept the gates. If it doesn't, the leverage inverts
   into the holidays, hard**: December + a thin-margin flipper + a stale listing is
-  the $850–880K scenario.
+  the $850–880K scenario **(11/21 CMA re-rate §2a item 2: the market evidence
+  weakens this branch — 6930 sat 30 days, cut, then cleared +25%. Treat the
+  December squeeze as discounted, not dead.)**
 - ~~The competition undercuts them~~ **RE-CUT 11/18 (6944 out — pending + passed):**
   the "6944 is $3K less" talking point is dead. What survives: **the pending comps
   absorbed this season's character-house buyers** (Capricorn 11/10 at $895K, 6625
@@ -426,7 +449,7 @@ document they can't produce is worth money off.
 | **Public-record $/sf at ask** | **$630/sf** | $998K ÷ 1,585 (seller's own SFLS) |
 | Seller all-in basis (est) | **$985K–1.06M, centered ~$1.0M** (re-cut v3) | $750K cash + acq ~$7K + reno **$160–230K** (incl. $20–50K Yan structural scope) + carry/staging $12–20K + exit ~5.5%; supersedes $920–970K |
 | Seller gross margin at ask | **≈ break-even (−$50K to +$60K)** | the hills bid-up over $998K is the profit plan — near-ask isn't their win, it's their floor |
-| Closest clearing comp | 6625 Snake $849K ($561/sf) | 3.4, canyon-view MCM, **reno-needed** — turnkey premium belongs on top |
+| Closest clearing comp | 6625 Snake $849K ($561/sf) | 3.4, canyon-view MCM, **reno-needed** — turnkey premium belongs on top. **(11/21 CMA: freshest sold comp added — 7094 Pinehaven $1.15M / $752 sf on 11/10, no view; full set §2a)** |
 | Value parity vs Capricorn | ~**$861K** | 3.66 pts ties 3.8/$895K = 4.25 pts/$M (pending = agreed clearing price; still valid market data) |
 | Market-consistent fair (turnkey premium over 6625) | **$900–950K** | triangulates with seller floor |
 
@@ -436,18 +459,28 @@ argument now runs solely through Capricorn's pending $895K and 6625's $849K.)**
 
 | Pre-decided line | Value |
 |---|---|
-| Open (offer date holds + paper clean + 1,725 permit-proven — **the planning base case**) | **$930–950K**, fast close, full gates |
-| Open (offer date holds + sqft unproven / permits absent) | **$860–890K anchored on 1,585 sf**, BMI demands as offer conditions — **below their basis: expect rejection or a near-ask counter; this positions, it doesn't close** |
-| Open (date slips / doesn't sell on 11/24 — December scenario) | **$850–880K opener**, take-it-or-leave-it frame — **realistic clearing $900–930K** (their hold option exists but is ugly: landlord insurance in VHFHSZ, de-staging, tenant wear); expect counter, keep the fuse short |
-| Target close | **$900–940K**, gates green |
-| Hard ceiling | **$950K** — and only with every §9 gate green, 1,725 permitted-proven, insurance bound ≤ budget |
-| Walk line | >$950K, or any failed §7 trigger |
+| ~~Open (offer date holds + paper clean + 1,725 permit-proven)~~ **(superseded 11/21 PM — auction revision)** | ~~$930–950K~~ **→ one-shot bid $1.12M (owner option $1.14M), ceiling $1.15M — §2 auction numbers** |
+| ~~Open (offer date holds + sqft unproven / permits absent)~~ **(superseded — no counter exists to position for)** | ~~$860–890K anchored on 1,585 sf~~ **→ sqft resolves inside the retained contingency; the bid doesn't change** |
+| Open (date slips / doesn't sell on 11/24 — December scenario) | **$850–880K opener**, take-it-or-leave-it frame — ~~realistic clearing $900–930K~~ **(11/21 CMA RE-RATE §2a item 2: 5/5 comps cleared ≥+25%; 6930 is the "stale" model — cut, then +25%. December clearing now reads $950K–1.05M; the $850–880K opener is a reconnaissance bid, not an expectation)** (their hold option exists but is ugly: landlord insurance in VHFHSZ, de-staging, tenant wear); expect counter, keep the fuse short |
+| ~~Target close | **$900–940K**, gates green~~ **(superseded 11/21 PM — auction revision)** |
+| **Rational as-disclosed value (11/21 PM, biases removed — §2a revision)** | **≈ $1.14M** (median comp $752/sf × 1,585 = $1.192M − risk stack ~$30K − 1.5% haircut ~$18K; ±$40K on verification + sqft) |
+| **ONE-SHOT BID (Tue 11/24, highest-and-best, no counter)** | **$1.12M** — single number, no escalation language (there is no counter to escalate through). Shaves $20K off full value for contingency-exit costs + thin-field insurance. If the owner wants maximum rational win probability: **$1.14M** = full valuation, still defensible |
+| **Absolute ceiling / walk line** | **$1.15M** = clean-paper floor. Above it, the buyer pays clean-paper price for KNOWN-broken paper (open CE case, live deck conflict, documented roof-leak tail) = **winner's curse** — let an uninformed bidder own it |
+| ~~Preemptive option~~ | **DEAD (11/21 PM, owner: sealed bid, NO preemptive entertained)** — no early channel, no anchoring games; Tuesday 11/24 @ 11 AM is the only shot |
+| Terms package (competes without dollars — full playbook §8 "differentiators") | 21-day close (free-and-clear seller), their pre-opened escrow #7474111 (Kelly Leonard), 3% EMD delivered in 1 business day, **inspection 10 days, RETAINED — inspectors named with dates, scope stated** (non-negotiable on this file), **plain-English document-deliverables addendum (NOT a "BMI" — no agent in this market knows the form; the list cites only documents their own package references)**, appraisal contingency (5 comps at $723–828/sf support the number), full underwriting completed pre-offer + proof of funds, complete correct paperwork in their HomeLight format before the 11 AM cutoff |
 
 **Rule:** negotiate against public-record square footage and the seller's basis,
-never against the ask. If the 140-sqft delta isn't permit-proven, the house IS
-1,585 sqft for pricing and appraisal purposes — and a $630/sf appraisal on a
+never against the ask. **Auction rule (11/21 PM): in a one-shot, no-counter,
+highest-and-best market, bid your valuation — bidding below it is theater.
+The ceiling sits at the clean-paper floor ($1.15M): above it you're paying
+for paper you know is broken. The inspection contingency is the free option
+that makes a full-value bid safe: verify in escrow, renegotiate-or-exit on
+material adverse findings (>$15K beyond the priced stack).** If the 140-sqft delta isn't permit-proven, the house IS
+1,585 sqft for pricing purposes — ~~and a $630/sf appraisal on a
 $950K+ contract is a shortfall you fund in cash. Do not create your own appraisal
-gap.
+gap~~ **(11/21 CMA RE-RATE, §2a item 1: the five sold comps clear $723–828/sf —
+at ≤$950K on 1,585 sf we sit at $599/sf, below the whole set; the appraisal-gap
+warning no longer applies at our price levels. It revives above ~$1.15M.)**
 
 **Risk-stack budget (mid-case v4, re-rated 11/19 PM2 post-Denis, see
 `disclosure-analysis.md` §3):** seismic
@@ -497,6 +530,112 @@ no reserve retired** — the warranty docs document coverage but with entity/
 signature/transfer defects (§3 v6); the roof-leak line keeps its $2–8K until
 the roofer adjudicates 10B/10D/10G AND the warranty is assigned from the
 correct entity; everything else unchanged.
+
+## 2a. CMA cross-check (Denis's Compass CMA, pulled ~11/19 at DOM 5; absorbed 11/21)
+
+Six comps — five SOLD + one pending. Compass's "Adjusted Price" column uses
+the MLS 1,725 sf and sqft-only adjustments at ~$245/sf marginal. Facts first,
+reads labeled.
+
+| # | Comp | Close | Price (over-ask) | sf | $/sf | DOM | Adj. price | Validity for 7279 Snake |
+|---|---|---|---|---|---|---|---|---|
+| 1 | 7094 Pinehaven (1962) | SOLD 11/10/26 | $1,150,000 (ask $795K, **+44.7%**) | 1,530 | **$752** | 14 | $1,198,000 | **MOST INSTRUCTIVE**: no view, MORE stairs — but 2-car garage, single-level, **2019 foundation + seismic improvements documented in remarks**, 40-year single owner (clean provenance). Same zip, same fire/insurance zone |
+| 2 | 5949 Alhambra (1966) | SOLD 10/15/26 | $1,443,000 (ask $1.058M, +36.4%) | 1,838 | **$785** | 12 | $1,414,000 | Quality benchmark: pristine, **documented seismic upgrades**, 8kW generator, radiant heat, upgraded electrical; canyon views "less than Snake" (agent note); tiny 4,800 sf lot |
+| 3 | 6833 Snake (1967) | SOLD 10/8/26 | $1,675,000 (ask $899K, **+86.3%**) | 2,023 | **$828** | 8 | $1,594,000 | View/character outlier (our 4.0 comp): 180° unobstructed, 4bd, wrap decks, 2-car garage. The $899K ask was deliberate underpricing — the +86% is an artifact; **$828/sf is real** |
+| 4 | 6309 Longcroft (1963) | SOLD 10/7/26 | $1,400,000 (ask $1.095M, +27.9%) | 1,937 | **$723** | 13 | $1,349,000 | Agent: "quite comparable to Snake although it has a 2 car garage." Bay/canyon views, primary en-suite, larger |
+| 5 | 6930 Snake (1963) | SOLD 9/21/26 | $1,500,000 (ask cut $1.298M→$1.198M, then **+25.2%**) | 2,003 | **$749** | 30 | $1,431,000 | Real unobstructed panoramic views, 3 baths, fruit-tree lot. **The December-scenario counterexample: sat 30 days, cut, then cleared +25% over the reduced ask** |
+| 6 | 6625 Snake (1959) | PENDING 11/11 | $849,000 ask | 1,512 | **$562** | 13 | $888,000 | The floor: our 3.4 comp, reno-needed (visited — no joy). Pending price unknown (Denis chasing) |
+
+**Market evidence (facts):**
+- **Sold $/sf range: $723–828 (5/5).** Applied at public-record 1,585 sf:
+  **$1.15–1.31M**; at marketed 1,725 sf: $1.25–1.43M. (6401 Snake at
+  $914/sf, from our own file, sits above the set.)
+- Over-ask clears: +25.2% to +86.3% (median +36.4%) — on deliberately low
+  asks; the clearing $/sf is the signal, not the %.
+- Speed: DOM 8–14 for four of five; 30 for the initially over-priced one —
+  and it still went +25% over the reduced ask.
+- Inventory: five solds + one pending absorbed since August; **the subject
+  is the only live listing in the set**. Supply replenishes ~weekly (these
+  listed Aug 6 – Oct 29).
+- **All comps share the zip's VHFHSZ/insurance burden** — insurance is not a
+  relative-value differentiator (it is already priced into the comp set). It
+  remains an absolute carrying-cost gate (§4), nothing more.
+
+**Value reads (labeled estimates):**
+- **Clean-paper value** (fact-based — comp $/sf applied to 1,585 sf before
+  feature adjustments): **~$1.15–1.25M**. Feature adjustments both ways: no
+  garage, no en-suite, no seismic (minus); filtered view, usable terraced
+  lot, 2026 systems (plus).
+- ~~**As-disclosed / informed-buyer value** (estimate): conservative comp
+  floor $1.15M ($723 × 1,585) − documented risk stack $19–47K −
+  trust/verification haircut ~3–5% (~$35–55K) ≈ **$1.04–1.08M**.~~
+  **SUPERSEDED (11/21 PM — revision below).**
+- **REVISION (11/21 PM — three conservative biases removed, owner challenge
+  absorbed):**
+  1. Comp floor $723 (range bottom) → comp **median $752** (Pinehaven 11/10:
+     freshest sale, closest size, NO view): 1,585 × $752 = **$1.192M**.
+  2. Trust haircut 3–5% → **~1.5%**: the document sweep is the deepest on
+     file (DMP + GT + Yan + Accela + title + NHD + 34-doc package) — the
+     unknown-unknown surface is small; the haircut was double-counting the
+     already-priced risk stack.
+  3. Feature adjustments actually computed: garage/en-suite/seismic minus
+     ($50–90K) vs 2026 systems / usable terraced yard / filtered view plus
+     ($70–130K) ≈ **net 0 to +$20K**.
+  **Revised as-disclosed rational value ≈ $1.14M (±$40K)** — the earlier
+  $1.04–1.08M was ~$60–90K conservative. Gates-green / clean-paper value
+  ≈ **$1.19–1.25M** (sqft-dependent).
+- **The $998K ask sits BELOW the evidence range.** A retail buyer running
+  this same CMA can rationalize $1.1M+ on 11/24 without reading a single
+  disclosure. The seller's bid-up hope is documented as plausible, not
+  fanciful.
+
+**What this changes (11/21):**
+1. **Appraisal-gap warning SOFTENED at ≤$950K.** At $950K on 1,585 sf we
+   would be at $599/sf — below every sold comp in the set. The §2 "Rule"
+   warning about funding a $630/sf appraisal gap no longer applies at our
+   price levels (it revives above ~$1.15M).
+2. **December scenario RE-RATED DOWN in probability, UP in price.** Base
+   rate: 5/5 cleared, all ≥+25% over ask (reduced or original). 6930 is the
+   "stale" model: cut, then +25%. If the subject survives 11/24, December
+   clearing reads **$950K–1.05M**, not $900–930K; the $850–880K opener is
+   most likely dead on arrival — reconnaissance bid, not expectation.
+3. ~~**Preemptive case STRENGTHENED (§8 6b)**~~ **MOOT (11/21 PM: sealed
+   bid, NO preemptive).** What survives: the CMA proves the field can
+   rationally reach $1.1M+ Tuesday — so the sealed bid must be at full
+   rational value, not at a positioning discount. That's the §2 number.
+4. **Walk-away cost RISES.** "Patience" now means re-entering a documented
+   hot market with absorbed inventory; the next listing prices off this same
+   comp set. Walking is still cheaper than overpaying for broken paper —
+   but it is no longer free.
+5. **6625 floor watch:** if 6625 closes ≥$900K, the discount-comp floor
+   rises, further supporting $930–950K as the clearing zone.
+6. **Negotiation frame UPDATED (fact-based).** Pinehaven cleared $1.15M
+   with NO view but WITH seismic + garage + 40-year paper; Alhambra cleared
+   $1.44M pristine + seismic. **The premium in this market attaches to
+   documented quality and clean provenance — exactly what this flip lacks
+   (open CE case, deck conflict, leakage tail, no seismic, no garage,
+   entity-mismatched warranties).** Our discount demand is not against the
+   house; it is against the paper. That argument writes itself from the
+   seller's own comp set.
+
+**What does NOT change (post-ladder, 11/21 PM):**
+- ~~**Open $930–950K, target close $900–940K**~~ **(superseded 11/21 PM —
+  auction revision: one-shot bid $1.12M, ceiling $1.15M, §2. The open-low
+  tier died with the no-counter mechanism.)**
+- **Gates 1–4 + BMI demands** — the CMA raises the cost of a failed gate:
+  the next buyer may not have one. The upper ladder rungs are gated, not
+  calendar-driven.
+- **Score 3.66** — product quality unchanged.
+- **The walk line exists and is numeric**: >$1.05M = retail for someone
+  else's disclosure problem. Above informed value, let a staging-buyer own
+  the risk stack.
+
+**OWNER DECISION EXERCISED (11/21, post-CMA challenge):** the $950K hard
+ceiling is RETIRED as internally inconsistent (it sat 9–12% below the file's
+own informed-value estimate — discipline, mislabeled). Replaced by the §2
+ceiling ladder: **$950K as paper stands / $1.0M gates 1–4 green / $1.05M
+all-gates-green absolute.** The ladder preserves the original intent — never
+pay retail for unverified paper — while making Tuesday winnable.
 
 ## 3. Gate 1 — Permits & disclosures (the documentary spine)
 
@@ -793,14 +932,14 @@ vacant — easy access.
 | Insurance unbindable, or FAIR+DIC > ~$9K/yr | Carrying cost breaks the model — check first, free |
 | ~~Deck/balcony reinforcement story unresolved~~ **RETIRED v3 (11/18); RE-ACTIVATED v4 (11/19) in conflicted form; DOWNGRADED 11/19 PM2 (post-Denis reassessment) to verification-conditional** — GT's "improper sistering" is a pest inspector's structural opinion against the stamped PE's own PRESCRIBED method (Yan designed the sistered retrofit; engineered sistering is legitimate); the GC's doc-24 self-letter clears nothing either way (contractor certifying paid work, predates GT). **Trigger now fires ONLY IF: the buyer-side engineer sides with GT (cantilever framing must extend into the home) AND seller won't cure/credit (2 bids) — OR inspection finds the new footings missing/short of Yan's spec — OR no permit/final card exists for the structural scope AND seller won't retro-permit/credit.** GT's observations survive as facts regardless: fungus active at both decks post-repair (moisture source uncured → drainage scope) | A cantilevered deck over a canyon drop in a landslide zone earns one independent engineer visit (~$800) — but the "conflict" itself is authority-imbalanced, not even; verification, not adjudication |
 | Structural/deck/retaining work unpermitted AND seller won't retro-permit or holdback | Life-safety + landslide zone + uninsurable unknown |
-| Lower level not permit-provable AND price holds >$950K | Appraisal gap you fund in cash; $630/sf reality |
+| Lower level not permit-provable AND price exceeds rung 1 (**$950K**, 11/21 ladder) | Sqft unresolved means rung 3 never unlocks; above $950K with an unmeasured house you're paying for area that may not exist |
 | Seller refuses AB 968 completion (permits + unpermitted statement) | Statutory paper is the minimum; refusal = trust collapse on everything else |
 | Geotech/structural finding > ~$25–40K without full credit | Landslide SHZ + tall piers + 6× "Don't Know" |
 | ~~Chimney-removal patch or carport demolition unpermitted AND seller won't cure/credit~~ | **RETIRED 11/19 PM3 — no carport ever; non-structural metal hearth flue** |
 | Roof not Class A and insurance prices the difference | VHFHSZ underwriting reality, priced or walked |
 | **Roof leakage unresolved (new, v4)** — GT 10B/10D/10G findings on the 3-month roof not roofer-adjudicated + warranty-delivered before contingency removal. **v6 sharpening: warranty delivered but issued to the wrong entity (Benhad Properties LLC) with no transfer provision — the trigger now covers assignment too** | A "New roof" with a documented leakage tail is either their warranty claim to hand you or their repair to fund — never your discovery after close; a warranty you can't claim is no warranty |
 | Pest/WDO Section I > ~$25K without cure/credit | ~~No report exists — the unknown is the risk~~ **v4: seller's report prices Section I at $2,115 + referred items; the risk is now the referred tail (deck, roof) — priced above** |
-| Final price > **$950K** without every §9 gate green | Character-money for an enforcement-tailed flip — above cap, let a staging-buyer own the risk stack; **the next listing is the alternative (6944 struck 11/18)** |
+| Final price > **$1.15M** period (11/21 PM auction revision §2) | Above the clean-paper floor the buyer pays clean-paper price for KNOWN-broken paper = winner's curse — let an uninformed bidder own the risk stack; **the next listing is the alternative (6944 struck 11/18)** |
 
 **Status 2026-11-19 PM2 (post-Denis reassessment):** "Seller refuses AB 968
 completion" — **PENDING** (BMI not yet served; demands include cards/plans, CE
@@ -843,6 +982,14 @@ General home inspection — **DELIVERED v5 (DMP 11/18): big systems CLEAR
 life, 2026 mechanicals functioning); the catastrophic-flip thesis is refuted
 from three directions (Accela, Yan, DMP). Remaining risk is tails +
 workmanship, priced in the gates.**
+**Ceiling restructure (11/21, owner-directed, post-CMA):** the $950K hard
+ceiling is RETIRED as internally inconsistent — it sat 9–12% below the file's
+own informed-value estimate ($1.04–1.08M, §2a). ~~Replaced by the verification-
+conditional ladder: $950K as paper stands → $1.0M gates 1–4 green → $1.05M
+all-gates-green absolute~~ **SUPERSEDED SAME DAY (11/21 PM, auction
+revision): the ladder assumed a counter that doesn't exist. Final spine:
+one-shot bid $1.12M, absolute ceiling $1.15M (clean-paper floor), inspection
+contingency retained as the verification option — §2.**
 **v6 additions (11/20, absorbed 11/21):** "Warranties" — **PARTIAL PASS WITH
 DEFECTS: five docs delivered; roof warranty entity mismatch (Benhad Properties
 LLC), Anlin 90-day transfer-notice condition vs unverified oral waiver,
@@ -867,7 +1014,8 @@ the range.**
 3. **eastbaypsl.com** — PSL certificate status (v2: seller already signed the duty
    to certify before close; you're checking for a June time-extension record).
 4. Call/text the agent (Khalila Wolfe, Cerda-Zein): confirm the **11/24 offer
-   date + exact cutoff time**; pre-emptives entertained? **Post-Accela, the pointed
+   date + exact cutoff time** ~~; pre-emptives entertained?~~ **(answered 11/21
+   PM, owner: sealed bid, NO preemptive — skip)**. **Post-Accela, the pointed
    questions: (a) "We pulled Accela — when will the 7 finaled permit cards +
    RBC2602285's approved plans be in the package?" (b) ~~"What is CE#2604338, what
    violations remain, and what's the disposition?"~~ **PM3: "CE#2604338 shows OPEN
@@ -885,8 +1033,9 @@ the range.**
    With a 7–10 day inspection contingency in an offer-date scenario, **inspector
    lead time is the binding constraint, not the clock** — and Thanksgiving eats
    the calendar. Cancel if not selected.
-6. **Demands not met by 11/24 become offer conditions** (documents-due-in-3-days
-   language), not reasons to delay the offer.
+6. **Demands not met by 11/24 become offer conditions** — written as the
+   plain-English document-deliverables addendum (§8 differentiators item 5),
+   not as a form citation — not reasons to delay the offer.
 6a. **Email Marcus Yan directly TODAY (free, decisive).** His contact is on the
    v3 letterhead (info@sfbayengineering.com, 415-801-6515). Engineers answer
    factual questions about their own stamped letters. Four questions **(v4)**:
@@ -903,23 +1052,22 @@ the range.**
    verification the close-out letter skipped or confirm the off-permit tail on the
    record — **either way it's paper, and it costs an email.** CC nothing to the
    seller side; this is your file.
-6b. **Run the preemptive math NOW (11/18), don't wait for the date.** The basis
-   re-cut (§1) puts their floor near $1.0M and the v3 paper just spooked the
-   retail field ("isolated piers visibly tilted" flinches staging-buyers). A
-   same-week **preemptive at $930–950K with a 48-hr fuse, full gates attached
-   (insurance-bindability, inspection 10–14d, BMI documents in 3 days), 21-day
-   close** is the one offer shape that lets a break-even flipper say yes before
-   the second weekend builds hope. If they counter near ask: the counter reveals
-   whether the 11/24 date is real demand or a bluff — price the bluff
-   accordingly. If they sit on it: the date scenario plays out with your anchor
-   already in their head. **The one form of overpay still forbidden: >$950K for
-   any reason.**
+6b. ~~**Run the preemptive math NOW**~~ **DEAD (11/21 PM, owner: sealed
+   bid, NO preemptive entertained).** There is no early channel and nothing
+   to anchor. Everything concentrates on Tuesday's single envelope: number
+   ($1.12M / owner option $1.14M) + terms package + complete underwriting
+   file. **The forbidden zone is unchanged: >$1.15M for any reason.**
 7. **If the date slips or it doesn't sell on 11/24, the leverage inverts.** Be
    prepared to lose at $950K — the discipline is the strategy — and be ready to
-   re-engage in December at **$850–880K**.
+   re-engage in December at **$850–880K** **(11/21 CMA RE-RATE §2a item 2:
+   expect December reality closer to $950K–1.05M if it survives the date —
+   re-engage with the same gates and the same cap, not a bigger number)**.
 
-**Serve a written BMI** (C.A.R. Buyer Material Information request) with the
-full demand list from `disclosure-analysis.md` §1–2: **the 7 finaled permit
+**Serve the document demand list** (form: C.A.R. BMI provides the legal
+structure, but **present it in plain English — no agent in this market knows
+the form, 30-year realtors included; the demand email/addendum speaks in
+deliverables, never the acronym**) with the full demand list from
+`disclosure-analysis.md` §15: **the 7 finaled permit
 CARDS + approved plans (RBC2602285 first — do the plans show the footings?)**,
 **the CE#2604338 closure/compliance letter (case file pulled PM3 — OPEN; §0d) + title check for a recorded NOV/lien**, ~~engineer's report~~ (v3:
 delivered), PSL certificate **(v4: MLS claims "compliant" — the NUMBER)**, ~~chimney/carport demolition permits or retro-permit
@@ -963,24 +1111,103 @@ assembly, even after the package's own permit list (v5) named CE#2604338
 twice. One defective signed document, standing unconrected — ask for a
 corrected SPQ.**
 
-**Offer structure:**
-- **Paper clean + sqft proven:** open **$930–950K**, 21-day close (free-and-clear
-  seller — speed is your best currency), contingencies intact: inspection 10–14d,
-  loan, appraisal, **insurance-bindability** (never waived on a hills house),
-  BMI documents due in 3 days.
-- **Paper missing / sqft unproven:** open **$860–890K explicitly anchored on
-  1,585 sf**, same terms + appraisal language that survives the public-record
-  sqft. Make them argue UP from their own SFLS. **v3 expectation-setting: this
-  is below their recomputed basis (~$1.0M) — it will likely be rejected or
-  countered near ask; its function is to plant the 1,585 anchor and the
-  documents-due conditions, not to close. Don't chase the counter upward; let
-  the calendar re-price the conversation.**
-- **December scenario (it sits 3+ weekends):** **$850–880K** with a short fuse
-  and a fast close — the flipper's margin + the calendar do the arguing.
-- **Competition materializes:** escalate only to **$950K cap**, and only with
-  sqft permit-proven + permits delivered + insurance bound. Above that, let a
-  staging-buyer own the risk stack — **the next listing is the alternative
-  (6944 struck 11/18: pending + passed)**.
+**Offer structure (REWRITTEN 11/21 PM — one-shot auction; supersedes the
+open-low/counter versions):**
+- **The bid IS the offer. One number: $1.12M** (owner option: $1.14M for
+  maximum rational win probability). No escalation clause — there is no
+  counter to work through. Terms: 21-day close (free-and-clear seller —
+  speed is your best currency), pre-opened escrow #7474111, 3% EMD,
+  **inspection 10–14d RETAINED (never waived on this file)**, loan,
+  appraisal (comps support it), **insurance-bindability** (never waived on
+  a hills house), BMI documents due in 3 days.
+- **The differentiators playbook (rewritten 11/21 PM — ranked by what THIS
+  seller values; plain English throughout. NOTE: not one agent in this
+  market knows what a "BMI" is — 30-year realtors included. Never lead
+  with the form name; lead with the substance. The C.A.R. BMI form may
+  still be used for its legal structure, but the offer itself speaks in
+  deliverables, not acronyms):**
+  1. **Zero discovery risk in escrow — the ONLY envelope Tuesday with
+     none.** (Framing corrected 11/21 PM: "we read the disclosures" is NO
+     differentiator — California is a full-disclosure state; every buyer is
+     legally CHARGED with knowledge of delivered documents. Claiming the
+     baseline earns a shrug. The real differentiator is WHAT our pre-offer
+     knowledge state eliminates for the seller — three mechanical
+     deal-death paths every other bidder still carries:)
+     (a) **No rescission trigger** — §1102.3 restarts a 3-day rescission
+     window for any amended/new disclosure delivered AFTER acceptance. Our
+     own demands (corrected SPQ, signed doc 28, CE closure letter) would
+     hand every OTHER bidder a discovery shock PLUS a free exit mid-escrow
+     — the classic flip-death sequence. For us the corrections contain
+     nothing new: the seller can deliver every demanded cure with zero
+     deal risk. **No other envelope offers that.**
+     (b) **No discovery-walk** — sealed-bid deals actually die during the
+     inspection window, when diligence surfaces the enforcement case and
+     the buyer walks or re-trades. Our discovery happened BEFORE the
+     offer; the surviving contingency is verification of named items with
+     dates — bounded, scheduled, already priced.
+     (c) **Reliance severed** — a misrepresentation claim needs reliance
+     on the false statement; a buyer who proceeded with documented
+     knowledge of the enforcement record severed it as to themselves.
+     (Seller's exposure to the statement itself survives — C.15 is false
+     on its face — but that's true against ANY buyer; against US the
+     claim is materially weakest.)
+     **Presentation rule: ZERO legal vocabulary, ZERO threat register.
+     Never write "we know about the enforcement case" — it reads as
+     holding a claim.** Cover-letter line (the entire play, operational
+     register only): *"Our review of the complete package and public
+     record is finished. The inspections named in this offer, with dates,
+     are verification of items already identified."* The listing agent
+     who thinks about it for 30 seconds sees a close with no rescission
+     window, no discovery-walk, and no re-trade — without us diagramming
+     their liability for them.
+  2. **Certainty of close, proven — not promised.** Their real fear is a
+     fallen December escrow, not the last $10K of price. Full underwriting
+     completed BEFORE writing (not a pre-qual); proof of funds/down-payment
+     evidence attached; appraisal risk neutralized with the comp math
+     (5 solds $723–828/sf — show it); 3% EMD (~$34K) delivered to their
+     pre-opened escrow within 1 business day.
+  3. **Speed they built the machine for.** Free-and-clear, vacant, escrow
+     pre-opened — a 21-day close is worth real money against their carry
+     (taxes ~$15K/yr + insurance + staging) and the December dead zone the
+     offer date was scheduled to dodge. Take their machine as-is: same
+     escrow officer (Kelly Leonard, First American Orinda), same title
+     company, their exact HomeLight format ("DO NOT rename" — obeying their
+     own coversheet instruction signals we read everything).
+  4. **Short, named, scope-defined inspections.** Their second fear is the
+     open-ended fishing expedition + a $30K re-trade. We keep the
+     contingency (non-negotiable) but strip out the uncertainty: **10 days**
+     (not 14–17); **inspectors named in the offer with dates** (pre-booked
+     THIS week — Thanksgiving eats calendars; cancel if not selected);
+     stated scope: general / structural / roof / sewer camera. And the
+     honest line: *"Document review is complete; our inspections are
+     verification, not discovery."*
+  5. **Document-deliverables addendum — plain English, 3-day clock, nothing
+     new invented.** Title it exactly what it is: *"Seller to deliver within
+     3 days of acceptance — items already referenced in Seller's own
+     package:"* (a) final permit cards + approved plans for the 2026
+     permits, including RBC2602285 / DRX261138; (b) City case-closure or
+     compliance letter for enforcement case CE#2604338; (c) EBMUD sewer
+     lateral compliance certificate NUMBER (their signed PAA §1.B.2 already
+     requires it); (d) signed copy of the Additional Agent Disclosure;
+     (e) roof-warranty assignment to Buyer + Anlin transfer confirmation
+     (their own doc 33 instructs it) + signed Dynamic plumbing warranty.
+     No acronyms, no form numbers, every item traceable to their own
+     documents — it reads as organization, not suspicion.
+  6. **Complete, correct paperwork on day one.** RPA + addenda + agency
+     disclosures + proof of funds + lender letter, in their requested
+     HomeLight format, before the 11 AM cutoff. In a 5+ offer stack, the
+     complete correct on-time envelope is the one the listing agent can
+     champion without doing any work.
+- ~~**Preemptive (weekend option)**~~ **DEAD — no preemptive entertained
+  (11/21 PM).**
+- **If we lose:** the winner paid >$1.15M (or got the house at our number
+  with better terms — acceptable either way). December and the next listing
+  remain; gates and valuation method do not change.
+- **During contingency (the option we kept):** run §3–§6 in parallel;
+  material adverse findings >$15K beyond the priced stack → written
+  renegotiation or exit. Exit cost if the worst case confirms: inspection
+  spend (~$2–4K) + time. That asymmetry is why bidding near full value is
+  safe WITHOUT waiving anything.
 - **Concession menu (trade, don't give):** price ↔ permit/finals delivery +
   retro-permitting; price ↔ deck engineer + cure **(v4: now a conflict-resolution
   — Yan's rebuttal + buyer-engineer concurrence + finaled card, or cure/holdback
@@ -1016,7 +1243,7 @@ bound in writing; permit/finals in hand or priced; sqft measured or repriced.
 | 3. Structure | Engineer/geotech: no >$25–40K finding; v3 repair verified (footings physically present per Yan's spec; sistering/post as lettered; moisture source identified); structural permit + final card delivered or credited — **PARTIAL (11/19 PM2): stamped letters IN; GT's deck critique DOWNGRADED (pest opinion vs PE design); **v5: DMP CLEARS foundation + settlement + dry subfloor-in-rain, but adds FOUR engineer scopes — the framing mods it calls engineering-unverified, the bridge's WDO-damaged plywood (3rd source), the seismic retrofit bid (upgrades documented ABSENT), and the unguarded lower-deck structure question** — OUTSTANDING: buyer-engineer verification visit (deck conflict + footings + fungus/moisture + driveway ramp + framing mods), finaled card + plans; trigger fires only if OUR engineer sides with GT** |
 | 4. Roof | Class A documented; roof walked (flue-penetration detail, p_01 ponding, skylight curb); **v4: GT 10B/10D/10G leakage findings roofer-adjudicated + warranty delivered** — **OPEN (v6 PARTIAL: Class A cap sheet now documented in doc 30 spec letter — FHDS still blank + manufacturer unnamed; warranty delivered but issued to BENHAD PROPERTIES LLC — assignment demanded; leakage tail stands; 11/19 PM3: chimney thread retired)** |
 | 5. Sqft | 1,725 permit-proven/measured, OR price re-anchored to 1,585 — **FAILED AS PRESENTED: SFLS says 1,585** |
-| 6. Number | Final ≤ **$940K** target, ≤ **$950K** absolute, gates green |
+| 6. Number | **One-shot bid $1.12M Tue 11/24 (owner option $1.14M); absolute ceiling $1.15M** (11/21 PM auction revision §2); contingency-period verification must confirm value ≥ price or renegotiate/exit |
 
 **If all gates pass:** a turnkey 3.68 MCM at ~$550–600/sf on real paper, with
 the risk stack retired or priced — defensible against the Snake-street field.
